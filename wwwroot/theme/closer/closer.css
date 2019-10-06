@@ -525,3 +525,32 @@ span.glyphicon-shopping-cart:before {
   -o-transition: none !important;
   transition: none !important;
 }
+
+/* fixes to add definition in new javascript layout, and 'removed' name */
+
+#property-label  {
+	font-weight: bolder;
+	color: white;
+}
+
+#property-collection-organization {
+	font-weight:lighter;
+}
+
+#property-collection-organization img {
+	float:left;
+}
+
+#property-mode-of-data-collection {
+	font-weight:lighter;
+}
+
+#property-data-collection-date {
+	font-weight:lighter;
+}
+
+#property-name {
+	display:none;
+}
+
+
