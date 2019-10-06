@@ -1,3 +1,94 @@
+// Convert <section>s to tabs, if tabs do not already exist.
+function convertSectionsToTabs() {
+
+    // Do tabs already exist? If so, don't do this.
+    var existingTabs = jQuery(".item-content > ul[role='tablist']");
+    if (existingTabs === null) {
+        return;
+    }
+
+    // Get a list of sections.
+    var sectionList = jQuery(".item-content > section");
+    console.log(sectionList)
+    // Create the tab headers.
+    jQuery(".item-content").prepend("<ul id='tab-header-list' class='nav nav-tabs' role='tablist'></ul>");
+    var tabHeaderList = jQuery("#tab-header-list");
+    console.log(tabHeaderList)
+    tabHeaderList.after("<div class='tab-content' id='tab-content-div'></div>");
+    var tabContentDiv = $("#tab-content-div");
+	var dc = 0;
+    for (var sectionIdx = 0; sectionIdx < sectionList.length; sectionIdx++) {
+        var section = sectionList[sectionIdx];
+        section = $(section).detach();
+
+        var header = $(section).find("h3");
+        var headerText = header.text();
+        $(header).detach();
+
+        var sectionId = $(section).attr("id");
+
+
+        var classStr = "";
+        if (sectionIdx === 0) {
+            classStr = "active";
+        }
+
+        if (sectionId === undefined && dc === 0) {
+			dc = 1;
+			sectionId = "instruments-section"
+			headerText = "Instruments"
+		} else {
+			if (sectionId === undefined) {
+				dc = 2;
+			}
+			else {
+				if (sectionId == "extra-section") {
+					dc = 3;
+				}
+			}
+		}
+
+
+ 		if (dc === 0) 	{
+        	tabHeaderList.append("<li role='presentation' class='" +
+        	    classStr +
+        	    "'><a href='#" + sectionId +
+        	    "' aria-controls=" + sectionId +
+        	    " role='tab' data-toggle='tab'>" +
+        	    headerText +
+        	    "</a></li>");
+
+	        tabContentDiv.append("<div role='tabpanel' class='tab-pane " +
+	            classStr + "' id='" + sectionId + "'>" +
+	            "</div>");
+	        var panel = $("#" + sectionId);
+	        panel.append(section);
+		}
+		else {
+			if (dc === 1) {
+
+        		tabHeaderList.append("<li role='presentation' class='" +
+        		    classStr +
+        		    "'><a href='#" + sectionId +
+        		    "' aria-controls=" + sectionId +
+        		    " role='tab' data-toggle='tab'>" +
+        		    headerText +
+        		    "</a></li>");
+
+		        tabContentDiv.append("<div role='tabpanel' class='tab-pane " +
+		            classStr + "' id='" + sectionId + "'>" +
+		            "</div>");
+		        var panel = $("#" + sectionId);
+		        panel.append(section);
+			}
+			if (dc === 2) {
+		        panel.append(section);
+			}
+		}
+    }
+
+}
+
 $(document).ready(function() {
 
   if (window.location.pathname.length < 2) {
@@ -15,7 +106,7 @@ $(document).ready(function() {
 //
 //      $details_pane.after('<div role="tabpanel" class="tab-pane" id="pdf"><embed src="' + link + '" width="' + $pane_nav.width() +
 //        '" height="700" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html"></div>');
-//      }
+//    }
 //  }
 
   $('[data-toggle="popover"]').popover({
@@ -72,7 +163,7 @@ $(document).ready(function() {
       },
 	  {
 	    "identifier": "uk.whads:1503038e-c369-4912-a198-85e504c332e7",
-	    "label": "Wirral Child Health and Development Study",
+	    "label": "aWirral Child Health and Development Study",
 	    "checked": true
       }
     ];
@@ -248,6 +339,7 @@ $(document).ready(function() {
     var index = lifestages.findIndex(function(x) {
       return x.identifier == identifier
     });
+
     if ($(this).is(":checked")) {
       lifestages[index].checked = true;
     } else {
@@ -278,4 +370,9 @@ $(document).ready(function() {
     jQuery('#main-content').css('border-top', '5px solid #666').css('margin-top', -15);
     jQuery('button[title="Harmonized Variables"],button[title="Studies"]').remove();
   }
+
+  convertSectionsToTabs();
+
+
+
 });
