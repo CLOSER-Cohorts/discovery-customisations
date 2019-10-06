@@ -1,2 +1,2 @@
 # discovery-css
-CSS etc for Discovery
+CSS, cSHTML, and JSON files for local customisation of the site
