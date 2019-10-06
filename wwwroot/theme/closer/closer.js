@@ -216,7 +216,7 @@ $(document).ready(function() {
       var checked_studies = studies.filter(function(x) {
         return x.checked
       });
-      if (checked_studies.length == 0 || checked_studies.length == 8) {
+      if (checked_studies.length == 0 || checked_studies.length == 9) {
         $('#study-count').text('All');
       } else {
         $('#study-count').text(checked_studies.length);
