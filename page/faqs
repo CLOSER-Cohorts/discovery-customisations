@@ -20,7 +20,7 @@
 
 <h5>Which studies are included in CLOSER Discovery?</h5>
 
-The eight studies included in CLOSER Discovery are listed below. Not all of the information you need may be included in Discovery yet, as our metadata enhancement team are progressing through the legacy information. For an up-to-date list of what data collection instruments from each study are currently covered by CLOSER Discovery, please visit our <a href="https://wiki.ucl.ac.uk/display/CLOS/Instruments" target="_blank" rel="noopener noreferrer"> Content pages</a> on the CLOSER Technical Wiki. </p>
+The nine studies included in CLOSER Discovery are listed below. Not all of the information you need may be included in Discovery yet, as our metadata enhancement team are progressing through the legacy information. For an up-to-date list of what data collection instruments from each study are currently covered by CLOSER Discovery, please visit our <a href="https://wiki.ucl.ac.uk/display/CLOS/Instruments" target="_blank" rel="noopener noreferrer"> Content pages</a> on the CLOSER Technical Wiki. </p>
 <ul>
  	<li><a href="https://www.closer.ac.uk/study/hertfordshire-cohort-study/" target="_blank" rel="noopener noreferrer">Hertfordshire Cohort Study</a></li>
  	<li><a href="https://www.closer.ac.uk/study/mrc-national-survey-health-development/" target="_blank" rel="noopener noreferrer">MRC National Survey of Health and Development</a> (1946 British birth cohort)</li>
@@ -30,7 +30,8 @@ The eight studies included in CLOSER Discovery are listed below. Not all of the 
  	<li><a href="https://www.closer.ac.uk/study/southampton-womens-survey/" target="_blank" rel="noopener noreferrer">Southampton Women's Survey</a></li>
  	<li><a href="https://www.closer.ac.uk/study/millennium-cohort-study/" target="_blank" rel="noopener noreferrer">Millennium Cohort Study</a></li>
  	<li><a href="https://www.closer.ac.uk/study/understanding-society/" target="_blank" rel="noopener noreferrer">Understanding Society: The UK Household Longitudinal Study</a></li>
- 	<li>Wirral Child Health and Development Study</a></li>	
+	<li><a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" rel="noopener noreferrer">Wirral Child Health and Development Study</a></li>
+ 	
 </ul>
 <h5>Why doesn't CLOSER Discovery hold study data?</h5>
 
@@ -56,7 +57,7 @@ The eight studies included in CLOSER Discovery are listed below. Not all of the 
 <h5>How many topics are linked to each question/variable?</h5>
 <p>Each question/variable has only one topic assigned to it. The topics are also grouped, so each question/variable has the topic grouping applied. </p>
 <h5>Why can't I find the topic I'm looking for?</h5>
-<p>The controlled vocabulary for topics is designed to provide a topic for every question and variable in the eight studies included. It is therefore a work in progress as long as content is being generated. Additionally, the topics will only appear if there is metadata currently linked to them. Beyond this, it may be that there is no content suitable for the topic you are looking for. In terms of browsing by topic, it is better to be inclusive rather than exclusive in the first instance. You can always refine your search as you go.</p>
+<p>The controlled vocabulary for topics is designed to provide a topic for every question and variable in the nine studies included. It is therefore a work in progress as long as content is being generated. Additionally, the topics will only appear if there is metadata currently linked to them. Beyond this, it may be that there is no content suitable for the topic you are looking for. In terms of browsing by topic, it is better to be inclusive rather than exclusive in the first instance. You can always refine your search as you go.</p>
 <h5>Why is an item tagged with one topic and not another?</h5>
 <p>Tagging historical metadata is an extremely challenging process. Almost every question and variable has had to be tagged manually. </p>
 <p>We also had to ensure that there were no conflicts between the topics applied to linked variables and questions. This is being achieved at scale by applying a single topic to each item only. To do this, a bespoke piece of software has been built from the ground up. </p>
