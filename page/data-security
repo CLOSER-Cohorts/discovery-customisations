@@ -6,7 +6,7 @@
 
 <div class="row">
   <div class="col-sm-8">
-<p>CLOSER Discovery allows an unprecedented level of access to information about the data in the eight longitudinal studies involved in CLOSER. A key part of this was to ensure data security and intellectual property requirements were respected.</p>
+<p>CLOSER Discovery allows an unprecedented level of access to information about the data in the nine longitudinal studies. A key part of this was to ensure data security and intellectual property requirements were respected.</p>
 
 <h4>Data security</h4>
 <p>CLOSER Discovery hosts metadata. This is, simply put, data about data. It does not host the data itself. Variables are all listed by name, linked to their data set and their source data collection instrument. There are also summary statistics for each variable, such as valid and invalid, minimum and maximum, frequency, etc. However, these are stored only as the final values. The data behind them is not included within CLOSER Discovery.</p>
