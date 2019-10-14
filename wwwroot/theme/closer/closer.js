@@ -163,7 +163,7 @@ $(document).ready(function() {
       },
 	  {
 	    "identifier": "uk.whads:1503038e-c369-4912-a198-85e504c332e7",
-	    "label": "aWirral Child Health and Development Study",
+	    "label": "Wirral Child Health and Development Study",
 	    "checked": true
       }
     ];
