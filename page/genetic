@@ -1,0 +1,371 @@
+<div class="row page-title">
+  <div class="meta pull-left">
+    <h1> Overview of genetic array data available </h1>
+  </div>
+</div>
+
+
+<p>Our studies also collect genetic data, which isn&#8217;t listed within CLOSER Discovery yet. A summary of genetic data in CLOSER studies, with links to accessing this data can be seen below</a>.</p>
+<p>Researchers wishing to access genetics data from ESRC-funded studies will need to apply to <a href="https://www.metadac.ac.uk/"target="_blank">METADAC</a>.</p>
+
+
+<table class="wrapped relative-table" style="width: 90.1156%;" border="1px" cellpadding="10px" 
+table-layout="fixed">
+  
+  <tbody>
+  
+    <tr>
+      <th bgcolor="lightgrey">Study name</th>
+      <th bgcolor="lightgrey">Respondent</th>
+      <th bgcolor="lightgrey" >Number of respondents genotyped</th>
+      
+      <th bgcolor="lightgrey">Array used</th>
+      <th bgcolor="lightgrey">Data availability</th>
+      <th bgcolor="lightgrey">Sample used for DNA extraction</th>
+      <th bgcolor="lightgrey">Link to data access information</th>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Hertfordshire Cohort Study</td>
+      <td >Study member</td>
+      <td>1000</td>
+      <td>Illumina Global Screening Array-24</td>
+      <td>Coming Q1 2019</td>
+      <td>Blood</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td rowspan="3" style="vertical-align:top" >MRC National Survey of Health and Development<br/>
+        <br/>
+      </td>
+      <td style="height: 35pt" >Study member</td>
+      <td >2464</td>
+      <td  >Illumina Metabochip</td>
+      <td >Available</td>
+      <td >Blood</td>
+      <td >
+        <a href="https://skylark.ucl.ac.uk/NSHD/doku.php?id=mrepo:topics:biologicalsamplesanddna"target="_blank">https://skylark.ucl.ac.uk/NSHD/doku.php?id=mrepo:topics:biologicalsamplesanddna</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Study member</td>
+      <td>2870</td>
+      <td>Illumina DrugDev Custom chip</td>
+      <td>Available</td>
+      <td>Blood</td>
+      <td>
+          <a href="https://skylark.ucl.ac.uk/NSHD/doku.php?id=mrepo:topics:biologicalsamplesanddna"target="_blank">https://skylark.ucl.ac.uk/NSHD/doku.php?id=mrepo:topics:biologicalsamplesanddna</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Study member</td>
+      <td style="height: 35pt">2793</td>
+      <td style="height: 35pt">Illumina NeuroX2 chip</td>
+      <td style="height: 35pt">Available</td>
+      <td style="height: 35pt">Blood</td>
+      <td style="height: 35pt">
+          <a href="https://skylark.ucl.ac.uk/NSHD/doku.php?id=mrepo:topics:biologicalsamplesanddna"target="_blank">https://skylark.ucl.ac.uk/NSHD/doku.php?id=mrepo:topics:biologicalsamplesanddna</a>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="13" style="height: 35pt; vertical-align:top" >1958 National Child Development Study<br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+      </td>
+      <td style="height: 35pt">Study member</td>
+      <td>1,504</td>
+      <td>Affymetrix 500K</td>
+      <td>Available</td>
+      <td>Immortalised LCL</td>
+      <td><a href="https://ega-archive.org/datasets" target="_blank" >https://ega-archive.org/datasets</a> *
+        <br/> <a href="https://www.metadac.ac.uk/1958bc" target="_blank" >https://www.metadac.ac.uk/1958bc</a> **
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Study member</td>
+      <td>2,992</td>
+      <td>Affymetrix v6</td>
+      <td>Available</td>
+      <td>Immortalised LCL</td>
+      <td><a href="https://ega-archive.org/datasets" target="_blank" >https://ega-archive.org/datasets</a> *
+        <br/><a href="https://www.metadac.ac.uk/1958bc" target="_blank" >https://www.metadac.ac.uk/1958bc</a> **
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Study member</td>
+      <td>6,662</td>
+      <td>Dynal RELI SSO assay</td>
+      <td>Available</td>
+      <td>Immortalised LCL</td>
+      <td><a href="https://ega-archive.org/datasets" target="_blank" >https://ega-archive.org/datasets</a> *
+        <br/><a href="https://www.metadac.ac.uk/1958bc" target="_blank" >https://www.metadac.ac.uk/1958bc</a> **
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Study member</td>
+      <td>2,922</td>
+      <td>Illumina 1.2M</td>
+      <td>Available</td>
+      <td>Immortalised LCL</td>
+      <td><a href="https://ega-archive.org/datasets" target="_blank" >https://ega-archive.org/datasets</a> *
+        <br/><a href="https://www.metadac.ac.uk/1958bc" target="_blank" >https://www.metadac.ac.uk/1958bc</a> **
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Study member</td>
+      <td>1,504</td>
+      <td>Illumina 15K Custom chip</td>
+      <td>Available</td>
+      <td>Immortalised LCL</td>
+      <td><a href="https://ega-archive.org/datasets" target="_blank" >https://ega-archive.org/datasets</a> *
+        <br/><a href="https://www.metadac.ac.uk/1958bc" target="_blank" >https://www.metadac.ac.uk/1958bc</a> **
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Study member</td>
+      <td >1,000</td>
+      <td>Illumina HiSeq 2500</td>
+      <td>Available</td>
+      <td>Immortalised LCL</td>
+      <td><a href="https://www.metadac.ac.uk/1958bc" target="_blank" >https://www.metadac.ac.uk/1958bc</a> **
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Study member</td>
+      <td>872</td>
+      <td>Illumina Human 610-Quad</td>
+      <td>Available</td>
+      <td>Immortalised LCL</td>
+      <td><a href="https://ega-archive.org/datasets" target="_blank" >https://ega-archive.org/datasets</a> *
+        <br/><a href="https://www.metadac.ac.uk/1958bc" target="_blank" >https://www.metadac.ac.uk/1958bc</a> **
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Study member</td>
+      <td>6,812</td>
+      <td>Illumina ImmunoBeadShip – Illuminus, GenoSNP</td>
+      <td>Available</td>
+      <td>Immortalised LCL</td>
+      <td><a href="https://ega-archive.org/datasets" target="_blank" >https://ega-archive.org/datasets</a> *
+        <br/><a href="https://www.metadac.ac.uk/1958bc" target="_blank" >https://www.metadac.ac.uk/1958bc</a> **
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Study member</td>
+      <td>5,841</td>
+      <td>Illumina Metabochip</td>
+      <td>Available</td>
+      <td>Immortalised LCL</td>
+      <td><a href="https://ega-archive.org/datasets" target="_blank" >https://ega-archive.org/datasets</a> *
+        <br/><a href="https://www.metadac.ac.uk/1958bc" target="_blank" >https://www.metadac.ac.uk/1958bc</a> **
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Study member</td>
+      <td>1,436</td>
+      <td>Infinium 550K v1.1</td>
+      <td>Available</td>
+      <td>Immortalised LCL</td>
+      <td><a href="https://ega-archive.org/datasets" target="_blank" >https://ega-archive.org/datasets</a> *
+        <br/> <a href="https://www.metadac.ac.uk/1958bc" target="_blank" >https://www.metadac.ac.uk/1958bc</a> **
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Study member</td>
+      <td>2,604</td>
+      <td>Infinium HumanHap 550K v3</td>
+      <td>Available</td>
+      <td>Blood or Immortalised LCL</td>
+      <td><a href="https://ega-archive.org/datasets" target="_blank" >https://ega-archive.org/datasets</a> *
+        <br/> <a href="https://www.metadac.ac.uk/1958bc" target="_blank" >https://www.metadac.ac.uk/1958bc</a> **
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Study member</td>
+      <td>542</td>
+      <td>MethylationEPIC BeadChip</td>
+      <td>Available</td>
+      <td>Immortalised LCL</td>
+      <td><a href="https://research.ncl.ac.uk/d2k/ourresearch/58forwards/methylation/" target="_blank">https://research.ncl.ac.uk/d2k/ourresearch/58forwards/methylation/</a> **
+        <br/><a href="https://www.metadac.ac.uk/1958bc" target="_blank" >https://www.metadac.ac.uk/1958bc</a> **
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Study member</td>
+      <td style="height: 35pt">1,000</td>
+      <td style="height: 35pt">Imputed data</td>
+      <td style="height: 35pt">Available</td>
+      <td style="height: 35pt">Immortalised LCL</td>
+      <td style="height: 35pt"><a href="https://research.ncl.ac.uk/d2k/ourresearch/58forwards/imputeddata/" target="_blank">https://research.ncl.ac.uk/d2k/ourresearch/58forwards/imputeddata/</a> **
+        <br/><a href="https://www.metadac.ac.uk/1958bc" target="_blank" >https://www.metadac.ac.uk/1958bc</a> **
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">1970 British Cohort Study</td>
+      <td style="height: 35pt">Study member</td>
+      <td style="height: 35pt">In field</td>
+      <td style="height: 35pt">To be determined</td>
+      <td style="height: 35pt">Coming when funding available</td>
+      <td style="height: 35pt">Blood</td>
+      <td style="height: 35pt">N/A</td>
+    </tr>
+    <tr>
+      <td rowspan="10" style="height: 35pt;vertical-align:top">Avon Longitudinal Study of Parents and Children</td>
+      <td style="height: 35pt">Study member</td>
+      <td>1,518</td>
+      <td>Illumina 317</td>
+      <td>Available</td>
+      <td>Blood or Immortalised LCL</td>
+      <td>
+        <a href="http://www.bristol.ac.uk/alspac/researchers/access/" target="_blank">http://www.bristol.ac.uk/alspac/researchers/access/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Study member</td>
+      <td >3,233</td>
+      <td>Illumina 610</td>
+      <td>Available</td>
+      <td>Blood or Immortalised LCL</td>
+      <td>
+        <a href="http://www.bristol.ac.uk/alspac/researchers/access/" target="_blank">http://www.bristol.ac.uk/alspac/researchers/access/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Study member</td>
+      <td>1,867</td>
+      <td >NGS (HiSeq ~6.5x)</td>
+      <td>Available</td>
+      <td>Blood or Immortalised LCL</td>
+      <td>
+        <a href="http://www.bristol.ac.uk/alspac/researchers/access/" target="_blank">http://www.bristol.ac.uk/alspac/researchers/access/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Study member</td>
+      <td >8,365</td>
+      <td >Illumina 550 (custom)</td>
+      <td >Available</td>
+      <td>Blood or Immortalised LCL</td>
+      <td>
+        <a href="http://www.bristol.ac.uk/alspac/researchers/access/" target="_blank">http://www.bristol.ac.uk/alspac/researchers/access/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Mother</td>
+      <td >8,340</td>
+      <td >Illumina 660</td>
+      <td >Available</td>
+      <td >Blood or Immortalised LCL</td>
+      <td >
+        <a href="http://www.bristol.ac.uk/alspac/researchers/access/" target="_blank">http://www.bristol.ac.uk/alspac/researchers/access/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Mother and study member pairs</td>
+      <td>18,000</td>
+      <td >Illumina 660 + Illumina 550 (custom)</td>
+      <td >Available</td>
+      <td >Blood or Immortalised LCL</td>
+      <td >
+        <a href="http://www.bristol.ac.uk/alspac/researchers/access/" target="_blank">http://www.bristol.ac.uk/alspac/researchers/access/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Mother and father pairs</td>
+      <td >3,000</td>
+      <td >Illumina Core Exome</td>
+      <td >Available</td>
+      <td >Blood or Immortalised LCL</td>
+      <td >
+        <a href="http://www.bristol.ac.uk/alspac/researchers/access/" target="_blank">http://www.bristol.ac.uk/alspac/researchers/access/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Mother, father and study member triad</td>
+      <td>20,000</td>
+      <td>CNV data</td>
+      <td>Available</td>
+      <td>Blood or Immortalised LCL</td>
+      <td>
+        <a href="http://www.bristol.ac.uk/alspac/researchers/access/" target="_blank">http://www.bristol.ac.uk/alspac/researchers/access/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Study member</td>
+      <td>869</td>
+      <td>Illumina Human HT-12 V3 BeadChips (Expression data)</td>
+      <td>Available</td>
+      <td>Immortalised LCL</td>
+      <td>
+        <a href="http://www.bristol.ac.uk/alspac/researchers/access/" target="_blank">http://www.bristol.ac.uk/alspac/researchers/access/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Mother and study member pairs</td>
+      <td style="height: 35pt">1,000</td>
+      <td style="height: 35pt">Illumina Infinium 450k methylation array</td>
+      <td style="height: 35pt">Available</td>
+      <td style="height: 35pt">Blood</td>
+      <td style="height: 35pt">
+        <a href="http://www.bristol.ac.uk/alspac/researchers/access/" target="_blank">http://www.bristol.ac.uk/alspac/researchers/access/</a>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="height: 35pt; vertical-align:top">Southampton Women's Survey</td>
+      <td style="height: 35pt">Study member</td>
+      <td>1940</td>
+      <td>Illumina HumanOmniExpress-24</td>
+      <td>Coming Q1 2020</td>
+      <td>Cord blood</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Mother</td>
+      <td style="height: 35pt">1000</td>
+      <td style="height: 35pt">Illumina Global Screening Array-24</td>
+      <td style="height: 35pt">Coming Q1 2020</td>
+      <td style="height: 35pt">Blood</td>
+      <td style="height: 35pt">N/A</td>
+    </tr>
+    <tr>
+      <td style="height: 35pt;vertical-align:top">Millennium Cohort Study</td>
+      <td style="height: 35pt">Mother, father and cohort member triad</td>
+      <td style="height: 35pt">TBD</td>
+      <td style="height: 35pt">TBD</td>
+      <td style="height: 35pt">Coming Q4 2019</td>
+      <td style="height: 35pt">Saliva</td>
+      <td style="height: 35pt">N/A</td>
+    </tr>
+    <tr>
+      <td style="height: 35pt">Understanding Society</td>
+      <td>Study member</td>
+      <td>10,000</td>
+      <td>Illumina human core exome array</td>
+      <td>Available</td>
+      <td>Blood</td>
+      <td><a href="https://ega-archive.org/datasets" target="_blank" >https://ega-archive.org/datasets</a> *
+        <br/> <a href="https://www.metadac.ac.uk/ukhls/" target="_blank">https://www.metadac.ac.uk/ukhls/</a> **
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p>* when genetic data only is requested</p>
+<p>** when genetic data is to be linked with other (non-genetic) phenotype/survey data from the study</p>
+<p>
+  <br/>
+</p>
+
+
+
+<style>
+.widget {
+    margin-top: 20px;
+}
+</style>
