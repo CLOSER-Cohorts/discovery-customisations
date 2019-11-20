@@ -1,33 +1,33 @@
-﻿
+
 function showHomeTour() {
     var tour = new Shepherd.Tour({
         defaults: {
             classes: 'shepherd-element shepherd-open shepherd-theme-arrows',
             scrollTo: true,
             showCancelLink: true
-        }
-    });
+    }});
 
     tour.addStep('home1', {
-        title: "Welcome",
-        text: "Welcome to CLOSER Discovery. Use this portal to find information about variables, questions, and other metadata.",
+        title: "Discover the content of our studies. ",
+        text: "<ul><li>Identify the specific questions and variables you may be interested in;</li><li>How the the questions which were asked relate to the variables;</li><li>Drill down using > 100 topics.</li></ul>",
+
     });
 
     tour.addStep('home2', {
         title: "Search",
-        text: "Search for information by text, topic, and other facets.",
+        text: "<ul><li>Our Search allows you to discover using free text across the whole site;</li><li>Refine your search using facets;</li><li>Item Type (Variables, Questions), Topics and LifeStage are all available</li></ul>",
         attachTo: '#nav-link-search bottom',
     });
 
     tour.addStep('home3', {
         title: "Explore",
-        text: "Use Explore to point and click through topics to find information.",
+        text: "<ul><li>Explore is a browsable way of discovering content;</li><li>It is organised by > 100 topics;</li><li>You can confine your selection, to variables OR questions;</li><li>Further Refine using LifeStage or Study</li></ul>",
         attachTo: '#nav-link-explore bottom',
     });
 
     tour.addStep('home4', {
-        title: "Basket",
-        text: "Save interesting things for later in your basket.",
+        title: "List",
+        text: "<ul><li>Lists, are where you can save the metadata about variables or questions;</li><li>You can save this list as a PDF;</li><li>For yourself or share them with your collaborators</li></ul>",
         attachTo: '#nav-link-basket bottom',
         buttons: {
             text: "Finish",
@@ -51,7 +51,7 @@ function showSearchTour() {
     // Text box
     tour.addStep('search1', {
         title: "Query",
-        text: "Enter the text you want to find.",
+        text: "<p>By default, this will find everything matching your term.</p><p>The results will return which items were searched</p><ul><li><b>Item Types</b>: Variables, Questions</li><li><b>Query</b>: medications</li><li><b>Results</b>: 1 to 20 of 26 (0.36 seconds)</li></ul>",
         attachTo: "#search-group bottom",
     });
 
@@ -59,14 +59,14 @@ function showSearchTour() {
     if ($("#item-type-panel").length) {
         tour.addStep('search2', {
             title: "Item Types",
-            text: "Choose which types of items you would like to find.",
+            text: "<p>Choose which types of items you would like to find. Checking a box will refine your search</p><ul><li>Variables</li><li>Questions</li><li>Datasets</li></ul>",
             attachTo: "#item-type-panel right",
         });
     }
 
     // Life stage
     if ($("#life-stage-panel").length) {
-        tour.addStep('search2', {
+        tour.addStep('search4', {
             title: "Life Stage",
             text: "Choose the life stages you would like to search within.",
             attachTo: "#life-stage-panel right",
@@ -75,10 +75,10 @@ function showSearchTour() {
 
     // Topic facet
     if ($("#topic-panel").length) {
-        tour.addStep('search2', {
+        tour.addStep('search5', {
             title: "Topic",
-            text: "Choose the topics you would like to search within.",
-            attachTo: "#topic-panel right",
+            text: "Choose one (or more) of the 15 top level topics you would like to search within.",
+            attachTo: "#topic-panel top",
         });
     }
 
@@ -136,7 +136,7 @@ function showExploreTour() {
         text: "The right side shows details about the selected item, including any descriptive statistics in the metadata.",
         attachTo: "#concordance-details left"
     });
-    
+
     tour.addStep("left-pane-buttons", {
         title: "Views",
         text: "Use these buttons to switch between the concordance views or lists of variables, questions, and other item types.",
@@ -146,7 +146,7 @@ function showExploreTour() {
             action: tour.next
         }
     });
-    
+
 
     tour.start()
 };
