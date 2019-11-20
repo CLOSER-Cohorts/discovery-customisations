@@ -23,9 +23,50 @@ function convertSectionsToTabs() {
 
         var header = $(section).find("h3");
         var headerText = header.text();
+
         $(header).detach();
 
         var sectionId = $(section).attr("id");
+        if (sectionId === "study-unit-section")
+        {
+          headerText = "Sweep Description"
+	    }
+
+        if (sectionId === "studies-section")
+        {
+          headerText = "Sweeps / Waves"
+	    }
+
+        if (sectionId === "source-questions-section")
+        {
+          headerText = "Source Questions"
+	    }
+
+        if (sectionId === "data-section")
+        {
+          headerText = "Datasets"
+	    }
+
+        if (sectionId === "usage-section")
+        {
+          headerText = "Appears in Questionnaire"
+	    }
+
+	    if (sectionId === "organization-scheme-section")
+		        {
+		          headerText = "Organisations"
+	    }
+
+        if (sectionId === "external-aids-section")
+        {
+          headerText = "Related Image"
+	    }
+
+        if (sectionId === "ddi-instance-section")
+        {
+          headerText = "Studies"
+	    }
+
 
 
         var classStr = "";
@@ -36,17 +77,24 @@ function convertSectionsToTabs() {
         if (sectionId === undefined && dc === 0) {
 			dc = 1;
 			sectionId = "instruments-section"
-			headerText = "Instruments"
-		} else {
-			if (sectionId === undefined) {
-				dc = 2;
-			}
-			else {
-				if (sectionId == "extra-section") {
-					dc = 3;
-				}
-			}
+			headerText = "Questionnaires"
 		}
+		if (sectionId === undefined) {
+			dc = 2;
+		}
+
+// hide these from view - for the moment at least
+
+		if (sectionId == "extra-section") {
+			dc = 3;
+		}
+		if (sectionId == "dataset-coverage-section") {
+			dc = 3;
+		}
+
+        if (sectionId === "concordance-section") {
+			dc = 3;
+	    }
 
 
  		if (dc === 0) 	{
@@ -64,28 +112,26 @@ function convertSectionsToTabs() {
 	        var panel = $("#" + sectionId);
 	        panel.append(section);
 		}
-		else {
-			if (dc === 1) {
+		if (dc === 1) {
 
-        		tabHeaderList.append("<li role='presentation' class='" +
-        		    classStr +
-        		    "'><a href='#" + sectionId +
-        		    "' aria-controls=" + sectionId +
-        		    " role='tab' data-toggle='tab'>" +
-        		    headerText +
-        		    "</a></li>");
+       		tabHeaderList.append("<li role='presentation' class='" +
+       		    classStr +
+       		    "'><a href='#" + sectionId +
+       		    "' aria-controls=" + sectionId +
+       		    " role='tab' data-toggle='tab'>" +
+       		    headerText +
+       		    "</a></li>");
 
-		        tabContentDiv.append("<div role='tabpanel' class='tab-pane " +
-		            classStr + "' id='" + sectionId + "'>" +
-		            "</div>");
-		        var panel = $("#" + sectionId);
-		        panel.append(section);
-			}
-			if (dc === 2) {
-		        panel.append(section);
-			}
+	        tabContentDiv.append("<div role='tabpanel' class='tab-pane " +
+	            classStr + "' id='" + sectionId + "'>" +
+	            "</div>");
+	        var panel = $("#" + sectionId);
+	        panel.append(section);
 		}
-    }
+		if (dc === 2) {
+	        panel.append(section);
+		}
+   }
 
 }
 
@@ -97,17 +143,18 @@ $(document).ready(function() {
 
   $('h4#search-help-label').text('Advanced Searches');
 
-//  if ($('#property-external-instrument-location').length) {
-//    var link = $('#property-external-instrument-location').find('a').eq(0).prop('href');
+//  if ($('#property-external-questionnaire-location').length) {
+//    var link = $('#property-external-questionnaire-location').find('a').eq(0).prop('href');
 //    if (link != undefined && link.toLowerCase().substr(link.length - 4) == '.pdf') {
-//      $details_pane = $('#details');
+//      $details_pane = $('#PDF');
 //      $pane_nav = $details_pane.parent().prev();
-//      $pane_nav.append('<li role="presentation"><a href="#pdf" aria-controls="pdf" role="tab" data-toggle="tab" aria-expanded="false">PDF</a></li>');
+//      $pane_nav.append('<li role="presentation"><a href="#pdf" aria-controls="pdf" role="tab" data-toggle="tab" aria-expanded="true">PDF-xxx</a></li>');
 //
 //      $details_pane.after('<div role="tabpanel" class="tab-pane" id="pdf"><embed src="' + link + '" width="' + $pane_nav.width() +
 //        '" height="700" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html"></div>');
 //    }
 //  }
+
 
   $('[data-toggle="popover"]').popover({
     html: true,
@@ -174,37 +221,37 @@ $(document).ready(function() {
     var lifestages = [{
         "identifier": "Pregnancy, birth and infancy",
         "label": "Pregnancy, birth and infancy",
-        "checked": true
+        "checked": false
       },
       {
         "identifier": "Early years",
         "label": "Early years",
-        "checked": true
+        "checked": false
       },
       {
         "identifier": "Childhood",
         "label": "Childhood",
-        "checked": true
+        "checked": false
       },
       {
         "identifier": "Adolescence",
         "label": "Adolescence",
-        "checked": true
+        "checked": false
       },
       {
         "identifier": "Mid-adulthood",
         "label": "Mid-adulthood",
-        "checked": true
+        "checked": false
       },
       {
         "identifier": "Third age",
         "label": "Third age",
-        "checked": true
+        "checked": false
       },
       {
         "identifier": "Other",
         "label": "Other",
-        "checked": true
+        "checked": false
       }
     ];
     sessionStorage.setItem('home_ls_filter', JSON.stringify(lifestages));
@@ -368,7 +415,9 @@ $(document).ready(function() {
     $sidebar.removeClass('notransition');
     $explorer.addClass('col-sm-9 row');
     jQuery('#main-content').css('border-top', '5px solid #666').css('margin-top', -15);
+//    jQuery('button[title="Variables"],button[title="Studies"]').trigger('click');
     jQuery('button[title="Harmonized Variables"],button[title="Studies"]').remove();
+    jQuery('button[title="Variables"]').trigger('click');
   }
 
   convertSectionsToTabs();
