@@ -9,25 +9,25 @@ function showHomeTour() {
 
     tour.addStep('home1', {
         title: "Discover the content of our studies. ",
-        text: "<ul><li>Identify the specific questions and variables you may be interested in;</li><li>How the the questions which were asked relate to the variables;</li><li>Drill down using > 100 topics.</li></ul>",
+        text: "<ul><li>Identify the specific questions and variables you may be interested in;</li><li>Find out how the questions asked relate to the variables</li><li>Refine your search using 100+ topics</li></ul>",
 
     });
 
     tour.addStep('home2', {
         title: "Search",
-        text: "<ul><li>Our Search allows you to discover using free text across the whole site;</li><li>Refine your search using facets;</li><li>Item Type (Variables, Questions), Topics and LifeStage are all available</li></ul>",
+        text: "<ul><li>Search using free text across the whole site</li><li>Refine your search using filters: <i>Item Type</i> (variables, questions), <i>Topics</i> and <i>Lifestage</i></li><li> e.g. If you are interested in variables related to obesity then search: <i>weight or height or bmi</i> and filter by item type <i>Variables</i> and topic <i>Anthropometry</i>/li>li>use fuzzy search e.g. ~hose will include house and huse in the search</li><li><b>Don’t forget to</b> Reset your filters before you start a new search</li></ul>",
         attachTo: '#nav-link-search bottom',
     });
 
     tour.addStep('home3', {
         title: "Explore",
-        text: "<ul><li>Explore is a browsable way of discovering content;</li><li>It is organised by > 100 topics;</li><li>You can confine your selection, to variables OR questions;</li><li>Further Refine using LifeStage or Study</li></ul>",
+        text: "<ul><li>Explore allows you to browse variables OR questions by topic</li><li>You can Filter using LifeStage or Study</li></ul>",
         attachTo: '#nav-link-explore bottom',
     });
 
     tour.addStep('home4', {
         title: "List",
-        text: "<ul><li>Lists, are where you can save the metadata about variables or questions;</li><li>You can save this list as a PDF;</li><li>For yourself or share them with your collaborators</li></ul>",
+        text: "<ul><li>You can add variables and questions to a list using the <b>+</b></li><li>Download your lists as PDFs for yourself or to share them with your collaborators</li></ul>",
         attachTo: '#nav-link-basket bottom',
         buttons: {
             text: "Finish",
