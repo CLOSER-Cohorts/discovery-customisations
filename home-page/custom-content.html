@@ -1,0 +1,232 @@
+<script>
+var cleanAllItemSearch = function() {
+  if($('#item-type-to-search').val() == "all")
+  {
+    $('#item-type-to-search').attr("disabled", "disabled");
+  }
+};
+var resetSearchWidget = function() {
+  $('#item-type-to-search').removeAttr("disabled");
+};
+</script>
+<div class="col-md-6">
+
+<!-- Advanced Search Box -->
+  <div class="widget">
+    <div class="widget-header" style="line-height:80%">Advanced <a href="/search">search</a></div>
+      <div class="widget-body"  style="padding: 15px 20px 0px 0px">
+        <form method="get" action="/search"  class="form-horizontal" id="home-search-form" onSubmit="cleanAllItemSearch()" onLoad="resetSearchWidget()">
+          <div class="form-group">
+            <label for="item-type-to-search" class="col-sm-3 control-label" style="padding-top: 6px">Item type</label>
+            <div class="col-sm-9">
+              <select id="item-type-to-search" name="ItemTypes[]" class="form-control">
+                <option value="all">All</option>
+                <option value="4bd6eef6-99df-40e6-9b11-5b8f64e5cb23">Studies</option>
+    	        <option value="30ea0200-7121-4f01-8d21-a931a182b86d">Sweeps</option>
+    	        <option value="683889c6-f74b-4d5e-92ed-908c0a42bb2d">Variables</option>
+    	        <option value="f196cc07-9c99-4725-ad55-5b34f479cf7d">Questionnaires</option>
+    	        <option value="a51e85bb-6259-4488-8df2-f08cb43485f8">Data Files</option>
+    	        <option value="a1bb19bd-a24a-4443-8728-a6ad80eb42b8">Questions</option>
+       	      </select>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-3 control-label" style="padding-top: 6px">Studies</label>
+            <div class="col-sm-9">
+              <p class="form-control-static"><a id="study-count" href="#" data-toggle="modal" data-target="#studyselector"></a></p>
+            </div>
+          </div>
+          <div class="modal fade" id="studyselector" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                  <h5 class="modal-title">CLOSER Studies</h5>
+                </div>
+              <div class="modal-body">
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+          <!-- /.modal-content -->
+        </div>
+      <!-- /.modal-dialog -->
+    </div>
+    <!-- /.modal -->
+    <div class="form-group">
+      <label class="col-sm-3 control-label" style="padding-top: 6px">Life Stages</label>
+      <div class="col-sm-9">
+        <p class="form-control-static"><a id="ls-count" href="#" data-toggle="modal" data-target="#lsselector"></a></p>
+      </div>
+      </div>
+      <div class="modal fade" id="lsselector" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h5 class="modal-title">Life Stages</h5>
+            </div>
+            <div class="modal-body">
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="Query" class="col-sm-3 control-label" style="padding-top: 6px">Search query</label>
+        <div class="col-sm-9" style="padding-bottom:5px">
+          <input type="text" id="Query" name="Query" class="form-control" placeholder="Search" />
+        </div>
+      </div>
+      <div class="row">
+          <button class="btn btn-primary" style="width: 74%; float:right" type="submit">
+            <span class="glyphicon glyphicon-search"></span> Search</button>
+      </div>
+    </form>
+    </div>
+  </div>
+
+  <!-- Explore by Topic -->
+
+  <div class="widget">
+    <div class="widget-header" style="line-height:80%">Explore by <a href="/explore/variables/uk.closer/4caa51db-56a9-4b48-b4ef-00347fe130e7/">topic</a></div>
+
+    <div class="widget-body"  style="padding: 10px 10px 5px 20px">    
+      <p>Topics are indexed using social science (HASSET) and medical terms (MeSH).</p> 
+      <p>Find out more about the <a href="/item/uk.closer/9ea89600-8809-4f4c-800f-b5bfae564e86">funders</a>, 
+      <a href="/item/uk.closer/ebf2010f-4354-49a1-9472-7d58343f800e">data collectors</a> and study <a href="/search/universegroups">populations</a>. </p>
+      <p> The studies also collect genetic data, which isn’t listed within CLOSER Discovery yet. For more information please see the summary <a href="/page/genetic/7">genetics table</a>.</p>
+    </div>
+  </div>
+
+</div>
+
+
+
+<!-- New Column -->
+<div class="col-md-6">
+
+  <!-- New to CLOSER -->
+
+  <div class="widget">
+    <div class="widget-header" style="line-height:80%">New to <a href="/page/about/4">CLOSER Discovery</a>?</div>    
+    <div class="widget-body" style="padding: 10px 10px 5px 10px">    
+      
+	  <p>If you are new to CLOSER Discovery we recommend you follow the <a href="javascript:showHomeTour();">tour</a>.</p> 
+      <p>For an up to date list on the current content please see the content page. We encourage you to help shape the site to best meet your needs by
+	  providing <a href="/page/faqs/1#Feedback" title="feedback">feedback</a>. </p>
+    </div>
+  </div>
+
+  <!-- Want to know more about the Studies -->
+
+  <div class="widget">
+    <div class="widget-header" style="line-height:80%">Want to know more about the Studies?</div>    
+    <div class="widget-body" style="padding: 10px 10px 5px 10px;">
+      <ul style="list-style-type:square; padding-left:10px; column-count: 2;column-gap: 10px;-moz-column-count: 2;-moz-column-gap: 10px;-webkit-column-count: 2;-webkit-column-gap: 10px;">
+        <li><a href="/item/uk.alspac/c6601e78-0f74-446a-a5f1-7c73a1984b4e">Avon Longitudinal Study of Parents and Children</a></li> 
+        <li><a href="/item/uk.cls.bcs70/75fe4705-0c94-4f75-b1e6-ad9c61ffde26">1970 British Cohort Study</a></li>
+        <li><a href="/item/uk.mrcleu-uos.hcs/d20a56d4-22e8-4d70-99cd-1d3a063073b1">Hertfordshire Cohort Study</a></li>
+        <li><a href="/item/uk.cls.mcs/0d8a7220-c61b-4542-967d-a40cb5aca430">Millennium Cohort Study</a></li>
+        <li><a href="/item/uk.cls.ncds/524c8f92-493f-4660-90c4-0aa7ac3d2640">1958 National Child Development Study</a></li> 
+        <li><a href="/item/uk.lha/f8d235f7-49e5-4568-905e-7f1646e241eb">MRC National Survey of Health and Development</a></li> 
+        <li><a href="/Item/uk.mrcleu-uos.sws/03bdaf2d-f57a-487f-89f9-74150bfc3fad">Southampton Women’s Survey</a></li>
+        <li><a href="/item/uk.iser/44a7a09e-4703-498c-96f7-0131b296c917">Understanding Society</a></li> 
+        <li><a href="/item/uk.wchads/1503038e-c369-4912-a198-85e504c332e7">Wirral Child Health and Development Study</a></li> 
+       </ul>
+
+    </div>
+  </div>
+</div>
+
+    <div class="row">
+        <div class="col-md-12">
+
+            <div class="widget">
+                <div class="widget-header" style="line-height:80%">Search by type</div>
+                <div class="widget-body" style="padding: 0px 0px 0px 0px;>
+
+                    <div class="row">
+                            <div class="col-lg-3 col-md-6 col-xs-12">
+                                <div class="widget">
+                                    <div class="widget-body">
+                                        <a class="full-widget-link" href="/search/datafiles">
+                                            <div class="widget-content">
+                                                <div class="widget-icon orange pull-left">
+                                                    <img src="/img/types/data32.png"
+                                                         alt="Datasets"
+                                                         width="32" height="32"
+                                                         style="margin-top: 15px;" />
+                                                </div>
+                                                <div class="title">323</div>
+                                                <div class="content">Datasets</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-xs-12">
+                                <div class="widget">
+                                    <div class="widget-body">
+                                        <a class="full-widget-link" href="/search/variables">
+                                            <div class="widget-content">
+                                                <div class="widget-icon green pull-left">
+                                                    <img src="/img/types/variable-32.png"
+                                                         alt="Variables"
+                                                         width="32" height="32"
+                                                         style="margin-top: 15px;" />
+                                                </div>
+                                                <div class="title">117,163</div>
+                                                <div class="content">Variables</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-xs-12">
+                                 <div class="widget">
+                                     <div class="widget-body">
+                                         <a class="full-widget-link" href="/search/instruments">
+                                             <div class="widget-content">
+                                                 <div class="widget-icon green pull-left">
+                                                     <img src="/img/types/instrument-32.png"
+                                                          alt="Questionnaires"
+                                                          width="32" height="32"
+                                                          style="margin-top: 15px;" />
+                                                 </div>
+                                                 <div class="title">292</div>
+                                                 <div class="content">Questionnaires</div>
+                                             </div>
+                                         </a>
+                                     </div>
+                                 </div>
+                             </div>
+                             <div class="col-lg-3 col-md-6 col-xs-12">
+                                 <div class="widget">
+                                     <div class="widget-body">
+                                         <a class="full-widget-link" href="/search/questions">
+                                             <div class="widget-content">
+                                                 <div class="widget-icon blue pull-left">
+                                                     <img src="/img/types/question-32.png"
+                                                          alt="Questions"
+                                                          width="32" height="32"
+                                                          style="margin-top: 15px;" />
+                                                 </div>
+                                                 <div class="title">36,165</div>
+                                                 <div class="content">Questions</div>
+                                             </div>
+                                         </a>
+                                     </div>
+                                 </div>
+                             </div>
+                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <p></p>
+    <p style="margin-left:30px"> Copyright &copy; 2019 CLOSER. <a href="http://www.nationalarchives.gov.uk/doc/non-commercial-government-licence/non-commercial-government-licence.htm" target="_blank" title="Click to read the Non Commerical Goverment Licence">View licence agreement.</a></p>
