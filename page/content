@@ -1,4 +1,28 @@
-<h4>BCS</h4>
+<div class="row page-title">
+  <div class="meta pull-left">
+    <h1>Content</h1>
+  </div>
+</div>
+
+<p>The tables below indicates which questionnaires and datasets are currently in CLOSER Discovery as well as those instruments which will be added at a later date which we are aware of. 
+We have been working through each life stage, beginning with the earliest.</p>
+
+<div class="row">
+  <div class="col-sm-8">
+<p>Navigate to the study you are interested in:</p>
+<ul>
+ 	<li><a href="#bcs">1970 British Cohort Study</a></li>
+ 	<li><a href="#alspac">Avon Longitudinal Study of Parents and Children</a></li>
+	<li><a href="#hcs">Hertfordshire Cohort Study</a></li>
+ 	<li><a href="#mcs">Millennium Cohort Study</a></li>
+	<li><a href="#ncds">National Child Development Study</a></li>
+ 	<li><a href="#nshd">National Survey of Health and Development</a></li>
+	<li><a href="#sws">Southampton Women's Survey</a></li>
+ 	<li><a href="#usoc">Understanding Society</a></li>
+	<li><a href="#wchads">Wirral Child Health and Development Study</a></li>
+	
+<h4 style="margin-top: 20px;"><a id="bcs"></a>1970 British Cohort Study</h4>
+
 <table width="0" cellspacing="0" cellpadding="0" border="1">
     <tbody>
         <tr>
@@ -1385,7 +1409,8 @@
     </tbody>
 </table>
 
-<h4>ALSPAC</h4>
+
+<h4 style="margin-top: 20px;"><a id="alspac"></a>Avon Longitudinal Study of Parents and Children</h4>
 
 <table width="0" cellspacing="0" cellpadding="0" border="1">
     <tbody>
@@ -6416,7 +6441,7 @@
     </tbody>
 </table>
 
-<h4>HCS</h4>
+<h4 style="margin-top: 20px;"><a id="hcs"></a>Hertfordshire Cohort Study</h4>
 <table width="0" cellspacing="0" cellpadding="0" border="1">
     <tbody>
         <tr>
@@ -7062,7 +7087,7 @@
     </tbody>
 </table>
 
-<h4>MCS</h4>
+<h4 style="margin-top: 20px;"><a id="mcs"></a>Millennium Cohort Study</h4>
 
 <table width="0" cellspacing="0" cellpadding="0" border="1">
     <tbody>
@@ -7646,7 +7671,7 @@
     </tbody>
 </table>
 
-<h4>NCDS</h4>
+<h4 style="margin-top: 20px;"><a id="ncds"></a>National Child Development Study</h4>
 
 <table width="0" cellspacing="0" cellpadding="0" border="1">
     <tbody>
@@ -8709,7 +8734,7 @@
     </tbody>
 </table>
 
-<h4>NSHD</h4>
+<h4 style="margin-top: 20px;"><a id="nshd"></a>National Survey of Health and Development</h4>
 <table width="0" cellspacing="0" cellpadding="0" border="1">
     <tbody>
         <tr>
@@ -11271,7 +11296,7 @@
     </tbody>
 </table>
 
-<h4>SWS</h4>
+<h4 style="margin-top: 20px;"><a id="sws"></a>Southampton Women's Survey</h4>
 <table width="0" cellspacing="0" cellpadding="0" border="1">
     <tbody>
         <tr>
@@ -11280,7 +11305,7 @@
                     <strong>Study</strong>
                 </p>
             </td>
-            <td width="469" valign="top">
+            <td width="326" valign="top">
                 <p>
                     <strong>Questionnaire Name</strong>
                 </p>
@@ -11312,7 +11337,7 @@
                     SWS
                 </p>
             </td>
-            <td width="469" valign="bottom" nowrap="">
+            <td width="326" valign="bottom" nowrap="">
                 <p>
                     Initial Blood and Urine Questionnaire
                 </p>
@@ -11344,7 +11369,7 @@
                     SWS
                 </p>
             </td>
-            <td width="469" valign="bottom" nowrap="">
+            <td width="326" valign="bottom" nowrap="">
                 <p>
                     Initial Questionnaire
                 </p>
@@ -11376,7 +11401,7 @@
                     SWS
                 </p>
             </td>
-            <td width="469" valign="bottom" nowrap="">
+            <td width="326" valign="bottom" nowrap="">
                 <p>
                     Early Pregnancy Questionnaire
                 </p>
@@ -11408,7 +11433,7 @@
                     SWS
                 </p>
             </td>
-            <td width="469" valign="bottom" nowrap="">
+            <td width="326" valign="bottom" nowrap="">
                 <p>
                     Late Pregnancy Questionnaire
                 </p>
@@ -11440,7 +11465,7 @@
                     SWS
                 </p>
             </td>
-            <td width="469" valign="bottom" nowrap="">
+            <td width="326" valign="bottom" nowrap="">
                 <p>
                     6 Month Infancy Questionnaire
                 </p>
@@ -11472,7 +11497,7 @@
                     SWS
                 </p>
             </td>
-            <td width="469" valign="bottom" nowrap="">
+            <td width="326" valign="bottom" nowrap="">
                 <p>
                     19 Week Pregnancy Short Questionnaire
                 </p>
@@ -11504,7 +11529,7 @@
                     SWS
                 </p>
             </td>
-            <td width="469" valign="bottom" nowrap="">
+            <td width="326" valign="bottom" nowrap="">
                 <p>
                     6 Month Infancy Short Questionnaire
                 </p>
@@ -11536,7 +11561,7 @@
                     SWS
                 </p>
             </td>
-            <td width="469" valign="bottom" nowrap="">
+            <td width="326" valign="bottom" nowrap="">
                 <p>
                     Obstetric Form
                 </p>
@@ -11568,7 +11593,7 @@
                     SWS
                 </p>
             </td>
-            <td width="469" valign="bottom" nowrap="">
+            <td width="326" valign="bottom" nowrap="">
                 <p>
                     12 Month Infancy Questionnaire
                 </p>
@@ -11600,7 +11625,7 @@
                     SWS
                 </p>
             </td>
-            <td width="469" valign="bottom" nowrap="">
+            <td width="326" valign="bottom" nowrap="">
                 <p>
                     12 Month Infancy Short Questionnaire
                 </p>
@@ -11632,7 +11657,7 @@
                     SWS
                 </p>
             </td>
-            <td width="469" valign="bottom" nowrap="">
+            <td width="326" valign="bottom" nowrap="">
                 <p>
                     24 Month Child Questionnaire
                 </p>
@@ -11664,7 +11689,7 @@
                     SWS
                 </p>
             </td>
-            <td width="469" valign="bottom" nowrap="">
+            <td width="326" valign="bottom" nowrap="">
                 <p>
                     3 Year Strengths and Difficulties Questionnaire
                 </p>
@@ -11696,7 +11721,7 @@
                     SWS
                 </p>
             </td>
-            <td width="469" valign="bottom" nowrap="">
+            <td width="326" valign="bottom" nowrap="">
                 <p>
                     3 Year Child-Parent Relationship Scale
                 </p>
@@ -11728,7 +11753,7 @@
                     SWS
                 </p>
             </td>
-            <td width="469" valign="bottom" nowrap="">
+            <td width="326" valign="bottom" nowrap="">
                 <p>
                     3 Year Child Questionnaire
                 </p>
@@ -11757,7 +11782,8 @@
     </tbody>
 </table>
 
-<h4>USoc</h4>
+
+<h4 style="margin-top: 20px;"><a id="usoc"></a>Understanding Society</h4>
 <table width="0" cellspacing="0" cellpadding="0" border="1">
     <tbody>
         <tr>
@@ -12245,7 +12271,7 @@
     </tbody>
 </table>
 
-<h4>WCHADS</h4>
+<h4 style="margin-top: 20px;"><a id="wchads"></a>Wirral Child Health and Development Study</h4>
 <table width="0" cellspacing="0" cellpadding="0" border="1">
     <tbody>
         <tr>
