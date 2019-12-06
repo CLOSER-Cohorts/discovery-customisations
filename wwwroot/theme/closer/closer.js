@@ -239,6 +239,11 @@ $(document).ready(function() {
         "checked": false
       },
       {
+        "identifier": "Early-adulthood",
+        "label": "Early-adulthood",
+        "checked": false
+      },
+      {
         "identifier": "Mid-adulthood",
         "label": "Mid-adulthood",
         "checked": false
