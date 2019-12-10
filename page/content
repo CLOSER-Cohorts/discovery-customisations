@@ -7676,1061 +7676,785 @@ We have been working through each life stage, beginning with the earliest.</p>
 <table width="0" cellspacing="0" cellpadding="0" border="1">
     <tbody>
         <tr>
-            <td width="67" valign="top">
-                <p>
-                    <strong>Study</strong>
-                </p>
-            </td>
-            <td width="365" valign="top">
-                <p>
-                    <strong>Questionnaire Name</strong>
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    <strong>Life stage</strong>
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    <strong>Start Year</strong>
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    <strong>Discovery Questionnaire</strong>
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    <strong>Discovery Dataset</strong>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Birth Questionnaire
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Pregnancy, birth and infancy
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1958
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 7 Audiogram
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Childhood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1965
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 7 Educational Questionnaire
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Childhood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1965
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 7 Medical Questionnaire
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Childhood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1965
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 7 Parental Questionnaire
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Childhood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1965
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 7 Test Booklet
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Childhood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1965
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    N
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    N
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 11 Audiogram
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Childhood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1969
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 11 Educational Assessment
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Childhood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1969
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 11 Medical Examination
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Childhood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1969
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 11 Parental Interview Form
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Childhood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1969
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 11 Test Booklet
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Childhood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1969
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    N
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    N
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 16 Audiogram
-                </p>
-            </td>
-            <td width="208" valign="top" nowrap="">
-                <p>
-                    Adolescence
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1974
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 16 Educational Questionnaire
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Adolescence
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1974
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 16 Individual Questionnaire
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Adolescence
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1974
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 16 Medical Examination Form
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Adolescence
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1974
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 16 Parental Questionnaire
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Adolescence
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1974
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top">
-                <p>
-                    NCDS4 Interview
-                </p>
-            </td>
-            <td width="208" valign="top" nowrap="">
-                <p>
-                    Early adulthood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1981
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 33 Child Interview
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Early adulthood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1991
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    N
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 33 Cohort Member Your Life Since 1974
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Early adulthood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1991
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 33 Cohort Member Interview
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Early adulthood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1991
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 33 Your Child
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Early adulthood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1991
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 33 Mother Interview
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Early adulthood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1991
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 33 Partner Your Life Since 1974
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Early adulthood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1991
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 33 What Do You Think?
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Early adulthood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    1991
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 42 CAI Questionnaire
-                </p>
-            </td>
-            <td width="208" valign="top" nowrap="">
-                <p>
-                    Mid-adulthood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    2000
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    N
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 44 Biomedical Paper Self Completion One
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Mid-adulthood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    2002
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 44 Biomedical Questionnaire
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Mid-adulthood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    2002
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 44 Biomedical Paper Self Completion Two
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Mid-adulthood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    2002
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 46 CAI Questionnaire
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Mid-adulthood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    2004
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    N
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 50 CAI Questionnaire
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Mid-adulthood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    2008
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    N
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 50 Cohort Member Paper Self-Completion
-                </p>
-            </td>
-            <td width="208" valign="top">
-                <p>
-                    Mid-adulthood
-                </p>
-            </td>
-            <td width="91" valign="top">
-                <p>
-                    2008
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="67" valign="top" nowrap="">
-                <p>
-                    NCDS
-                </p>
-            </td>
-            <td width="365" valign="top" nowrap="">
-                <p>
-                    NCDS Age 55 Follow-up
-                </p>
-            </td>
-            <td width="208" valign="top" nowrap="">
-                <p>
-                    Mid-adulthood
-                </p>
-            </td>
-            <td width="91" valign="top" nowrap="">
-                <p>
-                    2013
-                </p>
-            </td>
-            <td width="193" valign="top">
-                <p>
-                    N
-                </p>
-            </td>
-            <td width="191" valign="top">
-                <p>
-                    Y
-                </p>
-            </td>
-        </tr>
+				<td width="53">
+					<p><strong>Study</strong></p>
+				</td>
+				<td width="562">
+					<p><strong>Questionnaire Name</strong></p>
+				</td>
+				<td width="208">
+					<p><strong>Life stage</strong></p>
+				</td>
+				<td width="76">
+					<p><strong>Start Year</strong></p>
+				</td>
+				<td width="157">
+					<p><strong>Discovery Questionnaire</strong></p>
+				</td>
+				<td width="120">
+					<p><strong>Discovery Dataset</strong></p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Birth Questionnaire</p>
+				</td>
+				<td width="208">
+					<p>Pregnancy, birth and infancy</p>
+				</td>
+				<td width="76">
+					<p>1958</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 7 Audiogram</p>
+				</td>
+				<td width="208">
+					<p>Childhood</p>
+				</td>
+				<td width="76">
+					<p>1965</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 7 Educational Questionnaire</p>
+				</td>
+				<td width="208">
+					<p>Childhood</p>
+				</td>
+				<td width="76">
+					<p>1965</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 7 Medical Questionnaire</p>
+				</td>
+				<td width="208">
+					<p>Childhood</p>
+				</td>
+				<td width="76">
+					<p>1965</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 7 Parental Questionnaire</p>
+				</td>
+				<td width="208">
+					<p>Childhood</p>
+				</td>
+				<td width="76">
+					<p>1965</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 7 Test Booklet</p>
+				</td>
+				<td width="208">
+					<p>Childhood</p>
+				</td>
+				<td width="76">
+					<p>1965</p>
+				</td>
+				<td width="157">
+					<p>N</p>
+				</td>
+				<td width="120">
+					<p>N</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 11 Audiogram</p>
+				</td>
+				<td width="208">
+					<p>Childhood</p>
+				</td>
+				<td width="76">
+					<p>1969</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 11 Educational Assessment</p>
+				</td>
+				<td width="208">
+					<p>Childhood</p>
+				</td>
+				<td width="76">
+					<p>1969</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 11 Medical Examination</p>
+				</td>
+				<td width="208">
+					<p>Childhood</p>
+				</td>
+				<td width="76">
+					<p>1969</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 11 Parental Interview Form</p>
+				</td>
+				<td width="208">
+					<p>Childhood</p>
+				</td>
+				<td width="76">
+					<p>1969</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 11 Test Booklet</p>
+				</td>
+				<td width="208">
+					<p>Childhood</p>
+				</td>
+				<td width="76">
+					<p>1969</p>
+				</td>
+				<td width="157">
+					<p>N</p>
+				</td>
+				<td width="120">
+					<p>N</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 16 Audiogram</p>
+				</td>
+				<td width="208">
+					<p>Adolescence</p>
+				</td>
+				<td width="76">
+					<p>1974</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 16 Educational Questionnaire</p>
+				</td>
+				<td width="208">
+					<p>Adolescence</p>
+				</td>
+				<td width="76">
+					<p>1974</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 16 Individual Questionnaire</p>
+				</td>
+				<td width="208">
+					<p>Adolescence</p>
+				</td>
+				<td width="76">
+					<p>1974</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 16 Medical Examination Form</p>
+				</td>
+				<td width="208">
+					<p>Adolescence</p>
+				</td>
+				<td width="76">
+					<p>1974</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 16 Parental Questionnaire</p>
+				</td>
+				<td width="208">
+					<p>Adolescence</p>
+				</td>
+				<td width="76">
+					<p>1974</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Sub-study Warnock study of handicapped school leavers</p>
+				</td>
+				<td width="208">
+					<p>Adolescence</p>
+				</td>
+				<td width="76">
+					<p>1976</p>
+				</td>
+				<td width="157">
+					<p>N</p>
+				</td>
+				<td width="120">
+					<p>N</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Sub-study Feasibility study and Tobacco Research Council study</p>
+				</td>
+				<td width="208">
+					<p>Early adulthood</p>
+				</td>
+				<td width="76">
+					<p>1978</p>
+				</td>
+				<td width="157">
+					<p>N</p>
+				</td>
+				<td width="120">
+					<p>N</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS4 Interview</p>
+				</td>
+				<td width="208">
+					<p>Early adulthood</p>
+				</td>
+				<td width="76">
+					<p>1981</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 33 Child Interview</p>
+				</td>
+				<td width="208">
+					<p>Early adulthood</p>
+				</td>
+				<td width="76">
+					<p>1991</p>
+				</td>
+				<td width="157">
+					<p>N</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 33 Cohort Member Your Life Since 1974</p>
+				</td>
+				<td width="208">
+					<p>Early adulthood</p>
+				</td>
+				<td width="76">
+					<p>1991</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 33 Cohort Member Interview</p>
+				</td>
+				<td width="208">
+					<p>Early adulthood</p>
+				</td>
+				<td width="76">
+					<p>1991</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 33 Your Child</p>
+				</td>
+				<td width="208">
+					<p>Early adulthood</p>
+				</td>
+				<td width="76">
+					<p>1991</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 33 Mother Interview</p>
+				</td>
+				<td width="208">
+					<p>Early adulthood</p>
+				</td>
+				<td width="76">
+					<p>1991</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 33 Partner Your Life Since 1974</p>
+				</td>
+				<td width="208">
+					<p>Early adulthood</p>
+				</td>
+				<td width="76">
+					<p>1991</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 33 What Do You Think?</p>
+				</td>
+				<td width="208">
+					<p>Early adulthood</p>
+				</td>
+				<td width="76">
+					<p>1991</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Sub-study 37-year sample survey</p>
+				</td>
+				<td width="208">
+					<p>Mid-adulthood</p>
+				</td>
+				<td width="76">
+					<p>1995</p>
+				</td>
+				<td width="157">
+					<p>N</p>
+				</td>
+				<td width="120">
+					<p>N</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 42 CAI Questionnaire</p>
+				</td>
+				<td width="208">
+					<p>Mid-adulthood</p>
+				</td>
+				<td width="76">
+					<p>2000</p>
+				</td>
+				<td width="157">
+					<p>N</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 44 Biomedical Paper Self Completion One</p>
+				</td>
+				<td width="208">
+					<p>Mid-adulthood</p>
+				</td>
+				<td width="76">
+					<p>2002</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 44 Biomedical Questionnaire</p>
+				</td>
+				<td width="208">
+					<p>Mid-adulthood</p>
+				</td>
+				<td width="76">
+					<p>2002</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 44 Biomedical Paper Self Completion Two</p>
+				</td>
+				<td width="208">
+					<p>Mid-adulthood</p>
+				</td>
+				<td width="76">
+					<p>2002</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 46 CAI Questionnaire</p>
+				</td>
+				<td width="208">
+					<p>Mid-adulthood</p>
+				</td>
+				<td width="76">
+					<p>2004</p>
+				</td>
+				<td width="157">
+					<p>N</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 50 CAI Questionnaire</p>
+				</td>
+				<td width="208">
+					<p>Mid-adulthood</p>
+				</td>
+				<td width="76">
+					<p>2008</p>
+				</td>
+				<td width="157">
+					<p>N</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 50 Cohort Member Paper Self-Completion</p>
+				</td>
+				<td width="208">
+					<p>Mid-adulthood</p>
+				</td>
+				<td width="76">
+					<p>2008</p>
+				</td>
+				<td width="157">
+					<p>Y</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Sub-study Twins study</p>
+				</td>
+				<td width="208">
+					<p>Mid-adulthood</p>
+				</td>
+				<td width="76">
+					<p>2008</p>
+				</td>
+				<td width="157">
+					<p>N</p>
+				</td>
+				<td width="120">
+					<p>N</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Sub-study Social participation and identity</p>
+				</td>
+				<td width="208">
+					<p>Mid-adulthood</p>
+				</td>
+				<td width="76">
+					<p>2009</p>
+				</td>
+				<td width="157">
+					<p>N</p>
+				</td>
+				<td width="120">
+					<p>N</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Sub-study Understanding individual behaviour</p>
+				</td>
+				<td width="208">
+					<p>Mid-adulthood</p>
+				</td>
+				<td width="76">
+					<p>2010</p>
+				</td>
+				<td width="157">
+					<p>N</p>
+				</td>
+				<td width="120">
+					<p>N</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="53">
+					<p>NCDS</p>
+				</td>
+				<td width="562">
+					<p>NCDS Age 55 Follow-up</p>
+				</td>
+				<td width="208">
+					<p>Mid-adulthood</p>
+				</td>
+				<td width="76">
+					<p>2013</p>
+				</td>
+				<td width="157">
+					<p>N</p>
+				</td>
+				<td width="120">
+					<p>Y</p>
+				</td>
+			</tr>
     </tbody>
 </table>
 
