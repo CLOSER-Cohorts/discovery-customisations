@@ -233,6 +233,11 @@ ul.sidebar .sidebar-list a {
 
 }
 
+.dropdown-menu-right {
+  background: #838384;
+}
+  
+
 .nav .open > a,
 .nav .open > a:hover,
 .nav .open > a:focus {
@@ -245,7 +250,7 @@ ul.sidebar .sidebar-list a {
 }
 
 #search-results .widget-body {
-    line-height: 20%;
+    line-height: 100%;
 }
 
 
@@ -609,4 +614,11 @@ span.glyphicon-shopping-cart:before {
 }
 
 
+.sidebar-title {
+  display: none;
+}
 
+.sidebar-list {
+  list-style: none;
+  margin-left: 15px;
+}
