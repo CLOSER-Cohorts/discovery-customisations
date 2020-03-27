@@ -1,12 +1,15 @@
-<div class="entry">
+<div class="row page-title">
+  <div class="meta pull-left">
+    <h1>About CLOSER Discovery</h1>
+  </div>
+</div>
 
-CLOSER Discovery is a search engine that enables researchers to search and browse questionnaires and data from nine leading UK longitudinal studies.
+<div class="row">
+  <div class="col-sm-8">
 
-Users are able to search by keyword, or browse by topic. Discovery provides users with a range of features to improve their searches and find the data they are interested in.
-<h3>Why use CLOSER Discovery?</h3>
-CLOSER Discovery is a user-friendly resource for locating the variables that best suit your research interests, and testing their robustness.
+<p>CLOSER Discovery is a user-friendly resource for locating the variables that best suit your research interests, and testing their robustness.</p>
 
-A search on CLOSER Discovery will show you:
+<p>A search on CLOSER Discovery will show you:</p>
 <ul>
  	<li>relevant survey questions and variables, which you can filter by study, topic and life stage</li>
  	<li>the original question the variables are based on</li>
@@ -15,20 +18,36 @@ A search on CLOSER Discovery will show you:
  	<li>an overview of each variable, including valid and invalid cases; maximum, minimum and mean values; and in many cases, a frequency count</li>
  	<li>how to access the data from each study.</li>
 </ul>
-You can save information for questions and variables of interest to a List, and download it for your reference.
+<p>You can save information for questions and variables of interest to a List, and download it for your reference.</p>
 
 <h3>About metadata</h3>
-The platform is built using metadata. Simply put, metadata is data about data. By using metadata, CLOSER Discovery allows you to find out what is available in the UK’s longitudinal datasets, 
-understand the context of how the data were created, and make an assessment about whether the data would be useful for you to pursue. 
-CLOSER Discovery then signposts you to where you can request access to the data you’re interested in. 
-To find out more about data access arrangements for each of the studies, visit our <a href="https://www.closer.ac.uk/data-resources/data-resourcesdata-resourcesaccess-data/">How to access the data page</a><strong>.</strong>
+<p>The platform is built using metadata. Simply put, metadata is data about data. By using metadata, CLOSER Discovery allows you to find out what is available in the UK’s longitudinal datasets, 
+understand the context of how the data were created, and make an assessment about whether the data would be useful for you to pursue. </p>
+<p>CLOSER Discovery then signposts you to where you can request access to the data you’re interested in. 
+To find out more about data access arrangements for each of the studies, visit our <a href="https://www.closer.ac.uk/data-resources/data-resourcesdata-resourcesaccess-data/">How to access the data page</a><strong>.</strong></p>
 
-For users who are interested in metadata and the technical aspects of CLOSER Discovery, please visit the <a href="https://wiki.ucl.ac.uk/display/CLOS/What+is+the+CLOSER+Technical+Wiki " target="_blank" 
-rel="noopener noreferrer">CLOSER Technical Wiki</a>.
+<p>For users who are interested in metadata and the technical aspects of CLOSER Discovery, please visit the <a href="https://wiki.ucl.ac.uk/display/CLOS/What+is+the+CLOSER+Technical+Wiki " target="_blank" 
+rel="noopener noreferrer">CLOSER Technical Wiki</a>.</p>
+
 <h3>Getting started</h3>
-We recommend watching our <a href=" /page/how-to-guides/6 " > introductory webinar</a> before using CLOSER Discovery. For more information please refer to our <a href=" /page/how-to-guides/6 " > How-to guides </a> and <a href=" /page/how-to-guides/6 " > FAQs </a>. 
+<p>For more information please refer to our <a href=" /page/how-to-guides/6 " > How-to guides </a> and <a href=" /page/how-to-guides/6 " > FAQs </a>. </p>
 
 </div>
-<!--more-->
+  <ul class="nav nav-pills nav-stacked col-sm-offset-1 col-sm-3">
+    <li class="nav-title">Help Menu</li>
+    <li class="active"><a href="/page/about/4">About</a></li>
+    <li><a href="/page/how-to-guides/6">How-to guides</a></li>
+    <li ><a href="/page/faqs/1">Frequently Asked Questions</a></li>
+    <li><a href="/page/content/8">Content (what's in and what's missing)</a></li>
+    <li><a href="/page/genetic/2">Summary of genetic array data</a></li>
+    <li><a href="/page/data-security/3">Data security and intellectual property</a></li>
+    <li><a href="/page/privacy-policy/5">Privacy policy</a></li>
+    <li><a href="https://www.closer.ac.uk/contact/">Contact us</a></li>
+  <ul>
+</div>
 
-<!--more-->
+<style>
+.widget {
+    margin-top: 20px;
+}
+</style>
