@@ -35,8 +35,10 @@
   <ul class="nav nav-pills nav-stacked col-sm-offset-1 col-sm-3">
     <li class="nav-title">Help Menu</li>
     <li><a href="/page/about/4">About </a></li>
-    <li><a href="/page/faqs/1">Frequently Asked Questions</a></li>
     <li><a href="/page/how-to-guides/6">How-to guides</a></li>
+    <li><a href="/page/faqs/1">Frequently Asked Questions</a></li>
+    <li><a href="/page/content/8">Content (what's in and what's missing)</a></li>
+    <li><a href="/page/genetic/2">Summary of genetic array data</a></li>
     <li><a href="/page/data-security/3">Data security and intellectual property</a></li>
     <li class="active"><a href="/page/privacy-policy/5">Privacy policy</a></li>
     <li><a href="https://www.closer.ac.uk/contact/">Contact us</a></li>
