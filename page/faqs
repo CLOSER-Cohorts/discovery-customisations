@@ -17,7 +17,7 @@
 </ul>
 <h4 style="margin-top: 20px;"><a id="what-is-included"></a>What is included in CLOSER Discovery and what's not</h4>
 <h5>Which studies are included in CLOSER Discovery?</h5>
-The nine studies included in CLOSER Discovery are listed below. Not all of the information you need may be included in Discovery yet, as our metadata enhancement team are progressing through the legacy information. For an up-to-date list of what data collection instruments from each study are currently covered by CLOSER Discovery, please visit our <a href="/page/content/8"> Content pages</a> on the CLOSER Technical Wiki.
+The nine studies included in CLOSER Discovery are listed below. Not all of the information you need may be included in Discovery yet, as our metadata enhancement team are progressing through the legacy information. For an up-to-date list of what data collection instruments from each study are currently covered by CLOSER Discovery, please visit our <a href="/page/content/8"> Content pages</a>.
 <ul>
 <li><a href="https://www.closer.ac.uk/study/alspac-children-90s/" target="_blank" rel="noopener noreferrer">Avon Longitudinal Study of Parents and Children</a></li>
 <li><a href="https://www.closer.ac.uk/study/1970-british-cohort-study/" target="_blank" rel="noopener noreferrer">1970 British Cohort Study</a></li>
@@ -46,7 +46,7 @@ The nine studies included in CLOSER Discovery are listed below. Not all of the i
 </ol>
 <h4 style="margin-top: 20px;"><a id="searching"></a>How to search</h4>
 <p>Enter one or two keywords into the search box to get started. This will search Sweep Title, Questionniare Title, Dataset Title, Question Item text, Response Options, Variable Label, Variable Name and Variable codes as default.</p>
-<p>If you would like to search within Question Grids, Instructions, Statements etc. please select More.. for further options.</p>
+<p>If you would like to search within Question Grids, Instructions, Statements etc. please select <strong>Advanced..</strong> for further options.</p>
 <p>Don&rsquo;t forget to Reset your filters before you start a new search.</p>
 <p>Examples:</p>
 <ul>
@@ -55,92 +55,52 @@ The nine studies included in CLOSER Discovery are listed below. Not all of the i
 </ul>
 <p>Please refer to the <a href="/page/how-to-guides/6">How-to guides </a>for more examples.<em> <br /></em></p>
 <p>Advanced Searches</p>
-<table style="border-color: black; width: 600px; float: left;" border="1" cellpadding="100" align="left">
-<thead>
-<tr>
-<td width="30%">
-<p><strong>Example</strong></p>
-</td>
-<td>
-<p><strong>Description</strong></p>
-</td>
-</tr>
-</thead>
+<table>
 <tbody>
 <tr>
-<td>
-<p>house</p>
-</td>
-<td>
-<p>Searches for different forms of the word house (e.g. <em>house</em>, <em>housing</em>, <em>houses</em>)</p>
-</td>
+ <th style="padding:5px; border: 1px solid black">Example</th>
+ <th style="padding:5px; border: 1px solid black">Description</th>
+</tr>
+<tbody>
+<tr>
+  <td style="padding:5px; border: 1px solid black">house</td>
+  <td style="padding:5px; border: 1px solid black">Searches for different forms of the word house (e.g. <em>house</em>, <em>housing</em>, <em>houses</em>)</td>
 </tr>
 <tr>
-<td>
-<p>house age</p>
-</td>
-<td>
-<p>Searches for different forms of the word <em>house</em> AND <em>age</em></p>
-</td>
+  <td style="padding:5px; border: 1px solid black">house age</td>
+  <td style="padding:5px; border: 1px solid black">Searches for different forms of the word <em>house</em> AND <em>age</em></td>
 </tr>
 <tr>
-<td>
-<p>house AND age</p>
-</td>
-<td>
-<p>Same as above; The "AND" is optional</p>
-</td>
+  <td style="padding:5px; border: 1px solid black">house AND age</td>
+  <td style="padding:5px; border: 1px solid black">Same as above; The "AND" is optional</td>
 </tr>
 <tr>
-<td>
-<p>house OR age</p>
-</td>
-<td>
-<p>Searches for either <em>house</em> or <em>age</em></p>
-</td>
+  <td style="padding:5px; border: 1px solid black">house OR age</td>
+  <td style="padding:5px; border: 1px solid black">Searches for either <em>house</em> or <em>age</em></td>
 </tr>
 <tr>
-<td>
-<p>"house age"</p>
-</td>
-<td>
-<p>Searches for the exact phrase <em>house age</em></p>
-</td>
+  <td style="padding:5px; border: 1px solid black">"house age"</td>
+  <td style="padding:5px; border: 1px solid black">Searches for the exact phrase <em>house age</em></td>
 </tr>
 <tr>
-<td>
-<p>house -age</p>
-</td>
-<td>
-<p>Searches for items that contain <em>house</em> but that do <strong>not</strong> contain <em>age</em></p>
-</td>
+  <td style="padding:5px; border: 1px solid black">house -age</td>
+  <td style="padding:5px; border: 1px solid black">Searches for items that contain <em>house</em> but that do <strong>not</strong> contain <em>age</em></td>
 </tr>
 <tr>
-<td>
-<p>+house</p>
-</td>
-<td>
-<p>Searches for the exact term <em>house</em>; <em>housing</em> and <em>houses</em> would not be included</p>
-</td>
+  <td style="padding:5px; border: 1px solid black">+house</td>
+  <td style="padding:5px; border: 1px solid black">Searches for the exact term <em>house</em>; <em>housing</em> and <em>houses</em> would not be included</td>
 </tr>
 <tr>
-<td>
-<p>~house</p>
-</td>
-<td>
-<p>Fuzzy search for <em>house</em>; may include close words like <em>hose</em> and <em>huse</em></p>
-</td>
+  <td style="padding:5px; border: 1px solid black">~house</td>
+  <td style="padding:5px; border: 1px solid black">Fuzzy search for <em>house</em>; may include close words like <em>hose</em> and <em>huse</em></td>
 </tr>
 <tr>
-<td>
-<p>&lt;house age&gt;</p>
-</td>
-<td>
-<p>Searches for <em>house</em> and <em>age</em> in close proximity to each other</p>
-</td>
+  <td style="padding:5px; border: 1px solid black">&lt;house age&gt;</td>
+  <td style="padding:5px; border: 1px solid black">Searches for <em>house</em> and <em>age</em> in close proximity to each other</td>
 </tr>
 </tbody>
 </table>
+
 <p>&nbsp;</p>
 <br clear="left" />
 <h4 style="margin-top: 20px;"><a id="searching-topic"></a>Searching by topic</h4>
@@ -185,11 +145,15 @@ You will need to contact the studies individually for this information. This wou
 <ul class="nav nav-pills nav-stacked col-sm-offset-1 col-sm-3">
 <li class="nav-title">Help Menu</li>
 <li><a href="/page/about/4">About</a></li>
-<li class="active"><a href="/page/faqs/1">Frequently Asked Questions</a></li>
 <li><a href="/page/how-to-guides/6">How-to guides</a></li>
-<li><a href="/page/genetic/2">Overview of genetic array data available from CLOSER studies</a></li>
+<li class="active"><a href="/page/faqs/1">Frequently Asked Questions</a></li>
+<li><a href="/page/content/8">Content (what's in and what's missing)</a></li>
+<li><a href="/page/genetic/2">Summary of genetic array data</a></li>
 <li><a href="/page/data-security/3">Data security and intellectual property</a></li>
 <li><a href="/page/privacy-policy/5">Privacy policy</a></li>
 <li><a href="https://www.closer.ac.uk/contact/">Contact us</a></li>
 </ul>
 </div>
+
+
+		
