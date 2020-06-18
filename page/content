@@ -366,8 +366,8 @@ We have been working through each life stage, beginning with the earliest.</p>
       <td style="padding:5px; border:1px solid black">BCS70 Age 38 Questionnaire</td>
       <td style="padding:5px; border:1px solid black">Mid-adulthood</td>
       <td style="padding:5px; border:1px solid black">2008</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
     </tr>
     <tr>
       <td style="padding:5px; border:1px solid black">BCS70</td>
@@ -390,8 +390,8 @@ We have been working through each life stage, beginning with the earliest.</p>
       <td style="padding:5px; border:1px solid black">BCS70 Age 42 Main Stage Questionnaire</td>
       <td style="padding:5px; border:1px solid black">Mid-adulthood</td>
       <td style="padding:5px; border:1px solid black">2012</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
     </tr>
     <tr>
       <td style="padding:5px; border:1px solid black">BCS70</td>
@@ -542,7 +542,7 @@ We have been working through each life stage, beginning with the earliest.</p>
       <td style="padding:5px; border:1px solid black">Partner's Questionnaire</td>
       <td style="padding:5px; border:1px solid black">Pregnancy, birth and infancy</td>
       <td style="padding:5px; border:1px solid black">1990</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
       <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
     </tr>
     <tr>
@@ -1422,8 +1422,8 @@ We have been working through each life stage, beginning with the earliest.</p>
       <td style="padding:5px; border:1px solid black">Department for Children, Schools and Families Questionnaire</td>
       <td style="padding:5px; border:1px solid black">Adolescence</td>
       <td style="padding:5px; border:1px solid black">2008</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
     </tr>
     <tr>
       <td style="padding:5px; border:1px solid black">ALSPAC</td>
@@ -1486,8 +1486,8 @@ We have been working through each life stage, beginning with the earliest.</p>
       <td style="padding:5px; border:1px solid black">About Eating</td>
       <td style="padding:5px; border:1px solid black">Adolescence</td>
       <td style="padding:5px; border:1px solid black">2009</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
     </tr>
     <tr>
       <td style="padding:5px; border:1px solid black">ALSPAC</td>
@@ -2449,15 +2449,7 @@ We have been working through each life stage, beginning with the earliest.</p>
     </tr>
     <tr>
       <td style="padding:5px; border:1px solid black">NSHD</td>
-      <td style="padding:5px; border:1px solid black">1953 School Absence & Holiday Sickness Records (April - September)</td>
-      <td style="padding:5px; border:1px solid black">Childhood</td>
-      <td style="padding:5px; border:1px solid black">1953</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:black">No data</td>
-    </tr>
-    <tr>
-      <td style="padding:5px; border:1px solid black">NSHD</td>
-      <td style="padding:5px; border:1px solid black">1953 School Absence & Holiday Sickness Records (January - April)</td>
+      <td style="padding:5px; border:1px solid black">1953 School Absence & Holiday Sickness Records </td>
       <td style="padding:5px; border:1px solid black">Childhood</td>
       <td style="padding:5px; border:1px solid black">1953</td>
       <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
@@ -2473,7 +2465,7 @@ We have been working through each life stage, beginning with the earliest.</p>
     </tr>
     <tr>
       <td style="padding:5px; border:1px solid black">NSHD</td>
-      <td style="padding:5px; border:1px solid black">1954-5 School Absence Record</td>
+      <td style="padding:5px; border:1px solid black">1954-5 School Absence Records</td>
       <td style="padding:5px; border:1px solid black">Childhood</td>
       <td style="padding:5px; border:1px solid black">1954</td>
       <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
@@ -2865,11 +2857,11 @@ We have been working through each life stage, beginning with the earliest.</p>
     </tr>
     <tr>
       <td style="padding:5px; border:1px solid black">NSHD</td>
-      <td style="padding:5px; border:1px solid black">1972 Main Questionnaire</td>f
+      <td style="padding:5px; border:1px solid black">1972 Main Questionnaire</td>
       <td style="padding:5px; border:1px solid black">Early adulthood</td>
       <td style="padding:5px; border:1px solid black">1972</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
     </tr>
     <tr>
       <td style="padding:5px; border:1px solid black">NSHD</td>
@@ -2881,27 +2873,11 @@ We have been working through each life stage, beginning with the earliest.</p>
     </tr>
     <tr>
       <td style="padding:5px; border:1px solid black">NSHD</td>
-      <td style="padding:5px; border:1px solid black">1972 Short Form Questionnaire</td>
-      <td style="padding:5px; border:1px solid black">Early adulthood</td>
-      <td style="padding:5px; border:1px solid black">1972</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:black">No data</td>
-    </tr>
-    <tr>
-      <td style="padding:5px; border:1px solid black">NSHD</td>
       <td style="padding:5px; border:1px solid black">1977 Postal Questionnaire</td>
       <td style="padding:5px; border:1px solid black">Mid-adulthood</td>
       <td style="padding:5px; border:1px solid black">1977</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
-    </tr>
-    <tr>
-      <td style="padding:5px; border:1px solid black">NSHD</td>
-      <td style="padding:5px; border:1px solid black">1977 Dietary Questionnaire sub-sample</td>
-      <td style="padding:5px; border:1px solid black">Mid-adulthood</td>
-      <td style="padding:5px; border:1px solid black">1977</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:black">No data</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
     </tr>
     <tr>
       <td style="padding:5px; border:1px solid black">NSHD</td>
@@ -2909,15 +2885,15 @@ We have been working through each life stage, beginning with the earliest.</p>
       <td style="padding:5px; border:1px solid black">Mid-adulthood</td>
       <td style="padding:5px; border:1px solid black">1982</td>
       <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
     </tr>
     <tr>
       <td style="padding:5px; border:1px solid black">NSHD</td>
       <td style="padding:5px; border:1px solid black">1982 Present State Examination</td>
       <td style="padding:5px; border:1px solid black">Mid-adulthood</td>
       <td style="padding:5px; border:1px solid black">1982</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
     </tr>
     <tr>
       <td style="padding:5px; border:1px solid black">NSHD</td>
@@ -2941,7 +2917,7 @@ We have been working through each life stage, beginning with the earliest.</p>
       <td style="padding:5px; border:1px solid black">Mid-adulthood</td>
       <td style="padding:5px; border:1px solid black">1989</td>
       <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
     </tr>
     <tr>
       <td style="padding:5px; border:1px solid black">NSHD</td>
@@ -3030,7 +3006,7 @@ We have been working through each life stage, beginning with the earliest.</p>
       <td style="padding:5px; border:1px solid black">Mid-adulthood</td>
       <td style="padding:5px; border:1px solid black">1999</td>
       <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
     </tr>
     <tr>
       <td style="padding:5px; border:1px solid black">NSHD</td>
@@ -3085,7 +3061,7 @@ We have been working through each life stage, beginning with the earliest.</p>
       <td style="padding:5px; border:1px solid black">2006-2010 Paper Tests</td>
       <td style="padding:5px; border:1px solid black">Third age </td>
       <td style="padding:5px; border:1px solid black">2006</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:black">-</td>
       <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
     </tr>
     <tr>
@@ -3517,8 +3493,8 @@ We have been working through each life stage, beginning with the earliest.</p>
       <td style="padding:5px; border:1px solid black">Phase 01 Partner Questionnaire</td>
       <td style="padding:5px; border:1px solid black">Pregnancy, birth and infancy</td>
       <td style="padding:5px; border:1px solid black">2007</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
-      <td style="padding:5px; border:1px solid black; text-align:center; color:red">N</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
+      <td style="padding:5px; border:1px solid black; text-align:center; color:green">Y</td>
     </tr>
     <tr>
       <td style="padding:5px; border:1px solid black">WCHADS</td>
