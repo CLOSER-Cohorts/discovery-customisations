@@ -29,7 +29,7 @@ table-layout="fixed">
       <td >Study member</td>
       <td>1000</td>
       <td>Illumina Global Screening Array-24</td>
-      <td>Coming Q1 2019</td>
+      <td>Coming Q1 2021</td>
       <td>Blood</td>
       <td>N/A</td>
     </tr>
@@ -322,7 +322,7 @@ table-layout="fixed">
       <td style="height: 35pt">Study member</td>
       <td>1940</td>
       <td>Illumina HumanOmniExpress-24</td>
-      <td>Coming Q1 2020</td>
+      <td>Coming Q1 2021</td>
       <td>Cord blood</td>
       <td>N/A</td>
     </tr>
@@ -330,7 +330,7 @@ table-layout="fixed">
       <td style="height: 35pt">Mother</td>
       <td style="height: 35pt">1000</td>
       <td style="height: 35pt">Illumina Global Screening Array-24</td>
-      <td style="height: 35pt">Coming Q1 2020</td>
+      <td style="height: 35pt">Coming Q1 2021</td>
       <td style="height: 35pt">Blood</td>
       <td style="height: 35pt">N/A</td>
     </tr>
@@ -339,7 +339,7 @@ table-layout="fixed">
       <td style="height: 35pt">Mother, father and cohort member triad</td>
       <td style="height: 35pt">TBD</td>
       <td style="height: 35pt">TBD</td>
-      <td style="height: 35pt">Coming Q4 2019</td>
+      <td style="height: 35pt">Coming Q4 2020</td>
       <td style="height: 35pt">Saliva</td>
       <td style="height: 35pt">N/A</td>
     </tr>
