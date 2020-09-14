@@ -117,8 +117,31 @@ The nine studies included in CLOSER Discovery are listed below. Not all of the i
 <p>There are also several ways of applying topics. A topic could be derived from the wording of the question, but this might differ from the intended research purpose of the question. This is further complicated by the fact that this is an historical project and the exact meaning of the question from either point of view may have changed over time.</p>
 <p>We welcome feedback about the topic system and how it has been applied. It is one of the most challenging aspects of the project and understanding better how the users might interact with these is very important. Please visit the <a href="#Feedback">feedback</a> section below for details on how to contact us.</p>
 <h4 style="margin-top: 20px;"><a id="access-data"></a>How to access study data</h4>
+
 <h5>How can I access data from the studies?</h5>
-<p>The exact data access arrangements vary from study to study. In general they fall into two camps: accessible via the UK Data Service and accessible via direct contact with the studies. You can see further details on the page <a href="https://www.closer.ac.uk/data-resources/data-resourcesdata-resourcesaccess-data/">How to access the data</a>.</p>
+
+<p>Access to data is handled differently for each of the studies. Survey data from ESRC-funded surveys are available to bona fide researchers from the UK Data Service (UKDS). These are:</p>
+<ul>
+<li><a href="https://www.closer.ac.uk/study/1970-british-cohort-study/" target="_blank" rel="noopener noreferrer">1970 British Cohort Study</a></li>
+<li><a href="https://www.closer.ac.uk/study/millennium-cohort-study/" target="_blank" rel="noopener noreferrer">Millennium Cohort Study</a></li>
+<li><a href="https://www.closer.ac.uk/study/1958-national-child-development-study/" target="_blank" rel="noopener noreferrer">National Child Development Study</a></li>
+<li><a href="https://www.closer.ac.uk/study/understanding-society/" target="_blank" rel="noopener noreferrer">Understanding Society: The UK Household Longitudinal Study</a></li>
+</ul>
+
+<p>Anyone wishing to access the data will need to <a href="https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fukdataservice.ac.uk%2Fget-data%2Fhow-to-access%2Fregistration.aspx&data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694022692&sdata=MMTF8MpUlqccX2Le7VR2OvHpMb2UKRs%2FJNXzGhUnmCU%3D&reserved=0"target="_blank" rel="noopener noreferrer">register</a> with the UK Data Service before downloading. Some datasets are only available via<a href="https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fukdataservice.ac.uk%2Fget-data%2Fhow-to-access%2Fconditions%2Fspecial-licence.aspx&data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694022692&sdata=vQiQfxUALg5WXFO7Vxe%2Fs3fTIsZkcY2zZv7NvyemIec%3D&reserved=0" target="_blank" rel="noopener noreferrer"> Special Licence</a>, or via the <a href="https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fukdataservice.ac.uk%2Fget-data%2Fhow-to-access%2Faccesssecurelab.aspx&data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694032679&sdata=lEeA0%2BYMhld25maK0KF7tZTZnA%2FMRmCAMFa6RBfKYQY%3D&reserved=0UK" target="_blank" rel="noopener noreferrer">Data Service Secure Lab</a>.</p> 
+
+<p>The studies funded by the MRC have governance and access arrangements that comply with <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmrc.ukri.org%2Fresearch%2Fpolicies-and-guidance-for-researchers%2Fdata-sharing%2F&data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694032679&sdata=%2BdJmcbEbAXYr3DWSwvzNIXJaNszLR423soF2O4gHA34%3D&reserved=0MRC" target="_blank" rel="noopener noreferrer"> data sharing policy</a>. Researchers wishing to use data from these surveys need to contact the studies directly. Details of how to access data from each study is on the individual study pages:</p>
+
+<ul>
+<li><a href="https://www.closer.ac.uk/study/alspac-children-90s/" target="_blank" rel="noopener noreferrer">Avon Longitudinal Study of Parents and Children</a></li>
+<li><a href="https://www.closer.ac.uk/study/hertfordshire-cohort-study/" target="_blank" rel="noopener noreferrer">Hertfordshire Cohort Study</a></li>
+<li><a href="https://www.closer.ac.uk/study/mrc-national-survey-health-development/" target="_blank" rel="noopener noreferrer">National Survey of Health and Development</a></li>
+<li><a href="https://www.closer.ac.uk/study/southampton-womens-survey/" target="_blank" rel="noopener noreferrer">Southampton Women's Survey</a></li>
+<li><a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" rel="noopener noreferrer">Wirral Child Health and Development Study</a></li>
+</ul>
+
+
+
 <h5>Why can't I download study data from CLOSER Discovery?</h5>
 <p>There are a number of complex reasons behind this that relate to legal, ethical and consent issues. None of the studies allow unrestricted access to the data. This is in order to protect study members. CLOSER Discovery was never envisaged as being able to manage these complex access processes and it is out of the scope of the work being undertaken. CLOSER Discovery can help you better navigate those access arrangements, either by providing you with a list of variables you can request or by helping you identify what you need from large data sets with limited labelling.</p>
 <h5>Where can I find information on how variables were derived?</h5>
@@ -154,6 +177,3 @@ You will need to contact the studies individually for this information. This wou
 <li><a href="https://www.closer.ac.uk/contact/">Contact us</a></li>
 </ul>
 </div>
-
-
-		
