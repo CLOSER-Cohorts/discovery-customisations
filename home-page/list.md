@@ -17,7 +17,7 @@ To swap which list is active, click on the list name in the bottom left hand (bl
 
 To add variables or questions to the list, there is a (+) when you search or browse for a variable or question. 
 An example is: https://discovery.closer.ac.uk/search?Query=elephant&ResultOrdering=Relevance&IncludeDeprecated=false&PageNumber=1 
-This will add the item to your **active** list.
+Clicking on the (+) will add the item to your **active** list.
 
 **Removing variables or questions from the list**
 
