@@ -5,7 +5,7 @@ Lists are a useful way to save variables or questions you want to return to late
 To create a list, use the *Create a List* button and give it a name. You can add further information:
 
 - a description and sub-title
-- Principal Investiagor (your name)
+- Principal Investigator (your name)
 - a citation
 - a persistent identifier
 - decide whether you want it to be public or private (ot needs to be public if you want to share)
