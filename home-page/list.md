@@ -26,6 +26,6 @@ it should turn into a (+). Refresh the page or navigate to another page to save 
 
 **Sharing a basket**
 
-Copy the URL of the basket
-Download the metadata, in PDF, csv, Excel or DDI-Lifecycle format
+- Copy the URL of the basket
+- Download the metadata, in PDF, csv, Excel or DDI-Lifecycle format
 
