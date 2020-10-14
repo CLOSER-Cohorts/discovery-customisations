@@ -24,3 +24,8 @@ This will add the item to your **active** list.
 Navigate to the list by clicking on the list name in the bottom left hand (black) panel. Activate the list, and click on the (-) next to the item, 
 it should turn into a (+). Refresh the page or navigate to another page to save (there is no save button).
 
+**Sharing a basket**
+
+Copy the URL of the basket
+Download the metadata, in PDF, csv, Excel or DDI-Lifecycle format
+
