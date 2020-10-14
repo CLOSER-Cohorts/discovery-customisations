@@ -6,7 +6,7 @@ Use the ? icon under the search box to learn how to do more complex searches e.g
 
 **Refine your results**
 
-You can restrict you results by:
+You can restrict your results by:
 - Item type (dataset, questionnaire, variable, question)
 - Study (one or more studies
 - Life Stage (one or more life stages)
