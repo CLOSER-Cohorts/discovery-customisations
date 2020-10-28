@@ -1,12 +1,12 @@
 <div class="row page-title">
     <div class="meta pull-left">
         <h1>Overview of genetic array data available</h1>
+        <p>Our studies also collect genetic data, which isn't listed within CLOSER Discovery yet. A summary of genetic data in CLOSER studies, with links to accessing this data can be seen below.</p>
+        <p>Researchers wishing to access genetics data from ESRC-funded studies will need to apply to <a href="https://www.metadac.ac.uk/"target="_blank">METADAC</a>.</p>    
     </div>
-</div>
+
   
 <div class="col-sm-8">
-    <p>Our studies also collect genetic data, which isn't listed within CLOSER Discovery yet. A summary of genetic data in CLOSER studies, with links to accessing this data can be seen below.</p>
-    <p>Researchers wishing to access genetics data from ESRC-funded studies will need to apply to <a href="https://www.metadac.ac.uk/"target="_blank">METADAC</a>.</p>
   
   <table>
     <tbody>
@@ -339,7 +339,7 @@
   </p>
   
 </div>
-  
+</div>
   <style>
   .widget {
       margin-top: 20px;
