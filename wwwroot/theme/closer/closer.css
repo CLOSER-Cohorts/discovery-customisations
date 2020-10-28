@@ -118,10 +118,8 @@ body {
 
 #basket-download-csv-link,
 #basket-download-spss-link,
-#data-explorer-wrapper #item-tab-conceptual,
 #item-tab-parameters,
 #property-data-layout,
-button[title="Harmonized Variables"],
 button[title="Studies"] {
 	display: none;
 }
@@ -546,11 +544,6 @@ span.glyphicon-shopping-cart:before {
 
 /* fixes to add definition in new javascript layout, and 'removed' name */
 
-#property-label  {
-	font-weight: bolder;
-	color: white;
-}
-
 #property-collection-organization {
 	font-weight:lighter;
 }
@@ -580,6 +573,17 @@ span.glyphicon-shopping-cart:before {
 	display:none;
 }
 
+#organization-scheme-section  #property-label  {
+    display:none;
+}
+
+#universe-group-section  #property-label  {
+    display:none;
+}
+
+#universe-group-section  #property-description  {
+    display:none;
+}
 
 .green {
   background: #38b449!important;
@@ -622,3 +626,49 @@ span.glyphicon-shopping-cart:before {
   list-style: none;
   margin-left: 15px;
 }
+
+.study-list {
+   list-style-type:square; 
+   padding-left:15px; 
+   column-count: 2;
+   column-gap: 5px;
+   -moz-column-count: 2;
+   -moz-column-gap: 5px;
+   -webkit-column-count:2;
+   -webkit-column-gap: 5cpx;
+}
+
+
+#property-variables {
+  color: green;
+}
+
+#property-estimated-time {
+  visibility: hidden;;
+}
+
+#property-colectica\:sourceid {
+  display:none;
+}
+
+#property-closer\:sourcefilename {
+  display:none;
+}
+
+.representation-section {
+  display:none;
+}
+
+
+.property-aggregation-method {
+  display:none;
+}
+
+#custom-field- > div > span::after {
+    content: "Browse Dataset by Topics";
+}
+
+.versionable-list {
+    padding-left: 20px
+}
+    
