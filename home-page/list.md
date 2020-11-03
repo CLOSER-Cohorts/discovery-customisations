@@ -1,15 +1,27 @@
-**Search by text**
+Lists are a useful way to save variables or questions you want to return to later, or to share with others.
 
-Search will return any text that occurs in the name or label of a variable, the name or label of a question, the name dataset of questionnaire or the name of a study. 
+**Create a List**
 
-Use the ? icon under the search box to learn how to do more complex searches e.g. house AND age returns where both house and age are present.
+Use the *Create a List +* and give it a name. You can add further information:
 
-**Refine your results**
+- Description and sub-title
+- Principal Investigator (your name)
+- Citation
+- Persistent identifier (e.g. DOI)
+- Public or private - it needs to be public if you want to share the URL
 
-You can filter your results by:
-- Item type (dataset, questionnaire, variable, question)
-- Study (one or more studies)
-- Life Stage (one or more life stages)
-- Topic (one or more of our 16 top level topics)
+This makes your list active and any variables and/or questions you add will be automatically added to that list. You can have many lists. To swap between lists, click on the list name in the bottom left hand (black) panel and **Activate**.
 
-Click More.. or Advanced.. for more options to refine. 
+**Adding variables or questions to the list**
+
+Variables and/or questions can be added to a list using the **(+)** this will add the item to your **active** list.
+
+**Removing variables or questions from the list**
+
+Click on the (-) next to the item in your list, it should turn into a (+). Refresh the page to see the removal. 
+
+**Sharing a list**
+
+- Copy the URL of the list
+- Download the metadata in PDF, csv, Excel or DDI-Lifecycle format
+
