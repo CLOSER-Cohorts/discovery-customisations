@@ -2,15 +2,14 @@
 
 Use the tree on the left hand side to choose the topic you are interested in. The (+) sign indicates there are sub topics.
 
-**Refine your choices by item type**
+**Select item type**
 
-Refine your choice by choosing from the icons above
 - Variables (the chart icon) 
 - Questions (the ? icon) 
 
-**Filter your choices**
+**Refine your results**
 
 Filter (the funnel icon) 
-- Study 
-- Life Stage
+- Study (one or more studies)
+- Life Stage (one or more life stages)
  
