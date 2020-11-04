@@ -68,7 +68,6 @@ function convertSectionsToTabs() {
 	    }
 
 
-
         var classStr = "";
         if (sectionIdx === 0) {
             classStr = "active";
@@ -79,6 +78,7 @@ function convertSectionsToTabs() {
 			sectionId = "instruments-section"
 			headerText = "Questionnaires"
 		}
+
 		if (sectionId === undefined) {
 			dc = 2;
 		}
@@ -91,10 +91,9 @@ function convertSectionsToTabs() {
 		if (sectionId == "dataset-coverage-section") {
 			dc = 3;
 		}
-
-        if (sectionId === "concordance-section") {
+    if (sectionId == "related-variables-section") {
 			dc = 3;
-	    }
+		}
 
 
  		if (dc === 0) 	{
@@ -208,10 +207,10 @@ $(document).ready(function() {
         "label": "Understanding Society",
         "checked": true
       },
-	  {
-	    "identifier": "uk.whads:1503038e-c369-4912-a198-85e504c332e7",
-	    "label": "Wirral Child Health and Development Study",
-	    "checked": true
+	    {
+	      "identifier": "uk.whads:1503038e-c369-4912-a198-85e504c332e7",
+	      "label": "Wirral Child Health and Development Study",
+	      "checked": true
       }
     ];
     sessionStorage.setItem('home_study_filter', JSON.stringify(studies));
@@ -425,8 +424,7 @@ $(document).ready(function() {
     jQuery('button[title="Variables"]').trigger('click');
   }
 
-  convertSectionsToTabs();
 
-
+convertSectionsToTabs();
 
 });
