@@ -5,7 +5,7 @@
 </div>
 <div class="row">
 <div class="col-sm-8">
-<p>Our CLOSER Discovery how-to guides provide step-by-step instructions to help users find their way around the search engine. Please also refer to the <a href="/page/faqs/1#searching">FAQs How to search</a> for advanced search options.</p>
+<p>Our CLOSER Discovery how-to guides provide step-by-step instructions to help users find their way around the search engine. Please also refer to the <a href="/page/faqs/1#searching">FAQs How to search</a> for advanced search options. </p>
 <h4><a href="https://www.closer.ac.uk/wp-content/uploads/CLOSER-Discovery-how-to-guides-find-varaibles-from-similar-life-stages-across-different-studies.pdf" target="_blank">How do I find variables from similar life stage across different studies?</a></h4>
 <p>This guide explains how researchers can use CLOSER Discovery to search for cross-study cross-sectional data, such as asthma in early childhood across all studies.</p>
 <h4><a href="https://www.closer.ac.uk/wp-content/uploads/CLOSER-Discovery-how-to-guides-find-information-about-variable-from-particular-study.pdf" target="_blank">How do I find information about a variable from a particular study?</a></h4>
@@ -18,14 +18,12 @@
 <ul class="nav nav-pills nav-stacked col-sm-offset-1 col-sm-3">
 <li class="nav-title">Help Menu</li>
 <li><a href="/page/about/4">About </a></li>
-<li class="active"><a href="/page/how-to-guides/6">How-to guides</a></li>
 <li><a href="/page/faqs/1">Frequently Asked Questions</a></li>
-<li><a href="/page/content/8">Content (what's in and what's missing)</a></li>
-<li><a href="/page/genetic/2">Summary of genetic array data</a></li>
+<li class="active"><a href="/page/how-to-guides/6">How-to guides</a></li>
 <li><a href="/page/data-security/3">Data security and intellectual property</a></li>
 <li><a href="/page/privacy-policy/5">Privacy policy</a></li>
 <li><a href="https://www.closer.ac.uk/contact/">Contact us</a></li>
 </ul>
 </div>
 <p>To find out more about how to use CLOSER Discovery we recommend watching our webinar.</p>
-<p><iframe src="https://www.youtube.com/embed/F-vzi3YlIPQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/g7cUGjKQmR4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
