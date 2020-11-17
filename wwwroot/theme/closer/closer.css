@@ -644,7 +644,7 @@ span.glyphicon-shopping-cart:before {
 }
 
 #property-estimated-time {
-  visibility: hidden;;
+  visibility: hidden;
 }
 
 #property-colectica\:sourceid {
@@ -659,7 +659,6 @@ span.glyphicon-shopping-cart:before {
   display:none;
 }
 
-
 .property-aggregation-method {
   display:none;
 }
@@ -668,7 +667,13 @@ span.glyphicon-shopping-cart:before {
     content: "Browse Dataset by Topics";
 }
 
+
 .versionable-list {
     padding-left: 20px
 }
     
+    
+.referenced-by-breadcrumbs.hidden-xs.hidden-xm {
+  visibility: hidden;
+}
+   
