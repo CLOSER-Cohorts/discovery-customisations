@@ -420,7 +420,8 @@ $(document).ready(function() {
     $explorer.addClass('col-sm-9 row');
     jQuery('#main-content').css('border-top', '5px solid #666').css('margin-top', -15);
 //    jQuery('button[title="Variables"],button[title="Studies"]').trigger('click');
-    jQuery('button[title="Harmonized Variables"],button[title="Studies"]').remove();
+//    jQuery('button[title="Concordance Table"]').remove();
+    jQuery('button[title="Concordance Table (Concise)"]').remove();
     jQuery('button[title="Variables"]').trigger('click');
   }
 
