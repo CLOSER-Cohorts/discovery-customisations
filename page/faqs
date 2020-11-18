@@ -148,8 +148,12 @@ The nine studies included in CLOSER Discovery are listed below. Not all of the i
 You will need to contact the studies individually for this information. This would require significant manual effort to make available electronically and doing so is outside of the current scope of CLOSER.
 <p>Only ALSPAC has any weighted variables. These are not currently marked and you will need to contact the study for further details.</p>
 <h4 style="margin-top: 20px;"><a id="closer-discovery-accounts"></a>CLOSER Discovery accounts</h4>
+
+
 <h5>Why should I set up an account?</h5>
-<p>Creating a user account for CLOSER Discovery allows you to save lists of variables and questions. This means you are able to access your saved lists by logging in from anywhere. If you do not create an account, your lists will only be accessible locally through your browser and they will be lost when you clear your history or during a Discovery update. We will store and use your details in conjunction with our <a href="https://discovery.closer.ac.uk/page/privacy-policy/5">data protection policy.</a></p>
+<p>Creating a <a href="/Account/register">user account</a> for CLOSER Discovery allows you to save lists of variables and questions. This means you are able to access your saved lists by logging in from anywhere. If you do not create an account you will not be able to create a list. If you already have an account then you can <a href="/Account/Login">login here</a>. We will store and use your details in conjunction with our <a href="https://discovery.closer.ac.uk/page/privacy-policy/5">data protection policy.</a></p>
+
+
 <h4 style="margin-top: 20px;"><a id="Metadata-faq"></a>Metadata</h4>
 <h5>What is metadata?</h5>
 <p>Metadata is, simply put, data about data. It gives the data context. It describes, for example, when a given data collection wave took place and who conducted it. It describes the coverage of the data. It describes the exact questions asked and how they fit into an overall data collection instrument.</p>
