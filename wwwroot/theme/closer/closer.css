@@ -676,4 +676,8 @@ span.glyphicon-shopping-cart:before {
 .referenced-by-breadcrumbs.hidden-xs.hidden-xm {
   visibility: hidden;
 }
-   
+
+/* Temporary Fix to hide alternate title in Study view */
+#property-alternate-title {
+  display:none;
+}
