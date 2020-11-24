@@ -42,10 +42,10 @@ function convertSectionsToTabs() {
           headerText = "Source Questions"
 	    }
 
-        if (sectionId === "data-section")
-        {
-          headerText = "Datasets"
-	    }
+//        if (sectionId === "data-section")
+//        {
+//          headerText = "Datasets"
+//	    }
 
         if (sectionId === "usage-section")
         {
@@ -67,17 +67,21 @@ function convertSectionsToTabs() {
           headerText = "Studies"
 	    }
 
+        if (sectionId === "data-collection-container-section")
+        {
+          headerText = "Questionnaires"
+	    }
 
         var classStr = "";
         if (sectionIdx === 0) {
             classStr = "active";
         }
 
-        if (sectionId === undefined && dc === 0) {
-			dc = 1;
-			sectionId = "instruments-section"
-			headerText = "Questionnaires"
-		}
+//        if (sectionId === undefined && dc === 0) {
+//			dc = 1;
+//			sectionId = "instruments-section"
+//			headerText = "Questionnaires"
+//		}
 
 		if (sectionId === undefined) {
 			dc = 2;
@@ -91,9 +95,7 @@ function convertSectionsToTabs() {
 		if (sectionId == "dataset-coverage-section") {
 			dc = 3;
 		}
-    if (sectionId == "related-variables-section") {
-			dc = 3;
-		}
+
 
 
  		if (dc === 0) 	{
@@ -207,10 +209,10 @@ $(document).ready(function() {
         "label": "Understanding Society",
         "checked": true
       },
-	    {
-	      "identifier": "uk.whads:1503038e-c369-4912-a198-85e504c332e7",
-	      "label": "Wirral Child Health and Development Study",
-	      "checked": true
+	  {
+	    "identifier": "uk.whads:1503038e-c369-4912-a198-85e504c332e7",
+	    "label": "Wirral Child Health and Development Study",
+	    "checked": true
       }
     ];
     sessionStorage.setItem('home_study_filter', JSON.stringify(studies));
@@ -419,13 +421,17 @@ $(document).ready(function() {
     $sidebar.removeClass('notransition');
     $explorer.addClass('col-sm-9 row');
     jQuery('#main-content').css('border-top', '5px solid #666').css('margin-top', -15);
-//    jQuery('button[title="Variables"],button[title="Studies"]').trigger('click');
-//    jQuery('button[title="Concordance Table"]').remove();
+//  jQuery('button[title="Variables"],button[title="Studies"]').trigger('click')
+// Temporarily hide Concordance tabs 
+    jQuery('button[title="Concordance Table"]').remove();
     jQuery('button[title="Concordance Table (Concise)"]').remove();
     jQuery('button[title="Variables"]').trigger('click');
+
   }
 
 
 convertSectionsToTabs();
 
 });
+
+
