@@ -560,31 +560,6 @@ span.glyphicon-shopping-cart:before {
 	font-weight:lighter;
 }
 
-#property-dataset {
-	display:none;
-}
-
-#property-dataset {
-	display:none;
-}
-
-#property-is-inclusive
-{
-	display:none;
-}
-
-#organization-scheme-section  #property-label  {
-    display:none;
-}
-
-#universe-group-section  #property-label  {
-    display:none;
-}
-
-#universe-group-section  #property-description  {
-    display:none;
-}
-
 .green {
   background: #38b449!important;
 }
@@ -638,9 +613,35 @@ span.glyphicon-shopping-cart:before {
    -webkit-column-gap: 5cpx;
 }
 
-
 #property-variables {
   color: green;
+}
+
+/* Hide content that is not useful to users */
+
+#property-dataset {
+	display:none;
+}
+
+#property-dataset {
+	display:none;
+}
+
+#property-is-inclusive
+{
+	display:none;
+}
+
+#organization-scheme-section  #property-label  {
+    display:none;
+}
+
+#universe-group-section  #property-label  {
+    display:none;
+}
+
+#universe-group-section  #property-description  {
+    display:none;
 }
 
 #property-estimated-time {
@@ -663,21 +664,26 @@ span.glyphicon-shopping-cart:before {
   display:none;
 }
 
+.referenced-by-breadcrumbs.hidden-xs.hidden-xm {
+  visibility: hidden;
+}
+
+/* Give Topic browse a title */
 #custom-field- > div > span::after {
     content: "Browse Dataset by Topics";
 }
 
-
 .versionable-list {
     padding-left: 20px
-}
-    
-    
-.referenced-by-breadcrumbs.hidden-xs.hidden-xm {
-  visibility: hidden;
 }
 
 /* Temporary Fix to hide alternate title in Study view */
 #property-alternate-title {
   display:none;
 }
+
+   
+
+
+   
+    
