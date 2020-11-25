@@ -200,6 +200,11 @@ $(document).ready(function() {
         "checked": true
       },
       {
+	"identifier": "uk.cls.nextsteps:f25cb910-efa6-4938-b360-73f3f65d88a7".
+        "label": "Next Steps",
+        "checked": true
+      },
+      {
         "identifier": "uk.mrcleu-uos:03bdaf2d-f57a-487f-89f9-74150bfc3fad",
         "label": "Southampton Women's Survey",
         "checked": true
@@ -209,10 +214,10 @@ $(document).ready(function() {
         "label": "Understanding Society",
         "checked": true
       },
-	  {
-	    "identifier": "uk.whads:1503038e-c369-4912-a198-85e504c332e7",
-	    "label": "Wirral Child Health and Development Study",
-	    "checked": true
+      {
+	"identifier": "uk.whads:1503038e-c369-4912-a198-85e504c332e7",
+	"label": "Wirral Child Health and Development Study",
+	"checked": true
       }
     ];
     sessionStorage.setItem('home_study_filter', JSON.stringify(studies));
