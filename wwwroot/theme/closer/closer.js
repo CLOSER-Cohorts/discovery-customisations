@@ -200,7 +200,7 @@ $(document).ready(function() {
         "checked": true
       },
       {
-	"identifier": "uk.cls.nextsteps:f25cb910-efa6-4938-b360-73f3f65d88a7".
+	"identifier": "uk.cls.nextsteps:f25cb910-efa6-4938-b360-73f3f65d88a7",
         "label": "Next Steps",
         "checked": true
       },
