@@ -10,8 +10,6 @@ earliest.
 
 Navigate to the study you are interested in:
 
-<a href="#avon-longitudinal-study-of-parents-and-children">ALSPAC</a>
-
 -   [1970 British Cohort Study](#british-cohort-study)
 -   [Avon Longitudinal Study of Parents and Children](#avon-longitudinal-study-of-parents-and-children)
 -   [Health and Employment After Fifty](#health-and-employment-after-fifty)
@@ -25,7 +23,7 @@ Navigate to the study you are interested in:
 -   [Wirral Child Health and Development Study](#wirral-child-health-and-development-study)
 
   
-## <a name="british-cohort-study">1970 British Cohort Study</a>
+## 1970 British Cohort Study
 
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 | Questionnaire name                                                         | Life stage                   | Start year | Discovery     | Discovery |
@@ -138,8 +136,7 @@ Navigate to the study you are interested in:
 | BCS70 Age 50 COVID-19 Survey Wave 3                                        | Mid\-adulthood               | Feb 2021   | N             | Y         |
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+  
 
- <h2>ALSPAC</h2>
-## <a>Avon Longitudinal Study of Parents and Children</a>
+## Avon Longitudinal Study of Parents and Children
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 | Questionnaire name                                                         | Life stage                   | Start year | Discovery     | Discovery |
 |                                                                            |                              |            | questionnaire | dataset   |
