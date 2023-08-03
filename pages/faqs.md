@@ -1,4 +1,4 @@
-<div class="row page-title">
+f<div class="row page-title">
   <div class="meta pull-left">
     <h1>Frequently Asked Questions</h1>
 
