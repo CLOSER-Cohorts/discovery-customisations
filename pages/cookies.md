@@ -14,7 +14,7 @@
 
 <p>Some cookies are essential, enabling you to move around the website and make use of features.  Others are used to understand how you interact with a website, such as which pages you visit, so we can improve our website to better meet user needs. 
 
-<p>The following cookies provide statistics on our website:</p> 
+</p><p>The following cookies provide statistics on our website:</p> 
 
 <p>_gid - Registers a unique ID that is used to generate statistical data on how the visitor uses the website.</p>  
 
@@ -32,7 +32,7 @@
 
 <p><a href="https://support.microsoft.com/en-gb/windows/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd" target="_blank" rel="noopener noreferrer">Microsoft Edge</a></p>   
 
-<p><a href="https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US" target="_blank" rel="noopener noreferrer">Mozilla Firefox</a></p>   
+<p><a href="https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&amp;redirectlocale=en-US" target="_blank" rel="noopener noreferrer">Mozilla Firefox</a></p>   
 
 <p><a href="https://support.microsoft.com/en-gb/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d" target="_blank" rel="noopener noreferrer">Microsoft Internet Explorer</a></p>   
 
@@ -53,7 +53,8 @@
     <li><a href="/page/content/2">Study coverage</a></li>
     <li><a href="/page/genetics/5">Genetic array data summary</a></li>
     <li><a href="/page/terms/3">Terms and conditions</a></li>
-    <li class="active"><a href="/page/privacy-policy/7">Privacy policy</a></li>
+    <li><a href="/page/privacy-policy/7">Privacy policy</a></li>
+    <li class="active"><a href="/page/cookies/8">Cookies</a></li>
     <li><a href="https://www.closer.ac.uk/contact/">Contact us</a></li>
   </ul>
 </div>
