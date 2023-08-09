@@ -1,4 +1,4 @@
-f<div class="row page-title">
+<div class="row page-title">
   <div class="meta pull-left">
     <h1>Frequently Asked Questions</h1>
 
@@ -194,6 +194,7 @@ CLOSER Discovery contains the derived variable lineage, but not the derivation m
     <li><a href="/page/genetics/5">Genetic array data summary</a></li>
     <li><a href="/page/terms/3">Terms and conditions</a></li>
     <li><a href="/page/privacy-policy/7">Privacy policy</a></li>
+    <li><a href="/page/cookies/8">Cookies</a></li>
     <li><a href="https://www.closer.ac.uk/contact/">Contact us</a></li>
   </ul>
 </div>
