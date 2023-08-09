@@ -46,6 +46,7 @@ To find out more about data access arrangements for each of the studies, visit t
     <li><a href="/page/genetics/5">Genetic array data summary</a></li>
     <li><a href="/page/terms/3">Terms and conditions</a></li>
     <li><a href="/page/privacy-policy/7">Privacy policy</a></li>
+    <li><a href="/page/cookies/8">Cookies</a></li>
     <li><a href="https://www.closer.ac.uk/contact/">Contact us</a></li>
   </ul>
 </div>
