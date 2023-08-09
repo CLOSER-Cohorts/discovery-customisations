@@ -17,14 +17,16 @@
 <p>Our privacy policy explains:</p>
 
 <ul>
-<li>How we will use any data that you share with us when you create an account for CLOSER Discovery and visit the discovery.closer.ac.uk website.</li>
-<li>How we will protect that information.</li>  
-<li>How you can contact us to tell us not to use your information in any of the ways described in the policy.</li>  
+<li>Why and how we use cookies on our website</li>  
+<li>How you can use your browser settings to control cookies</li> 
+<li>How we will use any data that you share with us when you create an account for CLOSER Discovery and visit the discovery.closer.ac.uk website</li>
+<li>How we will protect that information</li>  
+<li>How you can contact us to tell us not to use your information in any of the ways described in the policy</li>  
 </ul>
 
 <p>We are legally required to tell you how we will use this information and give you the opportunity to tell us not to use your information in that way.</p>
 
-<p>Please refer to the CLOSER privacy policy for information on how we protect your personal information when you sign up to CLOSER newsletters, contact CLOSER on social media, attend CLOSER events, visit the closer.ac.uk website, or apply to work with us. </p>
+<p>Please refer to the <a href="https://closer.ac.uk/privacy/" target="_blank" rel="noopener noreferrer">CLOSER privacy policy</a> for information on how we protect your personal information when you sign up to CLOSER newsletters, contact CLOSER on social media, attend CLOSER events, visit the closer.ac.uk website, or apply to work with us. </p>
 
 <h2>Who are we?</h2>
 <p>CLOSER, the home of longitudinal research, is the interdisciplinary partnership of leading social and biomedical longitudinal population studies, the UK Data Service and The British Library. </p>
@@ -40,7 +42,37 @@
 <h2>The data we collect</h2>
 
 <h3>Data we collect when you use our website </h3>
-<p>When you visit our website we collect data that is obtained from cookies. We only collect and use information using cookies if you accept these cookies. You can find information on how we collect and use cookies on our cookies page.</p>
+<p>When you visit our website we collect data that is obtained from cookies. A cookie is a small piece of data that websites collect from visits, which can identify a web-enabled user device such as a computer, laptop, PDA, mobile, smartphone or tablet. You can find out more about cookies, including how to see what cookies have been set, by visiting <a href="https://www.aboutcookies.org" target="_blank" rel="noopener noreferrer">aboutcookies.org</a> or <a href="https://allaboutcookies.org/" target="_blank" rel="noopener noreferrer">allaboutcookies.org</a>.</p>
+
+<p>Some cookies are essential, enabling you to move around the website and make use of features.  Others are used to understand how you interact with a website, such as which pages you visit, so we can improve our website to better meet user needs. 
+
+</p><p>The following cookies provide statistics on our website:</p> 
+
+<p>_gid - Registers a unique ID that is used to generate statistical data on how the visitor uses the website.</p>  
+
+<p>_gat_UA limits the amount of data recorded by Google on high traffic volume websites.</p>  
+
+<p>_ga – Main cookie used by Google Analytics and distinguishes one visitor from another. Lasts for 2 years.</p> 
+
+<h4>How to change your cookie settings</h4>
+<p>Most web browsers allow some control of most cookies through the browser settings.</p>  
+
+<p>Find out how to manage cookies on popular browsers:</p>  
+
+<p><a href="https://support.apple.com/en-gb/HT201265" target="_blank" rel="noopener noreferrer">Apple Safari</a></p>   
+<p><a href="https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Chrome</a></p>  
+
+<p><a href="https://support.microsoft.com/en-gb/windows/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd" target="_blank" rel="noopener noreferrer">Microsoft Edge</a></p>   
+
+<p><a href="https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&amp;redirectlocale=en-US" target="_blank" rel="noopener noreferrer">Mozilla Firefox</a></p>   
+
+<p><a href="https://support.microsoft.com/en-gb/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d" target="_blank" rel="noopener noreferrer">Microsoft Internet Explorer</a></p>   
+
+<p><a href="https://help.opera.com/en/latest/web-preferences/" target="_blank" rel="noopener noreferrer">Opera</a></p>   
+
+<p>You can find information relating to other browsers, by visiting the browser developer’s website.</p>  
+
+<p>To opt out of being tracked by Google Analytics across all websites, visit <a href="http://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener noreferrer">http://tools.google.com/dlpage/gaoptout</a>.</p>  
 
 <h2> Personal information we collect when you register for a CLOSER Discovery account </h2>
 <ul>
@@ -97,7 +129,7 @@
 
 <h3> How to complain  </h3>
 
-<p>If you have any concerns about our use of your personal information, you can make a complaint to us at CLOSER. </p>
+<p>If you have any concerns about our use of your personal information, you can make a complaint to us at <a href="https://closer.ac.uk/" target="_blank" rel="noopener noreferrer">CLOSER</a>.</p>
 
 
 <p>You can also complain to the ICO if you are unhappy with how we have used your data. </p>
@@ -105,7 +137,7 @@
 <p>The ICO’s address:</p>
 <p>Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF</p>
 <p>Helpline number: 0303 123 1113</p>
-<p>ICO website: https://www.ico.org.uk </p>
+<p>ICO website: <a href="https://www.ico.org.uk" target="_blank" rel="noopener noreferrer">ico.org.uk</a>.</p>
 <p>This privacy notice was published September 2023. </p>
 </div>
   <div class="nav nav-pills nav-stacked col-sm-offset-1 col-sm-3">
