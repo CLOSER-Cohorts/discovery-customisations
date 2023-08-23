@@ -1,11 +1,6 @@
 <div class="row page-title">
-  <div class="meta pull-left">
     <h1>Terms and conditions</h1>
-  </div>
 </div>
-
-<div class="row">
-  <div class="col-sm-8">
 
 <h1>Terms and conditions</h1>
 
@@ -22,22 +17,5 @@
 <p>The metadata for each study remains the intellectual property of that study at all times. All overarching metadata are the intellectual property of CLOSER and its funders. This is clearly indicated in the metadata themselves, where every item is tagged with an agency.</p>
 
 <p>The metadata is being made available under the <a href="https://www.nationalarchives.gov.uk/doc/non-commercial-government-licence" target="_blank" rel="noopener noreferrer">Non-Commercial Government Licence for public sector information</a>. Please make yourself familiar with this licence before making further use of the metadata.</p>
-
-</div>
-  <div class="nav nav-pills nav-stacked col-sm-offset-1 col-sm-3">
-    <ul class="help-pages-menu">
-    <li class="nav-title">Help Menu</li>
-    <li><a href="/page/about/1">About</a></li>
-    <li><a href="/page/how-to-guides/6">How-to guides</a></li>
-    <li><a href="/page/faqs/4">Frequently Asked Questions</a></li>
-    <li><a href="/page/content/2">Study coverage</a></li>
-    <li><a href="/page/genetics/5">Genetic array data summary</a></li>
-    <li class="active"> <a href="/page/terms/3">Terms and conditions</a></li><a href="/page/terms/3"></a>
-    <li><a href="/page/privacy-policy/7">Privacy policy</a></li>
-    <li><a href="/page/cookies/8">Cookies</a></li>
-    <li><a href="https://www.closer.ac.uk/contact/">Contact us</a></li>
-  </ul>
-</div>
-</div>
 
 
