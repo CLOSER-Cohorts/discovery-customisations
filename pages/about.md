@@ -8,7 +8,7 @@
   <div class="col-sm-8">
 
 
-<h1>About CLOSER Discovery</h1>
+<h2>About CLOSER Discovery</h2>
 
 <p>CLOSER Discovery is a research tool for locating the variables that best suit your research interests and testing their robustness.</p>
 
@@ -23,7 +23,7 @@
 </ul>
 <p>You can save information for questions and variables of interest to a List, and download this for your reference or submit with a data request. You will need to make an account to create a list so it can be saved.</p>
 
-<h2>About metadata</h2>
+<h3>About metadata</h3>
 <p>CLOSER Discovery is built using metadata. Simply put, metadata is data about data. By using metadata, CLOSER Discovery allows you to find out what is available in the UK’s longitudinal datasets, 
 understand the context of how the data were created and to make an assessment about whether the data would be useful for you to pursue. </p>
 <p>CLOSER Discovery signposts you to where you can request access to the data you’re interested in. 
@@ -31,7 +31,7 @@ To find out more about data access arrangements for each of the studies, visit t
 
 <p>For users who are interested in metadata and the technical aspects of CLOSER Discovery, please visit the <a href="https://wiki.ucl.ac.uk/display/CLOS/What+is+the+CLOSER+Technical+Wiki " target="_blank" rel="noopener noreferrer">CLOSER Technical Wiki</a>.</p>
 
-<h2>Getting started</h2>
+<h3>Getting started</h3>
 <p>For more information please refer to our <a href="/page/how-to-guides/6"> How-to guides </a> and <a href="/page/faqs/4"> FAQs</a>.</p>
 
 
@@ -44,10 +44,6 @@ To find out more about data access arrangements for each of the studies, visit t
     <li><a href="/page/faqs/4">Frequently Asked Questions</a></li>
     <li><a href="/page/content/2">Study coverage</a></li>
     <li><a href="/page/genetics/5">Genetic array data summary</a></li>
-    <li><a href="/page/terms/3">Terms and conditions</a></li>
-    <li><a href="/page/privacy-policy/7">Privacy policy</a></li>
-    <li><a href="/page/cookies/8">Cookies</a></li>
-    <li><a href="https://www.closer.ac.uk/contact/">Contact us</a></li>
   </ul>
 </div>
 </div>
