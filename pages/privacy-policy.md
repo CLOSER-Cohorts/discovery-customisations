@@ -1,11 +1,8 @@
 <div class="row page-title">
-  <div class="meta pull-left">
     <h1>Privacy Policy</h1>
   </div>
-</div>
 
-<div class="row">
-  <div class="col-sm-8">
+
 
 <h1>Privacy Policy</h1>
 
@@ -103,20 +100,4 @@
 <p>Helpline number: 0303 123 1113</p>
 <p>ICO website: <a href="https://www.ico.org.uk" target="_blank" rel="noopener noreferrer">ico.org.uk</a>.</p>
 <p>This privacy notice was published September 2023. </p>
-</div>
-  <div class="nav nav-pills nav-stacked col-sm-offset-1 col-sm-3">
-    <ul class="help-pages-menu">
-    <li class="nav-title">Help Menu</li>
-    <li><a href="/page/about/1">About</a></li>
-    <li><a href="/page/how-to-guides/6">How-to guides</a></li>
-    <li><a href="/page/faqs/4">Frequently Asked Questions</a></li>
-    <li><a href="/page/content/2">Study coverage</a></li>
-    <li><a href="/page/genetics/5">Genetic array data summary</a></li>
-    <li><a href="/page/terms/3">Terms and conditions</a></li>
-    <li class="active"><a href="/page/privacy-policy/7">Privacy policy</a></li>
-    <li><a href="/page/cookies/8">Cookies</a></li>
-    <li><a href="https://www.closer.ac.uk/contact/">Contact us</a></li>
-  </ul>
-</div>
-</div>
 
