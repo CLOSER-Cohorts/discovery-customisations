@@ -1,13 +1,9 @@
 <div class="row page-title">
-  <div class="meta pull-left">
     <h1>Cookies</h1>
-  </div>
 </div>
 
-<div class="row">
-  <div class="col-sm-8">
 
-<h1>Cookies</h1>
+<h2>Cookies</h2>
 
 <h3>Data we collect when you use our website </h3>
 <p>When you visit our website we collect data that is obtained from cookies. A cookie is a small piece of data that websites collect from visits, which can identify a web-enabled user device such as a computer, laptop, PDA, mobile, smartphone or tablet. You can find out more about cookies, including how to see what cookies have been set, by visiting <a href="https://www.aboutcookies.org" target="_blank" rel="noopener noreferrer">aboutcookies.org</a> or <a href="https://allaboutcookies.org/" target="_blank" rel="noopener noreferrer">allaboutcookies.org</a>.</p>
@@ -22,7 +18,7 @@
 
 <p>_ga – Main cookie used by Google Analytics and distinguishes one visitor from another. Lasts for 2 years.</p> 
 
-<h4>How to change your cookie settings</h4>
+<h3>How to change your cookie settings</h3>
 <p>Most web browsers allow some control of most cookies through the browser settings.</p>  
 
 <p>Find out how to manage cookies on popular browsers:</p>  
@@ -42,20 +38,3 @@
 
 <p>To opt out of being tracked by Google Analytics across all websites, visit <a href="http://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener noreferrer">http://tools.google.com/dlpage/gaoptout</a>.</p>  
 
-
-</div>
-  <div class="nav nav-pills nav-stacked col-sm-offset-1 col-sm-3">
-    <ul class="help-pages-menu">
-    <li class="nav-title">Help Menu</li>
-    <li><a href="/page/about/1">About</a></li>
-    <li><a href="/page/how-to-guides/6">How-to guides</a></li>
-    <li><a href="/page/faqs/4">Frequently Asked Questions</a></li>
-    <li><a href="/page/content/2">Study coverage</a></li>
-    <li><a href="/page/genetics/5">Genetic array data summary</a></li>
-    <li><a href="/page/terms/3">Terms and conditions</a></li>
-    <li><a href="/page/privacy-policy/7">Privacy policy</a></li>
-    <li class="active"><a href="/page/cookies/8">Cookies</a></li>
-    <li><a href="https://www.closer.ac.uk/contact/">Contact us</a></li>
-  </ul>
-</div>
-</div>
