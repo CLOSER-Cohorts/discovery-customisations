@@ -98,13 +98,20 @@
         
       </tr>
       <tr>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">1970 British Cohort Study (BCS70)</td>
+        <td rowspan="2" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">1970 British Cohort Study (BCS70)</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">In field</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">To be determined</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">5,807</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Infinium global screening arrays-24 v3.0</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Coming when funding available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">N/A</td>
+        <td rowspan="2" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)"><a href="https://cls.ucl.ac.uk/data-access-training/genetic-data-and-biological-samples" target="_blank">Centre for Longitudinal Studies genetic data and biological samples page</a>**</td>
+      </tr>
+        <tr>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">5,433</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Imputed data</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Coming when funding available</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
       </tr>
         <tr>
             <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Hertfordshire Cohort Study (HCS)</td>
@@ -118,7 +125,7 @@
         <tr>
         <td rowspan="2" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Millennium Cohort Study (MCS)</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother, father and cohort member triad</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">21,192</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">21,169</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Infinium global screening arrays-24 v1.0</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Saliva</td>
@@ -126,16 +133,15 @@
       </tr>
         <tr>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother, father and cohort member triad</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">21,192</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">20,257</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Imputed data</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Saliva</td>
       </tr>
-       
         <tr>
             <td rowspan="13" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">1958 National Child Development Study (NCDS)</td>
             <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
-            <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">1,502</td>
+            <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">1,477</td>
             <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Affymetrix 500K</td>
             <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
             <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Immortalised LCL</td>
@@ -145,7 +151,7 @@
         </tr>
         <tr>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
-         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">2,997</td>
+         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">2,982</td>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Affymetrix v6</td>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Immortalised LCL</td>
@@ -153,7 +159,7 @@
         </tr>
         <tr>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
-         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">6,644</td>
+         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">5,644</td>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Dynal RELI SSO assay</td>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Immortalised LCL</td>
@@ -161,15 +167,14 @@
         </tr>
         <tr>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
-         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">2,922</td>
+         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">2,908</td>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Illumina 1.2M</td>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Immortalised LCL</td>
-         
         </tr>
         <tr>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
-         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">1,475</td>
+         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">1,476</td>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Illumina 15K Custom chip</td>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Immortalised LCL</td>
@@ -186,7 +191,7 @@
         </tr>
         <tr>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
-         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">6,894</td>
+         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">6,610</td>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Illumina ImmunoBeadShip – Illuminus, GenoSNP</td>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Immortalised LCL</td>
@@ -194,7 +199,7 @@
         </tr>
         <tr>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
-         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">5,840</td>
+         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">5,602</td>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Illumina Metabochip</td>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
          <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Immortalised LCL</td>
@@ -210,7 +215,7 @@
       </tr>
       <tr>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">2,592</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">2,598</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Infinium HumanHap 550K v3</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>
@@ -227,7 +232,7 @@
       </tr>
       <tr>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">~6000 (combined)</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">6,312 (combined)</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Imputed data</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Immortalised LCL</td>
