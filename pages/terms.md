@@ -4,18 +4,55 @@
 
 <h1>Terms and conditions</h1>
 
-<p>CLOSER Discovery allows an unprecedented level of access to information about the data in the nine longitudinal studies. A key part of this was to ensure data security and intellectual property requirements were respected.</p>
+<p>These terms and conditions (terms) explain the how you may use the CLOSER Discovery site. We may amend these terms at any time, so you should regularly check this page.</p>
 
-<h2>Data security</h2>
-<p>CLOSER Discovery hosts metadata. This is, simply put, data about data. It does not host the data itself. Variables are all listed by name, linked to their data set and their source data collection instrument. There are also summary statistics for each variable, such as valid and invalid, minimum and maximum, frequency, etc. However, these are stored only as the final values. The data behind them is not included within CLOSER Discovery.</p>
 
-<p>For example, if a question was asked of 2,500 people and an answer was recorded for 2,000, then there would be 2,000 valid and 500 invalid responses. If the question had Yes and No as possible answers, CLOSER Discovery might tell you that 1,500 said Yes and 500 said No. These are recorded simply as Yes = 1,500 and No = 500. The individual responses are not stored. It is not, therefore, possible to find out from CLOSER Discovery what person number 1,437 answered.</p>
+<p>When using this website it is important that you read and understand the CLOSER Discovery <a href="/page/privacy-policy/7"> privacy policy</a>, <a href="/page/cookies/8"> cookie policy </a> and <a href="/page/accessibility/9"> accessibility statement</a>.</p>
 
-<p>It is also not possible to cross-tabulate within CLOSER Discovery. We know that 1,500 said Yes to question 1 and 1,500 said Yes to question 2. There is no way, in the metadata, to know if those are the same 1,500 people or not. The only exception is where questions are dependent. If question 2 was only asked of people who said Yes to question 1, then you will know they are the same. This allows you to make useful judgements about the robustness of the data, but you will need to source and analyse the data itself to gain more detail.</p>
+<h2>CLOSER</h2>
+
+<p>This site is managed by CLOSER, the home of longitudinal research. We are the interdisciplinary partnership of leading social and biomedical longitudinal population studies, the UK Data Service and The British Library.  
+</p>
+
+<p>Any references to ‘we’, ‘us’ or ‘our’ in these terms refer to CLOSER. We are based at the IOE, UCL’s Faculty of Education and Society, University College London (UCL). Our office address is 55-59 Gordon Square, London WC1H 0NU. 
+</p>
+
+<h2>Disclaimer </h2>
+
+<p>We make all reasonable effort to ensure that the content of this website is up-to-date and accurate at the time of publication or subsequent modification, but we accept no responsibility for any errors, omissions or changes that are made at a later date.  
+</p>
+
+<p>We can accept no liability for loss or damage that results either directly or indirectly by users of any information published on this site, or any pages/sites that are linked to from this site.  
+</p>
+
 
 <h2>Metadata intellectual property</h2>
 <p>The metadata for each study remains the intellectual property of that study at all times. All overarching metadata are the intellectual property of CLOSER and its funders. This is clearly indicated in the metadata themselves, where every item is tagged with an agency.</p>
 
 <p>The metadata is being made available under the <a href="https://www.nationalarchives.gov.uk/doc/non-commercial-government-licence" target="_blank" rel="noopener noreferrer">Non-Commercial Government Licence for public sector information</a>. Please make yourself familiar with this licence before making further use of the metadata.</p>
 
+
+<p>If you wish to use our logos or other content on this website, you must seek prior approval from our Communications team. Please email closer@ucl.ac.uk.
+</p>
+
+<h2>Acceptable use</h2>
+
+<p>You must only use this website and the information that it contains for lawful purposes and must not breach these terms.  
+</p>
+
+
+<p>You must not infringe copyright or other proprietary rights, disrupt how the website works, interfere with how it works (such as breaking security), or facilitate transmission of a virus or material that could potentially damage the website. By using this site you also agree not to use information from the site for any unrequested purpose such as spamming or sending bulk emails.  
+</p>
+
+
+<p>We welcome you adding links to the CLOSER website on your website, without seeking prior approval.  
+</p>
+
+
+<p>For any further information, please email closer@ucl.ac.uk. 
+</p>
+
+
+<p>
+</p>
 
