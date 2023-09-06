@@ -41,9 +41,9 @@
 
 <h2> Personal information we collect when you register for a CLOSER Discovery account </h2>
 <ul>
-<li>First name</li>
+<li>Email</li>
+<li>First name</li>  
 <li>Research Area</li>  
-<li>Email</li>  
 <li>Organisation</li>  
 <li>Country</li>  
 <li>Role</li>  
@@ -70,18 +70,18 @@
 
 <p>The data hosted within CLOSER Discovery is metadata. This is, simply put, data about data. It does not host the data itself. Variables are all listed by name, linked to their dataset and their source data collection instrument. There are also summary statistics for each variable, such as valid and invalid, minimum and maximum, frequency, etc. However, these are stored only as the final values. The data behind them is not included within CLOSER Discovery.   </p>
 
-<p>For example, if aan answer to a question was recorded for 2,000 people and it had Yes and No as possible answers, CLOSER Discovery records these simply as Yes = 1,500 and No = 500. Individual responses are not stored so you cannot find out from CLOSER Discovery what person number 1,437 answered. You also cannot cross-tabulate within CLOSER Discovery. If 1,500 people said Yes to question 1 and 1,500 said Yes to question 2, you cannot ascertain if those are the same 1,500 people or not (with the exception where questions are dependent questions).  </p>
+<p>For example, if an answer to a question was recorded for 2,000 people and it had Yes and No as possible answers, CLOSER Discovery records these simply as Yes = 1,500 and No = 500. Individual responses are not stored so you cannot find out from CLOSER Discovery what person number 1,437 answered. You also cannot cross-tabulate within CLOSER Discovery. If 1,500 people said Yes to question 1 and 1,500 said Yes to question 2, you cannot ascertain if those are the same 1,500 people or not (with the exception where questions are dependent questions).  </p>
 
 <h2>Your data protection rights </h2>
 
 <p>Under data protection law, you have rights including: </p>
 
 <ul>
-<li>Your right of access - You have the right to ask us for copies of your personal information.</li>
-<li>Your right to rectification - You have the right to ask us to rectify personal information you think is inaccurate. You also have the right to ask us to complete information you think is incomplete.  </li>  
-<li>Your right to erasure - You have the right to ask us to erase your personal information in certain circumstances.   </li>  
-<li>Your right to restriction of processing - You have the right to ask us to restrict the processing of your personal information in certain circumstances.   </li>  
-<li>Your right to object to processing - You have the right to object to the processing of your personal information in certain circumstances.  </li>  
+<li><b> Your right to access </b> - You have the right to ask us for copies of your personal information.</li>
+<li><b>Your right to rectification</b> - You have the right to ask us to rectify personal information you think is inaccurate. You also have the right to ask us to complete information you think is incomplete.  </li>  
+<li><b>Your right to erasure </b>- You have the right to ask us to erase your personal information in certain circumstances.   </li>  
+<li><b>Your right to restriction of processing </b> - You have the right to ask us to restrict the processing of your personal information in certain circumstances.   </li>  
+<li><b>Your right to object to processing </b> - You have the right to object to the processing of your personal information in certain circumstances.  </li>  
 </ul>
 
 <p>You are not required to pay any charge for exercising your rights. If you make a request, we have one month to respond to you. </p>
