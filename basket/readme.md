@@ -8,7 +8,7 @@ Cover page is a png file that is size of paper to be used (in this case A4).
 Path to cover page in administration needs to be full qualified path on the server e.g c:\blah\blah\cover-page-name.png
 
 Header Text: CLOSER Discovery
-Footer Text: Copyright CLOSER. All rights reserved. 
+Footer Text: Metadata downloaded from CLOSER Discovery. Copyright © 2023 CLOSER
 Include Cover Page:  YES
 Include Table of Contents: YES
 Page Size: A4
