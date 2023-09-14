@@ -1,0 +1,1 @@
+We use cookies on our site. Some of these are essential, while others help us improve your experience by providing insights into how the site is used. For information on the cookies we collect and how you can control these through your browser settings, please see our cookies policy. 
