@@ -1,10 +1,6 @@
 <div class="row page-title">
-    <h1>Cookies</h1>
+    <h1>Cookies Policy</h1>
 </div>
-
-
-<h1>Cookies Policy</h1>
-
 
 <p>When you visit our site we collect data that is obtained from cookies.  </p> 
 
