@@ -3,9 +3,6 @@
   </div>
 
 
-
-<h1>Privacy Policy</h1>
-
 <p>At CLOSER, we are committed to protecting your personal information and being transparent about what we do with it. We comply with the requirements of the General Data Protection Regulations (GDPR) with regard to the collection, processing, storage and disclosure of personal information.   </p>
 
 <h2>What CLOSER Discovery’s privacy policy covers</h2>
@@ -15,7 +12,7 @@
 <ul>
 <li>How we will use any data that you share with us when you create an account for CLOSER Discovery and visit the discovery.closer.ac.uk website.</li>
 <li>How we will protect that information.</li>  
-<li>How you can contact us to tell us not to use your information in any of the ways described in the policy</li>  
+<li>How you can contact us to tell us not to use your information in any of the ways described in the policy.</li>  
 </ul>
 
 <p>We are legally required to tell you how we will use this information and give you the opportunity to tell us not to use your information in that way.</p>
@@ -53,7 +50,7 @@
 
 <p>Under the UK GDPR, the lawful basis we rely on for processing this information is our legitimate interest to contact users in the event of a service update and to provide relevant content to help ensure that longitudinal evidence is used to address the health, social, economic and environmental challenges facing the UK.</p>
      
-<h2> Who will my personal information be shared with </h2>
+<h2> Who my personal information will be shared with  </h2>
 
 <p>We do not provide any personal information about users of our website to third parties or other users, unless we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of CLOSER, or others. </p>
 
@@ -61,13 +58,13 @@
 
 <h2>How we store your personal information</h2>
 
- <p>Your information is stored in a contact database held on a UCL ISD server which is behind a secure firewall. The data are password protected and accessible only to CLOSER and the UCL ISD team. All passwords which are created for user accounts are saved as hashed versions, which means they cannot be decoded. </p>
+ <p>Your information is stored in a contact database held on a UCL Institute of Education’s System Support Development &amp; Integration (SSD&amp;I) server which is behind a secure firewall. The data are password protected and accessible only to CLOSER and the IOE SSD&amp;I team. All passwords which are created for user accounts are saved as hashed versions, which means they cannot be decoded. </p>
 
-<p>The accuracy of your information is important to us. If you change your address or believe any of the other information we hold concerning you is out of date, please email closer@ucl.ac.uk. </p>
+<p>The accuracy of your information is important to us. If you change your address or believe any of the other information we hold concerning you is out of date, please email closer@ucl.ac.uk. We will dispose of your information once you delete your Discovery user account.  </p>
 
 <h2> Data security</h2>
 
-<p>The data hosted within CLOSER Discovery is metadata. This is, simply put, data about data. It does not host the data itself. Variables are all listed by name, linked to their dataset and their source data collection instrument. There are also summary statistics for each variable, such as valid and invalid, minimum and maximum, frequency, etc. However, these are stored only as the final values. The data behind them is not included within CLOSER Discovery.   </p>
+<p>The data hosted within CLOSER Discovery is metadata. This is, simply put, data about data. We do not host the data itself. Variables are all listed by name, linked to their dataset and their source data collection instrument. There are also summary statistics for each variable, such as valid and invalid, minimum and maximum, frequency, etc. However, these are stored only as the final values. The data behind them is not included within CLOSER Discovery.   </p>
 
 <p>For example, if an answer to a question was recorded for 2,000 people and it had Yes and No as possible answers, CLOSER Discovery records these simply as Yes = 1,500 and No = 500. Individual responses are not stored so you cannot find out from CLOSER Discovery what person number 1,437 answered. You also cannot cross-tabulate within CLOSER Discovery. If 1,500 people said Yes to question 1 and 1,500 said Yes to question 2, you cannot ascertain if those are the same 1,500 people or not (with the exception where questions are dependent questions).  </p>
 
