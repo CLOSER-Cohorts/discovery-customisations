@@ -6,10 +6,9 @@
 
 <h1>Privacy Policy</h1>
 
-<p>At CLOSER, we are committed to protecting your personal information and being transparent about what we do with it. We comply with the requirements of the General Data Protection Regulations (GDPR) with regard to the collection, processing, storage and disclosure of personal information.</p>
+<p>At CLOSER, we are committed to protecting your personal information and being transparent about what we do with it. We comply with the requirements of the General Data Protection Regulations (GDPR) with regard to the collection, processing, storage and disclosure of personal information.   </p>
 
-<h2>What does CLOSER Discovery's privacy policy do?</h2>
-<p>Our privacy policy explains how we will use any data that you share with us. We are legally required to tell you how we will use this information and give you the opportunity to tell us not to use your information in that way.</p>
+<h2>What CLOSER Discovery’s privacy policy covers</h2>
 
 <p>Our privacy policy explains:</p>
 
@@ -23,7 +22,7 @@
 
 <p>Please refer to the <a href="https://closer.ac.uk/privacy/" target="_blank" rel="noopener noreferrer">CLOSER privacy policy</a> for information on how we protect your personal information when you sign up to CLOSER newsletters, contact CLOSER on social media, attend CLOSER events, visit the closer.ac.uk website, or apply to work with us. </p>
 
-<h2>Who are we?</h2>
+<h2>Who we are</h2>
 <p>CLOSER, the home of longitudinal research, is the interdisciplinary partnership of leading social and biomedical longitudinal population studies, the UK Data Service and The British Library. </p>
 
 <p>Our mission is to increase the visibility, use and impact of longitudinal population studies, data and research to ensure that longitudinal evidence is used to address the health, social, economic and environmental challenges facing the UK, now and in the future.</p>
@@ -32,7 +31,7 @@
 
 <p>In relation to any data that you provide us, we are known as the ‘data controller’. </p>
 
-<p>If you would like to make a complaint about our handling of your data, or for further information, please contact UCL’s Data Protection Officer data-protection@ucl.ac.uk.</p>
+<p>If you would like to make a complaint about our handling of your data, or for further information, please email UCL’s Data Protection Officer data-protection@ucl.ac.uk.</p>
 
 <h2>The data we collect</h2>
 
@@ -50,11 +49,11 @@
 </ul>
 
 
-<p>We collect your name and email address so we can contact you via email with any service updates related to CLOSER Discovery. We use the organisation and department information to get a better understanding of what content is relevant to your area of work.</p>  
+<p>We collect your name and email address so we can contact you via email with any service updates related to CLOSER Discovery. We use information about your organisation, role, research area and country to get a better understanding of what content would be of interest and improve your experience of using Discovery. </p>  
 
 <p>Under the UK GDPR, the lawful basis we rely on for processing this information is our legitimate interest to contact users in the event of a service update and to provide relevant content to help ensure that longitudinal evidence is used to address the health, social, economic and environmental challenges facing the UK.</p>
      
-<h2> Who will my personal information be shared with?  </h2>
+<h2> Who will my personal information be shared with </h2>
 
 <p>We do not provide any personal information about users of our website to third parties or other users, unless we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of CLOSER, or others. </p>
 
