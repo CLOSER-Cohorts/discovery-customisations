@@ -6,7 +6,7 @@
 <p>These terms and conditions (terms) explain the how you may use the CLOSER Discovery website. We may amend these terms at any time, so you should regularly check this page.</p>
 
 
-<p>When using this website it is important that you read and understand the CLOSER Discovery <a href="/page/privacy-policy/7"> privacy policy</a>, <a href="/page/cookies/8"> cookie policy </a> and <a href="https://www.ucl.ac.uk/accessibility/digital-accessibility-statements/closer-discovery-accessibility-statement" target="_blank" rel="noopener noreferrer">accessibility statement</a>.</p>
+<p>When using this website it is important that you read and understand the CLOSER Discovery <a href="/page/privacy-policy/7"> Privacy policy</a>, <a href="/page/cookies/8"> Cookie policy </a> and <a href="https://www.ucl.ac.uk/accessibility/digital-accessibility-statements/closer-discovery-accessibility-statement" target="_blank" rel="noopener noreferrer">Accessibility statement</a>.</p>
 
 <h2>CLOSER</h2>
 
@@ -21,7 +21,7 @@
 <p>We make all reasonable effort to ensure that the content of this website is up-to-date and accurate at the time of publication or subsequent modification, but we accept no responsibility for any errors, omissions or changes that are made at a later date.  
 </p>
 
-<p>We can accept no liability for loss or damage that results either directly or indirectly by users of any information published on this website, or any pages/sites that are linked to from this website.  
+<p>We can accept no liability for loss or damage that results either directly or indirectly by users of any information published on this website, or any pages/websites that are linked to from this website.  
 </p>
 
 
@@ -44,7 +44,7 @@
 </p>
 
 
-<p>We welcome you adding links to the CLOSER website on your website, without seeking prior approval.  
+<p>We welcome you adding links to the CLOSER Discovery website on your website without seeking prior approval.  
 </p>
 
 
