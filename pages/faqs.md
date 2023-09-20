@@ -8,23 +8,25 @@
 <div class="row">
   <div class="col-sm-8">
 
-<h2>Frequently Asked Questions</h2>
+<h1>Frequently Asked Questions</h1>
 
 <p>Our Frequently Asked Questions (FAQs) cover the following topics:</p>
 <ul>
-<li><a href="#what-is-included">What's included in CLOSER Discovery and what's not</a></li>
-<li><a href="#searching">How to search</a></li>
-<li><a href="#searching-topic">Exploring by topic</a></li>
-<li><a href="#access-data">How to access study data</a></li>
-<li><a href="#closer-discovery-accounts">CLOSER Discovery accounts</a></li>
-<li><a href="#Metadata-faq">Metadata</a></li>
-<li><a href="#Feedback">Feedback</a></li>
+<li><a href="/page/faqs/4#what-is-included">What's included in CLOSER Discovery and what's not</a></li>
+<li><a href="/page/faqs/4#searching">How to search</a></li>
+<li><a href="/page/faqs/4#searching-topic">Exploring by topic</a></li>
+<li><a href="/page/faqs/4#access-data">How to access study data</a></li>
+<li><a href="/page/faqs/4#closer-discovery-accounts">CLOSER Discovery accounts</a></li>
+<li><a href="/page/faqs/4#Metadata-faq">Metadata</a></li>
+<li><a href="/page/faqs/4#Feedback">Feedback</a></li>
 </ul>
-<h2 style="margin-top: 20px">What is included in CLOSER Discovery and what's not</h2>
+
+<h2 style="margin-top: 20px"><a name="what-is-included"></a>What is included in CLOSER Discovery and what's not</h2>
+
 
 <h3>Which studies are included in CLOSER Discovery?</h3>
-The 11 studies included in CLOSER Discovery are listed below. Not all of the information you need may be included in Discovery yet, so for an up-to-date list of what data collection questionnaires from each study are currently included in CLOSER Discovery, please visit our <a href="/page/content/2"> Content page</a>.
-
+The 11 studies included in CLOSER Discovery are listed below. Not all of the information you need may be included in Discovery yet, so for an up-to-date list of what data collection questionnaires from each study are currently included in CLOSER Discovery, please visit our <a href="/page/content/2">Study coverage page</a>.
+<p></p>
 
 <ul>
 <li><a href="https://www.closer.ac.uk/study/alspac-children-90s/" target="_blank" rel="noopener noreferrer">Avon Longitudinal Study of Parents and Children</a></li>
@@ -43,7 +45,9 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 <h3>Why doesn't CLOSER Discovery hold study data?</h3>
 <p>Data access arrangements are managed by the individual studies or the UK Data Service. There are two main reasons why CLOSER Discovery does not hold study data:</p>
 <ol>
-<li><strong>Protecting study members' privacy.</strong> Data protection and licensing remain the responsibility of the individual studies or the UK Data Service, ensuring study members' identities are kept anonymous. See <a href="">How to access the data</a> for more information.</li>
+<li><strong>Protecting study members' privacy.</strong> Data protection and licensing remain the responsibility of the individual studies or the UK Data Service, ensuring study members' identities are kept anonymous. See <a href="/page/faqs/4#access-data">How to access the data for more information.</a></li>
+
+
 <li><strong>Consent from study members.</strong> The availability of longitudinal data is only possible with the consent of the generous study members. Consent arrangements vary from study to study, and in some cases this prevents us from making data available via a tool such as CLOSER Discovery.</li>
 </ol>
 <h3>Does CLOSER Discovery include information on administrative records that have been linked to the studies?</h3>
@@ -51,7 +55,7 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 
 
 <h3>Does CLOSER Discovery include information on genetic data?</h3>
-<p>Most genetic data isn't documented within CLOSER Discovery yet, and so cannot be searched. In the interim, there is a summary table of the genetic data available for each study on the <a href="/page/genetic/5">genetic data summary</a>. </p>
+<p>Most genetic data isn't documented within CLOSER Discovery yet, and so cannot be searched. In the interim, there is a summary table of the genetic data available for each study on the <a href="/page/genetic/5">Genetic array data summary</a>. </p>
 
 <h3>What does CLOSER Discovery offer that isn't already provided by the UK Data Service?</h3>
 <p>The datasets accessible via the UK Data Service are large and important resources for research. There are three key features that CLOSER Discovery can help with when working with these:</p>
@@ -60,12 +64,14 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 <li>The character limit on descriptions also restricts the context of the variable as it appears in the dataset. Knowing that a question described "Have they moved?" in the UK Data Service dataset is actually "Have they moved in the last 5 years?" could make a significant difference. CLOSER Discovery will provide you that level of detail.</li>
 <li>Before CLOSER Discovery, the only way to determine if a variable provided enough statistical 'power' for your research was to carry out an analysis. CLOSER Discovery will allow you to preview summary statistics on the variables before you begin work.</li>
 </ul>
-<h2 style="margin-top: 20px"><a></a>How to search</h2>
+
+<h2 style="margin-top: 20px"><a name="searching"></a>How to search</h2>
+
 <p>Enter one or two keywords into the search box on the home page to get started. This will search either Question Item text and Response Options, or Variable Label, Variable Name and Variable codes depending on what you select from the drop down list.</p>
 <p>If you would like to search within Sweep Title, Questionniare Title, and Data Title, then change the <i>Item Type</i> in your <i>Filter</i>. If you would like to search within Question Grids, Instructions, Statements etc. please select <strong><i>More...</i></strong> for further options.</p>
 <p>Don’t forget to <i>Reset</i> your filters before you start a new search.</p>
-<p>Please refer to the <a href="/page/how-to-guides/6">How-to guides </a>for examples.<em> <br></em></p>
-<p>Advanced searches</p>
+<p>Please refer to the <a href="/page/how-to-guides/6">How-to guides</a> for examples.<em> <br></em></p>
+<p><b>Advanced searches</b></p>
 <table>
 <tbody>
 <tr>
@@ -114,7 +120,9 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 
 <p></p>
 <br clear="left">
-<h2 style="margin-top: 20px"><a></a>Exploring by topic</h2>
+
+<h2 style="margin-top: 20px"><a name="searching-topic"></a>Exploring by topic</h2>
+
 <p>Topics are a particularly challenging part of the process of documenting historical questionnaires. It is an area we would particularly like feedback on.</p>
 <h3>What topics does CLOSER Discovery use?</h3>
 <p>A description of the complete list can be found on the <a href="https://wiki.ucl.ac.uk/display/CLOS/Topics" target="_blank" rel="noopener noreferrer"> Topic pages</a> of the CLOSER Technical Wiki. CLOSER Discovery contains information from studies traditionally considered social and biomedical. Therefore the source of these is an amalgamation of HASSET and MESH.</p>
@@ -126,8 +134,9 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 <p>Tagging historical metadata is an extremely challenging process. Almost every question and variable has had to be tagged manually.</p>
 <p>We also have to ensure that there are no conflicts between the topics applied to linked variables and questions. This is being achieved at scale by applying a single topic to each item only.</p>
 <p>There are also several ways of applying topics. A topic could be derived from the wording of the question, but this might differ from the intended research purpose of the question. This is further complicated by the historical nature of the data collections and the exact meaning of the question from either point of view may have changed over time.</p>
-<p>We welcome feedback about the topic system and how it has been applied. It is one of the most challenging aspects of the project and understanding better how the users might interact with these is very important. Please visit the <a href="#Feedback">feedback</a> section below for details on how to contact us.</p>
-<h2 style="margin-top: 20px"><a></a>How to access study data</h2>
+<p>We welcome feedback about the topic system and how it has been applied. It is one of the most challenging aspects of the project and understanding better how the users might interact with these is very important. Please visit the <a href="/page/faqs/4#Feedback">Feedback</a> section below for details on how to contact us.</p>
+
+<h2 style="margin-top: 20px"><a name="access-data"></a>How to access study data</h2>
 
 <h3>How can I access data from the studies?</h3>
 
@@ -140,9 +149,9 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 <li><a href="https://www.closer.ac.uk/study/understanding-society/" target="_blank" rel="noopener noreferrer">Understanding Society: The UK Household Longitudinal Study</a></li>
 </ul>
 
-<p>Anyone wishing to access the data will need to <a href="https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fukdataservice.ac.uk%2Fget-data%2Fhow-to-access%2Fregistration.aspx&amp;data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694022692&amp;sdata=MMTF8MpUlqccX2Le7VR2OvHpMb2UKRs%2FJNXzGhUnmCU%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer">register</a> with the UK Data Service. Some datasets are only available via<a href="https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fukdataservice.ac.uk%2Fget-data%2Fhow-to-access%2Fconditions%2Fspecial-licence.aspx&amp;data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694022692&amp;sdata=vQiQfxUALg5WXFO7Vxe%2Fs3fTIsZkcY2zZv7NvyemIec%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer"> Special Licence</a>, or via the <a href="https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fukdataservice.ac.uk%2Fget-data%2Fhow-to-access%2Faccesssecurelab.aspx&amp;data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694032679&amp;sdata=lEeA0%2BYMhld25maK0KF7tZTZnA%2FMRmCAMFa6RBfKYQY%3D&amp;reserved=0UK" target="_blank" rel="noopener noreferrer">Data Service Secure Lab</a>.</p> 
+<p>Anyone wishing to access the data will need to <a href="https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fukdataservice.ac.uk%2Fget-data%2Fhow-to-access%2Fregistration.aspx&amp;data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694022692&amp;sdata=MMTF8MpUlqccX2Le7VR2OvHpMb2UKRs%2FJNXzGhUnmCU%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer">Register</a> with the UK Data Service. Some datasets are only available via<a href="https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fukdataservice.ac.uk%2Fget-data%2Fhow-to-access%2Fconditions%2Fspecial-licence.aspx&amp;data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694022692&amp;sdata=vQiQfxUALg5WXFO7Vxe%2Fs3fTIsZkcY2zZv7NvyemIec%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer"> Special Licence</a>, or via the <a href="https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fukdataservice.ac.uk%2Fget-data%2Fhow-to-access%2Faccesssecurelab.aspx&amp;data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694032679&amp;sdata=lEeA0%2BYMhld25maK0KF7tZTZnA%2FMRmCAMFa6RBfKYQY%3D&amp;reserved=0UK" target="_blank" rel="noopener noreferrer">Data Service Secure Lab</a>.</p> 
 
-<p>The studies funded by the MRC have governance and access arrangements that comply with its <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmrc.ukri.org%2Fresearch%2Fpolicies-and-guidance-for-researchers%2Fdata-sharing%2F&amp;data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694032679&amp;sdata=%2BdJmcbEbAXYr3DWSwvzNIXJaNszLR423soF2O4gHA34%3D&amp;reserved=0MRC" target="_blank" rel="noopener noreferrer"> data sharing policy</a>. Researchers wishing to use data from these surveys need to contact the studies directly. Details of how to access data from each study is available on the individual study pages:</p>
+<p>The studies funded by the MRC have governance and access arrangements that comply with its <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmrc.ukri.org%2Fresearch%2Fpolicies-and-guidance-for-researchers%2Fdata-sharing%2F&amp;data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694032679&amp;sdata=%2BdJmcbEbAXYr3DWSwvzNIXJaNszLR423soF2O4gHA34%3D&amp;reserved=0MRC" target="_blank" rel="noopener noreferrer"> Data sharing policy</a>. Researchers wishing to use data from these surveys need to contact the studies directly. Details of how to access data from each study is available on the individual study pages:</p>
 
 <ul>
 <li><a href="https://www.closer.ac.uk/study/alspac-children-90s/" target="_blank" rel="noopener noreferrer">Avon Longitudinal Study of Parents and Children</a></li>
@@ -160,14 +169,19 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 <h3>Where can I find information about how variables were derived?</h3>
 CLOSER Discovery contains the derived variable lineage, but not the derivation methodology. You will need to contact the studies individually for this information. This is outside of the current scope of CLOSER due to the amount of manual effort required.
 <p>Weighted variables are not currently marked and further details on this are available from the individual studies.</p>
-<h2 style="margin-top: 20px"><a></a>CLOSER Discovery accounts</h2>
+
+<h2 style="margin-top: 20px"><a name="closer-discovery-accounts"></a>CLOSER Discovery accounts</h2>
+
 
 
 <h3>Why should I set up an account?</h3>
-<p>Creating a <a href="/Account/register">user account</a> for CLOSER Discovery allows you to save lists of variables and questions. This means you are able to access your saved lists by logging in from anywhere. If you do not create an account you will not be able to create a list. If you already have an account then you can <a href="/Account/Login">login here</a>. We will store and use your details in conjunction with our <a href="/page/privacy-policy/7">data protection policy.</a></p>
+<p>Creating a <a href="/Account/register">User account</a> for CLOSER Discovery allows you to save lists of variables and questions. This means you are able to access your saved lists by logging in from anywhere. If you do not create an account you will not be able to create a list. If you already have an account then you can <a href="/Account/Login">Login here</a>. We will store and use your details in conjunction with our <a href="/page/privacy-policy/7">Data protection policy.</a></p>
 
 
-<h2 style="margin-top: 20px"><a></a>Metadata</h2>
+<h2 style="margin-top: 20px"><a name="Metadata-faq"></a>Metadata</h2>
+
+
+
 <h3>What is metadata?</h3>
 <p>Metadata is, simply put, data about data. It gives the data context. It describes, for example, when a given data collection wave took place and who conducted it. It describes the coverage of the data. It describes the exact questions asked and how they fit into an overall data collection questionnaire.</p>
 <h3>Why do researchers need metadata?</h3>
@@ -179,8 +193,10 @@ CLOSER Discovery contains the derived variable lineage, but not the derivation m
 <h3>Why use a metadata standard?</h3>
 <p>One of the challenges of data sharing is in the formats of data and metadata. A metadata standard overcomes these by providing a single set of definitions that everyone adheres to. The more people who adopt the standard, the more useful it becomes. Standards also promote an efficient 'enter once, use multiple times' approach to data management. If information is entered in an agreed way at the start of a process, it can then be used to feed other parts of the process automatically. In longitudinal population studies, for example, if the DDI Lifecycle metadata standard is adopted by studies and survey agencies, this can be used to make the transfer of questionnaires and data between these partners much more efficient and robust.</p>
 <p>For more information about metadata standards, please see the <a href="https://wiki.ucl.ac.uk/display/CLOS/What+is+the+CLOSER+Technical+Wiki" target="_blank" rel="noopener noreferrer">CLOSER Technical Wiki</a>.</p>
-<h2 style="margin-top: 20px"><a></a>Feedback</h2>
-<p>CLOSER Discovery is frequently updated with more content and further features and functionality for users. CLOSER also understands that any website will have the occasional bugs and welcomes any feedback users might have via <a>closer@ucl.ac.uk</a>. Please see the <a href=" https://wiki.ucl.ac.uk/display/CLOS/Known+Issues " target="_blank" rel="noopener noreferrer"> Known Issues page </a> on the CLOSER Technical Wiki for a list of the current bugs.</p>
+
+<h2 style="margin-top: 20px"><a name="Feedback"></a>Feedback</h2>
+
+<p>CLOSER Discovery is frequently updated with more content and further features and functionality for users. CLOSER also understands that any website will have the occasional bugs and welcomes any feedback users might have via <a>closer@ucl.ac.uk</a>. Please see the <a href=" https://wiki.ucl.ac.uk/display/CLOS/Known+Issues " target="_blank" rel="noopener noreferrer"> Known Issues page</a> on the CLOSER Technical Wiki for a list of the current bugs.</p>
 
 
 </div>
