@@ -2,6 +2,8 @@
     <h1>Cookies Policy</h1>
 </div>
 
+
+
 <p>When you visit our site we collect data that is obtained from cookies.  </p> 
 
 <h2>What are cookies? </h2>
@@ -58,5 +60,5 @@
 
 
 <h2>How does CLOSER protect my personal information? </h2>
-<p>Please refer to the <a href="/page/privacy-policy/7"> CLOSER Discovery privacy policy</a> for information on how we protect your personal information. </p> 
+<p>Please refer to the <a href="/page/privacy-policy/7"> CLOSER Discovery privacy policy</a> for information on how we protect your personal information. Please refer to the <a href="https://closer.ac.uk/privacy/" target="_blank" rel="noopener noreferrer">CLOSER privacy policy</a> for information on how we protect your personal information when you sign up to CLOSER newsletters, contact CLOSER on social media, attend CLOSER events, visit the closer.ac.uk website, or apply to work with us. </p> 
 
