@@ -68,7 +68,7 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 <h2 style="margin-top: 20px"><a name="searching"></a>How to search</h2>
 
 <p>Enter one or two keywords into the search box on the home page to get started. This will search either Question Item text and Response Options, or Variable Label, Variable Name and Variable codes depending on what you select from the drop down list.</p>
-<p>If you would like to search within Sweep Title, Questionniare Title, and Data Title, then change the <i>Item Type</i> in your <i>Filter</i>. If you would like to search within Question Grids, Instructions, Statements etc. please select <strong><i>More...</i></strong> for further options.</p>
+<p>If you would like to search within Sweep Title, Questionniare Title, and Data Title, then change the <i>Item Type</i> in your <i>Filter</i>.</p>
 <p>Don’t forget to <i>Reset</i> your filters before you start a new search.</p>
 <p>Please refer to the <a href="/page/how-to-guides/6">How-to guides</a> for examples.<em> <br></em></p>
 <p><b>Advanced searches</b></p>
