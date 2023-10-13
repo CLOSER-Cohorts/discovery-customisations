@@ -67,11 +67,29 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 
 <h2 style="margin-top: 20px"><a name="searching"></a>How to search</h2>
 
-<p>Enter one or two keywords into the search box on the home page to get started. This will search either Question Item text and Response Options, or Variable Label, Variable Name and Variable codes depending on what you select from the drop down list.</p>
-<p>If you would like to search within Sweep Title, Questionniare Title, and Data Title, then change the <i>Item Type</i> in your <i>Filter</i>.</p>
-<p>Don’t forget to <i>Reset</i> your filters before you start a new search.</p>
+<p>Enter text into the search box on the home page to get started. This will search either Variables (name, label, responses, and associated questions) or Questions (name, text, responses and associated variables), depending on whether you select Variables or Question from the drop down list.</p>
+
+<p>If you would like to search within other types e.g Studies, then change the <i>Item Type</i> in your <i>Filter</i>.</p>
+
+<p><b>Refine your results</b></p>
+<p>You can filter your results by:</p>
+<ul>
+  <li>Item type (studies, sweeps, datasets, questionnaires, variables, questionnaires, questions)</li>
+  <li>Study (one or more studies)</li>
+  <li>Life Stage (one or more life stages)</li>
+  <li>Topic (one or more of our 16 top level topics)</li>
+</ul>
+
 <p>Please refer to the <a href="/page/how-to-guides/6">How-to guides</a> for examples.<em> <br></em></p>
-<p><b>Advanced searches</b></p>
+
+<p>Don’t forget to <i>Reset</i> your filters before you start a new search.</p>
+
+<p>Searching without an item type selected will return any text that occurs in the; variable (name, label, responses, and associated question), question (name, text, responses and associated variable), questionnaire name, dataset name, study (name and abstract), sweep (name and abstract). </p>
+
+<p>The Syntax (?) button under the search box provides examples of complex searches and  can be seen in the table below.</p>
+
+
+<p><b>Syntax</b></p>
 <table>
 <tbody>
 <tr>
@@ -80,40 +98,40 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 </tr>
 </tbody><tbody>
 <tr>
-  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">house</td>
-  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Searches for different forms of the word house (e.g. <em>house</em>, <em>housing</em>, <em>houses</em>)</td>
+  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">work</td>
+  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Searches for different forms of the word house (e.g. <em>work</em>, <em>working</em>, <em>worked</em>)</td>
 </tr>
 <tr>
-  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">house age</td>
-  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Searches for different forms of the word <em>house</em> AND <em>age</em></td>
+  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">work place</td>
+  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Searches for different forms of the word <em>work</em> AND <em>place</em></td>
 </tr>
 <tr>
-  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">house AND age</td>
+  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">work AND place</td>
   <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Same as above; The "AND" is optional</td>
 </tr>
 <tr>
-  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">house OR age</td>
-  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Searches for either <em>house</em> or <em>age</em></td>
+  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">work OR place</td>
+  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Searches for either <em>work</em> or <em>place</em></td>
 </tr>
 <tr>
-  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">"house age"</td>
-  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Searches for the exact phrase <em>house age</em></td>
+  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">"work place"</td>
+  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Searches for the exact phrase <em>work place</em></td>
 </tr>
 <tr>
-  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">house -age</td>
-  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Searches for items that contain <em>house</em> but that do <strong>not</strong> contain <em>age</em></td>
+  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">work -place</td>
+  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Searches for items that contain <em>work</em> but that do <strong>not</strong> contain <em>place</em></td>
 </tr>
 <tr>
-  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">+house</td>
-  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Searches for the exact term <em>house</em>; <em>housing</em> and <em>houses</em> would not be included</td>
+  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">+work</td>
+  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Searches for the exact term <em>work</em>; <em>working</em> and <em>worked</em> would not be included</td>
 </tr>
 <tr>
-  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">~house</td>
-  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Fuzzy search for <em>house</em>; may include close words like <em>hose</em> and <em>huse</em></td>
+  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">~work</td>
+  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Fuzzy search for <em>work</em>; may include close words like <em>words</em> and <em>worse</em></td>
 </tr>
 <tr>
-  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">&lt;house age&gt;</td>
-  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Searches for <em>house</em> and <em>age</em> in close proximity to each other</td>
+  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">&lt;work place&gt;</td>
+  <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Searches for <em>work</em> and <em>place</em> in close proximity to each other</td>
 </tr>
 </tbody>
 </table>
