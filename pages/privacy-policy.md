@@ -3,7 +3,7 @@
   </div>
 
 
-<p>At CLOSER, we are committed to protecting your personal information and being transparent about what we do with it. We comply with the requirements of the General Data Protection Regulations (GDPR) with regard to the collection, processing, storage and disclosure of personal information.   </p>
+<p>At CLOSER, we are committed to protecting your personal information and being transparent about what we do with it. We comply with the requirements of the General Data Protection Regulations (GDPR) regarding to the collection, processing, storage and disclosure of personal information.   </p>
 
 <h2>What CLOSER Discovery’s privacy policy covers</h2>
 
@@ -20,7 +20,7 @@
 <p>Please refer to the <a href="https://closer.ac.uk/privacy/" target="_blank" rel="noopener noreferrer">CLOSER privacy policy</a> for information on how we protect your personal information when you sign up to CLOSER newsletters, contact CLOSER on social media, attend CLOSER events, visit the closer.ac.uk website, or apply to work with us. </p>
 
 <h2>Who we are</h2>
-<p>CLOSER, the home of longitudinal research, is the interdisciplinary partnership of leading social and biomedical longitudinal population studies, the UK Data Service and The British Library. </p>
+<p>CLOSER, the home of longitudinal research, is the UK's partnership of social and biomedical longitudinal population studies, the UK Data Service and The British Library. </p>
 
 <p>Our mission is to increase the visibility, use and impact of longitudinal population studies, data and research to ensure that longitudinal evidence is used to address the health, social, economic and environmental challenges facing the UK, now and in the future.</p>
 
@@ -52,9 +52,9 @@
      
 <h2> Who my personal information will be shared with  </h2>
 
-<p>We do not provide any personal information about users of our website to third parties or other users, unless we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of CLOSER, or others. </p>
+<p>Your trust and privacy are very important to us. We will never sell or give your personal information to other organisations.</p> 
 
-<p>We will never sell or give your personal information to other organisations. </p>
+<p>We do not provide any personal information about users of our website to third parties or other users, unless we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of CLOSER, or others. </p>
 
 <h2>How we store your personal information</h2>
 
@@ -95,5 +95,5 @@
 <p>Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF</p>
 <p>Helpline number: 0303 123 1113</p>
 <p>ICO website: <a href="https://www.ico.org.uk" target="_blank" rel="noopener noreferrer">ico.org.uk</a>.</p>
-<p>This privacy notice was published September 2023. </p>
+<p>This privacy notice was published November 2023. </p>
 
