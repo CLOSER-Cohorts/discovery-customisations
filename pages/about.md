@@ -1,16 +1,12 @@
-<div class="row page-title">
-  <div class="meta pull-left">
-    <h1>About CLOSER Discovery</h1>
-  </div>
-</div>
-
 <div class="row">
   <div class="col-sm-8">
 
-
 <h1>About CLOSER Discovery</h1>
-
+<p></p>
 <p>CLOSER Discovery is a research tool for locating the variables that best suit your research interests and testing their robustness.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9mFF4hTPOrI?si=T3wEeCe0c4gd4fx3" title="YouTube video player"></iframe>
+
 
 <p>A search on CLOSER Discovery will show you:</p>
 <ul>
@@ -33,9 +29,8 @@ To find out more about data access arrangements for each of the studies, visit t
 
 <h2>Getting started</h2>
 <p>For more information please refer to our <a href="/page/how-to-guides/6"> How-to guides </a> and <a href="/page/faqs/4"> FAQs</a>.</p>
-
-
-
+<p>
+</p>
 
 </div>
   <div class="nav nav-pills nav-stacked col-sm-offset-1 col-sm-3">
