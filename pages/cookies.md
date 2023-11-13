@@ -1,12 +1,12 @@
-<div class="row page-title">
-    <h1>Cookies Policy</h1>
-</div>
+<div class="row">
+  <div class="col-sm-8">
 
+<h1><b>Cookies Policy</b></h1>
 
 
 <p>When you visit our site we collect data that is obtained from cookies.  </p> 
 
-<h2>What are cookies? </h2>
+<h2><b>What are cookies? </b></h2>
 
 <p>A cookie is a small piece of data that websites collect when you visit them. These contain information your browser can retrieve and can identify a web-enabled user device such as a computer, laptop, PDA, mobile, smartphone or tablet.</p> 
 
@@ -15,7 +15,7 @@
 <p>You can find out more about cookies, including how to see what cookies have been set, by visiting <a href="https://www.aboutcookies.org" target="_blank" rel="noopener noreferrer">aboutcookies.org</a> or <a href="https://allaboutcookies.org/" target="_blank" rel="noopener noreferrer">allaboutcookies.org</a>.</p>
 
 
-<h2>How can you control cookies?</h2>
+<h2><b>How can you control cookies?</b></h2>
 <p>Most web browsers allow some control of most cookies through the browser settings. Find out how to manage cookies on popular browsers:</p>  
 
 <p><a href="https://support.apple.com/en-gb/HT201265" target="_blank" rel="noopener noreferrer">Apple Safari</a></p>   
@@ -38,16 +38,16 @@
 
 <p>Some cookies are essential, enabling you to move around the website and make use of features. Others are used to understand how you interact with a website, such as which pages you visit, so we can improve our website to better meet user needs. 
 
-</p><h2>What cookies do we use? </h2>
+</p><h2><b>What cookies do we use? </b></h2>
 
 <p> The following cookies are used on our website:  </p> 
 
-<h3>Session cookies </h3>
+<h3><b>Session cookies </b></h3>
 <ul>
     <li>YSC: a functional third-party YouTube cookie that registers a unique ID to keep statistics of what videos from YouTube the user has seen. </li>
 </ul>
 
-<h3>Stored cookies</h3>
+<h3><b>Stored cookies</b></h3>
 
 <ul>
     <li>HasVisitedSearch: allows the browser not to display the Tour of the site if you have already visited the site.  </li>
@@ -59,6 +59,7 @@
 </ul>
 
 
-<h2>How does CLOSER protect my personal information? </h2>
+<h2><b>How does CLOSER protect my personal information? </b></h2>
 <p>Please refer to the <a href="/page/privacy-policy/7"> CLOSER Discovery privacy policy</a> for information on how we protect your personal information. Please refer to the <a href="https://closer.ac.uk/privacy/" target="_blank" rel="noopener noreferrer">CLOSER privacy policy</a> for information on how we protect your personal information when you sign up to CLOSER newsletters, contact CLOSER on social media, attend CLOSER events, visit the closer.ac.uk website, or apply to work with us. </p> 
 
+</div></div>
