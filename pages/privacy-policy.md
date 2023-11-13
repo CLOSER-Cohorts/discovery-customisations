@@ -1,11 +1,13 @@
-<div class="row page-title">
-    <h1>Privacy Policy</h1>
-  </div>
 
+
+<div class="row">
+  <div class="col-sm-8">
+
+<h1><b>Privacy Policy</b></h1>
 
 <p>At CLOSER, we are committed to protecting your personal information and being transparent about what we do with it. We comply with the requirements of the General Data Protection Regulations (GDPR) regarding to the collection, processing, storage and disclosure of personal information.   </p>
 
-<h2>What CLOSER Discovery’s privacy policy covers</h2>
+<h2><b>What CLOSER Discovery’s privacy policy covers</b></h2>
 
 <p>Our privacy policy explains:</p>
 
@@ -19,7 +21,7 @@
 
 <p>Please refer to the <a href="https://closer.ac.uk/privacy/" target="_blank" rel="noopener noreferrer">CLOSER privacy policy</a> for information on how we protect your personal information when you sign up to CLOSER newsletters, contact CLOSER on social media, attend CLOSER events, visit the closer.ac.uk website, or apply to work with us. </p>
 
-<h2>Who we are</h2>
+<h2><b>Who we are</b></h2>
 <p>CLOSER, the home of longitudinal research, is the UK's partnership of social and biomedical longitudinal population studies, the UK Data Service and The British Library. </p>
 
 <p>Our mission is to increase the visibility, use and impact of longitudinal population studies, data and research to ensure that longitudinal evidence is used to address the health, social, economic and environmental challenges facing the UK, now and in the future.</p>
@@ -30,12 +32,12 @@
 
 <p>If you would like to make a complaint about our handling of your data, or for further information, please email UCL’s Data Protection Officer data-protection@ucl.ac.uk.</p>
 
-<h2>The data we collect</h2>
+<h2><b>The data we collect</b></h2>
 
-<h3>Data we collect when you use our website </h3>
+<h3><b>Data we collect when you use our website </b></h3>
 <p> When you visit our website we collect data that is obtained from cookies. You can find out how we collect and use data from cookies on our <a href="/page/cookies/8">cookies policy</a>. </p>
 
-<h2> Personal information we collect when you register for a CLOSER Discovery account </h2>
+<h2><b> Personal information we collect when you register for a CLOSER Discovery account </b></h2>
 <ul>
 <li>Email</li>
 <li>First name</li>  
@@ -50,25 +52,25 @@
 
 <p>Under the UK GDPR, the lawful basis we rely on for processing this information is our legitimate interest to contact users in the event of a service update and to provide relevant content to help ensure that longitudinal evidence is used to address the health, social, economic and environmental challenges facing the UK.</p>
      
-<h2> Who my personal information will be shared with  </h2>
+<h2><b> Who my personal information will be shared with  </b></h2>
 
 <p>Your trust and privacy are very important to us. We will never sell or give your personal information to other organisations.</p> 
 
 <p>We do not provide any personal information about users of our website to third parties or other users, unless we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of CLOSER, or others. </p>
 
-<h2>How we store your personal information</h2>
+<h2><b>How we store your personal information</b></h2>
 
  <p>Your information is stored in a contact database held on a UCL Institute of Education’s System Support Development &amp; Integration (SSD&amp;I) server which is behind a secure firewall. The data are password protected and accessible only to CLOSER and the IOE SSD&amp;I team. All passwords which are created for user accounts are saved as hashed versions, which means they cannot be decoded. </p>
 
 <p>The accuracy of your information is important to us. If you change your address or believe any of the other information we hold concerning you is out of date, please email closer@ucl.ac.uk. We will dispose of your information once you delete your Discovery user account.  </p>
 
-<h2> Data security</h2>
+<h2><b> Data security</b></h2>
 
 <p>The data hosted within CLOSER Discovery is metadata. This is, simply put, data about data. We do not host the data itself. Variables are all listed by name, linked to their dataset and their source data collection instrument. There are also summary statistics for each variable, such as valid and invalid, minimum and maximum, frequency, etc. However, these are stored only as the final values. The data behind them is not included within CLOSER Discovery.   </p>
 
 <p>For example, if an answer to a question was recorded for 2,000 people and it had Yes and No as possible answers, CLOSER Discovery records these simply as Yes = 1,500 and No = 500. Individual responses are not stored so you cannot find out from CLOSER Discovery what person number 1,437 answered. You also cannot cross-tabulate within CLOSER Discovery. If 1,500 people said Yes to question 1 and 1,500 said Yes to question 2, you cannot ascertain if those are the same 1,500 people or not (with the exception where questions are dependent questions).  </p>
 
-<h2>Your data protection rights </h2>
+<h2><b>Your data protection rights </b></h2>
 
 <p>Under data protection law, you have rights including: </p>
 
@@ -84,7 +86,7 @@
 <p>Please contact us at closer@ucl.ac.uk if you wish to make a request. </p>
 
 
-<h3> How to complain  </h3>
+<h3><b> How to complain  </b></h3>
 
 <p>If you have any concerns about our use of your personal information, you can make a complaint to us at <a href="https://closer.ac.uk/" target="_blank" rel="noopener noreferrer">CLOSER</a>.</p>
 
@@ -97,3 +99,4 @@
 <p>ICO website: <a href="https://www.ico.org.uk" target="_blank" rel="noopener noreferrer">ico.org.uk</a>.</p>
 <p>This privacy notice was published November 2023. </p>
 
+</div></div>
