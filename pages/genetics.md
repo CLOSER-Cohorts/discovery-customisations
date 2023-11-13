@@ -1,4 +1,4 @@
-<h1>Genetic array data summary</h1>
+<h1><b>Genetic array data summary</b></h1>
         
 <br><p>Our studies also collect genetic data, which isn't listed within CLOSER Discovery yet. A summary of genetic data in CLOSER studies, with links to accessing this data can be seen below. 
 </p><br>
