@@ -1,6 +1,7 @@
 Study coverage
 =======
 
+<p></p>
 The tables below indicate which questionnaires and datasets are
 currently in CLOSER Discovery as well as those instruments which will be
 added at a later date which we are aware of.
@@ -9,21 +10,20 @@ We have been working through each Life stage, beginning with the
 earliest.
 
 Navigate to the study you are interested in:
+-   <a href="/page/content/2#bcs70">1970 British Cohort Study</a>
+-   <a href="/page/content/2#alspac">Avon Longitudinal Study of Parents and Children</a>
+-   <a href="/page/content/2#health-and-employment-after-fifty">Health and Employment After Fifty</a>
+-   <a href="/page/content/2#hertfordshire-cohort-study">Hertfordshire Cohort Study</a>
+-   <a href="/page/content/2#millennium-cohort-study">Millennium Cohort Study</a>
+-   <a href="/page/content/2#mrc-national-survey-of-health-and-development">MRC National Survey of Health and Development</a>
+-   <a href="/page/content/2#national-child-development-study">National Child Development Study</a>
+-   <a href="/page/content/2#next-steps">Next Steps</a>
+-   <a href="/page/content/2#southampton-womens-survey">Southampton Women's Survey</a>
+-   <a href="/page/content/2#understanding-society">Understanding Society</a>
+-   <a href="/page/content/2#wirral-child-health-and-development-study">Wirral Child Health and Development Study</a>
 
--   [1970 British Cohort Study](#british-cohort-study)
--   [Avon Longitudinal Study of Parents and Children](#avon-longitudinal-study-of-parents-and-children)
--   [Health and Employment After Fifty](#health-and-employment-after-fifty)
--   [Hertfordshire Cohort Study](#hertfordshire-cohort-study)
--   [Millennium Cohort Study](#millennium-cohort-study)
--   [MRC National Survey of Health and Development](#mrc-national-survey-of-health-and-development)
--   [National Child Development Study](#national-child-development-study)
--   [Next Steps](#next-steps)
--   [Southampton Women's Survey](#southampton-womens-survey)
--   [Understanding Society](#understanding-society)
--   [Wirral Child Health and Development Study](#wirral-child-health-and-development-study)
-
-  
-## 1970 British Cohort Study
+ 
+<a name="bcs70"></a><h2>1970 British Cohort Study</h2>
 
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 | Questionnaire name                                                         | Life stage                   | Start year | Discovery     | Discovery |
@@ -136,7 +136,8 @@ Navigate to the study you are interested in:
 | BCS70 Age 50 COVID-19 Survey Wave 3                                        | Mid\-adulthood               | Feb 2021   | N             | Y         |
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+  
 
-## Avon Longitudinal Study of Parents and Children
+<a name="alspac"></a><h2>Avon Longitudinal Study of Parents and Children</h2>
+
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 | Questionnaire name                                                         | Life stage                   | Start year | Discovery     | Discovery |
 |                                                                            |                              |            | questionnaire | dataset   |
@@ -484,8 +485,7 @@ Navigate to the study you are interested in:
 | Life at 28\+                                                               | Early adulthood              | Nov 2020   | N             | Y         |
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 
-
-## Health and Employment After Fifty
+<a name="health-and-employment-after-fifty"></a><h2>Health and Employment After Fifty</h2>
 
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 | Questionnaire name                                                         | Life stage                   | Start year | Discovery     | Discovery |
@@ -502,8 +502,7 @@ Navigate to the study you are interested in:
 | HEAF Follow up 4                                                           | Other                        | 2017       | N             | N         |
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 
-
-#### Hertfordshire Cohort Study
+<a name="hertfordshire-cohort-study"></a><h2>Hertfordshire Cohort Study</h2>
 
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 | Questionnaire name                                                         | Life stage                   | Start year | Discovery     | Discovery |
@@ -548,7 +547,7 @@ Navigate to the study you are interested in:
 | Timed Up and Go                                                            | Third age                    | 1998       | Y             | Y         |
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 
-## Millennium Cohort Study
+<a name="millennium-cohort-study"></a><h2>Millennium Cohort Study</h2>
 
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 | Questionnaire name                                                         | Life stage                   | Start year | Discovery     | Discovery |
@@ -616,7 +615,7 @@ Navigate to the study you are interested in:
 | MCS Age 20 Cohort Member COVID\-19 Survey - Wave 3                         | Early adulthood              | Feb 2021   | N             | Y         |
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 
-#### National Child Development Study
+<a name="national-child-development-study"></a><h2>National Child Development Study</h2>
 
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 | Questionnaire name                                                         | Life stage                   | Start year | Discovery     | Discovery |
@@ -709,7 +708,7 @@ Navigate to the study you are interested in:
 | NCDS Age 62 COVID\-19 Survey - Wave 3                                      | Mid\-adulthood               | Feb 2021   | N             | Y         |
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 
-## Next Steps
+<a name="next-steps"></a><h2>Next Steps</h2>
 
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 | Questionnaire name                                                         | Life stage                   | Start year | Discovery     | Discovery |
@@ -738,7 +737,7 @@ Navigate to the study you are interested in:
 | Next Steps Age 30 COVID\-19 Survey - Wave 3                                | Early adulthood              | Feb 2021   | N             | Y         |
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 
-#### MRC National Survey of Health and Development
+<a name="mrc-national-survey-of-health-and-development"></a><h2>MRC National Survey of Health and Development</h2>
 
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 | Questionnaire name                                                         | Life stage                   | Start year | Discovery     | Discovery |
@@ -946,7 +945,7 @@ Navigate to the study you are interested in:
 | 2020 COVID\-19 Survey - Wave 2                                             | Third age                    | Feb 2021   | N             | N         |
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 
-## Southampton Womens Survey
+<a name="southampton-womens-survey"></a><h2>Southampton Women's Survey</h2>
 
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 | Questionnaire name                                                         | Life stage                   | Start year | Discovery     | Discovery |
@@ -993,7 +992,7 @@ Navigate to the study you are interested in:
 | 8\-9 Year Questionnaire                                                    | Early years                  | 2007       | N             | N         |
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 
-## Understanding Society
+<a name="understanding-society"></a><h2>Understanding Society</h2>
 
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 | Questionnaire name                                                         | Life stage                   | Start year | Discovery     | Discovery |
@@ -1064,7 +1063,7 @@ Navigate to the study you are interested in:
 | COVID\-19 Wave 8 Questionnaire                                             | Other                        | March 2021 | N             | Y         |
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 
-#### Wirral Child Health and Development Study
+<a name="wirral-child-health-and-development-study"></a><h2>Wirral Child Health and Development Study</h2>
 
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 | Questionnaire name                                                         | Life stage                   | Start year | Discovery     | Discovery |
@@ -1138,5 +1137,3 @@ Navigate to the study you are interested in:
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
 | Phase 15 Child COVID Only Questionnaire                                    | Childhood                    | 2020       | N             | N         |
 +----------------------------------------------------------------------------+------------------------------+------------+---------------+-----------+
-
-
