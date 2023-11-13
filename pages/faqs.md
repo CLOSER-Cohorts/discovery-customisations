@@ -1,15 +1,9 @@
-<div class="row page-title">
-  <div class="meta pull-left">
-    <h1>Frequently Asked Questions</h1>
-
-  </div>
-</div>
-
 <div class="row">
   <div class="col-sm-8">
 
-<h1>Frequently Asked Questions</h1>
+<h1><b>Frequently Asked Questions</b></h1>
 
+<p></p>
 <p>Our Frequently Asked Questions (FAQs) cover the following topics:</p>
 <ul>
 <li><a href="/page/faqs/4#what-is-included">What's included in CLOSER Discovery and what's not</a></li>
@@ -21,10 +15,10 @@
 <li><a href="/page/faqs/4#Feedback">Feedback</a></li>
 </ul>
 
-<h2 style="margin-top: 20px"><a name="what-is-included"></a>What is included in CLOSER Discovery and what's not</h2>
+<h2 style="margin-top: 20px"><a name="what-is-included"></a><b>What is included in CLOSER Discovery and what's not</b></h2>
 
 
-<h3>Which studies are included in CLOSER Discovery?</h3>
+<h3><b>Which studies are included in CLOSER Discovery?</b></h3>
 The 11 studies included in CLOSER Discovery are listed below. Not all of the information you need may be included in Discovery yet, so for an up-to-date list of what data collection questionnaires from each study are currently included in CLOSER Discovery, please visit our <a href="/page/content/2">Study coverage page</a>.
 <p></p>
 
@@ -42,7 +36,7 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 <li><a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" rel="noopener noreferrer">Wirral Child Health and Development Study</a></li>
 </ul>
 <p></p>
-<h3>Why doesn't CLOSER Discovery hold study data?</h3>
+<h3><b>Why doesn't CLOSER Discovery hold study data?</b></h3>
 <p>Data access arrangements are managed by the individual studies or the UK Data Service. There are two main reasons why CLOSER Discovery does not hold study data:</p>
 <ol>
 <li><strong>Protecting study members' privacy.</strong> Data protection and licensing remain the responsibility of the individual studies or the UK Data Service, ensuring study members' identities are kept anonymous. See <a href="/page/faqs/4#access-data">How to access the data for more information.</a></li>
@@ -50,14 +44,14 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 
 <li><strong>Consent from study members.</strong> The availability of longitudinal data is only possible with the consent of the generous study members. Consent arrangements vary from study to study, and in some cases this prevents us from making data available via a tool such as CLOSER Discovery.</li>
 </ol>
-<h3>Does CLOSER Discovery include information on administrative records that have been linked to the studies?</h3>
+<h3><b>Does CLOSER Discovery include information on administrative records that have been linked to the studies?</b></h3>
 <p>Where possible, this has been included. Exact arrangements vary depending on what records are being linked to.</p>
 
 
-<h3>Does CLOSER Discovery include information on genetic data?</h3>
+<h3><b>Does CLOSER Discovery include information on genetic data?</b></h3>
 <p>Most genetic data isn't documented within CLOSER Discovery yet, and so cannot be searched. In the interim, there is a summary table of the genetic data available for each study on the <a href="/page/genetic/5">Genetic array data summary</a>. </p>
 
-<h3>What does CLOSER Discovery offer that isn't already provided by the UK Data Service?</h3>
+<h3><b>What does CLOSER Discovery offer that isn't already provided by the UK Data Service?</b></h3>
 <p>The datasets accessible via the UK Data Service are large and important resources for research. There are three key features that CLOSER Discovery can help with when working with these:</p>
 <ul>
 <li>Descriptions on the UK Data Service are limited to 80 characters. By using CLOSER Discovery, you can make searches on the full question text and filter by topic. This means you are far more likely to find items that could be useful to you.</li>
@@ -65,7 +59,7 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 <li>Before CLOSER Discovery, the only way to determine if a variable provided enough statistical 'power' for your research was to carry out an analysis. CLOSER Discovery will allow you to preview summary statistics on the variables before you begin work.</li>
 </ul>
 
-<h2 style="margin-top: 20px"><a name="searching"></a>How to search</h2>
+<h2 style="margin-top: 20px"><a name="searching"></a><b>How to search</b></h2>
 
 <p>Enter text into the search box on the home page to get started. This will search either Variables (name, label, responses, and associated questions) or Questions (name, text, responses and associated variables), depending on whether you select Variables or Question from the drop down list.</p>
 
@@ -139,24 +133,24 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 <p></p>
 <br clear="left">
 
-<h2 style="margin-top: 20px"><a name="searching-topic"></a>Exploring by topic</h2>
+<h2 style="margin-top: 20px"><a name="searching-topic"></a><b>Exploring by topic</b></h2>
 
 <p>Topics are a particularly challenging part of the process of documenting historical questionnaires. It is an area we would particularly like feedback on.</p>
-<h3>What topics does CLOSER Discovery use?</h3>
+<h3><b>What topics does CLOSER Discovery use?</b></h3>
 <p>A description of the complete list can be found on the <a href="https://wiki.ucl.ac.uk/display/CLOS/Topics" target="_blank" rel="noopener noreferrer"> Topic pages</a> of the CLOSER Technical Wiki. CLOSER Discovery contains information from studies traditionally considered social and biomedical. Therefore the source of these is an amalgamation of HASSET and MESH.</p>
-<h3>How many topics are linked to each question/variable?</h3>
+<h3><b>How many topics are linked to each question/variable?</b></h3>
 <p>Each question/variable has only one topic assigned to it. The topics are also grouped, so each question/variable has the topic grouping applied.</p>
-<h3>Why can't I find the topic I'm looking for?</h3>
+<h3><b>Why can't I find the topic I'm looking for?</b></h3>
 <p>The controlled vocabulary for topics is designed to provide a topic for every question and variable in the 11 studies included. It is therefore a work in progress as long as content continues to be generated. Additionally, the topics will only appear if there is metadata currently linked to them. Beyond this, it may be that there is no content suitable for the topic you are looking for. In terms of exploring by topic, it is better to be inclusive rather than exclusive in the first instance. You can always refine your search as you go.</p>
-<h3>Why is an item tagged with one topic and not another?</h3>
+<h3><b>Why is an item tagged with one topic and not another?</b></h3>
 <p>Tagging historical metadata is an extremely challenging process. Almost every question and variable has had to be tagged manually.</p>
 <p>We also have to ensure that there are no conflicts between the topics applied to linked variables and questions. This is being achieved at scale by applying a single topic to each item only.</p>
 <p>There are also several ways of applying topics. A topic could be derived from the wording of the question, but this might differ from the intended research purpose of the question. This is further complicated by the historical nature of the data collections and the exact meaning of the question from either point of view may have changed over time.</p>
 <p>We welcome feedback about the topic system and how it has been applied. It is one of the most challenging aspects of the project and understanding better how the users might interact with these is very important. Please visit the <a href="/page/faqs/4#Feedback">Feedback</a> section below for details on how to contact us.</p>
 
-<h2 style="margin-top: 20px"><a name="access-data"></a>How to access study data</h2>
+<h2 style="margin-top: 20px"><a name="access-data"></a><b>How to access study data</b></h2>
 
-<h3>How can I access data from the studies?</h3>
+<h3><b>How can I access data from the studies?</b></h3>
 
 <p>Access to data is handled differently for each of the studies. Survey data from ESRC-funded surveys are available to bona fide researchers from the UK Data Service. These are:</p>
 <ul>
@@ -182,39 +176,39 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 
 
 
-<h3>Why can't I download study data from CLOSER Discovery?</h3>
+<h3><b>Why can't I download study data from CLOSER Discovery?</b></h3>
 <p>There are a number of complex reasons behind this that relate to legal, ethical and consent issues. None of the studies allow unrestricted access to the data, in order to protect study members. CLOSER Discovery is not designed to manage these complex access processes and it is out of the scope of the work being undertaken. Instead, CLOSER Discovery can help you better navigate those access arrangements, either by providing you with a list of variables you can request or by helping you identify what you need from large datasets with limited labelling.</p>
-<h3>Where can I find information about how variables were derived?</h3>
+<h3><b>Where can I find information about how variables were derived?</b></h3>
 CLOSER Discovery contains the derived variable lineage, but not the derivation methodology. You will need to contact the studies individually for this information. This is outside of the current scope of CLOSER due to the amount of manual effort required.
 <p>Weighted variables are not currently marked and further details on this are available from the individual studies.</p>
 
-<h2 style="margin-top: 20px"><a name="closer-discovery-accounts"></a>CLOSER Discovery accounts</h2>
+<h2 style="margin-top: 20px"><a name="closer-discovery-accounts"></a><b>CLOSER Discovery account</b></h2>
 
 
 
-<h3>Why should I set up an account?</h3>
+<h3><b>Why should I set up an account?</b></h3>
 <p>Creating a <a href="/Account/register">User account</a> for CLOSER Discovery allows you to save lists of variables and questions. This means you are able to access your saved lists by logging in from anywhere. If you do not create an account you will not be able to create a list. If you already have an account then you can <a href="/Account/Login">Login here</a>. We will store and use your details in conjunction with our <a href="/page/privacy-policy/7">Data protection policy.</a></p>
 
 
-<h2 style="margin-top: 20px"><a name="Metadata-faq"></a>Metadata</h2>
+<h2 style="margin-top: 20px"><a name="Metadata-faq"></a><b>Metadata</b></h2>
 
 
 
-<h3>What is metadata?</h3>
+<h3><b>What is metadata?</b></h3>
 <p>Metadata is, simply put, data about data. It gives the data context. It describes, for example, when a given data collection wave took place and who conducted it. It describes the coverage of the data. It describes the exact questions asked and how they fit into an overall data collection questionnaire.</p>
-<h3>Why do researchers need metadata?</h3>
+<h3><b>Why do researchers need metadata?</b></h3>
 <p>Using data without its metadata is like reading a long, complicated book with the index and glossary removed. You have most of the information you need, but not all of it. It's harder to navigate. You have the terminology, but without the definitions. You have the data, but not the context to make it useable.</p>
-<h3>Can I use the metadata available on CLOSER discovery?</h3>
+<h3><b>Can I use the metadata available on CLOSER discovery?</b></h3>
 <p>CLOSER Discovery has its own Terms of Use. If you have further questions, please contact us at <a target="_blank" rel="noopener noreferrer">closer@ucl.ac.uk</a>. Please also see further information on our <a href="page/data-terms/3">Terms and conditions</a>.</p>
-<h3>What metadata standards are being used?</h3>
+<h3><b>What metadata standards are being used?</b></h3>
 <p>The metadata in CLOSER discovery are a sub-set of the DDI Lifecycle metadata standard. This is an internationally agreed standard used by data archives and other studies across the world. You can find further information about this on the <a href="https://www.ddialliance.org/" target="_blank" rel="noopener noreferrer">DDI Alliance website</a>.</p>
-<h3>Why use a metadata standard?</h3>
+<h3><b>Why use a metadata standard?</b></h3>
 <p>One of the challenges of data sharing is in the formats of data and metadata. A metadata standard overcomes these by providing a single set of definitions that everyone adheres to. The more people who adopt the standard, the more useful it becomes. Standards also promote an efficient 'enter once, use multiple times' approach to data management. If information is entered in an agreed way at the start of a process, it can then be used to feed other parts of the process automatically. In longitudinal population studies, for example, if the DDI Lifecycle metadata standard is adopted by studies and survey agencies, this can be used to make the transfer of questionnaires and data between these partners much more efficient and robust.</p>
 <p>For more information about metadata standards, please see the <a href="https://wiki.ucl.ac.uk/display/CLOS/What+is+the+CLOSER+Technical+Wiki" target="_blank" rel="noopener noreferrer">CLOSER Technical Wiki</a>.</p>
 
-<h2 style="margin-top: 20px"><a name="Feedback"></a>Feedback</h2>
+<h2 style="margin-top: 20px"><a name="Feedback"></a><b>Feedback</b></h2>
 
-<p>CLOSER Discovery is frequently updated with more content and further features and functionality for users. CLOSER also understands that any website will have the occasional bugs and welcomes any feedback users might have via <a>closer@ucl.ac.uk</a>. Please see the <a href=" https://wiki.ucl.ac.uk/display/CLOS/Known+Issues " target="_blank" rel="noopener noreferrer"> Known Issues page</a> on the CLOSER Technical Wiki for a list of the current bugs.</p>
+<p>CLOSER Discovery is frequently updated with more content and further features and functionality for users. CLOSER also understands that any website will have the occasional bugs and welcomes any feedback users might have via <a>closer@ucl.ac.uk</a>. Please see the <a href="https://wiki.ucl.ac.uk/display/CLOS/Known+Issues " target="_blank" rel="noopener noreferrer"> Known Issues page</a> on the CLOSER Technical Wiki for a list of the current bugs.</p>
 
 
 </div>
