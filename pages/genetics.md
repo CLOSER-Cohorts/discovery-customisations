@@ -108,7 +108,7 @@
       </tr>
         <tr>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">5,433</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">5,598</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Imputed data</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Coming when funding available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
