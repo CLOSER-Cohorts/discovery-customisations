@@ -5,7 +5,7 @@
 <p></p>
 <p>CLOSER Discovery is a research tool for locating the variables that best suit your research interests and testing their robustness.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9mFF4hTPOrI?si=T3wEeCe0c4gd4fx3" title="YouTube video player"></iframe>
+<iframe width="561" height="316" src="https://www.youtube.com/embed/9mFF4hTPOrI?si=T3wEeCe0c4gd4fx3" title="YouTube video player"></iframe>
 
 
 <p>A search on CLOSER Discovery will show you:</p>
