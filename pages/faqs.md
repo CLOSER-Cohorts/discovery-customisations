@@ -137,7 +137,7 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 
 <p>Topics are a particularly challenging part of the process of documenting historical questionnaires. It is an area we would particularly like feedback on.</p>
 <h3><b>What topics does CLOSER Discovery use?</b></h3>
-<p>A description of the complete list can be found on the <a href="https://wiki.ucl.ac.uk/display/CLOS/Topics" target="_blank" rel="noopener noreferrer"> Topic pages</a> of the CLOSER Technical Wiki. CLOSER Discovery contains information from studies traditionally considered social and biomedical. Therefore the source of these is an amalgamation of HASSET and MESH.</p>
+<p>A description of the complete list can be found on the <a href="https://ucldata.atlassian.net/wiki/spaces/CLOS/pages/37323020/Topics" target="_blank" rel="noopener noreferrer"> Topic pages</a> of the CLOSER Technical Wiki. CLOSER Discovery contains information from studies traditionally considered social and biomedical. Therefore the source of these is an amalgamation of HASSET and MESH.</p>
 <h3><b>How many topics are linked to each question/variable?</b></h3>
 <p>Each question/variable has only one topic assigned to it. The topics are also grouped, so each question/variable has the topic grouping applied.</p>
 <h3><b>Why can't I find the topic I'm looking for?</b></h3>
@@ -204,11 +204,11 @@ CLOSER Discovery contains the derived variable lineage, but not the derivation m
 <p>The metadata in CLOSER discovery are a sub-set of the DDI Lifecycle metadata standard. This is an internationally agreed standard used by data archives and other studies across the world. You can find further information about this on the <a href="https://www.ddialliance.org/" target="_blank" rel="noopener noreferrer">DDI Alliance website</a>.</p>
 <h3><b>Why use a metadata standard?</b></h3>
 <p>One of the challenges of data sharing is in the formats of data and metadata. A metadata standard overcomes these by providing a single set of definitions that everyone adheres to. The more people who adopt the standard, the more useful it becomes. Standards also promote an efficient 'enter once, use multiple times' approach to data management. If information is entered in an agreed way at the start of a process, it can then be used to feed other parts of the process automatically. In longitudinal population studies, for example, if the DDI Lifecycle metadata standard is adopted by studies and survey agencies, this can be used to make the transfer of questionnaires and data between these partners much more efficient and robust.</p>
-<p>For more information about metadata standards, please see the <a href="https://wiki.ucl.ac.uk/display/CLOS/What+is+the+CLOSER+Technical+Wiki" target="_blank" rel="noopener noreferrer">CLOSER Technical Wiki</a>.</p>
+<p>For more information about metadata standards, please see the <a href="https://ucldata.atlassian.net/wiki/spaces/CLOS/pages/37322897/What+is+the+CLOSER+Technical+Wiki" target="_blank" rel="noopener noreferrer">CLOSER Technical Wiki</a>.</p>
 
 <h2 style="margin-top: 20px"><a name="Feedback"></a><b>Feedback</b></h2>
 
-<p>CLOSER Discovery is frequently updated with more content and further features and functionality for users. CLOSER also understands that any website will have the occasional bugs and welcomes any feedback users might have via <a>closer@ucl.ac.uk</a>. Please see the <a href="https://wiki.ucl.ac.uk/display/CLOS/Known+Issues " target="_blank" rel="noopener noreferrer"> Known Issues page</a> on the CLOSER Technical Wiki for a list of the current bugs.</p>
+<p>CLOSER Discovery is frequently updated with more content and further features and functionality for users. CLOSER also understands that any website will have the occasional bugs and welcomes any feedback users might have via <a>closer@ucl.ac.uk</a>. Please see the <a href="https://ucldata.atlassian.net/wiki/spaces/CLOS/pages/37323105/Known+Issues" target="_blank" rel="noopener noreferrer"> Known Issues page</a> on the CLOSER Technical Wiki for a list of the current bugs.</p>
 
 
 </div>
