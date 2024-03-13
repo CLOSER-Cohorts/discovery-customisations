@@ -70,7 +70,7 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 <ul>
   <li>Item type (studies, sweeps, datasets, questionnaires, variables, questionnaires, questions)</li>
   <li>Study (one or more studies)</li>
-  <li>Life Stage (one or more life stages)</li>
+<li> <a href="https://ucldata.atlassian.net/wiki/spaces/CLOS/pages/37323024/Life+Stage" target="_blank" rel="noopener noreferrer">Life Stage</a> (one or more life stages) </li>
   <li>Topic (one or more of our 16 top level topics)</li>
 </ul>
 
