@@ -1,4 +1,4 @@
-<b>Browse Topics</b>
+<b>Explore Topics</b>
 <p></p>
 <p><a href="https://www.youtube.com/embed/i3Cku4Uglpk?si=DvxsVjoSWl5d9iT5" target="_blank">This short video</a> shows how you can explore, filter and add an item to a list.</p>
 
