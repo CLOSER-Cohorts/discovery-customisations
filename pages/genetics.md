@@ -15,14 +15,14 @@
             <th style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1); width: 18%">Link to data access information</th>
         </tr>
         <tr>
-        <td rowspan="8" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Avon Longitudinal Study of Parents and Children (ALSPAC)</td>
+        <td rowspan="9" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Avon Longitudinal Study of Parents and Children (ALSPAC)</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">1,865</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">NGS (HiSeq ~6.5x)</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>
-        <td rowspan="8" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">
-          <a href="http://www.bristol.ac.uk/alspac/researchers/access" target="_blank">ALSPAC access and sample page</a>
+        <td rowspan="9" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">
+          <a href="http://www.bristol.ac.uk/alspac/researchers/access" target="_blank">ALSPAC access and sample page</a> <a href="https://proposals.epi.bristol.ac.uk/alspac_omics_data_catalogue.html" target="_blank">ALSPAC omics data catalogue</a>
         </td>
       </tr>
       
@@ -52,7 +52,7 @@
         
       </tr>
       <tr>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother, father and study member triad</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">7,450</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">CNV data</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
@@ -79,6 +79,14 @@
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">2,743</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Methylation EPIC BeadChip</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>
+        
+      </tr>
+       <tr>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother, father and study member</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">19,648</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Imputed data</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>
         
@@ -318,4 +326,8 @@
   <p>
     <br>
   </p>
+  
+
+
+  
   
