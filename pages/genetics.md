@@ -15,35 +15,20 @@
             <th style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1); width: 18%">Link to data access information</th>
         </tr>
         <tr>
-        <td rowspan="10" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Avon Longitudinal Study of Parents and Children (ALSPAC)</td>
+        <td rowspan="8" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Avon Longitudinal Study of Parents and Children (ALSPAC)</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">1,518</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Illumina 317</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>
-        <td rowspan="10" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">
-          <a href="http://www.bristol.ac.uk/alspac/researchers/access" target="_blank">ALSPAC access and sample page</a>
-        </td>
-      </tr>
-      <tr>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">3,233</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Illumina 610</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>
-        
-      </tr>
-      <tr>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">1,867</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">1,865</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">NGS (HiSeq ~6.5x)</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>
-        
+        <td rowspan="8" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">
+          <a href="http://www.bristol.ac.uk/alspac/researchers/access" target="_blank">ALSPAC access and sample page</a>
+        </td>
       </tr>
+      
       <tr>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">8,365</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">8,224</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Illumina 550 (custom)</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>
@@ -51,20 +36,13 @@
       </tr>
       <tr>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">8,340</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">8,653</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Illumina 660</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>
         
       </tr>
-      <tr>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother and study member pairs</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">18,000</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Illumina 660 + Illumina 550 (custom)</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>
-        
-      </tr>
+     
       <tr>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother and father pairs</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">3,000</td>
@@ -75,7 +53,7 @@
       </tr>
       <tr>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother, father and study member triad</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">20,000</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">7,450</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">CNV data</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>
@@ -83,7 +61,7 @@
       </tr>
       <tr>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">869</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">947</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Illumina Human HT-12 V3 BeadChips (Expression data)</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Immortalised LCL</td>
@@ -95,6 +73,14 @@
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Illumina Infinium 450k methylation array</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
+        
+      </tr>
+      <tr>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">2,743</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Methylation EPIC BeadChip</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>
         
       </tr>
       <tr>
@@ -332,8 +318,4 @@
   <p>
     <br>
   </p>
-  
-
-
-  
   
