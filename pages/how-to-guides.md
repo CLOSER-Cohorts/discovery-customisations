@@ -23,7 +23,7 @@
 <p>This guide shows how to use CLOSER Discovery to explore within-study cross sectional data, for example discover how to find information on anxiety in the National Child Development Study.</p>
 
 
-<p><a href="../uploads/DiscoveryHowtoGuide_QuestionnairesGuide.pdf" target="_blank">How do I find the question asked in the original questionnaire which measured a variable?</a></p>
+<p><a href="../uploads/DiscoveryHowtoGuide_QuestionnairesGuide.pdf" target="_blank">How do I find a question asked in the original questionnaire which relates to a variable?</a></p>
 <p>This set of instructions demonstrate how CLOSER Discovery can be used to find information about a source question and the wider questionnaire, for instance search the questions used to measure alcohol intake in the CLOSER studies.</p>
 
 
