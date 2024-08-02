@@ -21,62 +21,62 @@
     <tbody>
         <tr>
             <td>
-                <p align="center">
+                <p>
                     <strong>Question number</strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>Question</strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>Original 10-item version</strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>AUDIT-PC<sup>1</sup></strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>AUDIT-C<sup>2</sup></strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>3-item version</strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>WCHADS 2-item version</strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>2-item version</strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>ALSPAC 1-item version</strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>CLS COVID-19 5-item version</strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>CLS COVID-19 3-item    version</strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>COVID-19 2-item version</strong>
                 </p>
             </td>
@@ -570,27 +570,27 @@ Note this table is sortable.
     <thead>
         <tr>
             <th>
-                <p align="center">
+                <p>
                     <strong>Version</strong>
                 </p>
             </th>
             <th>
-                <p align="center">
+                <p>
                     <strong>Study</strong>
                 </p>
             </th>
             <th>
-                <p align="center">
+                <p>
                     <strong>Year</strong>
                 </p>
             </th>
             <th>
-                <p align="center">
+                <p>
                     <strong>Questionnaire</strong>
                 </p>
             </th>
             <th>
-                <p align="center">
+                <p>
                     <strong>Dataset</strong>
                 </p>
             </th>
