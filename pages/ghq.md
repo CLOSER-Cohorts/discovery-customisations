@@ -33,27 +33,27 @@
     <tbody>
         <tr>
             <td>
-                <p align="center">
+                <p>
                     <strong>Question number</strong> <strong></strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>Question</strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>Original 60-item version</strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>GHQ-28<sup>1</sup></strong> <strong></strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>GHQ-12<sup>2</sup></strong> <strong></strong>
                 </p>
             </td>
@@ -1480,27 +1480,27 @@ Note this table is sortable.
     <thead>
         <tr>
             <th>
-                <p align="center">
+                <p>
                     <strong>Version</strong> <strong></strong>
                 </p>
             </th>
             <th>
-                <p align="center">
+                <p>
                     <strong>Study</strong> <strong></strong>
                 </p>
             </th>
             <th>
-                <p align="center">
+                <p>
                     <strong>Year</strong>
                 </p>
             </th>
             <th>
-                <p align="center">
+                <p>
                     <strong>Questionnaire</strong> <strong></strong>
                 </p>
             </th>
             <th>
-                <p align="center">
+                <p>
                     <strong>Dataset</strong> <strong></strong>
                 </p>
             </th>
