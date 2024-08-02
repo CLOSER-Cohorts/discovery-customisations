@@ -32,27 +32,27 @@
     <tbody>
         <tr>
             <td>
-                <p align="center">
+                <p>
                     <strong>Question number</strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>Question</strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>Original 24-item scale</strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>22-item scale</strong>
                 </p>
             </td>
             <td>
-                <p align="center">
+                <p>
                     <strong>9-item scale</strong>
                 </p>
             </td>
@@ -683,27 +683,27 @@ Note this table is sortable.
     <thead>
         <tr>
             <th>
-                <p align="center">
+                <p>
                     <strong>Version</strong> <strong></strong>
                 </p>
             </th>
             <th>
-                <p align="center">
+                <p>
                     <strong>Study</strong> <strong></strong>
                 </p>
             </th>
             <th>
-                <p align="center">
+                <p>
                     <strong>Year</strong>
                 </p>
             </th>
             <th>
-                <p align="center">
+                <p>
                     <strong>Questionnaire</strong> <strong></strong>
                 </p>
             </th>
             <th>
-                <p align="center">
+                <p>
                     <strong>Dataset</strong> <strong></strong>
                 </p>
             </th>
