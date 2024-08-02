@@ -34,27 +34,27 @@
   <tbody>
       <tr>
           <td>
-              <p align="center">
+              <p>
                   <strong>Question    number</strong>
               </p>
           </td>
           <td>
-              <p align="center">
+              <p>
                   <strong>Question</strong>
               </p>
           </td>
           <td>
-              <p align="center">
+              <p>
                   <strong>Original    10-item version</strong>
               </p>
           </td>
           <td>
-              <p align="center">
+              <p>
                   <strong>ALSPAC    11-item version</strong>
               </p>
           </td>
           <td>
-              <p align="center">
+              <p>
                   <strong>ALSPAC    12-item version</strong>
               </p>
           </td>
@@ -416,27 +416,27 @@ Note this table is sortable.
   <thead>
       <tr>
           <th title="Background colour :">
-                 <p align="center">
+                 <p>
                   <strong>Version</strong>
               </p>
           </th>
           <th title="Background colour :">
-              <p align="center">
+              <p>
                   <strong>Study</strong>
               </p>
           </th>
           <th>
-              <p align="center">
+              <p>
                   <strong>Year</strong>
               </p>
           </th>
           <th title="Background colour :">
-              <p align="center">
+              <p>
                   <strong>Questionnaire</strong>
               </p>
           </th>
           <th title="Background colour :">
-              <p align="center">
+              <p>
                   <strong>Dataset</strong>
               </p>
           </th>
