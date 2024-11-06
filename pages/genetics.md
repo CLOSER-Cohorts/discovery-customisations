@@ -302,7 +302,7 @@
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">VNTR analyses***</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Saliva</td>
-        <td rowspan="2" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)"><a href="https://www.liverpool.ac.uk/population-health/research/groups/first-steps/for-researchers" target="_blank">WCHADS researchers page</a>***</td>
+        <td rowspan="2" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)"><a href="https://www.liverpool.ac.uk/population-health/research/groups/first-steps/information-for-researchers/" target="_blank">WCHADS researchers page</a>***</td>
       </tr>
       <tr>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
