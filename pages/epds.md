@@ -702,12 +702,14 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  Parent    COVID-19 Long COVID Questionnaire 5
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/84f8de88-9af7-48db-8d47-c0dc3243445d/1">
+                    Parent    COVID-19 Long COVID Questionnaire 5
               </p>
           </td>
           <td>
               <p>
-                  -
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/e0d9b6a0-1205-4043-a54a-e44add34b37d">
+                    ALSPAC   COVID Questionnaire 5 Long COVID Dataset Dataset
               </p>
           </td>
       </tr>
@@ -729,12 +731,14 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  Cohort    Member COVID-19 Long COVID Questionnaire 5
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/18db386e-2d30-456f-9f7f-1a3999f43bfd/1">
+                    Cohort    Member COVID-19 Long COVID Questionnaire 5
               </p>
           </td>
           <td>
               <p>
-                  -
+                 <a href="https://discovery.closer.ac.uk/item/uk.alspac/e0d9b6a0-1205-4043-a54a-e44add34b37d">
+                    ALSPAC   COVID Questionnaire 5 Long COVID Dataset Dataset
               </p>
           </td>
       </tr>
