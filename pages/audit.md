@@ -1088,7 +1088,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.iser/3ce3ec96-e3f4-43dc-890f-ea2bc4381324">
+                    <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/3ce3ec96-e3f4-43dc-890f-ea2bc4381324/1">
                         COVID-19    Wave 1 Questionnaire
                     </a>
                 </p>
@@ -1120,7 +1120,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.iser/f8a05405-2ab0-4dd4-82de-c7984e6616de">
+                    <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/f8a05405-2ab0-4dd4-82de-c7984e6616de/1">
                         COVID-19    Survey Wave 5
                     </a>
                 </p>
@@ -1152,7 +1152,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    BCS70    Age 50 COVID-19 Survey Wave 3
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/fac586ef-eece-45aa-97c9-7e21ac162e03/1">
+                        BCS70    Age 50 COVID-19 Survey Wave 3
                 </p>
             </td>
             <td>
@@ -1182,7 +1183,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    MCS    Age 20 Cohort Member COVID-19 Survey - Wave 3
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/bf841928-87d6-42dc-887f-206f12341b77/1">
+                        MCS    Age 20 Cohort Member COVID-19 Survey - Wave 3
                 </p>
             </td>
             <td>
@@ -1212,7 +1214,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    MCS    Age 20 Parent COVID-19 Survey - Wave 3
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/1c4ba52b-5527-419d-8df5-4efe06599a1a/1">
+                        MCS    Age 20 Parent COVID-19 Survey - Wave 3
                 </p>
             </td>
             <td>
@@ -1242,7 +1245,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    NCDS    Age 62 COVID-19 Survey - Wave 3
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/04bbf473-bab3-4209-bacc-b2c431cee12c/1">
+                        NCDS    Age 62 COVID-19 Survey - Wave 3
                 </p>
             </td>
             <td>
@@ -1272,7 +1276,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Next    Steps Age 30 COVID-19 Survey - Wave 3
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/82b7a6c9-47ea-4ee5-98fb-4cd5958c4076/1">
+                        Next    Steps Age 30 COVID-19 Survey - Wave 3
                 </p>
             </td>
             <td>
@@ -1329,7 +1334,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    WCHADS    Phase 01 Mother Questionnaire - 20 wk scan
+                    <a href="https://discovery.closer.ac.uk/item/uk.wchads/f10d92d8-896b-45c6-92cf-a8374d1f4a40/5">
+                        WCHADS    Phase 01 Mother Questionnaire - 20 wk scan
                 </p>
             </td>
             <td>
@@ -1418,7 +1424,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    NCDS    Age 50 CAI Questionnaire
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/26c98b00-c1bf-4d31-ae76-e5e5ce92598f/1">
+                        NCDS    Age 50 CAI Questionnaire
                 </p>
             </td>
             <td>
@@ -1697,7 +1704,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Next    Steps Age 30 COVID-19 Survey - Wave 1
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/83ab13bb-90e6-40fe-8741-16cf36400450/3">
+                        Next    Steps Age 30 COVID-19 Survey - Wave 1
                 </p>
             </td>
             <td>
@@ -1943,12 +1951,14 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    SWS    Offspring Questionnaire COVID-19
+                    <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/bda8d135-0386-4a9e-931c-97737ac071ec/1">
+                        SWS    COVID-19 Questionnaire for offspring
                 </p>
             </td>
             <td>
                 <p>
-                    -
+                    <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/9873004b-f598-4324-a6c1-46480449a1b0">
+                        COVID-19 Questionnaire for Offspring Dataset  
                 </p>
             </td>
         </tr>
@@ -1970,12 +1980,14 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    SWS    Women Questionnaire COVID-19
+                    <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/c373c2b5-a6f6-4fba-9199-e243e801cc7b/1">
+                        SWS    COVID-19 Questionnaire for women
                 </p>
             </td>
             <td>
                 <p>
-                    -
+                    <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/8142add4-4377-4885-a439-d8a463b38eff">
+                        COVID-19 Questionnaire for Women Dataset
                 </p>
             </td>
         </tr>
