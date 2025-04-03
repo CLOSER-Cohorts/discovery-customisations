@@ -946,7 +946,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/f860d058-c22f-453e-9b85-6709b576b4bf">
+                        BCS70 Age 16 Student Test - Attitudinal Scales (1986) Dataset
                 </p>
             </td>
         </tr>
@@ -968,7 +969,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    NCDS    Age 50 CAI Questionnaire
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/26c98b00-c1bf-4d31-ae76-e5e5ce92598f/1">
+                        NCDS    Age 50 CAI Questionnaire
                 </p>
             </td>
             <td>
@@ -1057,7 +1059,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    BCS70    Age 46 Biomedical Sweep: Self Completion
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/48268304-100b-4ab7-ba89-4327d253e480/1">
+                        BCS70    Age 46 Biomedical Sweep: Self Completion
                     Questionnaire
                 </p>
             </td>
