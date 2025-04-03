@@ -310,7 +310,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Cohort    Member COVID-19 Questionnaire 1
+                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/83542309-c728-4a1a-b4f0-b6fe302770c5/3">
+                        Cohort    Member COVID-19 Questionnaire 1
                 </p>
             </td>
             <td>
@@ -432,7 +433,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Parent    COVID-19 Questionnaire 4
+                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/a8fa19cb-3c3f-4777-853e-edf5b0093ada/1">
+                        Parent    COVID-19 Questionnaire 4
                 </p>
             </td>
             <td>
@@ -461,12 +463,14 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Cohort    Member COVID-19 Questionnaire 5
+                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/18db386e-2d30-456f-9f7f-1a3999f43bfd/1">
+                        Cohort    Member COVID-19 Long Covid Questionnaire 5
                 </p>
             </td>
             <td>
                 <p>
-                    -
+                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/e0d9b6a0-1205-4043-a54a-e44add34b37d">
+                        ALSPAC    COVID Questionnaire 5 Long COVID Dataset Dataset
                 </p>
             </td>
         </tr>
@@ -488,12 +492,14 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Parent    COVID-19 Questionnaire 5
+                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/84f8de88-9af7-48db-8d47-c0dc3243445d/1">
+                        Parent    COVID-19 Long Covid Questionnaire 5
                 </p>
             </td>
             <td>
                 <p>
-                    -
+                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/e0d9b6a0-1205-4043-a54a-e44add34b37d">
+                        ALSPAC    COVID Questionnaire 5 Long COVID Dataset Dataset
                 </p>
             </td>
         </tr>
@@ -520,7 +526,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    ALSPAC COVID-19 Questionnaire 6 Antibody Test Dataset
                 </p>
             </td>
         </tr>
@@ -547,7 +553,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    ALSPAC COVID-19 Questionnaire 6 Antibody Test Dataset
                 </p>
             </td>
         </tr>
@@ -569,12 +575,14 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    COVID-19 Questionnaire for women
+                    <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/c373c2b5-a6f6-4fba-9199-e243e801cc7b/1">
+                        COVID-19 Questionnaire for women
                 </p>
             </td>
             <td>
                 <p>
-                    -
+                    <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/8142add4-4377-4885-a439-d8a463b38eff">
+                        COVID-19 Questionnaire for Women Dataset
                 </p>
             </td>
         </tr>
@@ -768,7 +776,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    BCS70    Age 50 COVID-19 Survey - Wave 3
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/fac586ef-eece-45aa-97c9-7e21ac162e03/1">
+                        BCS70    Age 50 COVID-19 Survey - Wave 3
                 </p>
             </td>
             <td>
@@ -926,7 +935,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    MCS    Age 20 Cohort Member COVID-19 Survey - Wave 3
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/bf841928-87d6-42dc-887f-206f12341b77/1">
+                        MCS    Age 20 Cohort Member COVID-19 Survey - Wave 3
                 </p>
             </td>
             <td>
@@ -956,7 +966,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    MCS    Age 20 Parent COVID-19 Survey - Wave 3
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/1c4ba52b-5527-419d-8df5-4efe06599a1a/1">
+                        MCS    Age 20 Parent COVID-19 Survey - Wave 3
                 </p>
             </td>
             <td>
@@ -1050,7 +1061,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    NCDS    Age 62 COVID-19 Survey -Wave 3
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/04bbf473-bab3-4209-bacc-b2c431cee12c/1">
+                        NCDS    Age 62 COVID-19 Survey -Wave 3
                 </p>
             </td>
             <td>
@@ -1080,7 +1092,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Next    Steps Age 30 COVID-19 Survey - Wave 1
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/83ab13bb-90e6-40fe-8741-16cf36400450/3">
+                        Next    Steps Age 30 COVID-19 Survey - Wave 1
                 </p>
             </td>
             <td>
@@ -1142,7 +1155,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Next    Steps Age 30  COVID-19 Survey - Wave 3
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/82b7a6c9-47ea-4ee5-98fb-4cd5958c4076/1">
+                        Next    Steps Age 30  COVID-19 Survey - Wave 3
                 </p>
             </td>
             <td>
@@ -1179,7 +1193,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    <a href="https://discovery.closer.ac.uk/item/uk.lha/b3d0e64b-e9ae-47fd-8128-60923f35a534">
+                        2020 COVID 19 Survey Wave 1 (Age 74) Dataset
                 </p>
             </td>
         </tr>
