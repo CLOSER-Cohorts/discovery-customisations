@@ -1375,6 +1375,9 @@ Note this table is sortable.
                 </p>
             </td>
             <td>
+                <p>
+                    -
+                </p>
             </td>
         </tr>
         <tr>
@@ -1422,12 +1425,14 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    COVID-19    Questionnaire for offspring
+                    <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/bda8d135-0386-4a9e-931c-97737ac071ec/1">
+                        COVID-19    Questionnaire for offspring
                 </p>
             </td>
             <td>
                 <p>
-                    -
+                    <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/9873004b-f598-4324-a6c1-46480449a1b0">
+                        COVID-19 Questionnaire for Offspring Dataset
                 </p>
             </td>
         </tr>
@@ -1572,7 +1577,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Wave    4 Questionnaire
+                    <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/726c812d-87ed-467d-aa8c-668670a9713b/1">
+                        Wave    4 Questionnaire
                 </p>
             </td>
             <td>
@@ -2109,7 +2115,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    3    Year Child Questionnaire
+                    <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/470b335b-dd6f-4a4a-99c5-e5b4e9dc653c/2">
+                        3    Year Child Questionnaire
                 </p>
             </td>
             <td>
