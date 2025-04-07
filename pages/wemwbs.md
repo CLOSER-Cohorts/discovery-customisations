@@ -480,7 +480,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Cohort Member COVID-19 Questionnaire 1
+                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/83542309-c728-4a1a-b4f0-b6fe302770c5/3">
+                        Cohort Member COVID-19 Questionnaire 1
                 </p>
             </td>
             <td>
@@ -602,7 +603,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Parent COVID-19 Questionnaire 4
+                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/a8fa19cb-3c3f-4777-853e-edf5b0093ada/1">
+                        Parent COVID-19 Questionnaire 4
                 </p>
             </td>
             <td>
@@ -665,7 +667,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    ALSPAC COVID-19 Questionnaire 6 Antibody Test Dataset
                 </p>
             </td>
         </tr>
@@ -714,7 +716,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    BCS70 Age 46 Biomedical Sweep: Self Completion Questionnaire
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/48268304-100b-4ab7-ba89-4327d253e480/1">
+                        BCS70 Age 46 Biomedical Sweep: Self Completion Questionnaire
                 </p>
             </td>
             <td>
@@ -865,12 +868,14 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    HEAF Follow-Up 4
+                    <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.heaf/cc2caba6-5892-4c63-90c0-ade18638e1e2/1">
+                        HEAF Follow-Up 4
                 </p>
             </td>
             <td>
                 <p>
-                    -
+                    <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.heaf/bf7a1d52-f5b7-431c-bc22-2de9ec8d5f38">
+                        HEAF Follow-up 4 Dataset
                 </p>
             </td>
         </tr>
@@ -892,12 +897,14 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    COVID-19 Questionnaire for offspring
+                    <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/bda8d135-0386-4a9e-931c-97737ac071ec/1">
+                        COVID-19 Questionnaire for offspring
                 </p>
             </td>
             <td>
                 <p>
-                    -
+                    <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/9873004b-f598-4324-a6c1-46480449a1b0">
+                        COVID-19 Questionnaire for Offspring Dataset
                 </p>
             </td>
         </tr>
@@ -1015,7 +1022,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    MCS Age 17 Young Person Self Completion Questionnaire Dataset
                 </p>
             </td>
         </tr>
@@ -1128,7 +1135,8 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Wave 4 Questionnaire
+                    <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/726c812d-87ed-467d-aa8c-668670a9713b/1">
+                        Wave 4 Questionnaire
                 </p>
             </td>
             <td>
