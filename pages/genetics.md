@@ -88,9 +88,17 @@
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">19,648</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Imputed data</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>
-        
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>        
       </tr>
+      
+       <tr>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother, father and study member triad</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">11,500</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Whole Exome Sequencing (Illumina NovaSeq 6000)</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>        
+      </tr>
+      
       <tr>
         <td rowspan="2" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">1970 British Cohort Study (BCS70)</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
