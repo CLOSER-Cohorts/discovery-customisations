@@ -15,13 +15,13 @@
             <th style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1); width: 18%">Link to data access information</th>
         </tr>
         <tr>
-        <td rowspan="9" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Avon Longitudinal Study of Parents and Children (ALSPAC)</td>
+        <td rowspan="10" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Avon Longitudinal Study of Parents and Children (ALSPAC)</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">1,865</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">NGS (HiSeq ~6.5x)</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>
-        <td rowspan="9" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">
+        <td rowspan="10" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">
           <a href="http://www.bristol.ac.uk/alspac/researchers/access" target="_blank">ALSPAC access and sample page</a> <a href="https://proposals.epi.bristol.ac.uk/alspac_omics_data_catalogue.html" target="_blank">ALSPAC omics data catalogue</a>
         </td>
       </tr>
@@ -88,7 +88,8 @@
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">19,648</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Imputed data</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>        
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>
+        
       </tr>
       
        <tr>
@@ -96,7 +97,8 @@
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">11,500</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Whole Exome Sequencing (Illumina NovaSeq 6000)</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>        
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood or Immortalised LCL</td>     
+   
       </tr>
       
       <tr>
@@ -116,14 +118,13 @@
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
       </tr>
         <tr>
-            <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)Generation Scotland (GenScot)</td>
+            <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Generation Scotland (GenScot)</td>
             <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
             <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">20,000</td>
             <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Illumina HumanOmniExpressExome-8v1</td>
             <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
             <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
-            <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">N/A</td>
-            <td rowspan="2" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)"><a href="https://genscot.ed.ac.uk/for-researchers)" target="_blank">Generation Scotland Genetic Access</a>**</td>
+            <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)"><a href="https://genscot.ed.ac.uk/for-researchers)" target="_blank">Generation Scotland Genetic Access</a>**</td>
         </tr>
         <tr>
             <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Hertfordshire Cohort Study (HCS)</td>
@@ -305,7 +306,7 @@
       <tr>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Understanding Society (USoc)</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">10,000</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">9,921</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Illumina human core exome array</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
