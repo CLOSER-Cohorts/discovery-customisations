@@ -116,6 +116,16 @@
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
       </tr>
         <tr>
+            <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)Generation Scotland (GenScot)</td>
+            <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
+            <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">20,000</td>
+            <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Illumina HumanOmniExpressExome-8v1</td>
+            <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
+            <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
+            <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">N/A</td>
+            <td rowspan="2" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)"><a href="https://genscot.ed.ac.uk/for-researchers)" target="_blank">Generation Scotland Genetic Access</a>**</td>
+        </tr>
+        <tr>
             <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Hertfordshire Cohort Study (HCS)</td>
             <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Study member</td>
             <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">967</td>
