@@ -1550,17 +1550,21 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    2014
+                    2006-2010
                 </p>
             </td>
             <td>
                 <p>
-                    2014-2016 Self-Completion    Questionnaire
+                    <a href="https://discovery.closer.ac.uk/item/uk.lha/a388a851-14d3-44dd-bc4e-43104aca14c9">
+                        2006-2010    Clinic Study Self-Completion Booklet
+                    </a>
                 </p>
             </td>
             <td>
                 <p>
-                    -
+                    <a href="https://discovery.closer.ac.uk/item/uk.lha/a1fec15e-7330-4d7f-bf8c-789d188a2f22">
+                        2006-10    Self completion Dataset
+                    </a>
                 </p>
             </td>
         </tr>
@@ -1577,20 +1581,17 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    2020
+                    2014
                 </p>
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.lha/25ac690e-bd20-4cc2-a8e8-d79cd9696029">
-                        2020    COVID-19 Survey - Wave 1
-                    </a>
+                    2014-2016 Self-Completion    Questionnaire
                 </p>
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.lha/b3d0e64b-e9ae-47fd-8128-60923f35a534">
-                        2020 COVID 19 Survey Wave 1 (Age 74) Dataset
+                    -
                 </p>
             </td>
         </tr>
@@ -1619,38 +1620,6 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/37a6ba82-d638-464a-896e-b32bc110379d">
                         BCS70    Questionnaire (2000) Dataset
-                    </a>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p>
-                    GHQ-12
-                </p>
-            </td>
-            <td>
-                <p>
-                    MCS
-                </p>
-            </td>
-            <td>
-                <p>
-                    2020
-                </p>
-            </td>
-            <td>
-                <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/7cfce035-82eb-4b38-88b6-160d9fae211f">
-                        MCS    Age 20 Parent COVID-19 Survey - Wave 2
-                    </a>
-                </p>
-            </td>
-            <td>
-                <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/4665e407-288a-40ab-a964-3121b0834b96">
-                        MCS    Parent COVID-19 Survey in Five National
-                        Longitudinal Cohort Studies (2020)    Wave 2 Dataset
                     </a>
                 </p>
             </td>
@@ -1862,7 +1831,7 @@ Note this table is sortable.
                         Next    Steps COVID-19 Survey in Five National
                         Longitudinal Cohort Studies (2020)    Wave 3 Dataset
                     </a>
-                </p>
+                    </p>
             </td>
         </tr>
         <tr>
@@ -1878,20 +1847,20 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    2006-2010
+                    2020
                 </p>
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.lha/a388a851-14d3-44dd-bc4e-43104aca14c9">
-                        2006-2010    Clinic Study Self-Completion Booklet
+                    <a href="https://discovery.closer.ac.uk/item/uk.lha/25ac690e-bd20-4cc2-a8e8-d79cd9696029">
+                        2020    COVID-19 Survey - Wave 1
                     </a>
                 </p>
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.lha/a1fec15e-7330-4d7f-bf8c-789d188a2f22">
-                        2006-10    Self completion Dataset
+                    <a href="https://discovery.closer.ac.uk/item/uk.lha/b3d0e64b-e9ae-47fd-8128-60923f35a534">
+                        2020 COVID 19 Survey Wave 1 (Age 74) Dataset
                     </a>
                 </p>
             </td>
