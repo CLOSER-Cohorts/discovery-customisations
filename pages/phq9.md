@@ -332,7 +332,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    Phase 14 Mother Questionnaire Dataset
                 </p>
             </td>
         </tr>
@@ -359,7 +359,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    Phase 14 Partner Questionnaire Dataset
                 </p>
             </td>
         </tr>
@@ -386,7 +386,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    Phase 15 Mother COVID-19 Only Questionnaire Dataset
                 </p>
             </td>
         </tr>
@@ -413,7 +413,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    Phase 15 Mother COVID-19 Retest Dataset
                 </p>
             </td>
         </tr>
@@ -440,7 +440,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    Phase 15 Mother Questionnaire Dataset
                 </p>
             </td>
         </tr>
@@ -969,7 +969,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    2020 COVID-19 Survey - Wave 2 Dataset
                 </p>
             </td>
         </tr>
