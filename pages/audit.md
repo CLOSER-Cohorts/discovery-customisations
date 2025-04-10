@@ -774,7 +774,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    ALSPAC Your Life in 2013 Dataset
                 </p>
             </td>
         </tr>
@@ -861,7 +861,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    2014-2016 Nurse Questionnaire Dataset
                 </p>
             </td>
         </tr>
@@ -919,7 +919,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    BCS70 Paper Self Completion (2016) Dataset
                 </p>
             </td>
         </tr>
@@ -941,12 +941,12 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    MCS    Age 14 Parent Self-Completion Questionnaire
+                    MCS    Age 14 Parent Questionnaire
                 </p>
             </td>
             <td>
                 <p>
-                    -
+                    MCS Age 14 Young Person Questionnaire dataset
                 </p>
             </td>
         </tr>
@@ -1343,7 +1343,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    2020 COVID-19 Survey - Wave 3 Dataset
                 </p>
             </td>
         </tr>
@@ -1773,7 +1773,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    2020 COVID-19 Survey - Wave 1 Dataset
                 </p>
             </td>
         </tr>
@@ -1960,7 +1960,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    2020 COVID-19 Survey - Wave 2 Dataset
                 </p>
             </td>
         </tr>
