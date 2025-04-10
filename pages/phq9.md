@@ -942,7 +942,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    2020 COVID-19 Survey - Wave 1 Dataset
                 </p>
             </td>
         </tr>
@@ -996,7 +996,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    2020 COVID-19 Survey - Wave 3 Dataset
                 </p>
             </td>
         </tr>
