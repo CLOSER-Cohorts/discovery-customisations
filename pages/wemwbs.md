@@ -1007,6 +1007,96 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
+                    GenScot
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/e3bc1c06-3a6f-49ec-9358-c11d40ef97ea/1">
+                        Generation Scotland COVID19 Survey 1
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/7bee4eaf-e593-477b-a3cb-623638971fa1">
+                        CovidLife Survey 1 Dataset
+                   </a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    7-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    GenScot
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/de350ed5-35ba-424f-bc8b-7d56b9305bd0/1">
+                        Generation Scotland COVID19 Survey 2
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/c09a8aef-7ed5-4080-9e3d-4629e3e94c06">
+                        CovidLife Survey 2 Dataset
+                    </a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    7-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    GenScot
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/5e542b04-f145-4cb0-9e33-cbc9dcb52f14/1">
+                        Generation Scotland COVID19 Survey 3
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/3a4763be-3cbf-485b-8103-d24f462ff4b1">
+                        CovidLife Survey 3 Dataset
+                </a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                </p>
+                    7-item version
+                </p>
+            </td>
+            <td>
+                <p>
                     MCS
                 </p>
             </td>
