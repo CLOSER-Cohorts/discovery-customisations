@@ -34,6 +34,9 @@
     <colgroup>
         <col>
     </colgroup>
+    <colgroup>
+        <col>
+    </colgroup>
     <tbody>
         <tr>
             <td>
@@ -63,6 +66,11 @@
             </td>
             <td>
                 <p>
+                    <strong>24-item version*</strong>
+                </p>
+            </td>
+            <td>
+                <p>
                     <strong>WCHADS    5-item version*</strong>
                 </p>
             </td>
@@ -78,6 +86,11 @@
                     Please    give your answers on the basis of the child's
                     behaviour over the last six    months. Considerate of other
                     people's feelings
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -130,6 +143,11 @@
                 </p>
             </td>
             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
+            <td>
             </td>
         </tr>
         <tr>
@@ -143,6 +161,11 @@
                     Please    give your answers on the basis of the child's
                     behaviour over the last six    months. Often complains of
                     headaches, stomach-aches or sickness
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -196,6 +219,11 @@
                     ✓
                 </p>
             </td>
+            <td>
+                <p>
+                    ✓
+                </p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -208,6 +236,11 @@
                     Please    give your answers on the basis of the child's
                     behaviour over the last six    months. Often has temper
                     tantrums or hot tempers
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -257,6 +290,11 @@
                 </p>
             </td>
             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
+            <td>
             </td>
         </tr>
         <tr>
@@ -288,6 +326,11 @@
                 </p>
             </td>
             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
+            <td>
             </td>
         </tr>
         <tr>
@@ -301,6 +344,11 @@
                     Please    give your answers on the basis of the child's
                     behaviour over the last six    months. Many worries, often
                     seems worried
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -354,6 +402,11 @@
                     ✓
                 </p>
             </td>
+            <td>
+                <p>
+                    ✓
+                </p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -366,6 +419,11 @@
                     Please    give your answers on the basis of the child's
                     behaviour over the last six    months. Constantly fidgeting
                     or squirming
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -415,6 +473,11 @@
                 </p>
             </td>
             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
+            <td>
             </td>
         </tr>
         <tr>
@@ -428,6 +491,11 @@
                     Please    give your answers on the basis of the child's
                     behaviour over the last six    months. Often fights with
                     other children or bullies them
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -478,6 +546,8 @@
             </td>
             <td>
             </td>
+            <td>
+            </td>
         </tr>
         <tr>
             <td>
@@ -490,6 +560,11 @@
                     Please    give your answers on the basis of the child's
                     behaviour over the last six    months. Generally liked by
                     other children
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -539,6 +614,11 @@
                 </p>
             </td>
             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
+            <td>
             </td>
         </tr>
         <tr>
@@ -552,6 +632,11 @@
                     Please    give your answers on the basis of the child's
                     behaviour over the last six    months. Nervous or clingy in
                     new situations, easily loses confidence
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -605,6 +690,11 @@
                     ✓
                 </p>
             </td>
+            <td>
+                <p>
+                    ✓
+                </p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -630,6 +720,11 @@
                 </p>
             </td>
             <td>
+            </td>
+            <td>
+                <p>
+                    ✓
+                </p>
             </td>
             <td>
             </td>
@@ -663,6 +758,11 @@
                 </p>
             </td>
             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
+            <td>
             </td>
         </tr>
         <tr>
@@ -676,6 +776,11 @@
                     Please    give your answers on the basis of the child's
                     behaviour over the last six    months. Often volunteers to
                     help others (parent, teachers, other children)
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
