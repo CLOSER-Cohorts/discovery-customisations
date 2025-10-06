@@ -442,7 +442,6 @@ Note this table is sortable.
       <col>
   </colgroup>
   <thead>
-    <tbody>
       <tr>
           <th title="Background colour :">
                  <p>
@@ -469,7 +468,7 @@ Note this table is sortable.
                   <strong>Dataset</strong>
               </p>
           </th>
-      </tr>
+        </tr>
       </thead>
         <tbody>
         <tr>
@@ -485,12 +484,12 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  20088-2010
+                  2008-2010
               </p>
           </td>
           <td>
               <p>
-                  <a href="[https://discovery.closer.ac.uk/item/uk.alspac/a29b8747-0e23-46b0-a1c1-efd5846cf0f8](https://discovery.closer.ac.uk/item/uk.alspac/72703e0f-8d9f-46f1-9e19-d2ba5ddeb68e)">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/72703e0f-8d9f-46f1-9e19-d2ba5ddeb68e">
                       Department for Children, Schools and Families Plans and Aspirations Questionnaire                    
                   </a>
               </p>
@@ -502,8 +501,8 @@ Note this table is sortable.
                   </a>
               </p>
           </td>
-      </tr>
-      <tr>
+        </tr>
+        <tr>
           <td>
               <p>
                   11-item version
