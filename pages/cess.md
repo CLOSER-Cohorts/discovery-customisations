@@ -54,7 +54,239 @@
               </p>
           </td>
       </tr>
-  </tbody>
+      <tr>
+          <td>
+              <p>
+                  2
+          </td>
+          <td>
+              <p>
+                  During the past week: I did not feel like eating; my appetite was poor.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>
+        <tr>
+          <td>
+              <p>
+                  3
+          </td>
+          <td>
+              <p>
+                  During the past week: I felt that I could not shake off the blues even with help from my family or friends.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>
+        <tr>
+          <td>
+              <p>
+                  4
+          </td>
+          <td>
+              <p>
+                  During the past week: I felt that I was just as good as other people.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  5
+          </td>
+          <td>
+              <p>
+                  During the past week: I had trouble keeping my mind on what I was doing.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  6
+          </td>
+          <td>
+              <p>
+                  During the past week: I felt depressed.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>
+
+      <tr>
+          <td>
+              <p>
+                  7
+          </td>
+          <td>
+              <p>
+                  During the past week: I felt that everything I did was an effort. 
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr> 
+      <tr>
+          <td>
+              <p>
+                  8
+          </td>
+          <td>
+              <p>
+                  During the past week: I felt hopeful about the future.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>      
+
+      <tr>
+          <td>
+              <p>
+                  9
+          </td>
+          <td>
+              <p>
+                  During the past week: I thought my life had been a failure.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>
+      
+      <tr>
+          <td>
+              <p>
+                  10
+          </td>
+          <td>
+              <p>
+                  During the past week: I felt fearful.vvvv
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>
+
+      <tr>
+          <td>
+              <p>
+                  6
+          </td>
+          <td>
+              <p>
+                  During the past week: I felt depressed.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>
+
+      <tr>
+          <td>
+              <p>
+                  6
+          </td>
+          <td>
+              <p>
+                  During the past week: I felt depressed.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>
+
+      <tr>
+          <td>
+              <p>
+                  6
+          </td>
+          <td>
+              <p>
+                  During the past week: I felt depressed.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>
+
+      <tr>
+          <td>
+              <p>
+                  6
+          </td>
+          <td>
+              <p>
+                  During the past week: I felt depressed.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>
+
+      <tr>
+          <td>
+              <p>
+                  6
+          </td>
+          <td>
+              <p>
+                  During the past week: I felt depressed.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>
+      </tbody>
 </table>
 
 <h2>
