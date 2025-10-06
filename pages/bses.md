@@ -522,7 +522,6 @@ Note this table is sortable.
               <p>
                   <a href="https://discovery.closer.ac.uk/item/uk.alspac/5057b4b7-4dcb-4d40-8ccc-6d254cc1f602">
                       Partner's Health Events and Feelings
-                    
                   </a>
               </p>
           </td>
