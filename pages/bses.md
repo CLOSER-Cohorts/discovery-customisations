@@ -6,10 +6,8 @@
   Different versions of the scale have been created which include a subset of the original 10 items
 </p>
 <p>
-  <a href="https://eric.ed.gov/?id=ED051414">
       Bachman, J. G. (1970). Youth in Transition II: The impact of family background and intelligence on tenth-grade boys. University of Michigan, Institute for Social Research.
-      https://eric.ed.gov/?id=ED051414.
-  </a>
+      <a href="https://eric.ed.gov/?id=ED051414">https://eric.ed.gov/?id=ED051414</a>
 </p>
 <table border="1" cellspacing="0" cellpadding="0" width="95%">
   <colgroup>
