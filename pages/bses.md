@@ -442,6 +442,7 @@ Note this table is sortable.
       <col>
   </colgroup>
   <thead>
+    <tbody>
       <tr>
           <th title="Background colour :">
                  <p>
@@ -469,8 +470,9 @@ Note this table is sortable.
               </p>
           </th>
       </tr>
-      </thead><tbody>
-      <tr>
+      </thead>
+        <tbody>
+        <tr>
           <td>
               <p>
                   Original 10-item version
