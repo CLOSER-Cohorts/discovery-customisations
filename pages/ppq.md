@@ -620,7 +620,671 @@
               </p>
           </td>
       </tr>
-  </tbody>
+       <tr>
+          <td>
+              <p>
+                  29
+          </td>
+          <td>
+              <p>
+              [He helps][I help] our child to understand the impact of behavior by encouraging our child to talk about the consequences of own actions.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>    
+      </tr>
+       <tr>
+          <td>
+              <p>
+                  30
+          </td>
+          <td>
+              <p>
+              [He is][I am] afraid that disciplining our child for misbehavior will cause the child to not like his/her parents.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  31
+          </td>
+          <td>
+              <p>
+              [He takes][I take] our child's desires into account before asking the child to do something.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  32
+          </td>
+          <td>
+              <p>
+             [He explodes][I explode] in anger towards our child.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  33
+          </td>
+          <td>
+              <p>
+            [He is][I am] aware of problems or concerns about our child in school.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  34
+          </td>
+          <td>
+              <p>
+            [He threatens][I threaten] our child with punishment more often than actually giving it.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  35
+          </td>
+          <td>
+              <p>
+           [He expresses][I express] affection by hugging, kissing, and holding our child.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  36
+          </td>
+          <td>
+              <p>
+           [He ignores][I ignore] our child's misbehaviour.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  37
+          </td>
+          <td>
+              <p>
+           [He uses][I use] physical punishment as a way of disciplining our child.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>          
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  38
+          </td>
+          <td>
+              <p>
+           [He carries][I carry] out discipline after our child misbehaves.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>       
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  39
+          </td>
+          <td>
+              <p>
+           [He apologizes][I apologize] to our child when making a mistake in parenting
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>       
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  40
+          </td>
+          <td>
+              <p>
+           [He tells][I tell] our child what to do.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>       
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  41
+          </td>
+          <td>
+              <p>
+           [He gives][I give] into our child when the child causes a commotion about something.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>       
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  42
+          </td>
+          <td>
+              <p>
+           [He talks it over and reasons][I talk it over and reason] with our child when the child misbehaves..
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>       
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  43
+          </td>
+          <td>
+              <p>
+           [He slaps][I slap] our child when the child misbehaves.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>       
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  44
+          </td>
+          <td>
+              <p>
+               [He disagrees][I disagree] with our child.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>       
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  45
+          </td>
+          <td>
+              <p>
+               [He allows][I allow] our child to interrupt others.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>       
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  46
+          </td>
+          <td>
+              <p>
+               [He has][I have] warm and intimate times together with our child. 
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>       
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  47
+          </td>
+          <td>
+              <p>
+               When two children are fighting, [he disciplines][I discipline] the children first and asks questions later.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>       
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  48
+          </td>
+          <td>
+              <p>
+               [He encourages][I encourage] our child to freely express (himself)(herself) even when disagreeing with parents.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>       
+              <p>
+                  ✓
+              </p>          
+          </td>
+      </tr>   
+       <tr>
+          <td>
+              <p>
+                  49
+          </td>
+          <td>
+              <p>
+               [He bribes][I bribe] our child with rewards to bring about compliance.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>               
+          </td>
+      </tr>  
+       <tr>
+          <td>
+              <p>
+                  50
+          </td>
+          <td>
+              <p>
+               [He scolds or criticizes][I scold or criticize] when our child's behavior doesn't meet our expectations.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>               
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>  
+       <tr>
+          <td>
+              <p>
+                  51
+          </td>
+          <td>
+              <p>
+              [He shows][I show] respect for our child's opinions by encouraging our child to express them.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>               
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>  
+       <tr>
+          <td>
+              <p>
+                  52
+          </td>
+          <td>
+              <p>
+              He sets][I set] strict well-established rules for our child.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>               
+          </td>
+      </tr>  
+       <tr>
+          <td>
+              <p>
+                  53
+          </td>
+          <td>
+              <p>
+              [He explains][I explain] to our child how we feel about  the child's good and bad behavior.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>               
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>  
+       <tr>
+          <td>
+              <p>
+                  54
+          </td>
+          <td>
+              <p>
+             [He uses][I use] threats as punishment with little or no justification.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>               
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>  
+       <tr>
+          <td>
+              <p>
+                  55
+          </td>
+          <td>
+              <p>
+             [He takes][I take] into account our child's preferences in making plans for the family.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>               
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>  
+       <tr>
+          <td>
+              <p>
+                  56
+          </td>
+          <td>
+              <p>
+             When our child  asks why (he)(she) has to conform, [he states][I state]: because I said so, or I am your parent and I want you to.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>               
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  57
+          </td>
+          <td>
+              <p>
+             [He appears][I appear] unsure on how to solve our child's misbehavior.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>               
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  58
+          </td>
+          <td>
+              <p>
+             [He explains][I explain] the consequences of the child's behavior.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>               
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  59
+          </td>
+          <td>
+              <p>
+             [He demands][I demand] that our child does/do things.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>               
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  60
+          </td>
+          <td>
+              <p>
+            [He channels][I channel] our child's misbehavior into a more acceptable activity.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>               
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  61
+          </td>
+          <td>
+              <p>
+            [He shoves][I shove] our child when the child is disobedient.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>               
+          </td>
+      </tr> 
+       <tr>
+          <td>
+              <p>
+                  62
+          </td>
+          <td>
+              <p>
+            [He emphasizes][I emphasize] the reasons for rules.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>               
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr> 
+</tbody>
 </table>
 <h2>
   Use  of this scale in CLOSER Discovery study questionnaires and datasets
@@ -675,93 +1339,43 @@ Note this table is sortable.
         <tr>
           <td>
               <p>
-                  Original 6-item version (K6)
+                  PDSQ
               </p>
           </td>
           <td>
               <p>
-                  MCS
+                  USoc
               </p>
           </td>
           <td>
               <p>
-                  2003-2005
+                  2011-2012
               </p>
           </td>
           <td>
               <p>
-                      MCS Age 3 CAPI Questionnaire                   
+                <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/e087c171-da96-488d-8c8e-c0b7f7e81f4a">
+                      Wave 3 Questionnaire                   
+                </a>
               </p>
           </td>
           <td>
               <p>
-                     MCS2 Parent Interview Dataset
-              </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-              <p>
-                  Original 6-item version (K6)
-              </p>
-          </td>
-          <td>
-              <p>
-                  MCS
-              </p>
-          </td>
-          <td>
-              <p>
-                  2006-2007
-              </p>
-          </td>
-          <td>
-              <p>
-                      MCS Age 5 Main and Partner Respondent Questionnaire                   
-              </p>
-          </td>
-          <td>
-              <p>
-                     MCS3 Parent Interview Dataset
+                <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/02187052-120b-41f5-b254-d3601b55b22c">
+                  Wave 3 Details of parenting styles Dataset
+                </a>
               </p>
           </td>
         </tr>
         <tr>
           <td>
               <p>
-                  Original 6-item version (K6)
+                  PDSQ
               </p>
           </td>
           <td>
               <p>
-                  MCS
-              </p>
-          </td>
-          <td>
-              <p>
-                  2008-2009
-              </p>
-          </td>
-          <td>
-              <p>
-                      MCS Age 7 Main and Partner Respondent Questionnaire                  
-              </p>
-          </td>
-          <td>
-              <p>
-                     MCS4 Parent Interview Dataset
-              </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-              <p>
-                  Original 6-item version (K6)
-              </p>
-          </td>
-          <td>
-              <p>
-                  MCS
+                  USoc
               </p>
           </td>
           <td>
@@ -771,24 +1385,86 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                      MCS Age 11 Main and Partner Respondent Questionnaire                  
+                <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/726c812d-87ed-467d-aa8c-668670a9713b">
+                      Wave 4 Questionnaire                   
+                </a>
               </p>
           </td>
           <td>
               <p>
-                     MCS5 Parent Interview Dataset
+                <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/02187052-120b-41f5-b254-d3601b55b22c">
+                  Wave 4 Details of parenting styles Dataset
+                </a>
               </p>
           </td>
         </tr>
         <tr>
           <td>
               <p>
-                  Original 6-item version (K6)
+                  PDSQ
               </p>
           </td>
           <td>
               <p>
-                  MCS
+                  USoc
+              </p>
+          </td>
+          <td>
+              <p>
+                  2013-2014
+              </p>
+          </td>
+          <td>
+              <p>
+                      Wave 5 Questionnaire                   
+              </p>
+          </td>
+          <td>
+              <p>
+                <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/58c373ae-a961-4576-896d-8787c69d91a9">
+                  Wave 5 Details of parenting styles Dataset
+                </a>
+              </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+              <p>
+                  PDSQ
+              </p>
+          </td>
+          <td>
+              <p>
+                  USoc
+              </p>
+          </td>
+          <td>
+              <p>
+                  2014-2015
+              </p>
+          </td>
+          <td>
+              <p>
+                      Wave 6 Questionnaire                   
+              </p>
+          </td>
+          <td>
+              <p>
+                <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/bfdb52fc-d6e7-447a-8d63-23e364b95153">
+                  Wave 6 Details of parenting styles Dataset
+                </a>
+              </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+              <p>
+                  PDSQ
+              </p>
+          </td>
+          <td>
+              <p>
+                  USoc
               </p>
           </td>
           <td>
@@ -798,230 +1474,198 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                      MCS Age 14 Parent Questionnaire                  
+                      Wave 7 Questionnaire                   
               </p>
           </td>
           <td>
               <p>
-                     MCS Age 14 Parent Questionnaire Dataset
+                <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/2a02b1e2-2578-4f84-b9c2-2171a188d47c">
+                  Wave 7 Details of parenting styles Dataset
+                </a>
               </p>
           </td>
         </tr>
         <tr>
           <td>
               <p>
-                  Original 6-item version (K6)
+                  PDSQ
               </p>
           </td>
           <td>
               <p>
-                  MCS
+                  USoc
               </p>
           </td>
           <td>
               <p>
-                  2018-2019
+                  2016-2017
               </p>
           </td>
           <td>
               <p>
-                      MCS Age 17 Parent Online Questionnaire                  
+                      Wave 8 Questionnaire                   
               </p>
           </td>
           <td>
               <p>
-                     MCS Age 17 Parent Online Questionnaire Dataset
+                <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/1007cd8a-7eff-45e2-ba11-a7ad4378d68d">
+                  Wave 8 Details of parenting styles Dataset
+                </a>
               </p>
           </td>
         </tr>
         <tr>
           <td>
               <p>
-                  Original 6-item version (K6)
+                  PDSQ
               </p>
           </td>
           <td>
               <p>
-                  MCS
+                  USoc
               </p>
           </td>
           <td>
               <p>
-                  2018-2019
+                  2017-2018
               </p>
           </td>
           <td>
               <p>
-                      MCS Age 17 Young Person Self Completion Questionnaire                  
+                      Wave 9 Questionnaire                   
               </p>
           </td>
           <td>
               <p>
-                     CS Age 17 Young Person Self Completion Questionnaire Dataset
+                  Wave 9 Details of parenting styles Dataset
               </p>
           </td>
         </tr>
         <tr>
           <td>
               <p>
-                  Original 6-item version (K6)
+                  PDSQ
               </p>
           </td>
           <td>
               <p>
-                  MCS
+                  USoc
               </p>
           </td>
           <td>
               <p>
-                  2020
+                  2018-2020
               </p>
           </td>
           <td>
               <p>
-                      MCS Age 20 Cohort Member COVID-19 Survey - Wave 1                   
+                      Wave 10 Questionnaire                   
               </p>
           </td>
           <td>
               <p>
-                     MCS Cohort Member COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 1 Dataset
+                  Wave 10 Details of parenting styles Dataset
               </p>
           </td>
         </tr>
         <tr>
           <td>
               <p>
-                  Original 6-item version (K6)
+                  PDSQ
               </p>
           </td>
           <td>
               <p>
-                  MCS
+                  USoc
               </p>
           </td>
           <td>
               <p>
-                  2020
+                  2019-2021
               </p>
           </td>
           <td>
               <p>
-                      MCS Age 20 Cohort Member COVID-19 Survey - Wave 2                   
+                      Wave 11 Questionnaire                   
               </p>
           </td>
           <td>
               <p>
-                     MCS Cohort Member COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 2 Dataset
+                  Wave 11 Details of parenting styles Dataset
               </p>
           </td>
         </tr>
         <tr>
           <td>
               <p>
-                  Original 6-item version (K6)
+                  PDSQ
               </p>
           </td>
           <td>
               <p>
-                  MCS
+                  USoc
               </p>
           </td>
           <td>
               <p>
-                  2020
+                  2020-2022
               </p>
           </td>
           <td>
               <p>
-                      MCS Age 20 Parent COVID-19 Survey - Wave 1                  
+                      Wave 12 Questionnaire                   
               </p>
           </td>
           <td>
-              <p>
-                     MCS Parent COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 1 Dataset
-              </p>
           </td>
         </tr>
         <tr>
           <td>
               <p>
-                  Original 6-item version (K6)
+                  PDSQ
               </p>
           </td>
           <td>
               <p>
-                  MCS
+                  USoc
               </p>
           </td>
           <td>
               <p>
-                  2020
+                  2021-2023
               </p>
           </td>
           <td>
               <p>
-                      MCS Age 20 Parent COVID-19 Survey - Wave 2                   
+                      Wave 13 Questionnaire                   
               </p>
           </td>
           <td>
-              <p>
-                     MCS Parent COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 2 Dataset
-              </p>
           </td>
         </tr>
         <tr>
           <td>
               <p>
-                  Original 6-item version (K6)
+                  PDSQ
               </p>
           </td>
           <td>
               <p>
-                  MCS
+                  USoc
               </p>
           </td>
           <td>
               <p>
-                  2021
+                  2022-2024
               </p>
           </td>
           <td>
               <p>
-                      MCS Age 20 Cohort Member COVID-19 Survey - Wave 3                  
+                      Wave 14 Questionnaire                   
               </p>
           </td>
           <td>
-              <p>
-                     MCS Cohort Member COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 3 Dataset
-              </p>
           </td>
         </tr>
-        <tr>
-          <td>
-              <p>
-                  Original 6-item version (K6)
-              </p>
-          </td>
-          <td>
-              <p>
-                  MCS
-              </p>
-          </td>
-          <td>
-              <p>
-                  2021
-              </p>
-          </td>
-          <td>
-              <p>
-                      MCS Age 20 Parent COVID-19 Survey - Wave 3                   
-              </p>
-          </td>
-          <td>
-              <p>
-                     MCS Parent COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 3 Dataset
-              </p>
-          </td>
-        </tr>
-      </tbody>
+        </tbody>
 </table>
