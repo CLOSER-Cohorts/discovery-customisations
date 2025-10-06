@@ -105,7 +105,8 @@ Note this table is sortable.
               </p>
           </th>
       </tr>
-      </thead><tbody>
+      </thead>
+      <tbody>
       <tr>
           <td>
               <p>
