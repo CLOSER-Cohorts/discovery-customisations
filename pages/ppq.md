@@ -561,6 +561,65 @@
               </p>
           </td>
       </tr>
+       <tr>
+          <td>
+              <p>
+                  26
+              </p>
+          </td>
+          <td>
+              <p>
+               [He appears][I appear] to be more concerned with own feelings than with our child's feelings.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+          </td>
+      </tr>
+       <tr>
+          <td>
+              <p>
+                  27
+              </p>
+          </td>
+          <td>
+              <p>
+               [He appears][I appear] to be more concerned with own feelings than with our child's feelings.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+          </td>
+      </tr>
+       <tr>
+          <td>
+              <p>
+                  28
+          </td>
+          <td>
+              <p>
+              [He punishes][I punish] by putting our child off somewhere alone with little if any explanation.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>
   </tbody>
 </table>
 <h2>
