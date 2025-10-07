@@ -125,8 +125,501 @@
               </p>
           </td>
       </tr>
+    <tr>
+          <td>
+              <p>
+                  3
+              </p>
+          </td>
+          <td>
+              <p>
+                  I feel free to plan for the future
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+          </td>
+          <td>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  4
+              </p>
+          </td>
+          <td>
+              <p>
+                  I feel left out of things
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  5
+              </p>
+          </td>
+          <td>
+              <p>
+                 I can do the things that I want to do
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+            <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  6
+              </p>
+          </td>
+          <td>
+              <p>
+                  Family responsibilities prevent me from doing what I want to do
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+          </td>
+      </tr>
+       <tr>
+          <td>
+              <p>
+                  7
+              </p>
+          </td>
+          <td>
+              <p>
+                  I feel that I can please myself what I can do
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  8
+              </p>
+          </td>
+          <td>
+              <p>
+                  My health stops me from doing the things I want to do
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+          </td>
+          <td>
+          </td>
+      </tr>
+     <tr>
+          <td>
+              <p>
+                  9
+              </p>
+          </td>
+          <td>
+              <p>
+                  Shortage of money stops me from doing the things that I want to do
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+          </td>
+       </tr>
+    <tr>
+          <td>
+              <p>
+                  10
+              </p>
+          </td>
+          <td>
+              <p>
+                  I look forward to each day
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+          </td>
+       </tr>
+      <tr>
+          <td>
+              <p>
+                  11
+              </p>
+          </td>
+          <td>
+              <p>
+                  I feel that my life has meaning
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓*
+              </p>
+          </td>
+          <td>
+          </td>
+       </tr>
+    <tr>
+          <td>
+              <p>
+                  12
+              </p>
+          </td>
+          <td>
+              <p>
+                  I enjoy the things that I do
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+          </td>
+       </tr>
+    <tr>
+          <td>
+              <p>
+                  13
+              </p>
+          </td>
+          <td>
+              <p>
+                  I enjoy being in the company of others
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+          </td>
+          <td>
+          </td>
+       </tr>
+     <tr>
+          <td>
+              <p>
+                  14
+              </p>
+          </td>
+          <td>
+              <p>
+                  On balance, I look back on my life with a sense of happiness
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+          </td>
+       </tr>
+       <tr>
+          <td>
+              <p>
+                  15
+              </p>
+          </td>
+          <td>
+              <p>
+                  I feel full of energy these days
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+             <p>
+                  ✓
+              </p>
+          </td>
+       </tr>
+    <tr>
+          <td>
+              <p>
+                  16
+              </p>
+          </td>
+          <td>
+              <p>
+                  I choose to do things that I have never done before
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+          </td>
+          <td>
+          </td>
+       </tr>
+    <tr>
+          <td>
+              <p>
+                  17
+              </p>
+          </td>
+          <td>
+              <p>
+                  I feel satisfied with the way my life has turned out
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+          </td>
+          <td>
+          </td>
+       </tr>
+    <tr>
+          <td>
+              <p>
+                  18
+              </p>
+          </td>
+          <td>
+              <p>
+                  I feel that life is full of opportunities
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+       </tr>
+    <tr>
+          <td>
+              <p>
+                  19
+              </p>
+          </td>
+          <td>
+              <p>
+                  I feel that the future looks good for me
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+       </tr>
   </tbody>
 </table>
+<p>
+    *Item was reverse worded in the study questionnaire
+</p>
 <h2>
   Use  of this scale in CLOSER Discovery study questionnaires and datasets
 </h2>
@@ -180,30 +673,30 @@ Note this table is sortable.
         <tr>
           <td>
               <p>
-                  Original 10-item version
+                  Original 19-item version
               </p>
           </td>
           <td>
               <p>
-                  ALSPAC
+                  Whitehall II
               </p>
           </td>
           <td>
               <p>
-                  2008-2010
+                  2015-2016
               </p>
           </td>
           <td>
               <p>
-                  <a href="">
-                      Department for Children, Schools and Families Plans and Aspirations Questionnaire                    
+                  <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/538704c3-4b2f-421c-b5eb-5e4ea63c7333/1">
+                     Health Survey 12               
                   </a>
               </p>
           </td>
           <td>
               <p>
-                  <a href="">
-                      ALSPAC Plans and Aspirations (DCSF) Questionnaire Dataset
+                  <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/8243eae0-1708-42f3-9bbb-63e0f6c8cf15">
+                      Whitehall II Phase 12 Heath Survey Self-Completion Dataset
                   </a>
               </p>
           </td>
@@ -211,136 +704,12 @@ Note this table is sortable.
         <tr>
           <td>
               <p>
-                  11-item version
+                  Whitehall II 19-item version
               </p>
           </td>
           <td>
               <p>
-                  ALSPAC
-              </p>
-          </td>
-          <td>
-              <p>
-                  1992-1995
-              </p>
-          </td>
-          <td>
-              <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/5057b4b7-4dcb-4d40-8ccc-6d254cc1f602">
-                      Partner's Health Events and Feelings
-                  </a>
-              </p>
-          </td>
-          <td>
-              <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/3bda815f-c729-4729-a247-731843ad249c">
-                     ALSPAC Partners Health Events and Feelings Questionnaire Dataset
-                  </a>
-              </p>
-          </td>
-      </tr>
-      <tr>
-          <td>
-              <p>
-                  11-item version
-              </p>
-          </td>
-          <td>
-              <p>
-                  ALSPAC
-              </p>
-          </td>
-          <td>
-              <p>
-                  1993-1995
-              </p>
-          </td>
-          <td>
-              <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/4ff00c7a-b314-4ec2-931e-2b6eee1bbced">
-                      Your Health Events and Feelings
-                  </a>
-              </p>
-          </td>
-          <td>
-              <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/d052f168-3b67-407a-a74a-2d550f456f1f">
-                     ALSPAC Your Health Events and Feelings Questionnaire Dataset
-                  </a>
-              </p>
-          </td>
-      </tr>
-      <tr>
-          <td>
-              <p>
-                  11-item version
-              </p>
-          </td>
-          <td>
-              <p>
-                  ALSPAC
-              </p>
-          </td>
-          <td>
-              <p>
-                  1996-1999
-              </p>
-          </td>
-          <td>
-              <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/99a6dd3b-050a-4bd7-ae7a-19bfe4cc10f4">
-                      Study Mother's Questionnaire
-                  </a>
-              </p>
-          </td>
-          <td>
-              <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/dc5ab67b-3274-4832-b5d9-93571b840622">
-                     ALSPAC Study Mothers Questionnaire Dataset
-                  </a>
-              </p>
-          </td>
-      </tr>
-      <tr>
-          <td>
-              <p>
-                  11-item version
-              </p>
-          </td>
-          <td>
-              <p>
-                  ALSPAC
-              </p>
-          </td>
-          <td>
-              <p>
-                  1999-2002
-              </p>
-          </td>
-          <td>
-              <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/c2583cc8-fcae-494b-b5de-0b307afa94f1">
-                      About Your Class
-                  </a>
-              </p>
-          </td>
-          <td>
-              <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/33b06b60-021d-4f72-9114-10ba3f014ea8">
-                      ALSPAC About Your Class Questionnaire for teachers Dataset
-                  </a>
-              </p>
-          </td>
-      </tr>
-      <tr>
-          <td>
-              <p>
-                  11-item version
-              </p>
-          </td>
-          <td>
-              <p>
-                  ALSPAC
+                  Whitehall II
               </p>
           </td>
           <td>
@@ -350,41 +719,15 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/33574dd7-6cea-4691-be6f-89d986f44e3a">
-                      Questionnaire for Class Teacher
-                  </a>
-              </p>
-          </td>
-          <td>
-          </td>
-      </tr>
-      <tr>
-          <td>
-              <p>
-                  11-item version
-              </p>
-          </td>
-          <td>
-              <p>
-                  ALSPAC
-              </p>
-          </td>
-          <td>
-              <p>
-                  2010
-              </p>
-          </td>
-          <td>
-              <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/276f2878-01a1-4208-b3c0-241f3070d466">
-                  You and Your Life
+                  <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/593b334c-3c75-4207-8021-6dd403bd545b/1">
+                      Health Survey 7
                   </a>
               </p>
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/8a313b2b-98cd-46ee-a487-4db4263e149b">
-                  ALSPAC You and Your Life Questionnaire Dataset
+                  <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/8243eae0-1708-42f3-9bbb-63e0f6c8cf15">
+                     Whitehall II Phase 7 Heath Survey Self-Completion Dataset
                   </a>
               </p>
           </td>
@@ -392,30 +735,30 @@ Note this table is sortable.
       <tr>
           <td>
               <p>
-                  11-item version
+                  Whitehall II 19-item version
               </p>
           </td>
           <td>
               <p>
-                  ALSPAC
+                  Whitehall II
               </p>
           </td>
           <td>
               <p>
-                  2013
+                  2006
               </p>
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/4822fef4-23b0-403e-a3e2-943d343217dd">
-                     Focusing On You
+                  <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/5352774f-7dfa-461b-aa21-8154a67b60ed/1">
+                     Health Survey 8
                   </a>
               </p>
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/ead0a043-b100-4e46-ae7a-c14297c13adc">
-                      ALSPAC Focusing on You Questionnaire Dataset
+                  <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/9501a024-847b-445b-a30c-06764faa3fef">
+                    Whitehall II Phase 8 Heath Survey Self-Completion Dataset
                   </a>
               </p>
           </td>
@@ -423,12 +766,74 @@ Note this table is sortable.
       <tr>
           <td>
               <p>
-                  11-item version
+                  Whitehall II 19-item version
               </p>
           </td>
           <td>
               <p>
-                  ALSPAC
+                  Whitehall II
+              </p>
+          </td>
+          <td>
+              <p>
+                 2007-2009
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/0cbfe917-937e-466c-b286-9d420ae2b51e/1">
+                      Health Survey 9
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/0008d0eb-a490-4084-9b5f-1d32e196dbf2">
+                     Whitehall II Phase 9 Heath Survey Self-Completion Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  NCDS 14-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  NCDS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2008-2009
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/1e582284-4749-40ec-95bf-e4dc64b5eeda/2">
+                      NCDS Age 50 Cohort Member Paper Self-Completion
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/7c4e3061-a626-4fdf-a098-12aea5ae394c">
+                      NCDS8 Paper Self-Completion (2008) Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  NCDS 6-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                 NCDS
               </p>
           </td>
           <td>
@@ -438,38 +843,16 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                   Your Life in 2013
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/1bb50617-6590-4ffe-9948-a1afaff61643/2">
+                      NCDS Age 55 Follow-up
+                  </a>
               </p>
           </td>
           <td>
-          </td>
-      </tr>
-      <tr>
-          <td>
-              <p>
-                  8-item version
-              </p>
-          </td>
-          <td>
-              <p>
-                  USoc
-              </p>
-          </td>
-          <td>
-              <p>
-                  2012-13
-              </p>
-          </td>
-          <td>
-              <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/726c812d-87ed-467d-aa8c-668670a9713b">
-                    Wave 4 Main Questionnaire
-              </p>
-          </td>
-          <td>
-              <p>
-                 <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/dfdb0fbf-f7c8-49e3-aacb-a6f370fa9cae">
-                    Wave 4 Data from the individual interview Dataset
+             <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/59dd6b19-a5a1-491a-b27f-0b2afdb1d9ca">
+                      NCDS9 CAI Questionnaire (2013) Dataset
+                  </a>
               </p>
           </td>
       </tr>
