@@ -74,22 +74,54 @@
           </td>
           <td>
               <p>
-                                    ✓
+                  ✓
               </p>
           </td>
           <td>
               <p>
-                                    ✓
+                  ✓
               </p>
           </td>
           <td>
               <p>
-                                   ✓
+                  ✓
               </p>
           </td>
           <td>
               <p>
-                                    ✓
+                  ✓
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  2
+              </p>
+          </td>
+          <td>
+              <p>
+                  I feel that what happens to me is out of my control
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
               </p>
           </td>
       </tr>
@@ -163,14 +195,14 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/72703e0f-8d9f-46f1-9e19-d2ba5ddeb68e">
+                  <a href="">
                       Department for Children, Schools and Families Plans and Aspirations Questionnaire                    
                   </a>
               </p>
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/536811a6-b216-40e4-bae7-15d38bb109bf">
+                  <a href="">
                       ALSPAC Plans and Aspirations (DCSF) Questionnaire Dataset
                   </a>
               </p>
