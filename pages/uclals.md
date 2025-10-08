@@ -54,7 +54,7 @@ UCLA Loneliness Scale
           </td>
         <td>
               <p>
-                  <strong>3-item version</strong>
+                  <strong>GenScot 3-item version</strong>
               </p>
           </td>
       </tr>
@@ -762,14 +762,14 @@ Note this table is sortable.
           <td>
               <p>
                   <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/b53dc825-4b81-4832-a211-4dcd6bf859b0/2">
-                      MCS Age 20 Parent COVID-19 Survey - Wave 1
+                      MCS Age 20 Cohort Member COVID-19 Survey - Wave 1
                   </a>
               </p>
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/17298e4a-366a-489d-bde6-740897f721c7/1">
-                      MCS Parent COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 1 Dataset
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/8a03375d-9ad9-4b39-8f93-a58b5033b3dd/1">
+                      MCS Cohort Member COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 1 Dataset
                   </a>
               </p>
           </td>
@@ -916,16 +916,395 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="">
-                      
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/1c4ba52b-5527-419d-8df5-4efe06599a1a/1">
+                     MCS Age 20 Parent COVID-19 Survey - Wave 3 
                   </a>
               </p>
           </td>
           <td>
               <p>
-                  <a href="">
-                      
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/90edf995-63f6-44c4-ab70-cb8729b060c4">
+                      MCS Parent COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 3 Dataset
                   </a>
+              </p>
+          </td>
+      </tr>
+        <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  NCDS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2020
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/c2540aa2-1416-4313-a1f9-75b9b25893f4/2">
+                     NCDS Age 62 COVID-19 Survey - Wave 1
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/988e2e69-392f-4df8-a411-a89b3e19dea1/1">
+                   NCDS COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 1 Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  NCDS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2020
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/10f9d443-35bd-4283-89f4-ad9514b95f12/1">
+                     NCDS Age 62 COVID-19 Survey - Wave 2
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/d43d7ac5-1d07-489b-a208-38504a32cdf7">
+                    NCDS COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 2 Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  NCDS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2021
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/04bbf473-bab3-4209-bacc-b2c431cee12c/1">
+                     NCDS Age 62 COVID-19 Survey - Wave 3
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/8fd891ab-8fc1-4577-8224-d19236cfa5bc">
+                    NCDS COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 3 Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  Next Steps
+              </p>
+          </td>
+          <td>
+              <p>
+                  2020
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/83ab13bb-90e6-40fe-8741-16cf36400450/3">
+                     Next Steps Age 30 COVID-19 Survey - Wave 1
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/e5275302-bb6a-47c9-a029-eea9822c7fa9">
+                    Next Steps COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 1 Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  Next Steps
+              </p>
+          </td>
+          <td>
+              <p>
+                  2020
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/3032d053-47dd-471e-883e-346f09928d3f/1">
+                     Next Steps Age 30 COVID-19 Survey (2020) - Wave 2
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/11637e24-07cb-4f64-bb32-2361a05a8d96">
+                    Next Steps COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 2 Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  Next Steps
+              </p>
+          </td>
+          <td>
+              <p>
+                  2021
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/82b7a6c9-47ea-4ee5-98fb-4cd5958c4076/1">
+                     Next Steps Age 30 COVID-19 Survey - Wave 3
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/c8b37c1e-563d-4d39-9afe-1d2785f1ee75">
+                    Next Steps COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 3 Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  NSHD
+              </p>
+          </td>
+          <td>
+              <p>
+                  2020
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.lha/25ac690e-bd20-4cc2-a8e8-d79cd9696029/2">
+                     NSHD 2020 COVID-19 Survey - Wave 1
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.lha/b3d0e64b-e9ae-47fd-8128-60923f35a534">
+                 2020 COVID 19 Survey Wave 1 (Age 74) Dataset   
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  NSHD
+              </p>
+          </td>
+          <td>
+              <p>
+                  2020
+              </p>
+          </td>
+          <td>
+              <p>
+                 NSHD COVID-19 Survey - Wave 2
+              </p>
+          </td>
+          <td>
+              <p>
+                  2020 COVID-19 Survey - Wave 2 Dataset
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  NSHD
+              </p>
+          </td>
+          <td>
+              <p>
+                  2021
+              </p>
+          </td>
+          <td>
+              <p>
+                  NSHD COVID-19 Survey - Wave 3
+              </p>
+          </td>
+          <td>
+              <p>
+                  2020 COVID-19 Survey - Wave 3 Dataset
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  WCHADS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2020-2021
+              </p>
+          </td>
+          <td>
+              <p>
+                  WCHADS Phase 15 Mother COVID Only Questionnaire
+              </p>
+          </td>
+          <td>
+              <p>
+                  -
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  WCHADS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2020-2021
+              </p>
+          </td>
+          <td>
+              <p>
+                 WCHADS Phase 15 Mother COVID Retest
+              </p>
+          </td>
+          <td>
+              <p>
+                  -
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  GenScot 3-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  GenScot
+              </p>
+          </td>
+          <td>
+              <p>
+                  2022
+              </p>
+          </td>
+          <td>
+              <p>
+                  NGS Mental Health Questionnaire 12to15
+              </p>
+          </td>
+          <td>
+              <p>
+                 NGS Mental Health Questionnaire 12to15
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  GenScot 3-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  GenScot
+              </p>
+          </td>
+          <td>
+              <p>
+                  2022
+              </p>
+          </td>
+          <td>
+              <p>
+                  NGS Mental Health Questionnaire 16 Plus
+              </p>
+          </td>
+          <td>
+              <p>
+                NGS Mental Health Questionnaire 16 Plus 
               </p>
           </td>
       </tr>
