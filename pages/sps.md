@@ -1,14 +1,12 @@
 <h1>
-Rosenberg Self-Esteem Scale (RSE)
+Social Provisions Scale (SPS)
 </h1>
 <p>
-  The Rosenberg Self-Esteem Scale (RSE) (Rosenberg, 1965) is a 10-item scale designed to measure self-esteem. 
-  Different versions have been created which include a subset of the original 10 items.
+  The Social Provisions Scale (SPS) (Cutrona & Russell, 1987) is a 24-item scale designed to measure social provision, which encompasses attachment, social integration, reassurance of worth, reliable alliance, guidance, and opportunity for nurturance. Different versions of the scale have been created which include a subset of the original 24 items.
 </p>
 <p>
-      Rosenberg, M. (1965). Society and the adolescent self-image. 
-    Princeton University Press. http://www.jstor.org/stable/j.ctt183pjjh
-    <a href="http://www.jstor.org/stable/j.ctt183pjjh">
+       Cutrona, C. E., & Russel, D. W. (1987). The provisions of social relationships and adaptation to stress. Advances in personal relationships, 1(1),37-67. http://depts.washington.edu/uwcssc/sites/default/files/hw00/d40/uwcssc/sites/default/files/Social%20Provisions%20Scale_0.pdf
+    <a href="http://depts.washington.edu/uwcssc/sites/default/files/hw00/d40/uwcssc/sites/default/files/Social%20Provisions%20Scale_0.pdf">
   </a>
 </p>
 <table border="1" cellspacing="0" cellpadding="0" width="95%">
