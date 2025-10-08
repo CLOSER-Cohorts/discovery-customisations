@@ -73,8 +73,7 @@ Rosenberg Self-Esteem Scale (RSE)
           </td>
           <td>
               <p>
-                  In    the past 7 days: I have been able to laugh and see the
-                  funny side of things
+                  On the whole, I am satisfied with myself.
               </p>
           </td>
           <td>
@@ -84,12 +83,129 @@ Rosenberg Self-Esteem Scale (RSE)
           </td>
           <td>
               <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+         <td>
+              <p>
+              </p>
+          </td>
+        <td>
+              <p>
                   ✓
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  2
+              </p>
+          </td>
+          <td>
+              <p>
+                  At times I think I am no good at all.
               </p>
           </td>
           <td>
               <p>
                   ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                ✓
+              </p>
+          </td>
+         <td>
+              <p>
+                ✓
+              </p>
+          </td>
+        <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  3
+              </p>
+          </td>
+          <td>
+              <p>
+                  I feel that I have a number of good qualities.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                ✓
+              </p>
+          </td>
+         <td>
+              <p>
+                ✓
+              </p>
+          </td>
+        <td>
+              <p>
+                ✓
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  4
+              </p>
+          </td>
+          <td>
+              <p>
+                  I am able to do things as well as most other people.
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                ✓
+              </p>
+          </td>
+         <td>
+              <p>
+                ✓
+              </p>
+          </td>
+        <td>
+              <p>
+                ✓
               </p>
           </td>
       </tr>
