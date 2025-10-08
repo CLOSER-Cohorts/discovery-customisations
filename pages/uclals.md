@@ -653,30 +653,278 @@ Note this table is sortable.
       <tr>
           <td>
               <p>
-                  Original    10-item version
+                  4-item version
               </p>
           </td>
           <td>
               <p>
-                  ALSPAC
+                  BCS70
               </p>
           </td>
           <td>
               <p>
-                  2003
+                  2020
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/72c2d6d5-f0d2-4871-9e50-2b6f1740e804/2">
+                      BCS70 Age 50 COVID-19 Survey - Wave 1
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/684a4cd1-248d-4f2f-8d8a-a23ddf57ebb2/1">
+                      BCS70 COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 1 Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+        <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  BCS70
+              </p>
+          </td>
+          <td>
+              <p>
+                  2020
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/489e4622-5bf6-443d-8117-7e2f9a59def2/1">
+                      BCS70 Age 50 COVID-19 Survey - Wave 2
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/9b64129f-6abf-4468-93bf-fd07aaa0e27d">
+                      BCS70 COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 2 Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+        <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  BCS70
+              </p>
+          </td>
+          <td>
+              <p>
+                  2021
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/fac586ef-eece-45aa-97c9-7e21ac162e03/1">
+                      BCS70 Age 50 COVID-19 Survey - Wave 3
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/a5c70ea7-3511-4209-9e27-ca27b29d179a">
+                      BCS70 COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 3 Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+        <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  MCS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2020
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/b53dc825-4b81-4832-a211-4dcd6bf859b0/2">
+                      MCS Age 20 Parent COVID-19 Survey - Wave 1
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/17298e4a-366a-489d-bde6-740897f721c7/1">
+                      MCS Parent COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 1 Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  MCS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2020
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/3e8de66b-de81-48f7-bf7f-9a3e9a1f2a5e/1">
+                      MCS Age 20 Parent COVID-19 Survey - Wave 2
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/5e59a4bc-d324-446f-b0f0-d0d15c513091">
+                      MCS Cohort Member COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 2 Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  MCS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2020
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/4909987b-8a65-47c0-88f0-a63e4c761eff">
+                      MCS Age 20 Parent COVID-19 Survey - Wave 1
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/17298e4a-366a-489d-bde6-740897f721c7/1">
+                     MCS Parent COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 1 Dataset 
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  MCS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2020
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/7cfce035-82eb-4b38-88b6-160d9fae211f/1">
+                     MCS Age 20 Parent COVID-19 Survey - Wave 2 
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/4665e407-288a-40ab-a964-3121b0834b96">
+                      MCS Parent COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 2 Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  MCS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2021
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/bf841928-87d6-42dc-887f-206f12341b77/1">
+                      MCS Age 20 Cohort Member COVID-19 Survey - Wave 3
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/ad2ddd7d-98a1-4ce9-9c10-8376f96ce874">
+                   MCS Cohort Member COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 3 Dataset   
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  4-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  MCS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2021
               </p>
           </td>
           <td>
               <p>
                   <a href="">
-                      Focusing On You
+                      
                   </a>
               </p>
           </td>
           <td>
               <p>
                   <a href="">
-                      ALSPAC Focusing on You Questionnaire Dataset
+                      
                   </a>
               </p>
           </td>
