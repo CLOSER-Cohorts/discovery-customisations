@@ -1,17 +1,12 @@
 <h1>
-UCLA Loneliness Scale
+Nowicki-Strickland Locus Of Control Scale For Children
 </h1>
 <p>
-  The UCLA Loneliness Scale (Russel, Peplau & Ferguson, 1978) is a 20-item 
-  scale designed to measure loneliness. 
-  Different versions have been created which include a subset of 
-  the original 20 items.
+  The Nowicki-Strickland Locus Of Control Scale For Children (Nowicki & Stricklandm, 1973) is a 40-item scale designed to measure locus of control. Different versions of the scale have been created which include a subset of the original 40 items.
 </p>
 <p>
-     Russel, D., Peplau, L. A., & Ferguson, M. L. (1978). 
-  Developing a Measure of Loneliness. Journal of Personality Assessment, 
-  42(3), 290-294. https://doi.org/10.1207/s15327752jpa4203_11
-    <a href="https://doi.org/10.1207/s15327752jpa4203_11">
+     Nowicki, S., & Strickland, B. R. (1973). A locus of control scale for children. Journal of Consulting and Clinical Psychology, 40(1), 148–154. https://doi.org/10.1037/h0033978
+    <a href="https://doi.org/10.1037/h0033978">
   </a>
 </p>
 <table border="1" cellspacing="0" cellpadding="0" width="95%">
