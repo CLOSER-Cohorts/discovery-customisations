@@ -882,5 +882,214 @@ Note this table is sortable.
               </p>
           </td>
       </tr>
+         <tr>
+          <td>
+              <p>
+                  ALSPAC 11-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  ALSPAC
+              </p>
+          </td>
+          <td>
+              <p>
+                  1993-1995
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/4ff00c7a-b314-4ec2-931e-2b6eee1bbced/1">
+                      Your Health Events and Feelings
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/d052f168-3b67-407a-a74a-2d550f456f1f/1">
+                      ALSPAC Your Health Events and Feelings Questionnaire Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+        <tr>
+          <td>
+              <p>
+                  ALSPAC 11-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  ALSPAC
+              </p>
+          </td>
+          <td>
+              <p>
+                  1993-1995
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/72703e0f-8d9f-46f1-9e19-d2ba5ddeb68e/1">
+                      Department for Children, Schools and Families Plans and Aspirations Questionnaire
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/536811a6-b216-40e4-bae7-15d38bb109bf/1">
+                      ALSPAC Plans and Aspirations (DCSF) Questionnaire Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+                <tr>
+          <td>
+              <p>
+                  ALSPAC 11-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  ALSPAC
+              </p>
+          </td>
+          <td>
+              <p>
+                  2010
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/276f2878-01a1-4208-b3c0-241f3070d466/1">
+                      You and Your Life
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/8a313b2b-98cd-46ee-a487-4db4263e149b/1">
+                      ALSPAC You and Your Life Questionnaire Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+        <tr>
+          <td>
+              <p>
+                  ALSPAC 10-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  ALSPAC
+              </p>
+          </td>
+          <td>
+              <p>
+                  2021-2022
+              </p>
+          </td>
+          <td>
+              <p>
+                      Life at 29+
+              </p>
+          </td>
+          <td>
+              <p>          	
+                  ALSPAC Life at 29+ Questionnaire Dataset
+              </p>
+          </td>
+      </tr>
+   <tr>
+          <td>
+              <p>
+                  USoc 8-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  USoc
+              </p>
+          </td>
+          <td>
+              <p>
+                  2010-2011
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/c3643805-dbe4-4090-8340-ffb337f6b6e1">
+                      Wave 2 Youth Self-Completion Questionnaire
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/4d499992-fdf5-4514-91e1-b1b96a48fc0a">
+                     Wave 2 Youth self completion questionnaire data Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+  <tr>
+          <td>
+              <p>
+                  MCS 5-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  MCS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2012-2013
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/Item/uk.cls.mcs/b3de82c6-c948-42a8-a9c2-16f3a829ed85/1">
+                      MCS Age 11 Cohort Member Paper Self-Completion
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/ae1368ce-89b7-480d-8cab-3320df7b1443">
+                     MCS5 Child Paper Self-Completion Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+  <tr>
+          <td>
+              <p>
+                  MCS 5-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  MCS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2015-2016
+              </p>
+          </td>
+          <td>
+              <p>
+                MCS Age 14 Young Person Questionnaire
+              </p>
+          </td>
+          <td>
+              <p>
+                  MCS Age 14 Young Person Questionnaire dataset
+              </p>
+          </td>
+      </tr>
   </tbody>
 </table>
