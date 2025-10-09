@@ -39,17 +39,17 @@ Nowicki-Strickland Locus Of Control Scale For Children
           </td>
           <td>
               <p>
-                  <strong>Original    20-item version</strong>
+                  <strong>Original    40-item version</strong>
               </p>
           </td>
           <td>
               <p>
-                  <strong>4-item version</strong>
+                  <strong>ALSPAC 13-item version</strong>
               </p>
           </td>
         <td>
               <p>
-                  <strong>GenScot 3-item version</strong>
+                  <strong>ASPAC 12-item version</strong>
               </p>
           </td>
       </tr>
@@ -61,7 +61,7 @@ Nowicki-Strickland Locus Of Control Scale For Children
           </td>
           <td>
               <p>
-                  I am unhappy doing so many things alone.
+                  Do you believe that most problems will solve themselves if you just don’t fool with them?
               </p>
           </td>
           <td>
@@ -75,6 +75,914 @@ Nowicki-Strickland Locus Of Control Scale For Children
           </td>
           <td>
               <p>
+              </p>
+          </td>
+        <tr>
+          <td>
+              <p>
+                  2
+              </p>
+          </td>
+          <td>
+              <p>
+                   Do you believe that you can stop yourself from catching a cold?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  3
+              </p>
+          </td>
+          <td>
+              <p>
+                   Are some kids just born lucky?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+     <tr>
+          <td>
+              <p>
+                  4
+              </p>
+          </td>
+          <td>
+              <p>
+                   Most of the time, do you feel that getting good grades means a great deal to you?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                 ✓
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  5
+              </p>
+          </td>
+          <td>
+              <p>
+                   Are you often blamed for things that just aren't your fault?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                 ✓
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  6
+              </p>
+          </td>
+          <td>
+              <p>
+                   Do you believe that if somebody studies hard enough he or she can pass any subject?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  7
+              </p>
+          </td>
+          <td>
+              <p>
+                   Do you feel that most of the time it doesn't 
+                pay to try hard because things never turn out right anyway?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                ✓
+              </p>
+          </td>
+      </tr>
+     <tr>
+          <td>
+              <p>
+                  8
+              </p>
+          </td>
+          <td>
+              <p>
+                  Do you feel that if things start out well in the 
+                morning that it's going to be a good day no matter what you do?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                ✓
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  9
+              </p>
+          </td>
+          <td>
+              <p>
+                 Do you feel that most of the time parents 
+                listen to what their children have to say? 
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  10
+              </p>
+          </td>
+          <td>
+              <p>
+                 Do you believe that wishing can make good things happen?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+     <tr>
+          <td>
+              <p>
+                  11
+              </p>
+          </td>
+          <td>
+              <p>
+                 When you get punished, does it usually 
+                seem it's for no good reason at all?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  12
+              </p>
+          </td>
+          <td>
+              <p>
+                 Most of the time do you find it hard 
+                to change a friend's (mind) opinion?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  13
+              </p>
+          </td>
+          <td>
+              <p>
+                 Do you think that cheering more than 
+                luck helps a team to win?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  14
+              </p>
+          </td>
+          <td>
+              <p>
+                 Do you feel that it's nearly impossible to 
+                change your parent's mind about anything?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  15
+              </p>
+          </td>
+          <td>
+              <p>
+                 Do you believe that your parents should 
+                allow you to make most of your own decisions?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  16
+              </p>
+          </td>
+          <td>
+              <p>
+                 Do you feel that when you do something wrong there’s 
+                very little you can do to make it right?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  17
+              </p>
+          </td>
+          <td>
+              <p>
+                 Do you believe that most kids are just born good at sports?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  18
+              </p>
+          </td>
+          <td>
+              <p>
+                 Are most of the other kids your age stronger than you are?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  19
+              </p>
+          </td>
+          <td>
+              <p>
+                 Do you feel that one of the best ways to handle 
+                most problems is just not to think about them?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+     <tr>
+          <td>
+              <p>
+                  20
+              </p>
+          </td>
+          <td>
+              <p>
+                 Do you feel that you have a lot of choice in 
+                deciding who your friends are?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  21
+              </p>
+          </td>
+          <td>
+              <p>
+                 If you find a four leaf clover do you believe 
+                that it might bring you good luck?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  22
+              </p>
+          </td>
+          <td>
+              <p>
+                 Do you often feel that whether you do your 
+                homework has much to do with what kind of grades you get?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  23
+              </p>
+          </td>
+          <td>
+              <p>
+                 Do you feel that when a kid your age decides to hit you, 
+                there’s little you can do to stop him or her?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  24
+              </p>
+          </td>
+          <td>
+              <p>
+                 Have you ever had a good luck charm?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+     <tr>
+          <td>
+              <p>
+                  25
+              </p>
+          </td>
+          <td>
+              <p>
+                 Do you believe that whether or not people like you depends on how you act?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                ✓
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  26
+              </p>
+          </td>
+          <td>
+              <p>
+                 Will your parents usually help you if you ask them to?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+     <tr>
+          <td>
+              <p>
+                  27
+              </p>
+          </td>
+          <td>
+              <p>
+                Have you felt that when people were mean to 
+                you it was usually for no reason at all?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  28
+              </p>
+          </td>
+          <td>
+              <p>
+                Most of the time, do you feel that you can change 
+                what might happen tomorrow by what you do today?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  29
+              </p>
+          </td>
+          <td>
+              <p>
+                Do you believe that when bad things are going 
+                to happen they just are going to happen no matter 
+                what you try to do to stop them?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                ✓
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  30
+              </p>
+          </td>
+          <td>
+              <p>
+                Do you think that kids can get their own way 
+                if they just keep trying?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+   <tr>
+          <td>
+              <p>
+                  31
+              </p>
+          </td>
+          <td>
+              <p>
+                Most of the time, do you find it useless to 
+                try to get your own way at home?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  32
+              </p>
+          </td>
+          <td>
+              <p>
+                Do you feel that when good things happen 
+                they happen because of hard work?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                 ✓
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  33
+              </p>
+          </td>
+          <td>
+              <p>
+                Do you feel that when somebody your age wants to be 
+                your enemy there’s little you can do to change matters?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  34
+              </p>
+          </td>
+          <td>
+              <p>
+                Do you feel that it’s easy to get friends to do what you want them to?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  35
+              </p>
+          </td>
+          <td>
+              <p>
+                Do you usually feel that you have little 
+                to say about what you get to eat at home?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  36
+              </p>
+          </td>
+          <td>
+              <p>
+                Do you feel that when someone doesn’t like you 
+                there’s little you can do about it?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
               </p>
           </td>
       </tr>
