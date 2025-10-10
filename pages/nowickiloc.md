@@ -1417,12 +1417,229 @@ Note this table is sortable.
       <tr>
           <td>
               <p>
-                  4-item version
+                  ALSPAC 13-item version
               </p>
           </td>
           <td>
               <p>
-                  BCS70
+                 ALSPAC
+              </p>
+          </td>
+          <td>
+              <p>
+                  2007-2009
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/d4cdb9c3-e020-4fdf-bf54-f225bbf480b5/1">
+                     Life of a 16+ Teenager 
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/c985931c-b0a8-4f0e-8492-793b67f6f5af">
+                      ALSPAC Life of a 16+ Teenager Questionnaire Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  ALSPAC 12-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  ALSPAC
+              </p>
+          </td>
+          <td>
+              <p>
+                  1990-1993
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/8d0f977b-ccb3-4f5c-98b1-913b6fa5c44a/2">
+                      About Yourself
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/13857dab-fbaf-41c4-8be6-041f0d1f37a6">
+                      ALSPAC About Yourself Questionnaire Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  ALSPAC 12-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  ALSPAC
+              </p>
+          </td>
+          <td>
+              <p>
+                  1990-1993
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/6762db04-06da-4100-b946-24a072d8111c">
+                      You and Your Environment - Partner
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/Item/uk.alspac/a688dcad-5435-474a-995e-23e7687459d6/1">
+                      ALSPAC You and Your Environment Questionnaire Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  ALSPAC 12-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  ALSPAC
+              </p>
+          </td>
+          <td>
+              <p>
+                  1997-1999
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/069dcb04-ad4e-420e-a8f0-a10f95d42b4c/1">
+                      Mother's Lifestyle
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/0d098aa5-ff5a-4e42-aaf5-f7e79672fb53/1">
+                      ALSPAC Mothers Lifestyle Questionnaire Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  ALSPAC 12-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  ALSPAC
+              </p>
+          </td>
+          <td>
+              <p>
+                  1997-1999
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/0a4bbc58-562e-4230-b1f2-5d1749157c78/1">
+                      Partner's Lifestyle
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/19757fdd-a690-46e9-a853-7cdfbdedf707/1">
+                      ALSPAC Partners Lifestyle Questionnaire Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  ALSPAC 12-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  ALSPAC
+              </p>
+          </td>
+          <td>
+              <p>
+                  2010
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/276f2878-01a1-4208-b3c0-241f3070d466">
+                      You and Your Life
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/8a313b2b-98cd-46ee-a487-4db4263e149b/1">
+                      ALSPAC You and Your Life Questionnaire Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  ALSPAC 12-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  ALSPAC
+              </p>
+          </td>
+          <td>
+              <p>
+                  2013
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/4822fef4-23b0-403e-a3e2-943d343217dd/1">
+                      Focusing on you
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/ead0a043-b100-4e46-ae7a-c14297c13adc/1">
+                      ALSPAC Focusing on You Questionnaire Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  ALSPAC 12-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  ALSPAC
               </p>
           </td>
           <td>
@@ -1432,16 +1649,68 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/72c2d6d5-f0d2-4871-9e50-2b6f1740e804/2">
-                      BCS70 Age 50 COVID-19 Survey - Wave 1
-                  </a>
+                 Parent's Questionnaire 2020
               </p>
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/684a4cd1-248d-4f2f-8d8a-a23ddf57ebb2/1">
-                      BCS70 COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 1 Dataset
+                  -
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  ALSPAC 12-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  ALSPAC
+              </p>
+          </td>
+          <td>
+              <p>
+                  2019
+              </p>
+          </td>
+          <td>
+              <p>
+                 Life at 27+
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/b1cf3cfc-5a55-48ba-8fbf-12482427bbcc/1">	
+                      ALSPAC Life at 27+ Questionnaire Dataset
                   </a>
+              </p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <p>
+                  ALSPAC 12-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  ALSPAC
+              </p>
+          </td>
+          <td>
+              <p>
+                  2021
+              </p>
+          </td>
+          <td>
+              <p>
+                  Life at 29+
+              </p>
+          </td>
+          <td>
+              <p>
+                 ALSPAC Life at 29+ Questionnaire Dataset
               </p>
           </td>
       </tr>
