@@ -986,28 +986,371 @@ Nowicki-Strickland Locus Of Control Scale For Children
               </p>
           </td>
       </tr>
-      <tr>
-          <td colspan="5">
+    <tr>
+          <td>
               <p>
-                  <strong>
-                      Items    which are not included in the original version
-                  </strong>
+                  37
+              </p>
+          </td>
+          <td>
+              <p>
+                Do you usually feel that it’s almost useless 
+                to try in school because most other children 
+                are just plain smarter than you are?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  38
+              </p>
+          </td>
+          <td>
+              <p>
+                Are you the kind of person who believes 
+                that planning ahead makes things turn out better?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  39
+              </p>
+          </td>
+          <td>
+              <p>
+                Most of the time, do you feel that you have little 
+                to say about what your family decides to do?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+      </tr>
+     <tr>
+          <td>
+              <p>
+                  40
+              </p>
+          </td>
+          <td>
+              <p>
+                Do you think it’s better to be smart than to be lucky?
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                  ✓
               </p>
           </td>
       </tr>
       <tr>
+          <td colspan="5">
+              <p>
+                  <strong>
+                      Items    which are not included in the 
+                    original version
+                  </strong>
+              </p>
+          </td>
+      </tr>
+    <tr>
           <td>
               <p>
-                  21
+                  41
               </p>
           </td>
           <td>
               <p>
-                  I am a useful person to have around.
+                  Are people nice to you no matter what you do?
               </p>
           </td>
           <td>
-            <p>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                 ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  42
+              </p>
+          </td>
+          <td>
+              <p>
+                  Do you usually do badly in your schoolwork 
+                even when you try hard?
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                 ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  43
+              </p>
+          </td>
+          <td>
+              <p>
+                  When a friend is angry with you is it 
+                hard to make that friend like you again?
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                 ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  44
+              </p>
+          </td>
+          <td>
+              <p>
+                  Are you surprised when your teacher 
+                praises you for your work in school?
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                 ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  45
+              </p>
+          </td>
+          <td>
+              <p>
+                  When bad things happen to you is it 
+                usually someone else's fault?
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                 ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  46
+              </p>
+          </td>
+          <td>
+              <p>
+                  Is doing well in your schoolwork just 
+                a matter of "luck" for you?
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                 ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+     <tr>
+          <td>
+              <p>
+                  47
+              </p>
+          </td>
+          <td>
+              <p>
+                  When you get into an argument or fight 
+                is it usually the other person's fault?
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                 ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  48
+              </p>
+          </td>
+          <td>
+              <p>
+                  Do you think that preparing for 
+                things is a waste of time?
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                 ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  49
+              </p>
+          </td>
+          <td>
+              <p>
+                  When nice things happen to you is it 
+                usually because of "luck"?
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+          <td>
+              <p>
+                 ✓
+              </p>
+          </td>
+          <td>
+              <p>
+              </p>
+          </td>
+      </tr>
+    <tr>
+          <td>
+              <p>
+                  50
+              </p>
+          </td>
+          <td>
+              <p>
+                  Are you satisfied with your body?
+              </p>
+          </td>
+          <td>
+              <p>
               </p>
           </td>
           <td>
