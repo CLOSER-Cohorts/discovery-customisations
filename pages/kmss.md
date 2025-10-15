@@ -235,7 +235,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.wchads/f78115a8-4b44-448e-8bdb-69d5d65bccb8/3">
+                  <a href="https://discovery.closer.ac.uk/item/uk.wchads/f78115a8-4b44-448e-8bdb-69d5d65bccb8">
                      Phase 05 Mother Questionnaire Dataset
                   </a>
               </p>

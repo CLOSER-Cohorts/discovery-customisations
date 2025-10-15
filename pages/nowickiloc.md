@@ -1432,7 +1432,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/d4cdb9c3-e020-4fdf-bf54-f225bbf480b5/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/d4cdb9c3-e020-4fdf-bf54-f225bbf480b5">
                      Life of a 16+ Teenager 
                   </a>
               </p>
@@ -1463,7 +1463,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/8d0f977b-ccb3-4f5c-98b1-913b6fa5c44a/2">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/8d0f977b-ccb3-4f5c-98b1-913b6fa5c44a">
                       About Yourself
                   </a>
               </p>
@@ -1501,7 +1501,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/Item/uk.alspac/a688dcad-5435-474a-995e-23e7687459d6/1">
+                  <a href="https://discovery.closer.ac.uk/Item/uk.alspac/a688dcad-5435-474a-995e-23e7687459d6">
                       ALSPAC You and Your Environment Questionnaire Dataset
                   </a>
               </p>
@@ -1525,14 +1525,14 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/069dcb04-ad4e-420e-a8f0-a10f95d42b4c/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/069dcb04-ad4e-420e-a8f0-a10f95d42b4c">
                       Mother's Lifestyle
                   </a>
               </p>
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/0d098aa5-ff5a-4e42-aaf5-f7e79672fb53/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/0d098aa5-ff5a-4e42-aaf5-f7e79672fb53">
                       ALSPAC Mothers Lifestyle Questionnaire Dataset
                   </a>
               </p>
@@ -1556,14 +1556,14 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/0a4bbc58-562e-4230-b1f2-5d1749157c78/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/0a4bbc58-562e-4230-b1f2-5d1749157c78">
                       Partner's Lifestyle
                   </a>
               </p>
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/19757fdd-a690-46e9-a853-7cdfbdedf707/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/19757fdd-a690-46e9-a853-7cdfbdedf707">
                       ALSPAC Partners Lifestyle Questionnaire Dataset
                   </a>
               </p>
@@ -1594,7 +1594,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/8a313b2b-98cd-46ee-a487-4db4263e149b/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/8a313b2b-98cd-46ee-a487-4db4263e149b">
                       ALSPAC You and Your Life Questionnaire Dataset
                   </a>
               </p>
@@ -1618,14 +1618,14 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/4822fef4-23b0-403e-a3e2-943d343217dd/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/4822fef4-23b0-403e-a3e2-943d343217dd">
                       Focusing on you
                   </a>
               </p>
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/ead0a043-b100-4e46-ae7a-c14297c13adc/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/ead0a043-b100-4e46-ae7a-c14297c13adc">
                       ALSPAC Focusing on You Questionnaire Dataset
                   </a>
               </p>
@@ -1681,7 +1681,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/b1cf3cfc-5a55-48ba-8fbf-12482427bbcc/1">	
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/b1cf3cfc-5a55-48ba-8fbf-12482427bbcc">	
                       ALSPAC Life at 27+ Questionnaire Dataset
                   </a>
               </p>

@@ -49,7 +49,7 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 
 
 <h3><b>Does CLOSER Discovery include information on genetic data?</b></h3>
-<p>Most genetic data isn't documented within CLOSER Discovery yet, and so cannot be searched. In the interim, there is a summary table of the genetic data available for each study on the <a href="/page/genetic/5">Genetic array data summary</a>. </p>
+<p>Most genetic data isn't documented within CLOSER Discovery yet, and so cannot be searched. In the interim, there is a summary table of the genetic data available for each study on the <a href="/page/genetic">Genetic array data summary</a>. </p>
 
 <h3><b>What does CLOSER Discovery offer that isn't already provided by the UK Data Service?</b></h3>
 <p>The datasets accessible via the UK Data Service are large and important resources for research. There are three key features that CLOSER Discovery can help with when working with these:</p>

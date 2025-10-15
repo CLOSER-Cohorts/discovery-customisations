@@ -745,14 +745,14 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/4822fef4-23b0-403e-a3e2-943d343217dd/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/4822fef4-23b0-403e-a3e2-943d343217dd">
                       Focusing On You
                   </a>
               </p>
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/ead0a043-b100-4e46-ae7a-c14297c13adc/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/ead0a043-b100-4e46-ae7a-c14297c13adc">
                       ALSPAC Focusing on You Questionnaire Dataset
                   </a>
               </p>
@@ -807,14 +807,14 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/5057b4b7-4dcb-4d40-8ccc-6d254cc1f602/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/5057b4b7-4dcb-4d40-8ccc-6d254cc1f602">
                       Partner's Health Events and Feelings
                   </a>
               </p>
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/3bda815f-c729-4729-a247-731843ad249c/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/3bda815f-c729-4729-a247-731843ad249c">
                       ALSPAC Partners Health Events and Feelings Questionnaire Dataset
                   </a>
               </p>
@@ -838,14 +838,14 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/99a6dd3b-050a-4bd7-ae7a-19bfe4cc10f4/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/99a6dd3b-050a-4bd7-ae7a-19bfe4cc10f4">
                       Study Mother's Questionnaire
                   </a>
               </p>
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/dc5ab67b-3274-4832-b5d9-93571b840622/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/dc5ab67b-3274-4832-b5d9-93571b840622">
                       ALSPAC Study Mothers Questionnaire Dataset
                   </a>
               </p>
@@ -869,14 +869,14 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/82383e63-c605-49af-9da0-caed043e3d5a/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/82383e63-c605-49af-9da0-caed043e3d5a">
                       Study Partner's Questionnaire
                   </a>
               </p>
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/6b73c22d-0c94-43e9-b9fa-4c66cbec69c3/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/6b73c22d-0c94-43e9-b9fa-4c66cbec69c3">
                       ALSPAC Study Partners Questionnaire Dataset
                   </a>
               </p>
@@ -900,14 +900,14 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/4ff00c7a-b314-4ec2-931e-2b6eee1bbced/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/4ff00c7a-b314-4ec2-931e-2b6eee1bbced">
                       Your Health Events and Feelings
                   </a>
               </p>
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/d052f168-3b67-407a-a74a-2d550f456f1f/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/d052f168-3b67-407a-a74a-2d550f456f1f">
                       ALSPAC Your Health Events and Feelings Questionnaire Dataset
                   </a>
               </p>
@@ -931,14 +931,14 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/72703e0f-8d9f-46f1-9e19-d2ba5ddeb68e/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/72703e0f-8d9f-46f1-9e19-d2ba5ddeb68e">
                       Department for Children, Schools and Families Plans and Aspirations Questionnaire
                   </a>
               </p>
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/536811a6-b216-40e4-bae7-15d38bb109bf/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/536811a6-b216-40e4-bae7-15d38bb109bf">
                       ALSPAC Plans and Aspirations (DCSF) Questionnaire Dataset
                   </a>
               </p>
@@ -962,14 +962,14 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/276f2878-01a1-4208-b3c0-241f3070d466/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/276f2878-01a1-4208-b3c0-241f3070d466">
                       You and Your Life
                   </a>
               </p>
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/8a313b2b-98cd-46ee-a487-4db4263e149b/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/8a313b2b-98cd-46ee-a487-4db4263e149b">
                       ALSPAC You and Your Life Questionnaire Dataset
                   </a>
               </p>
@@ -1051,15 +1051,15 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/Item/uk.cls.mcs/b3de82c6-c948-42a8-a9c2-16f3a829ed85/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/dc430107-eb87-4571-b150-bdbda8265294">
                       MCS Age 11 Cohort Member Paper Self-Completion
                   </a>
               </p>
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/ae1368ce-89b7-480d-8cab-3320df7b1443">
-                     MCS5 Child Paper Self-Completion Dataset
+                  <a href="https://discovery.closer.ac.uk/Item/uk.cls.mcs/f849ba44-4432-491f-9425-1fbbb4a67086">
+                     MCS5 CM Interview Dataset
                   </a>
               </p>
           </td>

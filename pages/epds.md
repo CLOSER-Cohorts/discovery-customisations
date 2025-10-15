@@ -702,7 +702,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/84f8de88-9af7-48db-8d47-c0dc3243445d/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/84f8de88-9af7-48db-8d47-c0dc3243445d">
                     Parent    COVID-19 Long COVID Questionnaire 5
               </p>
           </td>
@@ -731,7 +731,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/18db386e-2d30-456f-9f7f-1a3999f43bfd/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/18db386e-2d30-456f-9f7f-1a3999f43bfd">
                     Cohort    Member COVID-19 Long COVID Questionnaire 5
               </p>
           </td>

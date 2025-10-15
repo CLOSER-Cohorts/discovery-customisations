@@ -668,7 +668,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/72c2d6d5-f0d2-4871-9e50-2b6f1740e804/2">
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/72c2d6d5-f0d2-4871-9e50-2b6f1740e804">
                       BCS70 Age 50 COVID-19 Survey - Wave 1
                   </a>
               </p>

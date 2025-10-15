@@ -688,7 +688,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/538704c3-4b2f-421c-b5eb-5e4ea63c7333/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/538704c3-4b2f-421c-b5eb-5e4ea63c7333">
                      Health Survey 12               
                   </a>
               </p>
@@ -719,7 +719,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/593b334c-3c75-4207-8021-6dd403bd545b/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/593b334c-3c75-4207-8021-6dd403bd545b">
                       Health Survey 7
                   </a>
               </p>
@@ -750,7 +750,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/5352774f-7dfa-461b-aa21-8154a67b60ed/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/5352774f-7dfa-461b-aa21-8154a67b60ed">
                      Health Survey 8
                   </a>
               </p>
@@ -781,7 +781,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/0cbfe917-937e-466c-b286-9d420ae2b51e/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/0cbfe917-937e-466c-b286-9d420ae2b51e">
                       Health Survey 9
                   </a>
               </p>
@@ -812,7 +812,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/1e582284-4749-40ec-95bf-e4dc64b5eeda/2">
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/1e582284-4749-40ec-95bf-e4dc64b5eeda">
                       NCDS Age 50 Cohort Member Paper Self-Completion
                   </a>
               </p>
@@ -843,7 +843,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/1bb50617-6590-4ffe-9948-a1afaff61643/2">
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/1bb50617-6590-4ffe-9948-a1afaff61643">
                       NCDS Age 55 Follow-up
                   </a>
               </p>

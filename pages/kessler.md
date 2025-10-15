@@ -513,39 +513,15 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                      MCS Age 20 Cohort Member COVID-19 Survey - Wave 1                   
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/fa319205-50e3-4eae-95c3-fd83eb6636c7">  MCS Age 20 Cohort Member COVID-19 Survey - Wave 1   
+                    </a>                
               </p>
           </td>
           <td>
               <p>
-                     MCS Cohort Member COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 1 Dataset
-              </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-              <p>
-                  Original 6-item version (K6)
-              </p>
-          </td>
-          <td>
-              <p>
-                  MCS
-              </p>
-          </td>
-          <td>
-              <p>
-                  2020
-              </p>
-          </td>
-          <td>
-              <p>
-                      MCS Age 20 Cohort Member COVID-19 Survey - Wave 2                   
-              </p>
-          </td>
-          <td>
-              <p>
-                     MCS Cohort Member COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 2 Dataset
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/a8437ce4-9b4f-46da-be3a-58101cbe0d1a">
+                      MCS Cohort Member COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 1 Dataset
+                  </a>
               </p>
           </td>
         </tr>
@@ -567,12 +543,18 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                      MCS Age 20 Parent COVID-19 Survey - Wave 1                  
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/3e8de66b-de81-48f7-bf7f-9a3e9a1f2a5e](https://discovery.closer.ac.uk/item/uk.cls.mcs/60e57d51-45ef-4ecf-952a-58daf9be4611">
+                      MCS Age 20 Cohort Member COVID-19 Survey - Wave 2
+                  </a>
+              </p>                
               </p>
           </td>
           <td>
               <p>
-                     MCS Parent COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 1 Dataset
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/b5ac1699-e65e-4b76-be0d-49137ed7802b">
+                      MCS Cohort Member COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 2 Dataset
+                  </a>
+              </p>
               </p>
           </td>
         </tr>
@@ -594,12 +576,47 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                      MCS Age 20 Parent COVID-19 Survey - Wave 2                   
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/a96e0590-84a8-4ae2-9f59-a465d4c60b7e">
+                      MCS Age 20 Parent COVID-19 Survey - Wave 1
+                  </a>              
               </p>
           </td>
           <td>
               <p>
-                     MCS Parent COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 2 Dataset
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/20257f23-ed24-45a7-af53-f33da7eee294">
+                     MCS Parent COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 1 Dataset 
+                  </a>
+              </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+              <p>
+                  Original 6-item version (K6)
+              </p>
+          </td>
+          <td>
+              <p>
+                  MCS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2020
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/e4977cc9-ca98-4088-9348-b67db078ecf8">
+                     MCS Age 20 Parent COVID-19 Survey - Wave 2 
+                  </a>         
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/b6ccd97f-8ccc-4884-82cf-d6045a3ca708">
+                      MCS Parent COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 2 Dataset
+                  </a>
               </p>
           </td>
         </tr>
@@ -621,12 +638,16 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                      MCS Age 20 Cohort Member COVID-19 Survey - Wave 3                  
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/ca4a42ec-ee29-4265-ac07-0d6240c7a4d7">
+                      MCS Age 20 Cohort Member COVID-19 Survey - Wave 3
+                  </a>              
               </p>
           </td>
           <td>
               <p>
-                     MCS Cohort Member COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 3 Dataset
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/659bcddb-c5ac-45d9-be13-bf7e126650e1">
+                   MCS Cohort Member COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 3 Dataset   
+                  </a>
               </p>
           </td>
         </tr>
@@ -648,12 +669,16 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                      MCS Age 20 Parent COVID-19 Survey - Wave 3                   
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/3a11a325-09b6-418c-9f58-883d47ad9e3e">
+                     MCS Age 20 Parent COVID-19 Survey - Wave 3 
+                  </a>              
               </p>
           </td>
           <td>
               <p>
-                     MCS Parent COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 3 Dataset
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/316dcb9c-bac9-489a-9c08-d7cf01374d22">
+                      MCS Parent COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 3 Dataset
+                  </a>
               </p>
           </td>
         </tr>

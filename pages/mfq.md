@@ -1568,7 +1568,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/89f209ec-7e1d-4081-b7a8-6ddb9c0eccfd/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/89f209ec-7e1d-4081-b7a8-6ddb9c0eccfd">
                         Your    Son/Daughter 16+ Years On
                     </a>
                 </p>
@@ -1660,7 +1660,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/83542309-c728-4a1a-b4f0-b6fe302770c5/3">
+                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/83542309-c728-4a1a-b4f0-b6fe302770c5">
                         Cohort    Member COVID-19 Questionnaire 1
                 </p>
             </td>

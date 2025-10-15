@@ -310,7 +310,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/83542309-c728-4a1a-b4f0-b6fe302770c5/3">
+                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/83542309-c728-4a1a-b4f0-b6fe302770c5">
                         Cohort    Member COVID-19 Questionnaire 1
                 </p>
             </td>
@@ -433,7 +433,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/a8fa19cb-3c3f-4777-853e-edf5b0093ada/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/a8fa19cb-3c3f-4777-853e-edf5b0093ada">
                         Parent    COVID-19 Questionnaire 4
                 </p>
             </td>
@@ -463,7 +463,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/18db386e-2d30-456f-9f7f-1a3999f43bfd/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/18db386e-2d30-456f-9f7f-1a3999f43bfd">
                         Cohort    Member COVID-19 Long Covid Questionnaire 5
                 </p>
             </td>
@@ -492,7 +492,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/84f8de88-9af7-48db-8d47-c0dc3243445d/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/84f8de88-9af7-48db-8d47-c0dc3243445d">
                         Parent    COVID-19 Long Covid Questionnaire 5
                 </p>
             </td>
@@ -575,7 +575,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/e3bc1c06-3a6f-49ec-9358-c11d40ef97ea/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/e3bc1c06-3a6f-49ec-9358-c11d40ef97ea">
                         Generation Scotland COVID19 Survey 1
                 </p>
             </td>
@@ -605,7 +605,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/de350ed5-35ba-424f-bc8b-7d56b9305bd0/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/de350ed5-35ba-424f-bc8b-7d56b9305bd0">
                         Generation Scotland COVID19 Survey 2
                 </p>
             </td>
@@ -635,7 +635,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/5e542b04-f145-4cb0-9e33-cbc9dcb52f14/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/5e542b04-f145-4cb0-9e33-cbc9dcb52f14">
                         Generation Scotland COVID19 Survey 3
                 </p>
             </td>
@@ -719,7 +719,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/c373c2b5-a6f6-4fba-9199-e243e801cc7b/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/c373c2b5-a6f6-4fba-9199-e243e801cc7b">
                         COVID-19 Questionnaire for women
                 </p>
             </td>
@@ -920,7 +920,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/fac586ef-eece-45aa-97c9-7e21ac162e03/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/fac586ef-eece-45aa-97c9-7e21ac162e03">
                         BCS70    Age 50 COVID-19 Survey - Wave 3
                 </p>
             </td>
@@ -1079,7 +1079,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/bf841928-87d6-42dc-887f-206f12341b77/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/bf841928-87d6-42dc-887f-206f12341b77">
                         MCS    Age 20 Cohort Member COVID-19 Survey - Wave 3
                 </p>
             </td>
@@ -1110,7 +1110,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/1c4ba52b-5527-419d-8df5-4efe06599a1a/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/1c4ba52b-5527-419d-8df5-4efe06599a1a">
                         MCS    Age 20 Parent COVID-19 Survey - Wave 3
                 </p>
             </td>
@@ -1205,7 +1205,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/04bbf473-bab3-4209-bacc-b2c431cee12c/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/04bbf473-bab3-4209-bacc-b2c431cee12c">
                         NCDS    Age 62 COVID-19 Survey -Wave 3
                 </p>
             </td>
@@ -1236,7 +1236,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/83ab13bb-90e6-40fe-8741-16cf36400450/3">
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/83ab13bb-90e6-40fe-8741-16cf36400450">
                         Next    Steps Age 30 COVID-19 Survey - Wave 1
                 </p>
             </td>
@@ -1299,7 +1299,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/82b7a6c9-47ea-4ee5-98fb-4cd5958c4076/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/82b7a6c9-47ea-4ee5-98fb-4cd5958c4076">
                         Next    Steps Age 30  COVID-19 Survey - Wave 3
                 </p>
             </td>

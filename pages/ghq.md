@@ -1758,7 +1758,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/83ab13bb-90e6-40fe-8741-16cf36400450/3">
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/83ab13bb-90e6-40fe-8741-16cf36400450">
                         Next    Steps Age 30 COVID-19 Survey - Wave 1
                 </p>
             </td>
@@ -1821,7 +1821,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/82b7a6c9-47ea-4ee5-98fb-4cd5958c4076/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/82b7a6c9-47ea-4ee5-98fb-4cd5958c4076">
                         Next Steps Age 30 COVID-19    Survey - Wave 3
                 </p>
             </td>
@@ -1937,7 +1937,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/c373c2b5-a6f6-4fba-9199-e243e801cc7b/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/c373c2b5-a6f6-4fba-9199-e243e801cc7b">
                         COVID-19 Questionnaire for women
                 </p>
             </td>
@@ -1997,7 +1997,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/e087c171-da96-488d-8c8e-c0b7f7e81f4a/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/e087c171-da96-488d-8c8e-c0b7f7e81f4a">
                         Wave    3 Questionnaire
                     </a>
                 </p>
@@ -2028,7 +2028,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/726c812d-87ed-467d-aa8c-668670a9713b/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/726c812d-87ed-467d-aa8c-668670a9713b">
                         Wave    4 Questionnaire
                 </p>
             </td>
@@ -2087,7 +2087,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/3ce3ec96-e3f4-43dc-890f-ea2bc4381324/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/3ce3ec96-e3f4-43dc-890f-ea2bc4381324">
                         COVID-19    Wave 1 Questionnaire
                     </a>
                 </p>
@@ -2119,7 +2119,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/51398932-abbd-410f-9edc-dc4ace0ef6c3/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/51398932-abbd-410f-9edc-dc4ace0ef6c3">
                         COVID    19 Wave 2 Questionnaire
                     </a>
                 </p>
@@ -2151,7 +2151,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/9916faf8-db88-42f9-b666-f4761b293179/1">
+                    <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/9916faf8-db88-42f9-b666-f4761b293179">
                         COVID-19    Wave 3 Questionnaire
                     </a>
                 </p>
@@ -2273,7 +2273,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.wchads/f10d92d8-896b-45c6-92cf-a8374d1f4a40/5">
+                    <a href="https://discovery.closer.ac.uk/item/uk.wchads/f10d92d8-896b-45c6-92cf-a8374d1f4a40">
                         WCHADS    Phase 01 Mother Questionnaire - 20 wk scan
                 </p>
             </td>
