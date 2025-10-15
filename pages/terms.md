@@ -15,7 +15,7 @@
 <p>This website is managed by CLOSER, the home of longitudinal research. We are the interdisciplinary partnership of leading social and biomedical longitudinal population studies, the UK Data Service and The British Library.  
 </p>
 
-<p>Any references to ‘we’, ‘us’ or ‘our’ in these terms refer to CLOSER. We are based at the IOE, UCL’s Faculty of Education and Society, University College London (UCL). Our office address is 55-59 Gordon Square, London WC1H 0NU. 
+<p>Any references to ‘we’, ‘us’ or ‘our’ in these terms refer to CLOSER. We are based at the IOE, University College London (UCL). Our office address is 55-59 Gordon Square, London WC1H 0NU. 
 </p>
 
 <h2><b>Disclaimer </b></h2>
