@@ -1,2 +1,2 @@
 # discovery-customisations
-CLOSER DIscovery Custom files to support theme and text
+CLOSER DIscovery Custom files to support theme and other customised pages
