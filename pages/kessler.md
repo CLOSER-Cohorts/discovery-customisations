@@ -324,12 +324,16 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                      MCS Age 3 CAPI Questionnaire                   
+                      <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/08711a70-fdd3-4190-9943-50b51ad624cd">
+                        MCS Age 3 CAPI Questionnaire
+                      </a>
               </p>
           </td>
           <td>
               <p>
-                     MCS2 Parent Interview Dataset
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/f36354ec-c764-43f6-88d2-f8f2ca6f66e0">
+                       MCS2 Parent Interview Dataset
+                    </a>
               </p>
           </td>
         </tr>
@@ -351,12 +355,16 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                      MCS Age 5 Main and Partner Respondent Questionnaire                   
+                      <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/d0216bd6-6c2d-43c8-891d-4206e1df0c41">
+                        MCS Age 5 Main and Partner Respondent Questionnaire                   
+                      </a>
               </p>
           </td>
           <td>
               <p>
-                     MCS3 Parent Interview Dataset
+                     <a herf="https://discovery.closer.ac.uk/item/uk.cls.mcs/9dad8e37-832a-4b43-afa5-3580045e3ca3">
+                       MCS3 Parent Interview Dataset
+                     </a>
               </p>
           </td>
         </tr>
@@ -378,12 +386,16 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                      MCS Age 7 Main and Partner Respondent Questionnaire                  
+                      <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/8ef97ede-bc65-4149-b11f-1be7f49731f3">
+                        MCS Age 7 Main and Partner Respondent Questionnaire                  
+                      </a>
               </p>
           </td>
           <td>
               <p>
-                     MCS4 Parent Interview Dataset
+                     <a href=|https://discovery.closer.ac.uk/item/uk.cls.mcs/e95ac284-dcc4-4c91-a5a4-06d528d52f5d">
+                       MCS4 Parent Interview Dataset
+                     </a>
               </p>
           </td>
         </tr>
@@ -405,12 +417,16 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                      MCS Age 11 Main and Partner Respondent Questionnaire                  
+                      <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/bf3d4174-94b2-4a79-a88f-58cfa0f4c166">
+                        MCS Age 11 Main and Partner Respondent Questionnaire                  
+                      </a>
               </p>
           </td>
           <td>
               <p>
-                     MCS5 Parent Interview Dataset
+                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/d7ace38f-c88a-402c-bea3-61cb2afde95f">
+                       MCS5 Parent Interview Dataset
+                     </a>
               </p>
           </td>
         </tr>
@@ -513,7 +529,8 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/fa319205-50e3-4eae-95c3-fd83eb6636c7">  MCS Age 20 Cohort Member COVID-19 Survey - Wave 1   
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/fa319205-50e3-4eae-95c3-fd83eb6636c7">  
+                      MCS Age 20 Cohort Member COVID-19 Survey - Wave 1   
                     </a>                
               </p>
           </td>
