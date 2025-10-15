@@ -675,7 +675,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/684a4cd1-248d-4f2f-8d8a-a23ddf57ebb2/1">
+                  <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/684a4cd1-248d-4f2f-8d8a-a23ddf57ebb2">
                       BCS70 COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 1 Dataset
                   </a>
               </p>
@@ -793,7 +793,7 @@ Note this table is sortable.
           <td>
               <p>
                   <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/3e8de66b-de81-48f7-bf7f-9a3e9a1f2a5e/1">
-                      MCS Age 20 Parent COVID-19 Survey - Wave 2
+                      MCS Age 20 Cohort Member COVID-19 Survey - Wave 2
                   </a>
               </p>
           </td>
