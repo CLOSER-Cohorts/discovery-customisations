@@ -1452,7 +1452,9 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    MCS    Age 11 Care Home Questionnaire
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/984e633f-51e6-4825-b7ba-e8537461e091">
+                        MCS    Age 11 Care Home Questionnaire
+                    </a>
                 </p>
             </td>
             <td>
@@ -2175,7 +2177,9 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    MCS    Age 5 Main and Partner Respondent Questionnaire
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/d0216bd6-6c2d-43c8-891d-4206e1df0c41">
+                        MCS Age 5 Main and Partner Respondent Questionnaire
+                    </a>
                 </p>
             </td>
             <td>
@@ -2202,7 +2206,9 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    MCS    Age 7 Main and Partner Respondent Questionnaire
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/8ef97ede-bc65-4149-b11f-1be7f49731f3">
+                        MCS    Age 7 Main and Partner Respondent Questionnaire
+                    </a>
                 </p>
             </td>
             <td>
@@ -2229,7 +2235,9 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    MCS    Age 3 CAPI Questionnaire
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/08711a70-fdd3-4190-9943-50b51ad624cd">
+                        MCS    Age 3 CAPI Questionnaire
+                    </a>
                 </p>
             </td>
             <td>
