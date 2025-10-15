@@ -163,7 +163,7 @@ View the individual pages linked below to see the questions in each scale and th
    </td>
   </tr>
   <tr>
-  <tr>
+  </tr><tr>
    <td>
     <h2><a href="/page/kmss/25">The Kansas Marital Satisfaction Scale (KMSS)</a></h2>
    </td>
@@ -214,12 +214,12 @@ View the individual pages linked below to see the questions in each scale and th
     <h2><a href="/page/nowickiloc/26">Nowicki-Strickland Locus Of Control Scale For Children</a></h2>
    </td>
    <td>
-     The Nowicki-Strickland Locus Of Control Scale For Children (Nowicki & Stricklandm, 1973) is a 40-item scale designed to measure locus of control. Different versions of the scale have been created 
+     The Nowicki-Strickland Locus Of Control Scale For Children (Nowicki &amp; Stricklandm, 1973) is a 40-item scale designed to measure locus of control. Different versions of the scale have been created 
      which include a subset of the original 40 items.
    </td>
    <td>
-      S Nowicki, S., &amp; Strickland, B. R. (1973). A locus of control scale for children. Journal of Consulting and Clinical Psychology, 40(1), 148–154. https://doi.org/10.1037/h0033978
-    <a href="https://doi.org/10.1037/h0033978">
+      S Nowicki, S., &amp; Strickland, B. R. (1973). A locus of control scale for children. Journal of Consulting and Clinical Psychology, 40(1), 148–154. 
+    <a href="https://doi.org/10.1037/h0033978">https://doi.org/10.1037/h0033978</a>
    </td>
   </tr>
   <tr>
@@ -255,7 +255,7 @@ View the individual pages linked below to see the questions in each scale and th
       Robinson, C. C., Mandeco, B., Olsen, S. F., &amp; Hart, C. H. (1995). Authoritative, authoritarian, and permissive parenting practices: Development of a new measure. 
       Psychological Reports, 77, 819-830. <a href="https://doi.org/10.2466/pr0.1995.77.3.819">https://doi.org/10.2466/pr0.1995.77.3.819</a>
     </p>
-    </p>
+    <p></p>
    </td>
   </tr>
   <tr>
@@ -269,11 +269,10 @@ View the individual pages linked below to see the questions in each scale and th
    <td>
     <p>
        Rosenberg, M. (1965). Society and the adolescent self-image. 
-       Princeton University Press. http://www.jstor.org/stable/j.ctt183pjjh
-       <a href="http://www.jstor.org/stable/j.ctt183pjjh">
+       Princeton University Press. 
+       <a href="http://www.jstor.org/stable/j.ctt183pjjh">http://www.jstor.org/stable/j.ctt183pjjh</a>
     </p>
-    </p>
-   </td>
+  </td>
   </tr>
    <tr>
    <td>
@@ -290,19 +289,19 @@ The Short Form 36 Health Survey (SF-36) (Ware, 1993) is a 36-item scale designed
   <tr>
    <td>
     <h2><a href="/page/sps/29">Social Provisions Scale (SPS)</a></h2><h2>
+   </h2></td>
+   <td>
+     The Social Provisions Scale (SPS) (Cutrona &amp; Russell, 1987) is a 24-item scale designed to measure social provision, which encompasses attachment, social integration, reassurance of worth, reliable alliance, guidance, and opportunity for nurturance. Different versions of the scale have been created which include a subset of the original 24 items.
    </td>
    <td>
-     The Social Provisions Scale (SPS) (Cutrona & Russell, 1987) is a 24-item scale designed to measure social provision, which encompasses attachment, social integration, reassurance of worth, reliable alliance, guidance, and opportunity for nurturance. Different versions of the scale have been created which include a subset of the original 24 items.
-   </td>
-   <td>
-     Cutrona, C. E., &amp; Russel, D. W. (1987). The provisions of social relationships and adaptation to stress. Advances in personal relationships, 1(1),37-67.   http://depts.washington.edu/uwcssc/sites/default/files/hw00/d40/uwcssc/sites/default/files/Social%20Provisions%20Scale_0.pdf
-    <a href="http://depts.washington.edu/uwcssc/sites/default/files/hw00/d40/uwcssc/sites/default/files/Social%20Provisions%20Scale_0.pdf">
-   </td>
+     Cutrona, C. E., &amp; Russel, D. W. (1987). The provisions of social relationships and adaptation to stress. Advances in personal relationships, 1(1),37-67.   
+    <a href="http://depts.washington.edu/uwcssc/sites/default/files/hw00/d40/uwcssc/sites/default/files/Social%20Provisions%20Scale_0.pdf">http://depts.washington.edu/uwcssc/sites/default/files/hw00/d40/uwcssc/sites/default/files/Social%20Provisions%20Scale_0.pdf</a>
+  </td>
   </tr>
   <tr>
    <td>
     <h2><a href="/page/sdq/19">Strengths and Difficulties Questionnaire (SDQ)</a></h2><h2>
-   </td>
+   </h2></td>
    <td>
      The Strengths and Difficulties Questionnaire (SDQ) (Goodman, 1997) is a 30-item scale designed to measure child mental health, which encompasses conduct problems, emotional symptoms, hyperactivity, peer relationships, and prosocial behaviour. Different versions of the scales have been created which include a subset of the original 30 items.
    </td>
@@ -315,13 +314,12 @@ The Short Form 36 Health Survey (SF-36) (Ware, 1993) is a 36-item scale designed
     <h2><a href="/page/uclals/30">UCLA Loneliness Scale</a></h2>
    </td>
    <td>
-     The UCLA Loneliness Scale (Russel, Peplau & Ferguson, 1978) is a 20-item scale designed to measure loneliness. Different versions have been created which include a subset of the original 20 items.
+     The UCLA Loneliness Scale (Russel, Peplau &amp; Ferguson, 1978) is a 20-item scale designed to measure loneliness. Different versions have been created which include a subset of the original 20 items.
    </td>
    <td>
-    Russel, D., Peplau, L. A., &amp; Ferguson, M. L. (1978).  Developing a Measure of Loneliness. Journal of Personality Assessment, 42(3), 290-294. 
-    https://doi.org/10.1207/s15327752jpa4203_11
-    <a href="https://doi.org/10.1207/s15327752jpa4203_11">
-   </td>
+    Russel, D., Peplau, L. A., &amp; Ferguson, M. L. (1978).  Developing a Measure of Loneliness. Journal of Personality Assessment, 42(3), 290-294.   
+    <a href="https://doi.org/10.1207/s15327752jpa4203_11">https://doi.org/10.1207/s15327752jpa4203_11</a>
+  </td>
   </tr>
      <tr>
    <td>
