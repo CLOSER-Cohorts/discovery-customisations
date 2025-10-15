@@ -362,7 +362,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                     <a herf="https://discovery.closer.ac.uk/item/uk.cls.mcs/9dad8e37-832a-4b43-afa5-3580045e3ca3">
+                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/9dad8e37-832a-4b43-afa5-3580045e3ca3">
                        MCS3 Parent Interview Dataset
                      </a>
               </p>
@@ -393,7 +393,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                     <a href=|https://discovery.closer.ac.uk/item/uk.cls.mcs/e95ac284-dcc4-4c91-a5a4-06d528d52f5d">
+                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/e95ac284-dcc4-4c91-a5a4-06d528d52f5d">
                        MCS4 Parent Interview Dataset
                      </a>
               </p>
@@ -507,7 +507,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                     CS Age 17 Young Person Self Completion Questionnaire Dataset
+                     MCS Age 17 Young Person Self Completion Questionnaire Dataset
               </p>
           </td>
         </tr>
