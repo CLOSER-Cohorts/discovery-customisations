@@ -26,7 +26,7 @@
 
 <p>Our mission is to increase the visibility, use and impact of longitudinal population studies, data and research to ensure that longitudinal evidence is used to address the health, social, economic and environmental challenges facing the UK, now and in the future.</p>
 
-<p>Any references to ‘we’, ‘us’ or ‘our’ in this privacy policy refer to CLOSER. We are based at the IOE, UCL’s Faculty of Education and Society, University College London (UCL). Our office address is 55-59 Gordon Square, London WC1H 0NU and you can email us at closer@ucl.ac.uk. </p>
+<p>Any references to ‘we’, ‘us’ or ‘our’ in this privacy policy refer to CLOSER. We are based at the IOE, University College London (UCL). Our office address is 55-59 Gordon Square, London WC1H 0NU and you can email us at closer@ucl.ac.uk. </p>
 
 <p>In relation to any data that you provide us, we are known as the ‘data controller’. </p>
 
@@ -97,6 +97,6 @@
 <p>Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF</p>
 <p>Helpline number: 0303 123 1113</p>
 <p>ICO website: <a href="https://www.ico.org.uk" target="_blank" rel="noopener noreferrer">ico.org.uk</a>.</p>
-<p>This privacy notice was published November 2023. </p>
+<p>This privacy notice was published October 2025. </p>
 
 </div></div>
