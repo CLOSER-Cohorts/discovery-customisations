@@ -151,6 +151,33 @@ View the individual pages linked below to see the questions in each scale and th
   </tr>
   <tr>
    <td>
+    <h2><a href="/page/kessler/24">Kessler Psychological Distress Scale (K10, K6)</a></h2>
+   </td>
+   <td>
+    The Kessler Psychological Distress Scale (Kessler et al., 2002) a scale designed to measure non-specific psychological distress. 
+    The scale has two original versions, one with 10 items (K10) and one with 6 items (K6). Other non-original versions of the scale have been created which include a subset of the original 10 items.
+   </td>
+   <td>
+      Kessler, R. C., Andrews, G., Colpe, L. J., Hiripi, E., Mroczek, D. K., Normand, S. L. T., Walters, E. E., &amp; Zaslavsky, A. M. (2002). Short screening scales to monitor population prevalences 
+      and trends in non-specific psychological distress. Psychological Medicine, 32(6), 959–976. <a href="https://doi.org/10.1017/S0033291702006074">https://doi.org/10.1017/S0033291702006074</a>
+   </td>
+  </tr>
+  <tr>
+  <tr>
+   <td>
+    <h2><a href="/page/kmss/25">The Kansas Marital Satisfaction Scale (KMSS)</a></h2>
+   </td>
+   <td>
+    The Kansas Marital Satisfaction Scale (KMSS) (Schumm et al., 1983) is a 3-item scale designed to measure marital satisfaction. ifferent versions have been created which include a subset of the 
+    original 3 items.
+   </td>
+   <td>
+      Schumm, W. R., Nichols, C. W., Schectman, K. L., &amp; Grigsby, C. C (1983). Characteristics of responses to the Kansas Marital Satisfaction Scale by a sample of 84 married mothers. 
+      Psychological Reports, 53(2), 567–572. <a href="https://doi.org/10.2466/pr0.1983.53.2.567">https://doi.org/10.2466/pr0.1983.53.2.567</a>
+   </td>
+  </tr>
+  <tr>
+   <td>
      <h2><a href="/page/malaise/15">Malaise Inventory</a></h2><a href="/page/malaise/19">
      </a>
    </td>
@@ -184,10 +211,20 @@ View the individual pages linked below to see the questions in each scale and th
   </tr>
   <tr>
    <td>
-<h2>
- <a href="/page/phq9/17">
-      Patient Health Questionnaire (PHQ-9)
-     </a></h2></td>
+    <h2><a href="/page/nowickiloc/26">Nowicki-Strickland Locus Of Control Scale For Children</a></h2>
+   </td>
+   <td>
+     The Nowicki-Strickland Locus Of Control Scale For Children (Nowicki & Stricklandm, 1973) is a 40-item scale designed to measure locus of control. Different versions of the scale have been created 
+     which include a subset of the original 40 items.
+   </td>
+   <td>
+      S Nowicki, S., &amp; Strickland, B. R. (1973). A locus of control scale for children. Journal of Consulting and Clinical Psychology, 40(1), 148–154. https://doi.org/10.1037/h0033978
+    <a href="https://doi.org/10.1037/h0033978">
+   </td>
+  </tr>
+  <tr>
+   <td>
+      <h2><a href="/page/phq9/17">Patient Health Questionnaire (PHQ-9)</a></h2></td>
    <td>
     <p>
      The Patient Health Questionnaire (PHQ-9) (Kroenke &amp;
@@ -206,7 +243,41 @@ View the individual pages linked below to see the questions in each scale and th
   </tr>
   <tr>
    <td>
-<h2><a href="/page/sf36/18"> Short Form 36 Health Survey (SF-36)</a></h2>
+      <h2><a href="/page/ppq/27">Parenting Practices Questionnaire</a></h2></td>
+   <td>
+    <p>
+     The Parenting Practices Questionnaire (Robinson et at., 1995), formerly known as Parenting Practices Questionnaire, is a 62-item scale designed to measure parenting style. 
+     Different versions of the scale have been created which include a subset of the original 62 items.
+    </p>
+   </td>
+   <td>
+    <p>
+      Robinson, C. C., Mandeco, B., Olsen, S. F., &amp; Hart, C. H. (1995). Authoritative, authoritarian, and permissive parenting practices: Development of a new measure. 
+      Psychological Reports, 77, 819-830. <a href="https://doi.org/10.2466/pr0.1995.77.3.819">https://doi.org/10.2466/pr0.1995.77.3.819</a>
+    </p>
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+      <h2><a href="/page/rse/28">Rosenberg Self-Esteem Scale (RSE)</a></h2></td>
+   <td>
+    <p>
+     The Rosenberg Self-Esteem Scale (RSE) (Rosenberg, 1965) is a 10-item scale designed to measure self-esteem. Different versions have been created which include a subset of the original 10 items.
+    </p>
+   </td>
+   <td>
+    <p>
+       Rosenberg, M. (1965). Society and the adolescent self-image. 
+       Princeton University Press. http://www.jstor.org/stable/j.ctt183pjjh
+       <a href="http://www.jstor.org/stable/j.ctt183pjjh">
+    </p>
+    </p>
+   </td>
+  </tr>
+   <tr>
+   <td>
+      <h2><a href="/page/sf36/18"> Short Form 36 Health Survey (SF-36)</a></h2>
    </td>
    <td>
 The Short Form 36 Health Survey (SF-36) (Ware, 1993) is a 36-item scale designed to measure health, which encompasses physical functioning, role limitations due to physical health problems, bodily pain, general health, vitality, social functioning, role limitations due to emotional problems, mental health. Different versions of the scale have been created which include a subset of the original 36 items.
@@ -218,12 +289,20 @@ The Short Form 36 Health Survey (SF-36) (Ware, 1993) is a 36-item scale designed
   </tr>
   <tr>
    <td>
-<h2>
-     <a href="/page/sdq/19">
-      Strengths and Difficulties Questionnaire (SDQ)
-     </a>
-</h2><h2>
-   </h2></td>
+    <h2><a href="/page/sps/29">Social Provisions Scale (SPS)</a></h2><h2>
+   </td>
+   <td>
+     The Social Provisions Scale (SPS) (Cutrona & Russell, 1987) is a 24-item scale designed to measure social provision, which encompasses attachment, social integration, reassurance of worth, reliable alliance, guidance, and opportunity for nurturance. Different versions of the scale have been created which include a subset of the original 24 items.
+   </td>
+   <td>
+     Cutrona, C. E., &amp; Russel, D. W. (1987). The provisions of social relationships and adaptation to stress. Advances in personal relationships, 1(1),37-67.   http://depts.washington.edu/uwcssc/sites/default/files/hw00/d40/uwcssc/sites/default/files/Social%20Provisions%20Scale_0.pdf
+    <a href="http://depts.washington.edu/uwcssc/sites/default/files/hw00/d40/uwcssc/sites/default/files/Social%20Provisions%20Scale_0.pdf">
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <h2><a href="/page/sdq/19">Strengths and Difficulties Questionnaire (SDQ)</a></h2><h2>
+   </td>
    <td>
      The Strengths and Difficulties Questionnaire (SDQ) (Goodman, 1997) is a 30-item scale designed to measure child mental health, which encompasses conduct problems, emotional symptoms, hyperactivity, peer relationships, and prosocial behaviour. Different versions of the scales have been created which include a subset of the original 30 items.
    </td>
@@ -233,11 +312,21 @@ The Short Form 36 Health Survey (SF-36) (Ware, 1993) is a 36-item scale designed
   </tr>
   <tr>
    <td>
-<h2>
-<a href="/page/wemwbs/20">
-  Warwick-Edinburgh Mental Well-Being Scale (WEMWBS)</a>
-</h2><h2>
-   </h2></td>
+    <h2><a href="/page/uclals/30">UCLA Loneliness Scale</a></h2>
+   </td>
+   <td>
+     The UCLA Loneliness Scale (Russel, Peplau & Ferguson, 1978) is a 20-item scale designed to measure loneliness. Different versions have been created which include a subset of the original 20 items.
+   </td>
+   <td>
+    Russel, D., Peplau, L. A., &amp; Ferguson, M. L. (1978).  Developing a Measure of Loneliness. Journal of Personality Assessment, 42(3), 290-294. 
+    https://doi.org/10.1207/s15327752jpa4203_11
+    <a href="https://doi.org/10.1207/s15327752jpa4203_11">
+   </td>
+  </tr>
+     <tr>
+   <td>
+    <h2><a href="/page/wemwbs/20">Warwick-Edinburgh Mental Well-Being Scale (WEMWBS)</a></h2>
+   </td>
    <td>
   The Warwick-Edinburgh Mental Well-Being Scale (WEMWBS) (Tennant et al., 2006) is a 14-item scale designed to measure mental wellbeing, which encompasses positive affect, satisfying interpersonal relationships, and positive functioning. Different versions of the scale have been created which include a subset of the original 14 items.
    </td>
