@@ -49,12 +49,17 @@
             </td>
             <td>
                 <p>
-                    <strong>GHQ-28<sup>1</sup></strong> <strong></strong>
+                    <strong>GHQ-30<sup>1</sup></strong> <strong></strong>
                 </p>
             </td>
             <td>
                 <p>
-                    <strong>GHQ-12<sup>2</sup></strong> <strong></strong>
+                    <strong>GHQ-28<sup>2</sup></strong> <strong></strong>
+                </p>
+            </td>
+            <td>
+                <p>
+                    <strong>GHQ-12<sup>3</sup></strong> <strong></strong>
                 </p>
             </td>
         </tr> 
@@ -72,6 +77,10 @@
             <td>
                 <p>
                     ✓
+                </p>
+            </td>
+            <td>
+                <p>
                 </p>
             </td>
             <td>
@@ -100,6 +109,10 @@
             </td>
             <td>
                 <p>
+                </p>
+            </td>
+            <td>
+                <p>
                     ✓
                 </p>
             </td>
@@ -120,6 +133,10 @@
             <td>
                 <p>
                     ✓
+                </p>
+            </td>
+            <td>
+                <p>
                 </p>
             </td>
             <td>
@@ -148,6 +165,10 @@
             </td>
             <td>
                 <p>
+                </p>
+            </td>
+            <td>
+                <p>
                     ✓
                 </p>
             </td>
@@ -168,6 +189,10 @@
             <td>
                 <p>
                     ✓
+                </p>
+            </td>
+            <td>
+                <p>
                 </p>
             </td>
             <td>
@@ -196,6 +221,10 @@
             </td>
             <td>
                 <p>
+                </p>
+            </td>
+            <td>
+                <p>
                     ✓
                 </p>
             </td>
@@ -216,6 +245,11 @@
             <td>
                 <p>
                     ✓
+                </p>
+            </td>
+            <td>
+                <p>
+                     ✓
                 </p>
             </td>
             <td>
@@ -243,6 +277,10 @@
                 </p>
             </td>
             <td>
+                <p>
+                </p>
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -261,6 +299,10 @@
             <td>
                 <p>
                     ✓
+                </p>
+            </td>
+            <td>
+                <p>
                 </p>
             </td>
             <td>
@@ -288,6 +330,10 @@
                 </p>
             </td>
             <td>
+                <p>
+                </p>
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -309,6 +355,10 @@
                 </p>
             </td>
             <td>
+                <p>
+                </p>
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -322,6 +372,10 @@
             <td>
                 <p>
                     Sleep hasn't refreshed you
+                </p>
+            </td>
+            <td>
+                <p>
                 </p>
             </td>
             <td>
@@ -351,6 +405,10 @@
                 </p>
             </td>
             <td>
+                <p>
+                </p>
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -364,6 +422,11 @@
             <td>
                 <p>
                     Lost sleep over worry
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -399,6 +462,10 @@
                 </p>
             </td>
             <td>
+                <p>
+                </p>
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -417,6 +484,10 @@
             <td>
                 <p>
                     ✓
+                </p>
+            </td>
+            <td>
+                <p>
                 </p>
             </td>
             <td>
@@ -441,6 +512,10 @@
                 </p>
             </td>
             <td>
+                <p>
+                </p>
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -459,6 +534,10 @@
             <td>
                 <p>
                     ✓
+                </p>
+            </td>
+            <td>
+                <p>
                 </p>
             </td>
             <td>
@@ -486,6 +565,10 @@
                 </p>
             </td>
             <td>
+                <p>
+                </p>
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -499,6 +582,11 @@
             <td>
                 <p>
                     Restless disturbed nights
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -533,6 +621,11 @@
                 </p>
             </td>
             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
+            <td>
             </td>
         </tr>
         <tr>
@@ -549,6 +642,10 @@
             <td>
                 <p>
                     ✓
+                </p>
+            </td>
+            <td>
+                <p>
                 </p>
             </td>
             <td>
@@ -576,6 +673,10 @@
                 </p>
             </td>
             <td>
+                <p>
+                </p>
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -594,6 +695,10 @@
             <td>
                 <p>
                     ✓
+                </p>
+            </td>
+            <td>
+                <p>
                 </p>
             </td>
             <td>
@@ -618,6 +723,10 @@
                 </p>
             </td>
             <td>
+                <p>
+                </p>
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -639,6 +748,11 @@
                 </p>
             </td>
             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -652,6 +766,11 @@
             <td>
                 <p>
                     Managing as well as most    people
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -686,6 +805,11 @@
                 </p>
             </td>
             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
+            <td>
             </td>
         </tr>
         <tr>
@@ -705,6 +829,10 @@
                 </p>
             </td>
             <td>
+                <p>
+                </p>
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -718,6 +846,11 @@
             <td>
                 <p>
                     Satisfied way carried out task
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -750,6 +883,11 @@
                 </p>
             </td>
             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -763,6 +901,11 @@
             <td>
                 <p>
                     Easy to get on with others
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -792,6 +935,11 @@
                 </p>
             </td>
             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -813,6 +961,10 @@
                 </p>
             </td>
             <td>
+                <p>
+                </p>
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -826,6 +978,11 @@
             <td>
                 <p>
                     Playing a useful part
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -870,6 +1027,11 @@
                     ✓
                 </p>
             </td>
+            <td>
+                <p>
+                    ✓
+                </p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -885,6 +1047,10 @@
             <td>
                 <p>
                     ✓
+                </p>
+            </td>
+            <td>
+                <p>
                 </p>
             </td>
             <td>
@@ -909,6 +1075,10 @@
                 </p>
             </td>
             <td>
+                <p>
+                </p>
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -925,6 +1095,11 @@
                 </p>
             </td>
             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
+             <td>
                 <p>
                     ✓
                 </p>
@@ -956,6 +1131,11 @@
                     ✓
                 </p>
             </td>
+             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
             <td>
             </td>
             <td>
@@ -980,6 +1160,11 @@
                     ✓
                 </p>
             </td>
+             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
             <td>
             </td>
             <td>
@@ -997,6 +1182,11 @@
                 </p>
             </td>
             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
+             <td>
                 <p>
                     ✓
                 </p>
@@ -1028,6 +1218,11 @@
                     ✓
                 </p>
             </td>
+             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
             <td>
             </td>
             <td>
@@ -1047,6 +1242,10 @@
             <td>
                 <p>
                     ✓
+                </p>
+            </td>
+             <td>
+                <p>
                 </p>
             </td>
             <td>
@@ -1079,6 +1278,11 @@
                 </p>
             </td>
             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
+            <td>
             </td>
         </tr>
         <tr>
@@ -1090,6 +1294,11 @@
             <td>
                 <p>
                     Able to face up to problems
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -1127,6 +1336,11 @@
                 </p>
             </td>
             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
+            <td>
             </td>
         </tr>
         <tr>
@@ -1143,6 +1357,10 @@
             <td>
                 <p>
                     ✓
+                </p>
+            </td>
+            <td>
+                <p>
                 </p>
             </td>
             <td>
@@ -1167,6 +1385,11 @@
                 </p>
             </td>
             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
+            <td>
             </td>
             <td>
                 <p>
@@ -1183,6 +1406,11 @@
             <td>
                 <p>
                     Lacking confidence in    yourself
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -1224,6 +1452,11 @@
                     ✓
                 </p>
             </td>
+            <td>
+                <p>
+                    ✓
+                </p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -1234,6 +1467,11 @@
             <td>
                 <p>
                     Feel life is entirely hopeless
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -1266,6 +1504,11 @@
                 </p>
             </td>
             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -1279,6 +1522,11 @@
             <td>
                 <p>
                     Feeling reasonably happy
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -1316,6 +1564,11 @@
                 </p>
             </td>
             <td>
+                <p>
+                    ✓
+                </p>
+            </td>
+            <td>
             </td>
         </tr>
         <tr>
@@ -1327,6 +1580,11 @@
             <td>
                 <p>
                     Felt that life isn't worth living
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -1360,6 +1618,10 @@
             </td>
             <td>
                 <p>
+                </p>
+            </td>
+            <td>
+                <p>
                     ✓
                 </p>
             </td>
@@ -1375,6 +1637,11 @@
             <td>
                 <p>
                     Do little because nerves bad
+                </p>
+            </td>
+            <td>
+                <p>
+                    ✓
                 </p>
             </td>
             <td>
@@ -1408,6 +1675,10 @@
             </td>
             <td>
                 <p>
+                </p>
+            </td>
+            <td>
+                <p>
                     ✓
                 </p>
             </td>
@@ -1432,6 +1703,10 @@
             </td>
             <td>
                 <p>
+                </p>
+            </td>
+            <td>
+                <p>
                     ✓
                 </p>
             </td>
@@ -1442,6 +1717,15 @@
 </table>
 <p>
     <sup>1</sup>
+    <a href="https://doi.org/10.1192/bjp.155.2.178">
+        Huppert, F. A., Walters, D. E., Day, N., & Elliott J. B. (1989). 
+        The Factor Structure of the General Health Questionnaire (GHQ-30): A Reliability Study on 6317 Community Residents. 
+        British Journal of Psychiatry. 155(2):178-185. 
+        https://doi.org/10.1192/bjp.155.2.178
+    </a>
+</p>
+<p>
+    <sup>2</sup>
     <a href="https://doi.org/10.1017/s0033291700021644">
         Goldberg, D. P., &amp;  Hillier, V. F. (1979). A scaled version of  the
         general health  questionnaire. Psychological Medicine, 9(1), 139-45.
@@ -1449,7 +1733,7 @@
     </a>
 </p>
 <p>
-    <sup>2</sup>
+    <sup>3</sup>
     <a href="https://doi.org/10.1017/s0033291796004242">
         Goldberg, D. P., Gater, R.,  Sartorius, N., Ustun, T. B., Piccinelli,
         M., Gureje, O., &amp; Rutter, C.  (1997). The validity of two versions
@@ -1507,6 +1791,316 @@ Note this table is sortable.
         </tr>
         </thead><tbody>
         <tr>
+            <td>
+                <p>
+                    GHQ-30
+                </p>
+            </td>
+            <td>
+                <p>
+                    Whitehall II
+                </p>
+            </td>
+            <td>
+                <p>
+                    1985-1988
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/f6a18619-5288-45d3-990e-d4f4237458d9/1">
+                        Health Survey 1
+                    </a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/7f714c1b-493b-4a6d-8e7f-2ba4a867e980">
+                        Whitehall II Phase 1 Heath Survey Self-Completion Dataset
+                    </a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    GHQ-30
+                </p>
+            </td>
+            <td>
+                <p>
+                    Whitehall II
+                </p>
+            </td>
+            <td>
+                <p>
+                    1989-1990
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/ec7fc3d5-9b59-4a97-891a-9e5b9feb2010/1">
+                        Health Survey 2
+                    </a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/e5bbe65c-6929-4a38-9075-0012cb6525b1">
+                        Whitehall II Phase 2 Heath Survey Self-Completion Dataset
+                    </a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    GHQ-30
+                </p>
+            </td>
+            <td>
+                <p>
+                    Whitehall II
+                </p>
+            </td>
+            <td>
+                <p>
+                    1991-1994
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/9e84a177-9d31-4b97-ac46-4f54a5a5e714/1">
+                        Health Survey 3
+                    </a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/15bc3821-85ce-4c0a-ad07-a2877d91ba1d">
+                        Whitehall II Phase 3 Heath Survey Self-Completion Dataset
+                    </a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    GHQ-30
+                </p>
+            </td>
+            <td>
+                <p>
+                    Whitehall II
+                </p>
+            </td>
+            <td>
+                <p>
+                    1997-1999
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/92828f88-4aea-4593-9336-52992879905e/1">
+                        Health Survey 5
+                    </a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/561721a8-143c-4929-9f75-da5ec6d5ee49">
+                        Whitehall II Phase 5 Heath Survey Self-Completion Dataset
+                    </a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    GHQ-30
+                </p>
+            </td>
+            <td>
+                <p>
+                    Whitehall II
+                </p>
+            </td>
+            <td>
+                <p>
+                    2001
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/80871fb1-aa74-4297-9579-255296a9dfa2/1">
+                         Health Survey 6
+                    </a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/00f696fc-f362-4862-ae4c-2a438747502e">
+                        Whitehall II Phase 6 Heath Survey Self-Completion Dataset
+                    </a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    GHQ-30
+                </p>
+            </td>
+            <td>
+                <p>
+                    Whitehall II
+                </p>
+            </td>
+            <td>
+                <p>
+                    2002-2004
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/593b334c-3c75-4207-8021-6dd403bd545b/1">
+                      Health Survey 7  
+                    </a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/3316c6fd-f4e3-4b56-8f32-13d66ffbf76e">
+                        Whitehall II Phase 7 Heath Survey Self-Completion Dataset
+                    </a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    GHQ-30
+                </p>
+            </td>
+            <td>
+                <p>
+                    Whitehall II
+                </p>
+            </td>
+            <td>
+                <p>
+                    2006
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/5352774f-7dfa-461b-aa21-8154a67b60ed/1">
+                        Health Survey 8  
+                    </a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/9501a024-847b-445b-a30c-06764faa3fef">
+                        Whitehall II Phase 8 Heath Survey Self-Completion Dataset
+                    </a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    GHQ-30
+                </p>
+            </td>
+            <td>
+                <p>
+                    Whitehall II
+                </p>
+            </td>
+            <td>
+                <p>
+                    2007-2009
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/0cbfe917-937e-466c-b286-9d420ae2b51e/1">
+                        Health Survey 9
+                    </a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/0008d0eb-a490-4084-9b5f-1d32e196dbf2">
+                        Whitehall II Phase 9 Heath Survey Self-Completion Dataset
+                    </a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    GHQ-30
+                </p>
+            </td>
+            <td>
+                <p>
+                    Whitehall II
+                </p>
+            </td>
+            <td>
+                <p>
+                    2012-2013
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/e721a5c3-f0a3-483e-a50e-b587b13b79a4/1">
+                        Health Survey 11
+                    </a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/c6bb353f-779e-4633-b3e2-2e1b34fa4adf">
+                        Whitehall II Phase 11 Heath Survey Self-Completion Dataset
+                    </a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    GHQ-30
+                </p>
+            </td>
+            <td>
+                <p>
+                    Whitehall II
+                </p>
+            </td>
+            <td>
+                <p>
+                    2015-2016
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/538704c3-4b2f-421c-b5eb-5e4ea63c7333/1">
+                       Health Survey 12 
+                    </a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.whitehall2/8243eae0-1708-42f3-9bbb-63e0f6c8cf15">
+                        Whitehall II Phase 12 Heath Survey Self-Completion Dataset
+                    </a>
+                </p>
+            </td>
+        </tr>
+            <tr>
             <td>
                 <p>
                     GHQ-28
