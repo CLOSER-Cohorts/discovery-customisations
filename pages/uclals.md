@@ -8,10 +8,10 @@ UCLA Loneliness Scale
   the original 20 items.
 </p>
 <p>
-     Russel, D., Peplau, L. A., & Ferguson, M. L. (1978). 
+    <a href="https://doi.org/10.1207/s15327752jpa4203_11" target="_blank">
+      Russel, D., Peplau, L. A., & Ferguson, M. L. (1978). 
   Developing a Measure of Loneliness. Journal of Personality Assessment, 
   42(3), 290-294. https://doi.org/10.1207/s15327752jpa4203_11
-    <a href="https://doi.org/10.1207/s15327752jpa4203_11">
   </a>
 </p>
 <table border="1" cellspacing="0" cellpadding="0" width="95%">
