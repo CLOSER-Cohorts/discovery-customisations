@@ -617,6 +617,35 @@ Note this table is sortable.
                 </p>
             </td>
         </tr>
+                        <tr>
+            <td>
+                <p>
+                    Original 7-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    GenScot
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                        Rural COVID19 Survey 1
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/0a7106c9-5d1a-4e8c-9b18-953a0e336599">
+                       RuralCovidLife Survey 1 Dataset
+                    </a>
+                </p>
+            </td>
+        </tr>
         <tr>
             <td>
                 <p>
