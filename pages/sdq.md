@@ -982,7 +982,7 @@
             </td>
         </tr>
         <tr>
-            <td colspan="6">
+            <td colspan="7">
                 <p>
                     <strong>
                         Items    which are not included in the original version
@@ -1011,6 +1011,8 @@
                 <p>
                     ✓
                 </p>
+            </td>
+            <td>
             </td>
             <td>
             </td>
