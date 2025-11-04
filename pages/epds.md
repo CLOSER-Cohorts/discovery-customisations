@@ -886,12 +886,7 @@ Note this table is sortable.
           <td>
               <p>
                   <a href="https://discovery.closer.ac.uk/item/uk.wchads/4baaa879-deb5-4629-bb98-2f6b9e44160b">
-                      WCHADS
-                  </a>
-                  <a href="https://discovery.closer.ac.uk/item/uk.wchads/4baaa879-deb5-4629-bb98-2f6b9e44160b">Phase 
-                  07 Mother Questionnaire</a>
-                  <a href="https://discovery.closer.ac.uk/item/uk.wchads/4baaa879-deb5-4629-bb98-2f6b9e44160b">
-                      -    12 months
+                      WCHADS Phase 07 Mother Questionnaire-    12 months
                   </a>
               </p>
           </td>
@@ -992,6 +987,37 @@ Note this table is sortable.
               <p>
                   <a href="https://discovery.closer.ac.uk/item/uk.wchads/958a7eec-e1b1-4f35-9d71-d31d6a321bb0">
                       Phase    09 Mother Questionnaire Dataset
+                  </a>
+              </p>
+          </td>
+      </tr>
+                   <tr>
+          <td>
+              <p>
+                  Original    10-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                  WCHADS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2010-2012
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.wchads/0b24b6e9-c0ad-48f3-bf81-09e2db10d989/1">
+                      Phase 10 Mother Child Assessment - 42 months
+                  </a>
+              </p>
+          </td>
+          <td>
+              <p>
+                  <a href="https://discovery.closer.ac.uk/item/uk.wchads/1d13fc3b-5391-4820-a595-670cf0e4670a">
+                      Phase 10 Mother Questionnaire Dataset
                   </a>
               </p>
           </td>
