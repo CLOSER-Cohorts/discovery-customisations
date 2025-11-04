@@ -297,38 +297,6 @@
       <tr>
           <td>
               <p>
-                  16
-          </td>
-          <td>
-              <p>
-                  During the past week: I enjoyed life.
-              </p>
-          </td>
-          <td>
-              <p>
-                  ✓
-              </p>
-          </td>
-      </tr>
-      <tr>
-          <td>
-              <p>
-                  16
-          </td>
-          <td>
-              <p>
-                  During the past week: I enjoyed life.
-              </p>
-          </td>
-          <td>
-              <p>
-                  ✓
-              </p>
-          </td>
-      </tr>
-      <tr>
-          <td>
-              <p>
                   17
           </td>
           <td>
@@ -443,6 +411,60 @@ Note this table is sortable.
       </tr>
       </thead>
       <tbody>
+         <tr>
+          <td>
+              <p>
+                  Original 20-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                 WCHADS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2013-2014
+              </p>
+          </td>
+          <td>
+              <p>
+                    WCHADS Phase 11 and 12 Mother Questionnaire Child Pack school readiness               
+              </p>
+          </td>
+          <td>
+              <p>
+                  -
+              </p>
+          </td>
+      </tr>
+        <tr>
+          <td>
+              <p>
+                  Original 20-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                 WCHADS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2015-2017
+              </p>
+          </td>
+          <td>
+              <p>
+                    WCHADS Phase 13 Partner Questionnaire               
+              </p>
+          </td>
+          <td>
+              <p>
+                  Phase 13 Partner Questionnaire
+              </p>
+          </td>
+      </tr>
       <tr>
           <td>
               <p>
@@ -456,7 +478,7 @@ Note this table is sortable.
           </td>
           <td>
               <p>
-                  2013-14
+                  2013-2014
               </p>
           </td>
           <td>
