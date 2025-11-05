@@ -867,7 +867,7 @@ Note this table is sortable.
                 </p>
             </td>
         </tr>
-                        <tr>
+         <tr>
             <td>
                 <p>
                     Original    7-item version
@@ -880,7 +880,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    2021
                 </p>
             </td>
             <td>
