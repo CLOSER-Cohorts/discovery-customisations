@@ -565,7 +565,115 @@ Note this table is sortable.
                   </a>
               </p>
           </td>
-      </tr>  
+      </tr> 
+        <tr>
+          <td>
+              <p>
+                  Original 20-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                 WCHADS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2013-2014
+              </p>
+          </td>
+          <td>
+              <p>
+                 WCHADS Phase 11 Mother Child Assessment - 60 months              
+              </p>
+          </td>
+          <td>
+              <p>
+                  Phase 11 Mother Questionnaire Dataset
+              </p>
+          </td>
+      </tr>
+        <tr>
+          <td>
+              <p>
+                  Original 20-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                 WCHADS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2013-2014
+              </p>
+          </td>
+          <td>
+              <p>
+                    WCHADS Phase 12 Mother Questionnaire - 60 months             
+              </p>
+          </td>
+          <td>
+              <p>
+                    Phase 12 Mother Questionnaire Dataset
+              </p>
+          </td>
+      </tr>
+         <tr>
+          <td>
+              <p>
+                  Original 20-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                 WCHADS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2015-2017
+              </p>
+          </td>
+          <td>
+              <p>
+                    WCHADS Phase 13 Mother Questionnaire               
+              </p>
+          </td>
+          <td>
+              <p>
+                  Phase 13 Mother Questionnaire
+              </p>
+          </td>
+      </tr>
+        <tr>
+          <td>
+              <p>
+                  Original 20-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                 WCHADS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2015-2017
+              </p>
+          </td>
+          <td>
+              <p>
+                    WCHADS Phase 13 Partner Questionnaire               
+              </p>
+          </td>
+          <td>
+              <p>
+                  Phase 13 Partner Questionnaire
+              </p>
+          </td>
+      </tr>
       <tr>
           <td>
               <p>
@@ -659,86 +767,5 @@ Note this table is sortable.
               </p>
           </td>
       </tr> 
-        <tr>
-          <td>
-              <p>
-                  Original 20-item version
-              </p>
-          </td>
-          <td>
-              <p>
-                 WCHADS
-              </p>
-          </td>
-          <td>
-              <p>
-                  2013-2014
-              </p>
-          </td>
-          <td>
-              <p>
-                    WCHADS Phase 11 and 12 Mother Questionnaire Child Pack school readiness               
-              </p>
-          </td>
-          <td>
-              <p>
-                  -
-              </p>
-          </td>
-      </tr>
-         <tr>
-          <td>
-              <p>
-                  Original 20-item version
-              </p>
-          </td>
-          <td>
-              <p>
-                 WCHADS
-              </p>
-          </td>
-          <td>
-              <p>
-                  2015-2017
-              </p>
-          </td>
-          <td>
-              <p>
-                    WCHADS Phase 13 Mother Questionnaire               
-              </p>
-          </td>
-          <td>
-              <p>
-                  Phase 13 Mother Questionnaire
-              </p>
-          </td>
-      </tr>
-        <tr>
-          <td>
-              <p>
-                  Original 20-item version
-              </p>
-          </td>
-          <td>
-              <p>
-                 WCHADS
-              </p>
-          </td>
-          <td>
-              <p>
-                  2015-2017
-              </p>
-          </td>
-          <td>
-              <p>
-                    WCHADS Phase 13 Partner Questionnaire               
-              </p>
-          </td>
-          <td>
-              <p>
-                  Phase 13 Partner Questionnaire
-              </p>
-          </td>
-      </tr>
       </tbody>
 </table>
