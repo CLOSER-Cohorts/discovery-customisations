@@ -367,6 +367,155 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
+                    GenScot
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/e3bc1c06-3a6f-49ec-9358-c11d40ef97ea">
+                        Generation Scotland COVID19 Survey 1
+                    </a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/7bee4eaf-e593-477b-a3cb-623638971fa1">
+                    CovidLife Survey 1 Dataset
+                    </a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    Original    9-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    GenScot
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/de350ed5-35ba-424f-bc8b-7d56b9305bd0">
+                        Generation Scotland COVID19 Survey 2
+                    </a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/c09a8aef-7ed5-4080-9e3d-4629e3e94c06">
+                    CovidLife Survey 2 Dataset
+                    </a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    Original    9-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    GenScot
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                        Rural COVID19 Survey 1
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/0a7106c9-5d1a-4e8c-9b18-953a0e336599">
+                    Rural COVID19 Survey 1
+                    </a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    Original    9-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    GenScot
+                </p>
+            </td>
+            <td>
+                <p>
+                    2021
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/5e542b04-f145-4cb0-9e33-cbc9dcb52f14">
+                         Generation Scotland COVID19 Survey 3
+                    </a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/3a4763be-3cbf-485b-8103-d24f462ff4b1">
+                     COVIDLIfe Survey 3 Dataset
+                    </a>
+                </p>
+            </td>
+        </tr>
+            <tr>
+            <td>
+                <p>
+                    Original    9-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    GenScot
+                </p>
+            </td>
+            <td>
+                <p>
+                    2022
+                </p>
+            </td>
+            <td>
+                <p>
+                         NGS Mental Health Questionnaire 16 Plus
+                </p>
+            </td>
+            <td>
+                <p>
+                         NGS Mental Health 16 Plus Dataset
+                </p>
+            </td>
+        </tr>
+            <tr>
+            <td>
+                <p>
+                    Original    9-item version
+                </p>
+            </td>
+            <td>
+                <p>
                     WCHADS
                 </p>
             </td>
@@ -524,128 +673,6 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    9-item version
-                </p>
-            </td>
-            <td>
-                <p>
-                    GenScot
-                </p>
-            </td>
-            <td>
-                <p>
-                    2020
-                </p>
-            </td>
-            <td>
-                <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/e3bc1c06-3a6f-49ec-9358-c11d40ef97ea">
-                        Generation Scotland COVID19 Survey 1
-                    </a>
-                </p>
-            </td>
-            <td>
-                <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/7bee4eaf-e593-477b-a3cb-623638971fa1">
-                    CovidLife Survey 1 Dataset
-                    </a>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p>
-                    Original    9-item version
-                </p>
-            </td>
-            <td>
-                <p>
-                    GenScot
-                </p>
-            </td>
-            <td>
-                <p>
-                    2020
-                </p>
-            </td>
-            <td>
-                <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/de350ed5-35ba-424f-bc8b-7d56b9305bd0">
-                        Generation Scotland COVID19 Survey 2
-                    </a>
-                </p>
-            </td>
-            <td>
-                <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/c09a8aef-7ed5-4080-9e3d-4629e3e94c06">
-                    CovidLife Survey 2 Dataset
-                    </a>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p>
-                    Original    9-item version
-                </p>
-            </td>
-            <td>
-                <p>
-                    GenScot
-                </p>
-            </td>
-            <td>
-                <p>
-                    2020
-                </p>
-            </td>
-            <td>
-                <p>
-                        Rural COVID19 Survey 1
-                </p>
-            </td>
-            <td>
-                <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/0a7106c9-5d1a-4e8c-9b18-953a0e336599">
-                    Rural COVID19 Survey 1
-                    </a>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p>
-                    Original    9-item version
-                </p>
-            </td>
-            <td>
-                <p>
-                    GenScot
-                </p>
-            </td>
-            <td>
-                <p>
-                    2021
-                </p>
-            </td>
-            <td>
-                <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/5e542b04-f145-4cb0-9e33-cbc9dcb52f14">
-                         Generation Scotland COVID19 Survey 3
-                    </a>
-                </p>
-            </td>
-            <td>
-                <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.genscot/3a4763be-3cbf-485b-8103-d24f462ff4b1">
-                     COVIDLIfe Survey 3 Dataset
-                    </a>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p>
                     8-item version
                 </p>
             </td>
@@ -667,33 +694,6 @@ Note this table is sortable.
             <td>
                 <p>
                          NGS Mental Health 12-15 Dataset
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p>
-                    Original    9-item version
-                </p>
-            </td>
-            <td>
-                <p>
-                    GenScot
-                </p>
-            </td>
-            <td>
-                <p>
-                    2022
-                </p>
-            </td>
-            <td>
-                <p>
-                         NGS Mental Health Questionnaire 16 Plus
-                </p>
-            </td>
-            <td>
-                <p>
-                         NGS Mental Health 16 Plus Dataset
                 </p>
             </td>
         </tr>
