@@ -620,6 +620,33 @@ Note this table is sortable.
               </p>
           </td>
       </tr>
+        <tr>
+          <td>
+              <p>
+                  Original 20-item version
+              </p>
+          </td>
+          <td>
+              <p>
+                 WCHADS
+              </p>
+          </td>
+          <td>
+              <p>
+                  2015-2017
+              </p>
+          </td>
+          <td>
+              <p>
+                    WCHADS Phase 13 Mother Interview/Child Assessment              
+              </p>
+          </td>
+          <td>
+              <p>
+                  Phase 13 Mother Interview/child assessment
+              </p>
+          </td>
+      </tr>
          <tr>
           <td>
               <p>
