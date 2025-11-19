@@ -8,10 +8,10 @@
     include a subset of the original 60 items.
 </p>
 <p>
-    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1700485/pdf/brmedj02289-0013.pdf">
+    <a href="https://doi.org/10.1136%2Fbmj.2.5707.439">
         Goldberg, D. P., &amp; Blackwell, B. (1970).  Psychiatric Illness in
         General Practice. A Detailed Study Using a New Method of  Case
-        Identification. British Medical Journal 2, 439-443. 10.1136/bmj.2.5707.439. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1700485/pdf/brmedj02289-0013.pdf
+        Identification. British Medical Journal 2, 439-443. https://doi.org/10.1136%2Fbmj.2.5707.439
     </a>
 </p>
 <table border="1" cellspacing="0" cellpadding="0" width="95%">
