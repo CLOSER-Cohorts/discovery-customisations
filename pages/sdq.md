@@ -2118,6 +2118,34 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
+                    2015-2017
+                </p>
+            </td>
+            <td>
+                <p>
+                    WCHADS    Phase 13 Mother Extensive Questionnaire
+                </p>
+            </td>
+            <td>
+                <p>
+                    WCHADS Phase 13 Mother Questionnaire 
+                    (Extensive Sample Only)
+                </p>
+            </td>
+        </tr>
+         <tr>
+            <td>
+                <p>
+                    Original    25-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    WCHADS
+                </p>
+            </td>
+            <td>
+                <p>
                     2017-2019
                 </p>
             </td>
@@ -2131,7 +2159,7 @@ Note this table is sortable.
                     Phase 14 Partner Questionnaire Dataset
                 </p>
             </td>
-        </tr>
+        </tr>               
         <tr>
             <td>
                 <p>
