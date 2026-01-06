@@ -557,7 +557,141 @@ Note this table is sortable.
                 </p>
             </td>
         </tr>
-        <tr>
+            <tr>
+            <td>
+                <p>
+                    Original    7-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2017
+                </p>
+            </td>
+            <td>
+                <p>
+                    Growing Up Adult Survey
+                </p>
+            </td>
+            <td>
+                <p>
+                    -
+                </p>
+            </td>
+        </tr>
+            <tr>
+            <td>
+                <p>
+                    Original    7-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    Breathes Air Quality Survey Phase 1
+                </p>
+            </td>
+            <td>
+                <p>
+                    -
+                </p>
+            </td>
+        </tr>
+            <tr>
+            <td>
+                <p>
+                    Original    7-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    COVID-19 Questionnaire
+                </p>
+            </td>
+            <td>
+                <p>
+                    -
+                </p>
+            </td>
+        </tr>
+            <tr>
+            <td>
+                <p>
+                    Original    7-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    COVID-19 Adult Growing Up Phase 2
+                </p>
+            </td>
+            <td>
+                <p>
+                    -
+                </p>
+            </td>
+        </tr><tr>
+            <td>
+                <p>
+                    Original    7-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    COVID-19 Adult Growing Up Phase 3
+                </p>
+            </td>
+            <td>
+                <p>
+                    -
+                </p>
+            </td>
+        </tr>
+             <tr>
             <td>
                 <p>
                     Original 7-item version
