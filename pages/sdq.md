@@ -1512,16 +1512,14 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/9d28bd51-c1c5-4d67-93e6-48a10a8a9c24">
+                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/c2b0c756-a2a6-495f-adbc-3c9b3dcc04b7/1">
                         MCS    Age 11 Teacher Paper Questionnaire England
                     </a>
                 </p>
             </td>
             <td>
                 <p>
-                    <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/66947430-970f-461a-b2c7-ca7a1c1b003f">
                         MCS5    Teacher Survey Dataset
-                    </a>
                 </p>
             </td>
         </tr>
