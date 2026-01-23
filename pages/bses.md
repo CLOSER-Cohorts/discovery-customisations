@@ -406,7 +406,7 @@
           </td>
           <td>
               <p>
-                  I can usually solve my own problems.
+                  All in all, I am inclined to feel I am a failure.
               </p>
           </td>
           <td>
