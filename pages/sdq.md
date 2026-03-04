@@ -1,6 +1,7 @@
-<h1>
+<h1><b>
     Strengths and  Difficulties Questionnaire (SDQ)
-</h1>
+</b></h1>
+<p></p>
 <p>
     The Strengths and Difficulties  Questionnaire (SDQ) (Goodman, 1997) is a
     30-item scale designed to measure  child mental health, which encompasses
@@ -1455,13 +1456,13 @@ Note this table is sortable.
             <td>
                 <p>
                         NGS Mental Health Questionnaire 12to15
-                    </a>
+                    
                 </p>
             </td>
             <td>
                 <p>
                         NGS Mental Health Questionnaire 12to15
-                    </a>
+                    
                 </p>
             </td>
         </tr>
@@ -1598,14 +1599,14 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/bda8d135-0386-4a9e-931c-97737ac071ec">
                         COVID-19    Questionnaire for offspring
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/bda8d135-0386-4a9e-931c-97737ac071ec">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/9873004b-f598-4324-a6c1-46480449a1b0">
                         COVID-19 Questionnaire for Offspring Dataset
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/9873004b-f598-4324-a6c1-46480449a1b0">
+            </a></td>
         </tr>
         <tr>
             <td>
@@ -1750,8 +1751,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/726c812d-87ed-467d-aa8c-668670a9713b">
                         Wave    4 Questionnaire
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/726c812d-87ed-467d-aa8c-668670a9713b">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/93fd3c76-37f0-4787-a0db-1d25bb18382a">
@@ -1938,8 +1939,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/b7fafd1a-4626-48eb-ad9f-e817d26fbe48">
                         COVID-19 Wave 8 Information about respondents' school age children Dataset
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/b7fafd1a-4626-48eb-ad9f-e817d26fbe48">
+            </a></td>
         </tr>
         <tr>
             <td>
@@ -2323,8 +2324,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/470b335b-dd6f-4a4a-99c5-e5b4e9dc653c">
                         3    Year Child Questionnaire
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/470b335b-dd6f-4a4a-99c5-e5b4e9dc653c">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/f1f6411d-fd15-481a-a0df-f693403212be">
