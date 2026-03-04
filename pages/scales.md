@@ -1,6 +1,7 @@
-<h1>
+<h1><b>
  Standardised scales
-</h1>
+</b></h1>
+<p></p>
 <p>
  Standardised scales (often interchangeably referred to as summated scales or
  validated instruments) are a collection of related questions that measure an
