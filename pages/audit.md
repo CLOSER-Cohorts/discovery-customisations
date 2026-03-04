@@ -1,6 +1,7 @@
-<h1>
+<h1><b>
     Alcohol Use  Disorders Identification Test (AUDIT)
-</h1>
+</b></h1>
+<p></p>
 <p>
     The Alcohol Use Disorders Identification  Test (AUDIT) (Saunders et al.,
     1993) is a 10-item scale designed to measure  hazardous or harmful alcohol
@@ -831,7 +832,7 @@ Note this table is sortable.
             <td>
                 <p>
                     NGS Mental Health Questionnaire 16 Plus
-                    </a>
+                    
                 </p>
             </td>
         </tr>
@@ -1213,8 +1214,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/fac586ef-eece-45aa-97c9-7e21ac162e03">
                         BCS70    Age 50 COVID-19 Survey Wave 3
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/fac586ef-eece-45aa-97c9-7e21ac162e03">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/a5c70ea7-3511-4209-9e27-ca27b29d179a">
@@ -1244,8 +1245,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/ca4a42ec-ee29-4265-ac07-0d6240c7a4d7/1">
                         MCS    Age 20 Cohort Member COVID-19 Survey - Wave 3
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/ca4a42ec-ee29-4265-ac07-0d6240c7a4d7/1">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/659bcddb-c5ac-45d9-be13-bf7e126650e1">
@@ -1275,8 +1276,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/3a11a325-09b6-418c-9f58-883d47ad9e3e/1">
                         MCS    Age 20 Parent COVID-19 Survey - Wave 3
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/3a11a325-09b6-418c-9f58-883d47ad9e3e/1">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/316dcb9c-bac9-489a-9c08-d7cf01374d22">
@@ -1306,8 +1307,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/04bbf473-bab3-4209-bacc-b2c431cee12c">
                         NCDS    Age 62 COVID-19 Survey - Wave 3
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/04bbf473-bab3-4209-bacc-b2c431cee12c">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/8fd891ab-8fc1-4577-8224-d19236cfa5bc">
@@ -1337,8 +1338,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/82b7a6c9-47ea-4ee5-98fb-4cd5958c4076">
                         Next    Steps Age 30 COVID-19 Survey - Wave 3
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/82b7a6c9-47ea-4ee5-98fb-4cd5958c4076">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/c8b37c1e-563d-4d39-9afe-1d2785f1ee75">
@@ -1395,8 +1396,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/f10d92d8-896b-45c6-92cf-a8374d1f4a40">
                         WCHADS    Phase 01 Mother Questionnaire - 20 wk scan
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.wchads/f10d92d8-896b-45c6-92cf-a8374d1f4a40">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/d49cf7b6-dd89-46fa-8c37-42677db80f70">
@@ -1485,8 +1486,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/26c98b00-c1bf-4d31-ae76-e5e5ce92598f">
                         NCDS    Age 50 CAI Questionnaire
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/26c98b00-c1bf-4d31-ae76-e5e5ce92598f">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/fb01db70-0880-4975-8bdb-fca7ebdf06cf">
@@ -1765,8 +1766,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/83ab13bb-90e6-40fe-8741-16cf36400450">
                         Next    Steps Age 30 COVID-19 Survey - Wave 1
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/83ab13bb-90e6-40fe-8741-16cf36400450">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/e5275302-bb6a-47c9-a029-eea9822c7fa9">
@@ -2012,14 +2013,14 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/bda8d135-0386-4a9e-931c-97737ac071ec">
                         SWS    COVID-19 Questionnaire for offspring
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/bda8d135-0386-4a9e-931c-97737ac071ec">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/9873004b-f598-4324-a6c1-46480449a1b0">
                         COVID-19 Questionnaire for Offspring Dataset  
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/9873004b-f598-4324-a6c1-46480449a1b0">
+            </a></td>
         </tr>
         <tr>
             <td>
@@ -2041,14 +2042,14 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/c373c2b5-a6f6-4fba-9199-e243e801cc7b">
                         SWS    COVID-19 Questionnaire for women
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/c373c2b5-a6f6-4fba-9199-e243e801cc7b">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/8142add4-4377-4885-a439-d8a463b38eff">
                         COVID-19 Questionnaire for Women Dataset
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/8142add4-4377-4885-a439-d8a463b38eff">
+            </a></td>
         </tr>
     </tbody>
 </table>
