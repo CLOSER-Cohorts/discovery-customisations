@@ -1,6 +1,7 @@
-<h1>
+<h1><b>
     Mood and Feelings  questionnaire (MFQ)
-</h1>
+</b></h1>
+<p></p>
 <p>
     The Mood and Feelings Questionnaire  (MFQ) (Angold et al., 1987) is a
     34-item scale designed to measure childhood  and adolescent depression,
@@ -1662,8 +1663,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/83542309-c728-4a1a-b4f0-b6fe302770c5">
                         Cohort    Member COVID-19 Questionnaire 1
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.alspac/83542309-c728-4a1a-b4f0-b6fe302770c5">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/a3a8958c-b99c-43d8-906f-817c73c234b8">
