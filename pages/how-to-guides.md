@@ -1,7 +1,7 @@
 <div class="row">
   <div class="col-sm-8">
 
-<h1>How-to guides</h1>
+<h1><b>How-to guides</b></h1>
 <p></p>
 <p>Our CLOSER Discovery how-to guides provide step-by-step instructions to help users find their way around the website. Please also refer to the FAQs page <a href="/page/faqs/4#searching">How to search</a> for advanced search options.</p>
 
@@ -39,7 +39,7 @@
     <li class="active"><a href="/page/how-to-guides/6">How-to guides</a></li>
     <li><a href="/page/faqs/4">Frequently Asked Questions</a></li>
     <li><a href="/page/content/2">Study coverage</a></li>
-    <li><a href="/page/genetics/5">Genetic array data summary</a></li>
+ <li><a href="/page/fair/31">FAIR infrastructure</a></li>
   </ul>
 </div>
 </div>
