@@ -1,12 +1,13 @@
-<h1>
+<h1><b>
 Nowicki-Strickland Locus Of Control Scale For Children
-</h1>
+</b></h1>
+<p></p>
 <p>
-  The Nowicki-Strickland Locus Of Control Scale For Children (Nowicki & Stricklandm, 1973) is a 40-item scale designed to measure locus of control. Different versions of the scale have been created which include a subset of the original 40 items.
+  The Nowicki-Strickland Locus Of Control Scale For Children (Nowicki &amp; Stricklandm, 1973) is a 40-item scale designed to measure locus of control. Different versions of the scale have been created which include a subset of the original 40 items.
 </p>
 <p>
   <a href="https://doi.org/10.1037/h0033978">   
-  Nowicki, S., & Strickland, B. R. (1973). A locus of control scale for children. Journal of Consulting and Clinical Psychology, 40(1), 148–154. https://doi.org/10.1037/h0033978
+  Nowicki, S., &amp; Strickland, B. R. (1973). A locus of control scale for children. Journal of Consulting and Clinical Psychology, 40(1), 148–154. https://doi.org/10.1037/h0033978
   </a>
 </p>
 <table border="1" cellspacing="0" cellpadding="0" width="95%">
@@ -77,7 +78,7 @@ Nowicki-Strickland Locus Of Control Scale For Children
               <p>
               </p>
           </td>
-        <tr>
+        </tr><tr>
           <td>
               <p>
                   2
