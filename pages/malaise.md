@@ -1,6 +1,7 @@
-<h1>
+<h1><b>
     Malaise Inventory
-</h1>
+</b></h1>
+<p></p>
 <p>
     The Malaise Inventory (Rutter et al.,  1970) is a 24-item scale designed to
     measure psychological distress. Different  versions of the scale have been
@@ -948,8 +949,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/f860d058-c22f-453e-9b85-6709b576b4bf">
                         BCS70 Age 16 Student Test - Attitudinal Scales (1986) Dataset
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/f860d058-c22f-453e-9b85-6709b576b4bf">
+            </a></td>
         </tr>
         <tr>
             <td>
@@ -971,8 +972,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/26c98b00-c1bf-4d31-ae76-e5e5ce92598f">
                         NCDS    Age 50 CAI Questionnaire
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/26c98b00-c1bf-4d31-ae76-e5e5ce92598f">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/fb01db70-0880-4975-8bdb-fca7ebdf06cf">
@@ -1062,8 +1063,8 @@ Note this table is sortable.
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/48268304-100b-4ab7-ba89-4327d253e480">
                         BCS70    Age 46 Biomedical Sweep: Self Completion
                     Questionnaire
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/48268304-100b-4ab7-ba89-4327d253e480">
+            </a></td>
             <td>
                 <p>
                     BCS70 Paper Self Completion (2016) Dataset
