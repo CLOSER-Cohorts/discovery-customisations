@@ -1,6 +1,7 @@
-<h1>
-Rosenberg Self-Esteem Scale (RSE)
+<h1><b>
+Rosenberg Self-Esteem Scale (RSE)</b>
 </h1>
+<p></p>
 <p>
   The Rosenberg Self-Esteem Scale (RSE) (Rosenberg, 1965) is a 10-item scale designed to measure self-esteem. 
   Different versions have been created which include a subset of the original 10 items.
@@ -207,7 +208,7 @@ Rosenberg Self-Esteem Scale (RSE)
                 ✓
               </p>
           </td>
-      <tr>
+      </tr><tr>
           <td>
               <p>
                   5
