@@ -1,15 +1,16 @@
-<h1>
-UCLA Loneliness Scale
+<h1><b>
+UCLA Loneliness Scale</b>
 </h1>
+<p></p>
 <p>
-  The UCLA Loneliness Scale (Russel, Peplau & Ferguson, 1978) is a 20-item 
+  The UCLA Loneliness Scale (Russel, Peplau &amp; Ferguson, 1978) is a 20-item 
   scale designed to measure loneliness. 
   Different versions have been created which include a subset of 
   the original 20 items.
 </p>
 <p>
     <a href="https://doi.org/10.1207/s15327752jpa4203_11" target="_blank">
-      Russel, D., Peplau, L. A., & Ferguson, M. L. (1978). 
+      Russel, D., Peplau, L. A., &amp; Ferguson, M. L. (1978). 
   Developing a Measure of Loneliness. Journal of Personality Assessment, 
   42(3), 290-294. https://doi.org/10.1207/s15327752jpa4203_11
   </a>
