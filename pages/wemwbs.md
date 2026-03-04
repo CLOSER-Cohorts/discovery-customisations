@@ -1,6 +1,7 @@
-<h1>
-    Warwick-Edinburgh  Mental Well-Being Scale (WEMWBS)
+<h1><b>
+    Warwick-Edinburgh  Mental Well-Being Scale (WEMWBS)</b>
 </h1>
+<p></p>
 <p>
     The Warwick-Edinburgh Mental Well-Being Scale (WEMWBS) (Tennant et al.,
     2006) is a 14-item scale designed to measure mental wellbeing, which
@@ -482,8 +483,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/83542309-c728-4a1a-b4f0-b6fe302770c5">
                         Cohort Member COVID-19 Questionnaire 1
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.alspac/83542309-c728-4a1a-b4f0-b6fe302770c5">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/a3a8958c-b99c-43d8-906f-817c73c234b8">
@@ -605,8 +606,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/a8fa19cb-3c3f-4777-853e-edf5b0093ada">
                         Parent COVID-19 Questionnaire 4
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.alspac/a8fa19cb-3c3f-4777-853e-edf5b0093ada">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/5f0683d1-e35c-4fdf-a841-a88d7fddd53f">
@@ -718,8 +719,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/48268304-100b-4ab7-ba89-4327d253e480">
                         BCS70 Age 46 Biomedical Sweep: Self Completion Questionnaire
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/48268304-100b-4ab7-ba89-4327d253e480">
+            </a></td>
             <td>
                 <p>
                     BCS70 Paper Self Completion (2016) Dataset
@@ -870,14 +871,14 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.heaf/cc2caba6-5892-4c63-90c0-ade18638e1e2">
                         HEAF Follow-Up 4
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.heaf/cc2caba6-5892-4c63-90c0-ade18638e1e2">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.heaf/bf7a1d52-f5b7-431c-bc22-2de9ec8d5f38">
                         HEAF Follow-up 4 Dataset
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.heaf/bf7a1d52-f5b7-431c-bc22-2de9ec8d5f38">
+            </a></td>
         </tr>
         <tr>
             <td>
@@ -899,14 +900,14 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/bda8d135-0386-4a9e-931c-97737ac071ec">
                         COVID-19 Questionnaire for offspring
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/bda8d135-0386-4a9e-931c-97737ac071ec">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/9873004b-f598-4324-a6c1-46480449a1b0">
                         COVID-19 Questionnaire for Offspring Dataset
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/9873004b-f598-4324-a6c1-46480449a1b0">
+            </a></td>
         </tr>
         <tr>
             <td>
@@ -1019,8 +1020,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.genscot/e3bc1c06-3a6f-49ec-9358-c11d40ef97ea">
                         Generation Scotland COVID19 Survey 1
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.genscot/e3bc1c06-3a6f-49ec-9358-c11d40ef97ea">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.genscot/7bee4eaf-e593-477b-a3cb-623638971fa1">
@@ -1049,8 +1050,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.genscot/de350ed5-35ba-424f-bc8b-7d56b9305bd0">
                         Generation Scotland COVID19 Survey 2
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.genscot/de350ed5-35ba-424f-bc8b-7d56b9305bd0">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.genscot/c09a8aef-7ed5-4080-9e3d-4629e3e94c06">
@@ -1079,8 +1080,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.genscot/5e542b04-f145-4cb0-9e33-cbc9dcb52f14">
                         Generation Scotland COVID19 Survey 3
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.genscot/5e542b04-f145-4cb0-9e33-cbc9dcb52f14">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.genscot/3a4763be-3cbf-485b-8103-d24f462ff4b1">
@@ -1091,9 +1092,9 @@ Note this table is sortable.
         </tr>
         <tr>
             <td>
-                </p>
+                <p></p>
                     7-item version
-                </p>
+                <p></p>
             </td>
             <td>
                 <p>
@@ -1138,7 +1139,7 @@ Note this table is sortable.
                       MCS Age 20 Cohort Member COVID-19 Survey - Wave 2
                   </a>
               </p>
-                </p>
+                <p></p>
             </td>
             <td>
                 <p>
@@ -1232,8 +1233,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/726c812d-87ed-467d-aa8c-668670a9713b">
                         Wave 4 Questionnaire
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/726c812d-87ed-467d-aa8c-668670a9713b">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/dfdb0fbf-f7c8-49e3-aacb-a6f370fa9cae">
