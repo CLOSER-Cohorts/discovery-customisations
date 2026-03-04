@@ -1,6 +1,7 @@
 <h1>
-    Patient Health  Questionnaire (PHQ-9)
+    <b>Patient Health  Questionnaire (PHQ-9)</b>
 </h1>
+<p></p>
 <p>
     The Patient Health Questionnaire (PHQ-9)  (Kroenke et al., 2001) is a 9-item
     scale designed to measure depression  severity. Different versions of the
@@ -781,8 +782,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/fac586ef-eece-45aa-97c9-7e21ac162e03">
                         BCS70    Age 50 COVID-19 Survey - Wave 3
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/fac586ef-eece-45aa-97c9-7e21ac162e03">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/a5c70ea7-3511-4209-9e27-ca27b29d179a">
@@ -844,8 +845,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/60e57d51-45ef-4ecf-952a-58daf9be4611/1">
                         MCS    Age 20 Cohort Member COVID-19 Survey - Wave 2
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/60e57d51-45ef-4ecf-952a-58daf9be4611/1">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/b5ac1699-e65e-4b76-be0d-49137ed7802b">
@@ -939,8 +940,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/ca4a42ec-ee29-4265-ac07-0d6240c7a4d7/1">
                         MCS    Age 20 Cohort Member COVID-19 Survey - Wave 3
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/ca4a42ec-ee29-4265-ac07-0d6240c7a4d7/1">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/659bcddb-c5ac-45d9-be13-bf7e126650e1">
@@ -970,8 +971,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/3a11a325-09b6-418c-9f58-883d47ad9e3e/1">
                         MCS    Age 20 Parent COVID-19 Survey - Wave 3
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/3a11a325-09b6-418c-9f58-883d47ad9e3e/1">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/316dcb9c-bac9-489a-9c08-d7cf01374d22">
@@ -1065,8 +1066,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/04bbf473-bab3-4209-bacc-b2c431cee12c">
                         NCDS    Age 62 COVID-19 Survey - Wave 3
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/04bbf473-bab3-4209-bacc-b2c431cee12c">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/8fd891ab-8fc1-4577-8224-d19236cfa5bc">
@@ -1096,8 +1097,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/83ab13bb-90e6-40fe-8741-16cf36400450">
                         Next    Steps Age 30 COVID-19 Survey - Wave 1
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/83ab13bb-90e6-40fe-8741-16cf36400450">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/e5275302-bb6a-47c9-a029-eea9822c7fa9">
@@ -1159,8 +1160,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/82b7a6c9-47ea-4ee5-98fb-4cd5958c4076">
                         Next    Steps Age 30 COVID-19 Survey - Wave 3
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/82b7a6c9-47ea-4ee5-98fb-4cd5958c4076">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/c8b37c1e-563d-4d39-9afe-1d2785f1ee75">
