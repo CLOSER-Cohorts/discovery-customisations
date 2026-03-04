@@ -1,12 +1,13 @@
-<h1>
+<h1><b>
   Kessler Psychological Distress Scale (K10, K6)
-</h1>
+</b></h1>
+<p></p>
 <p>
   The Kessler Psychological Distress Scale (Kessler et al., 2002) a scale designed to measure non-specific psychological distress. 
   The scale has two original versions, one with 10 items (K10) and one with 6 items (K6). Other non-original versions of the scale have been created which include a subset of the original 10 items.
 </p>
 <p>
-  Kessler, R. C., Andrews, G., Colpe, L. J., Hiripi, E., Mroczek, D. K., Normand, S. L. T., Walters, E. E., & Zaslavsky, A. M. (2002). Short screening scales to monitor population prevalences and trends in non-specific psychological distress. Psychological Medicine, 32(6), 959–976. 
+  Kessler, R. C., Andrews, G., Colpe, L. J., Hiripi, E., Mroczek, D. K., Normand, S. L. T., Walters, E. E., &amp; Zaslavsky, A. M. (2002). Short screening scales to monitor population prevalences and trends in non-specific psychological distress. Psychological Medicine, 32(6), 959–976. 
       <a href="https://doi.org/10.1017/S0033291702006074">https://doi.org/10.1017/S0033291702006074</a>
 </p>
 <table border="1" cellspacing="0" cellpadding="0" width="95%">
@@ -564,7 +565,7 @@ Note this table is sortable.
                       MCS Age 20 Cohort Member COVID-19 Survey - Wave 2
                   </a>
               </p>                
-              </p>
+              <p></p>
           </td>
           <td>
               <p>
@@ -572,7 +573,7 @@ Note this table is sortable.
                       MCS Cohort Member COVID-19 Survey in Five National Longitudinal Cohort Studies (2020) Wave 2 Dataset
                   </a>
               </p>
-              </p>
+              <p></p>
           </td>
         </tr>
         <tr>
