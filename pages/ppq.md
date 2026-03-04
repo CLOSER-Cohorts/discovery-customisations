@@ -1,12 +1,12 @@
-<h1>
-  Parenting Practices Questionnaire
-</h1>
+<h1><b>
+  Parenting Practices Questionnaire</b></h1>
+<p></p>
 <p>
   The Parenting Practices Questionnaire (Robinson et at., 1995), formerly known as Parenting Practices Questionnaire, is a 62-item scale designed to measure parenting style. 
   Different versions of the scale have been created which include a subset of the original 62 items.
 </p>
 <p>
-  Robinson, C. C., Mandeco, B., Olsen, S. F., & Hart, C. H. (1995). Authoritative, authoritarian, and permissive parenting practices: Development of a new measure. Psychological Reports, 77, 819-830. 
+  Robinson, C. C., Mandeco, B., Olsen, S. F., &amp; Hart, C. H. (1995). Authoritative, authoritarian, and permissive parenting practices: Development of a new measure. Psychological Reports, 77, 819-830. 
       <a href="https://doi.org/10.2466/pr0.1995.77.3.819">https://doi.org/10.2466/pr0.1995.77.3.819</a>
 </p>
 <table border="1" cellspacing="0" cellpadding="0" width="95%">
@@ -227,7 +227,7 @@
           </td>
           <td>
           </td>
-     <tr>
+     </tr><tr>
           <td>
               <p>
                   10
@@ -603,7 +603,7 @@
           <td>
               <p>
                   28
-          </td>
+          </p></td>
           <td>
               <p>
               [He punishes][I punish] by putting our child off somewhere alone with little if any explanation.
@@ -624,7 +624,7 @@
           <td>
               <p>
                   29
-          </td>
+          </p></td>
           <td>
               <p>
               [He helps][I help] our child to understand the impact of behavior by encouraging our child to talk about the consequences of own actions.
@@ -641,12 +641,12 @@
               </p>
           </td>
       </tr>    
-      </tr>
+      
        <tr>
           <td>
               <p>
                   30
-          </td>
+          </p></td>
           <td>
               <p>
               [He is][I am] afraid that disciplining our child for misbehavior will cause the child to not like his/her parents.
@@ -664,7 +664,7 @@
           <td>
               <p>
                   31
-          </td>
+          </p></td>
           <td>
               <p>
               [He takes][I take] our child's desires into account before asking the child to do something.
@@ -685,7 +685,7 @@
           <td>
               <p>
                   32
-          </td>
+          </p></td>
           <td>
               <p>
              [He explodes][I explode] in anger towards our child.
@@ -706,7 +706,7 @@
           <td>
               <p>
                   33
-          </td>
+          </p></td>
           <td>
               <p>
             [He is][I am] aware of problems or concerns about our child in school.
@@ -724,7 +724,7 @@
           <td>
               <p>
                   34
-          </td>
+          </p></td>
           <td>
               <p>
             [He threatens][I threaten] our child with punishment more often than actually giving it.
@@ -745,7 +745,7 @@
           <td>
               <p>
                   35
-          </td>
+          </p></td>
           <td>
               <p>
            [He expresses][I express] affection by hugging, kissing, and holding our child.
@@ -763,7 +763,7 @@
           <td>
               <p>
                   36
-          </td>
+          </p></td>
           <td>
               <p>
            [He ignores][I ignore] our child's misbehaviour.
@@ -781,7 +781,7 @@
           <td>
               <p>
                   37
-          </td>
+          </p></td>
           <td>
               <p>
            [He uses][I use] physical punishment as a way of disciplining our child.
@@ -802,7 +802,7 @@
           <td>
               <p>
                   38
-          </td>
+          </p></td>
           <td>
               <p>
            [He carries][I carry] out discipline after our child misbehaves.
@@ -820,7 +820,7 @@
           <td>
               <p>
                   39
-          </td>
+          </p></td>
           <td>
               <p>
            [He apologizes][I apologize] to our child when making a mistake in parenting
@@ -838,7 +838,7 @@
           <td>
               <p>
                   40
-          </td>
+          </p></td>
           <td>
               <p>
            [He tells][I tell] our child what to do.
@@ -856,7 +856,7 @@
           <td>
               <p>
                   41
-          </td>
+          </p></td>
           <td>
               <p>
            [He gives][I give] into our child when the child causes a commotion about something.
@@ -877,7 +877,7 @@
           <td>
               <p>
                   42
-          </td>
+          </p></td>
           <td>
               <p>
            [He talks it over and reasons][I talk it over and reason] with our child when the child misbehaves..
@@ -895,7 +895,7 @@
           <td>
               <p>
                   43
-          </td>
+          </p></td>
           <td>
               <p>
            [He slaps][I slap] our child when the child misbehaves.
@@ -916,7 +916,7 @@
           <td>
               <p>
                   44
-          </td>
+          </p></td>
           <td>
               <p>
                [He disagrees][I disagree] with our child.
@@ -934,7 +934,7 @@
           <td>
               <p>
                   45
-          </td>
+          </p></td>
           <td>
               <p>
                [He allows][I allow] our child to interrupt others.
@@ -952,7 +952,7 @@
           <td>
               <p>
                   46
-          </td>
+          </p></td>
           <td>
               <p>
                [He has][I have] warm and intimate times together with our child. 
@@ -973,7 +973,7 @@
           <td>
               <p>
                   47
-          </td>
+          </p></td>
           <td>
               <p>
                When two children are fighting, [he disciplines][I discipline] the children first and asks questions later.
@@ -991,7 +991,7 @@
           <td>
               <p>
                   48
-          </td>
+          </p></td>
           <td>
               <p>
                [He encourages][I encourage] our child to freely express (himself)(herself) even when disagreeing with parents.
@@ -1012,7 +1012,7 @@
           <td>
               <p>
                   49
-          </td>
+          </p></td>
           <td>
               <p>
                [He bribes][I bribe] our child with rewards to bring about compliance.
@@ -1030,7 +1030,7 @@
           <td>
               <p>
                   50
-          </td>
+          </p></td>
           <td>
               <p>
                [He scolds or criticizes][I scold or criticize] when our child's behavior doesn't meet our expectations.
@@ -1051,7 +1051,7 @@
           <td>
               <p>
                   51
-          </td>
+          </p></td>
           <td>
               <p>
               [He shows][I show] respect for our child's opinions by encouraging our child to express them.
@@ -1072,7 +1072,7 @@
           <td>
               <p>
                   52
-          </td>
+          </p></td>
           <td>
               <p>
               He sets][I set] strict well-established rules for our child.
@@ -1090,7 +1090,7 @@
           <td>
               <p>
                   53
-          </td>
+          </p></td>
           <td>
               <p>
               [He explains][I explain] to our child how we feel about  the child's good and bad behavior.
@@ -1111,7 +1111,7 @@
           <td>
               <p>
                   54
-          </td>
+          </p></td>
           <td>
               <p>
              [He uses][I use] threats as punishment with little or no justification.
@@ -1132,7 +1132,7 @@
           <td>
               <p>
                   55
-          </td>
+          </p></td>
           <td>
               <p>
              [He takes][I take] into account our child's preferences in making plans for the family.
@@ -1153,7 +1153,7 @@
           <td>
               <p>
                   56
-          </td>
+          </p></td>
           <td>
               <p>
              When our child  asks why (he)(she) has to conform, [he states][I state]: because I said so, or I am your parent and I want you to.
@@ -1174,7 +1174,7 @@
           <td>
               <p>
                   57
-          </td>
+          </p></td>
           <td>
               <p>
              [He appears][I appear] unsure on how to solve our child's misbehavior.
@@ -1192,7 +1192,7 @@
           <td>
               <p>
                   58
-          </td>
+          </p></td>
           <td>
               <p>
              [He explains][I explain] the consequences of the child's behavior.
@@ -1213,7 +1213,7 @@
           <td>
               <p>
                   59
-          </td>
+          </p></td>
           <td>
               <p>
              [He demands][I demand] that our child does/do things.
@@ -1231,7 +1231,7 @@
           <td>
               <p>
                   60
-          </td>
+          </p></td>
           <td>
               <p>
             [He channels][I channel] our child's misbehavior into a more acceptable activity.
@@ -1249,7 +1249,7 @@
           <td>
               <p>
                   61
-          </td>
+          </p></td>
           <td>
               <p>
             [He shoves][I shove] our child when the child is disobedient.
@@ -1267,7 +1267,7 @@
           <td>
               <p>
                   62
-          </td>
+          </p></td>
           <td>
               <p>
             [He emphasizes][I emphasize] the reasons for rules.
