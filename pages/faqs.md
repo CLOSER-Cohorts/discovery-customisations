@@ -19,12 +19,13 @@
 
 
 <h3><b>Which studies are included in CLOSER Discovery?</b></h3>
-The 11 studies included in CLOSER Discovery are listed below. Not all of the information you need may be included in Discovery yet, so for an up-to-date list of what data collection questionnaires from each study are currently included in CLOSER Discovery, please visit our <a href="/page/content/2">Study coverage page</a>.
+The 13 studies included in CLOSER Discovery are listed below. Not all of the information you need may be included in Discovery yet, so for an up-to-date list of what data collection questionnaires from each study are currently included in CLOSER Discovery, please visit our <a href="/page/content/2">Study coverage page</a>.
 <p></p>
 
 <ul>
 <li><a href="https://www.closer.ac.uk/study/alspac-children-90s/" target="_blank" rel="noopener noreferrer">Avon Longitudinal Study of Parents and Children</a></li>
 <li><a href="https://www.closer.ac.uk/study/1970-british-cohort-study/" target="_blank" rel="noopener noreferrer">1970 British Cohort Study</a></li>
+<li><a href="https://closer.ac.uk/study/generation-scotland/" rel="noopener noreferrer">Generation Scotland</a></li>
 <li><a href="https://www.closer.ac.uk/study/health-and-employment-after-fifty/" target="_blank" rel="noopener noreferrer">Health and Employment After Fifty Study</a></li>
 <li><a href="https://www.closer.ac.uk/study/hertfordshire-cohort-study/" target="_blank" rel="noopener noreferrer">Hertfordshire Cohort Study</a></li>
 <li><a href="https://www.closer.ac.uk/study/millennium-cohort-study/" target="_blank" rel="noopener noreferrer">Millennium Cohort Study</a></li>
@@ -33,8 +34,10 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 <li><a href="https://www.closer.ac.uk/study/next-steps/" target="_blank" rel="noopener noreferrer">Next Steps</a></li>
 <li><a href="https://www.closer.ac.uk/study/southampton-womens-survey/" target="_blank" rel="noopener noreferrer">Southampton Women's Survey</a></li>
 <li><a href="https://www.closer.ac.uk/study/understanding-society/" target="_blank" rel="noopener noreferrer">Understanding Society: The UK Household Longitudinal Study</a></li>
+<li><a href="https://closer.ac.uk/study/whitehall-ii-study/" rel="noopener noreferrer">Whitehall II</a></li>
 <li><a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" rel="noopener noreferrer">Wirral Child Health and Development Study</a></li>
 </ul>
+
 <p></p>
 <h3><b>Why doesn't CLOSER Discovery hold study data?</b></h3>
 <p>Data access arrangements are managed by the individual studies or the UK Data Service. There are two main reasons why CLOSER Discovery does not hold study data:</p>
@@ -49,7 +52,7 @@ The 11 studies included in CLOSER Discovery are listed below. Not all of the inf
 
 
 <h3><b>Does CLOSER Discovery include information on genetic data?</b></h3>
-<p>Most genetic data isn't documented within CLOSER Discovery yet, and so cannot be searched. In the interim, there is a summary table of the genetic data available for each study on the <a href="/page/genetic">Genetic array data summary</a>. </p>
+<p>Most genetic data isn't documented within CLOSER Discovery yet, and so cannot be searched. In the interim, there is a summary table of the genetic data available for each study on the <a href="/page/genetic/5">Genetic array data summary</a>. </p>
 
 <h3><b>What does CLOSER Discovery offer that isn't already provided by the UK Data Service?</b></h3>
 <p>The datasets accessible via the UK Data Service are large and important resources for research. There are three key features that CLOSER Discovery can help with when working with these:</p>
@@ -195,7 +198,10 @@ CLOSER Discovery contains the derived variable lineage, but not the derivation m
 
 
 <h3><b>What is metadata?</b></h3>
-<p>Metadata is, simply put, data about data. It gives the data context. It describes, for example, when a given data collection wave took place and who conducted it. It describes the coverage of the data. It describes the exact questions asked and how they fit into an overall data collection questionnaire.</p>
+<p>Metadata is, simply put, data about data. It gives the data context. It describes, for example, when a given data collection wave took place and who conducted it. It describes the coverage of the data. It describes the exact questions asked and how they fit into an overall data collection questionnaire. Metadata and metadata standards allow CLOSER Discovery to meet the FAIR principles. If you would like to read more about how Discovery aligns with, and implements the FAIR principles, please refer to the <a href="/page/fair/31">FAIR infrastructure page</a>.</p>
+
+
+
 <h3><b>Why do researchers need metadata?</b></h3>
 <p>Using data without its metadata is like reading a long, complicated book with the index and glossary removed. You have most of the information you need, but not all of it. It's harder to navigate. You have the terminology, but without the definitions. You have the data, but not the context to make it useable.</p>
 <h3><b>Can I use the metadata available on CLOSER discovery?</b></h3>
@@ -219,9 +225,10 @@ CLOSER Discovery contains the derived variable lineage, but not the derivation m
     <li><a href="/page/how-to-guides/6">How-to guides</a></li>
     <li class="active"> <a href="/page/faqs/4">Frequently Asked Questions</a></li>
     <li><a href="/page/content/2">Study coverage</a></li>
-    <li><a href="/page/genetics/5">Genetic array data summary</a></li>
+    <li><a href="/page/fair/31">FAIR infrastructure</a></li>
   </ul>
 </div>
 </div>
+
 
 
