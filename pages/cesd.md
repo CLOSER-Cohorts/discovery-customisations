@@ -1,6 +1,7 @@
-<h1>
+<h1><b>
   The Center for Epidemiologic Studies Depression Scale (CES-D)
-</h1>
+</b></h1>
+<p></p>
 <p>
      The Center for Epidemiologic Studies Depression Scale (CES-D) (Radloff, 1977) is a 20-item scale designed to measure Depressive symptoms. 
      Different versions of the scale have been created which include a subset of the original 20 items.
@@ -58,7 +59,7 @@
           <td>
               <p>
                   2
-          </td>
+          </p></td>
           <td>
               <p>
                   During the past week: I did not feel like eating; my appetite was poor.
@@ -74,7 +75,7 @@
           <td>
               <p>
                   3
-          </td>
+          </p></td>
           <td>
               <p>
                   During the past week: I felt that I could not shake off the blues even with help from my family or friends.
@@ -90,7 +91,7 @@
           <td>
               <p>
                   4
-          </td>
+          </p></td>
           <td>
               <p>
                   During the past week: I felt that I was just as good as other people.
@@ -106,7 +107,7 @@
           <td>
               <p>
                   5
-          </td>
+          </p></td>
           <td>
               <p>
                   During the past week: I had trouble keeping my mind on what I was doing.
@@ -122,7 +123,7 @@
           <td>
               <p>
                   6
-          </td>
+          </p></td>
           <td>
               <p>
                   During the past week: I felt depressed.
@@ -138,7 +139,7 @@
           <td>
               <p>
                   7
-          </td>
+          </p></td>
           <td>
               <p>
                   During the past week: I felt that everything I did was an effort. 
@@ -154,7 +155,7 @@
           <td>
               <p>
                   8
-          </td>
+          </p></td>
           <td>
               <p>
                   During the past week: I felt hopeful about the future.
@@ -170,7 +171,7 @@
           <td>
               <p>
                   9
-          </td>
+          </p></td>
           <td>
               <p>
                   During the past week: I thought my life had been a failure.
@@ -186,7 +187,7 @@
           <td>
               <p>
                   10
-          </td>
+          </p></td>
           <td>
               <p>
                   During the past week: I felt fearful.
@@ -202,7 +203,7 @@
           <td>
               <p>
                   11
-          </td>
+          </p></td>
           <td>
               <p>
                   During the past week: My sleep was restless.
@@ -218,7 +219,7 @@
           <td>
               <p>
                   12
-          </td>
+          </p></td>
           <td>
               <p>
                   During the past week: I was happy.
@@ -234,7 +235,7 @@
           <td>
               <p>
                   13
-          </td>
+          </p></td>
           <td>
               <p>
                   During the past week: I talked less than usual.
@@ -250,7 +251,7 @@
           <td>
               <p>
                   14
-          </td>
+          </p></td>
           <td>
               <p>
                  During the past week: I felt lonely.
@@ -266,7 +267,7 @@
           <td>
               <p>
                   15
-          </td>
+          </p></td>
           <td>
               <p>
                   During the past week: People were unfriendly.
@@ -282,7 +283,7 @@
           <td>
               <p>
                   16
-          </td>
+          </p></td>
           <td>
               <p>
                   During the past week: I enjoyed life.
@@ -298,7 +299,7 @@
           <td>
               <p>
                   17
-          </td>
+          </p></td>
           <td>
               <p>
                   During the past week: I had crying spells.
@@ -314,7 +315,7 @@
           <td>
               <p>
                   18
-          </td>
+          </p></td>
           <td>
               <p>
                  During the past week: I felt sad.
@@ -330,7 +331,7 @@
           <td>
               <p>
                   19
-          </td>
+          </p></td>
           <td>
               <p>
                  During the past week: I felt that people dislike me. 
@@ -346,7 +347,7 @@
           <td>
               <p>
                   20
-          </td>
+          </p></td>
           <td>
               <p>
                  During the past week: I could not get "going".
