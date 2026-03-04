@@ -1,12 +1,13 @@
-<h1>
+<h1><b>
   CASP-19
-</h1>
+</b></h1>
+<p></p>
 <p>
   CASP-19 (Hyde et al., 2003) is a 19-item scale designed to measure quality of life, encompassing control, autonomy, pleasure, and self-realization. 
   Different versions of the scale have been created which include a subset of the original 19 items.
 </p>
 <p>
-      Hyde, M., Wiggins, R. D., Higgs, P., & Blane, D. B (2003). A measure of quality of life in early old age: The theory, development and properties of a needs satisfaction model (CASP-19). Aging & Mental Health, 7(3), 186-194.
+      Hyde, M., Wiggins, R. D., Higgs, P., &amp; Blane, D. B (2003). A measure of quality of life in early old age: The theory, development and properties of a needs satisfaction model (CASP-19). Aging &amp; Mental Health, 7(3), 186-194.
       <a href="https://doi.org/10.1080/1360786031000101157">https://doi.org/10.1080/1360786031000101157</a>
 </p>
 <table border="1" cellspacing="0" cellpadding="0" width="95%">
