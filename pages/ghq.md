@@ -1,6 +1,7 @@
-<h1>
+<h1><b>
     General Health  Questionnaire (GHQ)
-</h1>
+</b></h1>
+<p></p>
 <p>
     The General Health Questionnaire (GHQ)  (Goldberg &amp; Blackwell, 1970) is
     a 60-item scale designed to measure  non-psychotic psychiatric
@@ -1718,7 +1719,7 @@
 <p>
     <sup>1</sup>
     <a href="https://doi.org/10.1192/bjp.155.2.178">
-        Huppert, F. A., Walters, D. E., Day, N., & Elliott J. B. (1989). 
+        Huppert, F. A., Walters, D. E., Day, N., &amp; Elliott J. B. (1989). 
         The Factor Structure of the General Health Questionnaire (GHQ-30): A Reliability Study on 6317 Community Residents. 
         British Journal of Psychiatry. 155(2):178-185. 
         https://doi.org/10.1192/bjp.155.2.178
@@ -2108,33 +2109,6 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    BiB
-                </p>
-            </td>
-            <td>
-                <p>
-                    2007
-                </p>
-            </td>
-            <td>
-                <p>
-                Mothers' Baseline Questionnaire
-                </p>
-            </td>
-            <td>
-                <p>
-                    -
-                </p>
-            </td>
-        </tr>
-            <tr>
-            <td>
-                <p>
-                    GHQ-28
-                </p>
-            </td>
-            <td>
-                <p>
                     NSHD
                 </p>
             </td>
@@ -2381,8 +2355,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/83ab13bb-90e6-40fe-8741-16cf36400450">
                         Next    Steps Age 30 COVID-19 Survey - Wave 1
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/83ab13bb-90e6-40fe-8741-16cf36400450">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/e5275302-bb6a-47c9-a029-eea9822c7fa9">
@@ -2444,8 +2418,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/82b7a6c9-47ea-4ee5-98fb-4cd5958c4076">
                         Next Steps Age 30 COVID-19    Survey - Wave 3
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/82b7a6c9-47ea-4ee5-98fb-4cd5958c4076">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/c8b37c1e-563d-4d39-9afe-1d2785f1ee75">
@@ -2560,14 +2534,14 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/c373c2b5-a6f6-4fba-9199-e243e801cc7b">
                         COVID-19 Questionnaire for women
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/c373c2b5-a6f6-4fba-9199-e243e801cc7b">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/8142add4-4377-4885-a439-d8a463b38eff">
                         COVID-19 Questionnaire for Women Dataset
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/8142add4-4377-4885-a439-d8a463b38eff">
+            </a></td>
         </tr>
         <tr>
             <td>
@@ -2651,8 +2625,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/726c812d-87ed-467d-aa8c-668670a9713b">
                         Wave    4 Questionnaire
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/726c812d-87ed-467d-aa8c-668670a9713b">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/dfdb0fbf-f7c8-49e3-aacb-a6f370fa9cae">
@@ -2896,8 +2870,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/f10d92d8-896b-45c6-92cf-a8374d1f4a40">
                         WCHADS    Phase 01 Mother Questionnaire - 20 wk scan
-                </p>
-            </td>
+                </a></p><a href="https://discovery.closer.ac.uk/item/uk.wchads/f10d92d8-896b-45c6-92cf-a8374d1f4a40">
+            </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/d49cf7b6-dd89-46fa-8c37-42677db80f70">
