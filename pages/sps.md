@@ -1,11 +1,12 @@
-<h1>
-Social Provisions Scale (SPS)
+<h1><b>
+Social Provisions Scale (SPS)</b>
 </h1>
+<p></p>
 <p>
-  The Social Provisions Scale (SPS) (Cutrona & Russell, 1987) is a 24-item scale designed to measure social provision, which encompasses attachment, social integration, reassurance of worth, reliable alliance, guidance, and opportunity for nurturance. Different versions of the scale have been created which include a subset of the original 24 items.
+  The Social Provisions Scale (SPS) (Cutrona &amp; Russell, 1987) is a 24-item scale designed to measure social provision, which encompasses attachment, social integration, reassurance of worth, reliable alliance, guidance, and opportunity for nurturance. Different versions of the scale have been created which include a subset of the original 24 items.
 </p>
 <p>
-       Cutrona, C. E., & Russel, D. W. (1987). The provisions of social relationships and adaptation to stress. Advances in personal relationships, 1(1),37-67. http://depts.washington.edu/uwcssc/sites/default/files/hw00/d40/uwcssc/sites/default/files/Social%20Provisions%20Scale_0.pdf
+       Cutrona, C. E., &amp; Russel, D. W. (1987). The provisions of social relationships and adaptation to stress. Advances in personal relationships, 1(1),37-67. http://depts.washington.edu/uwcssc/sites/default/files/hw00/d40/uwcssc/sites/default/files/Social%20Provisions%20Scale_0.pdf
     <a href="http://depts.washington.edu/uwcssc/sites/default/files/hw00/d40/uwcssc/sites/default/files/Social%20Provisions%20Scale_0.pdf">
   </a>
 </p>
@@ -47,7 +48,7 @@ Social Provisions Scale (SPS)
                   <strong>3-item version</strong>
               </p>
           </td>
-      <tr>
+      </tr><tr>
           <td>
               <p>
                   1
@@ -581,7 +582,7 @@ Social Provisions Scale (SPS)
                  ✓
               </p>
           </td>
-        <tr>
+        </tr><tr>
           <td>
               <p>
                   26
@@ -599,7 +600,7 @@ Social Provisions Scale (SPS)
                  ✓
               </p>
           </td>
-  </tbody>
+  </tr></tbody>
 </table>
 <h2>
   Use  of this scale in CLOSER Discovery study questionnaires and datasets
@@ -758,7 +759,7 @@ Note this table is sortable.
                       MCS Age 20 Cohort Member COVID-19 Survey - Wave 2
                   </a>
               </p>
-              </p>
+              <p></p>
           </td>
           <td>
               <p>
