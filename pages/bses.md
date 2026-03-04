@@ -1,6 +1,7 @@
 <h1>
-  Bachman Self-Esteem Scale (BSES)
+ <b> Bachman Self-Esteem Scale (BSES) </b>
 </h1>
+<p></p>
 <p>
   The Bachman Self-Esteem Scale (Bachman, 1970) is a 10-item scale designed to measure self-esteem. 
   Different versions of the scale have been created which include a subset of the original 10 items
@@ -766,14 +767,14 @@ Note this table is sortable.
               <p>
                   <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/726c812d-87ed-467d-aa8c-668670a9713b">
                     Wave 4 Main Questionnaire
-              </p>
-          </td>
+              </a></p><a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/726c812d-87ed-467d-aa8c-668670a9713b">
+          </a></td>
           <td>
               <p>
                  <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/dfdb0fbf-f7c8-49e3-aacb-a6f370fa9cae">
                     Wave 4 Data from the individual interview Dataset
-              </p>
-          </td>
+              </a></p><a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/dfdb0fbf-f7c8-49e3-aacb-a6f370fa9cae">
+          </a></td>
       </tr>
   </tbody>
 </table>
