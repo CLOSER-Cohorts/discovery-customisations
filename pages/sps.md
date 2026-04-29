@@ -6,9 +6,7 @@ Social Provisions Scale (SPS)</b>
   The Social Provisions Scale (SPS) (Cutrona &amp; Russell, 1987) is a 24-item scale designed to measure social provision, which encompasses attachment, social integration, reassurance of worth, reliable alliance, guidance, and opportunity for nurturance. Different versions of the scale have been created which include a subset of the original 24 items.
 </p>
 <p>
-       Cutrona, C. E., &amp; Russel, D. W. (1987). The provisions of social relationships and adaptation to stress. Advances in personal relationships, 1(1),37-67. http://depts.washington.edu/uwcssc/sites/default/files/hw00/d40/uwcssc/sites/default/files/Social%20Provisions%20Scale_0.pdf
-    <a href="http://depts.washington.edu/uwcssc/sites/default/files/hw00/d40/uwcssc/sites/default/files/Social%20Provisions%20Scale_0.pdf">
-  </a>
+       Cutrona, C. E., &amp; Russel, D. W. (1987). The provisions of social relationships and adaptation to stress. Advances in personal relationships, 1(1),37-67.
 </p>
 <table border="1" cellspacing="0" cellpadding="0" width="95%">
   <colgroup>
