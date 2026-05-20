@@ -12,22 +12,24 @@
 <p><a href="https://www.youtube.com/embed/i3Cku4Uglpk?si=DvxsVjoSWl5d9iT5" target="_blank">How to explore by topic</a></p>
 <p>This short video shows how you can explore, filter and add an item to a list.</p>
 
-<p><a href="../uploads/DiscoveryHowtoGuide_FilterbyLifeStageGuide.pdf" target="_blank">How do I find variables from similar life stage across different studies?</a></p>
+<hr>
+
+<p><a href="../../uploads/DiscoveryHowtoGuide_FilterbyLifeStageGuide.pdf" target="_blank">How do I find variables from similar life stage across different studies?</a></p>
 <p>This guide explains how researchers can use CLOSER Discovery to search for cross-study cross-sectional data, such as asthma in early childhood across all studies.</p>
 
 
-<p><a href="../uploads/DiscoveryHowtoGuide_ExplorebyTopicGuide.pdf" target="_blank">How do I find variables related to a particular topic?</a></p>
+<p><a href="../../uploads/DiscoveryHowtoGuide_ExplorebyTopicGuide.pdf" target="_blank">How do I find variables related to a particular topic?</a></p>
 <p>This guide shows how to use CLOSER Discovery to explore within a topic, for example, discover how to find variables related to politics in mid-adulthood.</p>
 
-<p><a href="../uploads/DiscoveryHowtoGuide_FilterbyStudyGuide.pdf" target="_blank">How do I find information about a variable from a particular study?</a></p>
+<p><a href="../../uploads/DiscoveryHowtoGuide_FilterbyStudyGuide.pdf" target="_blank">How do I find information about a variable from a particular study?</a></p>
 <p>This guide shows how to use CLOSER Discovery to explore within-study cross sectional data, for example discover how to find information on anxiety in the National Child Development Study.</p>
 
 
-<p><a href="../uploads/DiscoveryHowtoGuide_QuestionnairesGuide.pdf" target="_blank">How do I find a question asked in the original questionnaire which relates to a variable?</a></p>
+<p><a href="../../uploads/DiscoveryHowtoGuide_QuestionnairesGuide.pdf" target="_blank">How do I find a question asked in the original questionnaire which relates to a variable?</a></p>
 <p>This set of instructions demonstrate how CLOSER Discovery can be used to find information about a source question and the wider questionnaire, for instance search the questions used to measure alcohol intake in the CLOSER studies.</p>
 
 
-<p><a href="../uploads/DiscoveryHowtoGuide_CompilingListGuide.pdf" target="_blank">How do I compile and save a list of variables?</a></p>
+<p><a href="../../uploads/DiscoveryHowtoGuide_CompilingListGuide.pdf" target="_blank">How do I compile and save a list of variables?</a></p>
 <p>These step-by-step instructions explain how users can create and save lists in CLOSER Discovery for example how to compile and export a list of the diabetes-related variables collected by the Southampton Women’s Survey.</p>
 
 </div>
