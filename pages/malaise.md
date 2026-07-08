@@ -49,12 +49,12 @@
             </td>
             <td>
                 <p>
-                    <strong>22-item scale</strong>
+                    <strong>BCS 22-item scale</strong>
                 </p>
             </td>
             <td>
                 <p>
-                    <strong>9-item scale</strong>
+                    <strong>CLS 9-item scale</strong>
                 </p>
             </td>
         </tr>
@@ -927,7 +927,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    22-item    scale
+                  BCS  22-item    scale
                 </p>
             </td>
             <td>
@@ -955,7 +955,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    9-item    scale
+                 CLS   9-item    scale
                 </p>
             </td>
             <td>
@@ -985,7 +985,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    9-item    scale
+                 CLS   9-item    scale
                 </p>
             </td>
             <td>
@@ -1014,7 +1014,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    9-item    scale
+                  CLS  9-item    scale
                 </p>
             </td>
             <td>
@@ -1045,7 +1045,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    9-item    scale
+                  CLS  9-item    scale
                 </p>
             </td>
             <td>
@@ -1074,7 +1074,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    9-item    scale
+                  CLS  9-item    scale
                 </p>
             </td>
             <td>
@@ -1106,7 +1106,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    9-item    scale
+                  CLS  9-item    scale
                 </p>
             </td>
             <td>
@@ -1138,7 +1138,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    9-item    scale
+                  CLS  9-item    scale
                 </p>
             </td>
             <td>
@@ -1169,7 +1169,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    9-item    scale
+                  CLS  9-item    scale
                 </p>
             </td>
             <td>
@@ -1201,7 +1201,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    9-item    scale
+                   CLS 9-item    scale
                 </p>
             </td>
             <td>
