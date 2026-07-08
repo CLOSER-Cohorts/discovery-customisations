@@ -45,12 +45,12 @@
           </td>
           <td>
               <p>
-                  <strong>11-item version</strong>
+                  <strong>ALSPAC 11-item version</strong>
               </p>
           </td>
           <td>
               <p>
-                  <strong>8-item version</strong>
+                  <strong>USoc 8-item version</strong>
               </p>
           </td>
       </tr>
@@ -506,7 +506,7 @@ Note this table is sortable.
         <tr>
           <td>
               <p>
-                  11-item version
+                ALSPAC  11-item version
               </p>
           </td>
           <td>
@@ -537,7 +537,7 @@ Note this table is sortable.
       <tr>
           <td>
               <p>
-                  11-item version
+                ALSPAC  11-item version
               </p>
           </td>
           <td>
@@ -568,7 +568,7 @@ Note this table is sortable.
       <tr>
           <td>
               <p>
-                  11-item version
+                ALSPAC  11-item version
               </p>
           </td>
           <td>
@@ -599,7 +599,7 @@ Note this table is sortable.
       <tr>
           <td>
               <p>
-                  11-item version
+                 ALSPAC 11-item version
               </p>
           </td>
           <td>
@@ -630,7 +630,7 @@ Note this table is sortable.
       <tr>
           <td>
               <p>
-                  11-item version
+                 ALSPAC 11-item version
               </p>
           </td>
           <td>
@@ -661,7 +661,7 @@ Note this table is sortable.
       <tr>
           <td>
               <p>
-                  11-item version
+                 ALSPAC 11-item version
               </p>
           </td>
           <td>
@@ -692,7 +692,7 @@ Note this table is sortable.
       <tr>
           <td>
               <p>
-                  11-item version
+                 ALSPAC 11-item version
               </p>
           </td>
           <td>
@@ -723,7 +723,7 @@ Note this table is sortable.
       <tr>
           <td>
               <p>
-                  11-item version
+                 ALSPAC 11-item version
               </p>
           </td>
           <td>
@@ -750,7 +750,7 @@ Note this table is sortable.
       <tr>
           <td>
               <p>
-                  8-item version
+                 USoc 8-item version
               </p>
           </td>
           <td>
