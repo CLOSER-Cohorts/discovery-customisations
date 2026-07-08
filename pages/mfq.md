@@ -63,12 +63,12 @@
             </td>
             <td>
                 <p align="center">
-                    <strong>18-item version</strong>
+                    <strong>ALSPAC 18-item version</strong>
                 </p>
             </td>
             <td>
                 <p align="center">
-                    <strong>17-item version</strong>
+                    <strong>ALSPAC 17-item version</strong>
                 </p>
             </td>
             <td>
@@ -1310,7 +1310,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    18-item    version
+                    ALSPAC 18-item    version
                 </p>
             </td>
             <td>
@@ -1339,7 +1339,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    18-item    version
+                  ALSPAC  18-item    version
                 </p>
             </td>
             <td>
@@ -1368,7 +1368,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    17-item    version
+                  ALSPAC  17-item    version
                 </p>
             </td>
             <td>
@@ -1399,7 +1399,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    17-item    version
+                  ALSPAC  17-item    version
                 </p>
             </td>
             <td>
@@ -1432,7 +1432,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    17-item    version
+                  ALSPAC  17-item    version
                 </p>
             </td>
             <td>
