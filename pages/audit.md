@@ -48,7 +48,7 @@
             </td>
             <td>
                 <p>
-                    <strong>3-item version</strong>
+                    <strong>CLS 3-item version</strong>
                 </p>
             </td>
             <td>
@@ -832,7 +832,6 @@ Note this table is sortable.
             <td>
                 <p>
                     NGS Mental Health Questionnaire 16 Plus
-                    
                 </p>
             </td>
         </tr>
@@ -1197,7 +1196,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    3-item    version
+                   CLS 3-item    version
                 </p>
             </td>
             <td>
@@ -1228,7 +1227,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    3-item    version
+                  CLS  3-item    version
                 </p>
             </td>
             <td>
@@ -1259,7 +1258,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    3-item    version
+                  CLS  3-item    version
                 </p>
             </td>
             <td>
@@ -1290,7 +1289,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    3-item    version
+                  CLS  3-item    version
                 </p>
             </td>
             <td>
@@ -1321,7 +1320,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    3-item    version
+                  CLS  3-item    version
                 </p>
             </td>
             <td>
@@ -1352,7 +1351,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    3-item    version
+                 CLS   3-item    version
                 </p>
             </td>
             <td>
