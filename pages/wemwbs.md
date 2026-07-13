@@ -39,7 +39,7 @@
             </td>
             <td>
                 <p>
-                    <strong>9-item version</strong>
+                    <strong>MCS 9-item version</strong>
                 </p>
             </td>
             <td>
@@ -939,7 +939,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    9-item version
+                    MCS 9-item version
                 </p>
             </td>
             <td>
@@ -971,7 +971,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    9-item version
+                    MCS 9-item version
                 </p>
             </td>
             <td>
