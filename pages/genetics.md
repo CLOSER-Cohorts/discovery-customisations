@@ -310,8 +310,8 @@
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Illumina human core exome array</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
-        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)"><a href="https://ega-archive.org/studies/EGAS00001001232" target="_blank">European Genome-phenome Archive USoc page </a>*
-          <br> <a href="https://www.understandingsociety.ac.uk/documentation/health-assessment/accessing-data" target="_blank">USoc health assessment access page</a>**
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)"><a href="https://www.understandingsociety.ac.uk/documentation/health-assessment/accessing-data" target="_blank">USoc health assessment access page</a>*
+          <br> <a href="https://ega-archive.org/studies/EGAS00001001232" target="_blank">European Genome-phenome Archive USoc page</a>**
         </td>
       </tr>
       <tr>
