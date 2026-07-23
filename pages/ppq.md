@@ -5,7 +5,7 @@
   The Parenting Practices Questionnaire (Robinson et at., 1995), formerly known as Parenting Practices Questionnaire, is a 62-item scale designed to measure parenting style. 
   Different versions of the scale have been created which include a subset of the original 62 items.
 </p>
-<p>
+  <p>
   Robinson, C. C., Mandeco, B., Olsen, S. F., &amp; Hart, C. H. (1995). Authoritative, authoritarian, and permissive parenting practices: Development of a new measure. Psychological Reports, 77, 819-830. 
       <a href="https://doi.org/10.2466/pr0.1995.77.3.819">https://doi.org/10.2466/pr0.1995.77.3.819</a>
 </p>
@@ -26,7 +26,7 @@
       <tr>
           <td>
               <p>
-                  <strong>Question    number</strong>
+                  <strong>Question number</strong>
               </p>
           </td>
           <td>
@@ -641,12 +641,12 @@
               </p>
           </td>
       </tr>    
-      
        <tr>
           <td>
               <p>
                   30
-          </p></td>
+          </p>
+          </td>
           <td>
               <p>
               [He is][I am] afraid that disciplining our child for misbehavior will cause the child to not like his/her parents.
@@ -664,7 +664,8 @@
           <td>
               <p>
                   31
-          </p></td>
+          </p>
+          </td>
           <td>
               <p>
               [He takes][I take] our child's desires into account before asking the child to do something.
@@ -685,7 +686,8 @@
           <td>
               <p>
                   32
-          </p></td>
+          </p>
+          </td>
           <td>
               <p>
              [He explodes][I explode] in anger towards our child.
@@ -706,7 +708,8 @@
           <td>
               <p>
                   33
-          </p></td>
+          </p>
+          </td>
           <td>
               <p>
             [He is][I am] aware of problems or concerns about our child in school.
@@ -724,7 +727,8 @@
           <td>
               <p>
                   34
-          </p></td>
+          </p>
+          </td>
           <td>
               <p>
             [He threatens][I threaten] our child with punishment more often than actually giving it.
@@ -745,7 +749,8 @@
           <td>
               <p>
                   35
-          </p></td>
+          </p>
+          </td>
           <td>
               <p>
            [He expresses][I express] affection by hugging, kissing, and holding our child.
@@ -763,7 +768,8 @@
           <td>
               <p>
                   36
-          </p></td>
+          </p>
+          </td>
           <td>
               <p>
            [He ignores][I ignore] our child's misbehaviour.
