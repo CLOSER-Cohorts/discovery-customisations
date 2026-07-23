@@ -465,7 +465,7 @@
           </td>
           <td>
               <p>
-               He is][I am] responsive to our child's feelings or needs.
+               [He is][I am] responsive to our child's feelings or needs.
               </p>
           </td>
           <td>
@@ -509,7 +509,7 @@
           </td>
           <td>
               <p>
-               He argues][I argue] with our child.
+               [He argues][I argue] with our child.
               </p>
           </td>
           <td>
@@ -588,7 +588,7 @@
           </td>
           <td>
               <p>
-               [He appears][I appear] to be more concerned with own feelings than with our child's feelings.
+               [He tells][I tell] our child that we appreciate what the child tries or accomplishes.
               </p>
           </td>
           <td>
@@ -1081,7 +1081,7 @@
           </p></td>
           <td>
               <p>
-              He sets][I set] strict well-established rules for our child.
+              [He sets][I set] strict well-established rules for our child.
               </p>
           </td>
           <td>
