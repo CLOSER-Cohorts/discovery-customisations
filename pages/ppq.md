@@ -37,8 +37,7 @@
           <td>
               <p>
                   <strong>Original 62-item version</strong>
-              </p>
-          </td>
+              </p></td>
           <td>
               <p>
                   <strong>PSDQ <sup>1</sup></strong>
@@ -48,11 +47,10 @@
           <td>
               <p>
                   1
-              </p>
-          </td>
+              </p></td>
           <td>
               <p>
-                  [He encourages][I encourage] our child to talk about the child's troubles.
+            [He encourages][I encourage] our child to talk about the child's troubles.
               </p>
           </td>
           <td>
@@ -62,25 +60,22 @@
           <td>
               <p>
                   ✓
-              </p>
-          </td>
+              </p></td>
       </tr>
       <tr>
           <td>
               <p>
                   2
-              </p>
-          </td>
+              </p></td>
           <td>
               <p>
-                  [He guides][I guide] our child by punishment more than by reason. 
+            [He guides][I guide] our child by punishment more than by reason. 
               </p>
           </td>
           <td>
               <p>
                   ✓
-              </p>
-          </td>
+              </p></td>
           <td>
           </td></tr>
       <tr>
@@ -91,14 +86,13 @@
           </td>
           <td>
               <p>
-                  [He knows][I know] the names of our child's friends.
+            [He knows][I know] the names of our child's friends.
               </p>
           </td>
           <td>
               <p>
                   ✓
-              </p>
-          </td>
+              </p></td>
           <td>
           </td></tr>
       <tr>
@@ -109,9 +103,8 @@
           </td>
           <td>
               <p>
-                  [He finds][I find] it difficult to discipline our child.
-              </p>
-          </td>
+            [He finds][I find] it difficult to discipline our child.
+              </p></td>
           <td>
               <p>
                   ✓
@@ -130,9 +123,8 @@
           </td>
           <td>
               <p>
-                  [He gives praise][I give praise] when our child is good.
-              </p>
-          </td>
+            [He gives praise][I give praise] when our child is good.
+              </p></td>
           <td>
               <p>
                   ✓
@@ -151,9 +143,8 @@
           </td>
           <td>
               <p>
-                  [He spanks][I spank] when our child is disobedient.
-              </p>
-          </td>
+            [He spanks][I spank] when our child is disobedient.
+              </p></td>
           <td>
               <p>
                   ✓
@@ -172,9 +163,8 @@
           </td>
           <td>
               <p>
-                  [He jokes and plays][I joke and play] with our child.
-              </p>
-          </td>
+            [He jokes and plays][I joke and play] with our child.
+              </p></td>
           <td>
               <p>
                   ✓
@@ -189,9 +179,8 @@
           </td>
           <td>
               <p>
-                  [He withholds][I withhold] scolding and/or criticism even when our child acts contrary to our wishes.
-              </p>
-          </td>
+            [He withholds][I withhold] scolding and/or criticism even when our child acts contrary to our wishes.
+              </p></td>
           <td>
               <p>
                   ✓
@@ -207,9 +196,8 @@
           </td>
           <td>
               <p>
-                  [He shows][I show] sympathy when our child is hurt or frustrated.
-              </p>
-          </td>
+            [He shows][I show] sympathy when our child is hurt or frustrated.
+              </p></td>
           <td>
               <p>
                   ✓
@@ -225,9 +213,8 @@
           </td>
           <td>
               <p>
-                  [He punishes][I punish] by taking privileges away from our child with little if any explanation.
-              </p>
-          </td>
+            [He punishes][I punish] by taking privileges away from our child with little if any explanation.
+              </p></td>
           <td>
               <p>
                   ✓
@@ -246,9 +233,8 @@
           </td>
           <td>
               <p>
-                  [He spoils][I spoil] our child.
-              </p>
-          </td>
+            [He spoils][I spoil] our child.
+              </p></td>
           <td>
               <p>
                   ✓
@@ -267,9 +253,8 @@
           </td>
           <td>
               <p>
-                 [He gives][I give] comfort and understanding when our child is upset.
-              </p>
-          </td>
+            [He gives][I give] comfort and understanding when our child is upset.
+              </p></td>
           <td>
               <p>
                   ✓
@@ -288,9 +273,8 @@
           </td>
           <td>
               <p>
-                 [He yells or shouts][I yell or shout] when our child misbehaves.
-              </p>
-          </td>
+            [He yells or shouts][I yell or shout] when our child misbehaves.
+              </p></td>
           <td>
               <p>
                   ✓
@@ -309,14 +293,13 @@
           </td>
           <td>
               <p>
-                 [He is][I am] easy going and relaxed with our child.
+            [He is][I am] easy going and relaxed with our child.
               </p>
           </td>
           <td>
               <p>
                   ✓
-              </p>
-          </td>
+              </p></td>
           <td>
           </td></tr>
      <tr>
@@ -327,14 +310,12 @@
           </td>
           <td>
               <p>
-                 [He allows][I allow] our child to annoy someone else.
-              </p>
-          </td>
+            [He allows][I allow] our child to annoy someone else.
+              </p></td>
           <td>
               <p>
                   ✓
-              </p>
-          </td>
+              </p></td>
           <td>
           </td></tr>
      <tr>
@@ -345,9 +326,8 @@
           </td>
           <td>
               <p>
-                 [He tells][I tell] our child our expectations regarding behavior before the child engages in an activity.
-              </p>
-          </td>
+            [He tells][I tell] our child our expectations regarding behavior before the child engages in an activity.
+              </p></td>
           <td>
               <p>
                   ✓
@@ -363,9 +343,8 @@
           </td>
           <td>
               <p>
-                [He scolds and criticizes][ I scold and criticize] to make our child improve.
-              </p>
-          </td>
+          [He scolds and criticizes][ I scold and criticize] to make our child improve.
+              </p></td>
           <td>
               <p>
                   ✓
@@ -384,9 +363,8 @@
           </td>
           <td>
               <p>
-                [He shows][I show] patience with our child.
-              </p>
-          </td>
+          [He shows][I show] patience with our child.
+              </p></td>
           <td>
               <p>
                   ✓
@@ -402,14 +380,12 @@
           </td>
           <td>
               <p>
-                [He grabs][I grab] our child when being disobedient.
-              </p>
-          </td>
+          [He grabs][I grab] our child when being disobedient.
+              </p></td>
           <td>
               <p>
                   ✓
-              </p>
-          </td>
+              </p></td>
           <td>
               <p>
                   ✓
@@ -423,14 +399,12 @@
           </td>
           <td>
               <p>
-               [He states][I state] punishments to our child and does not actually do them.
-              </p>
-          </td>
+            [He states][I state] punishments to our child and does not actually do them.
+              </p></td>
           <td>
               <p>
                   ✓
-              </p>
-          </td>
+              </p></td>
           <td>
               <p>
                   ✓
@@ -444,14 +418,12 @@
           </td>
           <td>
               <p>
-               [He is][I am] responsive to our child's feelings or needs.
-              </p>
-          </td>
+          [He is][I am] responsive to our child's feelings or needs.
+              </p></td>
           <td>
               <p>
                   ✓
-              </p>
-          </td>
+              </p></td>
           <td>
               <p>
                   ✓
@@ -465,14 +437,12 @@
           </td>
           <td>
               <p>
-               [He allows][I allow] our child to give input into family rules.
-              </p>
-          </td>
+            [He allows][I allow] our child to give input into family rules.
+              </p></td>
           <td>
               <p>
                   ✓
-              </p>
-          </td>
+              </p></td>
           <td>
               <p>
                   ✓
@@ -486,14 +456,12 @@
           </td>
           <td>
               <p>
-               [He argues][I argue] with our child.
-              </p>
-          </td>
+            [He argues][I argue] with our child.
+              </p></td>
           <td>
               <p>
                   ✓
-              </p>
-          </td>
+              </p></td>
           <td>
           </td></tr>
        <tr>
@@ -504,14 +472,12 @@
           </td>
           <td>
               <p>
-               [He appears][I appear] confident about parenting abilities.
-              </p>
-          </td>
+            [He appears][I appear] confident about parenting abilities.
+              </p></td>
           <td>
               <p>
                   ✓
-              </p>
-          </td>
+              </p></td>
           <td>
           </td></tr>
        <tr>
@@ -522,14 +488,12 @@
           </td>
           <td>
               <p>
-               [He gives][I give] our child reasons why rules should be obeyed.
-              </p>
-          </td>
+            [He gives][I give] our child reasons why rules should be obeyed.
+              </p></td>
           <td>
               <p>
                   ✓
-              </p>
-          </td>
+              </p></td>
           <td>
               <p>
                   ✓
@@ -539,18 +503,15 @@
           <td>
               <p>
                   26
-              </p>
-          </td>
+              </p></td>
           <td>
               <p>
                [He appears][I appear] to be more concerned with own feelings than with our child's feelings.
-              </p>
-          </td>
+              </p></td>
           <td>
               <p>
                   ✓
-              </p>
-          </td>
+              </p></td>
           <td>
           </td></tr>
        <tr>
@@ -562,13 +523,11 @@
           <td>
               <p>
                [He tells][I tell] our child that we appreciate what the child tries or accomplishes.
-              </p>
-          </td>
+              </p></td>
           <td>
               <p>
                   ✓
-              </p>
-          </td>
+              </p></td>
           <td>
           </td></tr>
        <tr>
