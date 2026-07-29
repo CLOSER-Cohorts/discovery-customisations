@@ -4,7 +4,7 @@
 <p></p>
 <p>
   The Kansas Marital Satisfaction Scale (KMSS) (Schumm et al., 1983) is a 3-item scale designed to measure marital satisfaction. 
-  ifferent versions have been created which include a subset of the original 3 items.
+  Different versions have been created which include a subset of the original 3 items.
 </p>
 <p>
       Schumm, W. R., Nichols, C. W., Schectman, K. L., &amp; Grigsby, C. C (1983). Characteristics of responses to the Kansas Marital Satisfaction Scale by a sample of 84 married mothers. Psychological Reports, 53(2), 567–572.
