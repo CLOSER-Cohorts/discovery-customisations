@@ -25,17 +25,17 @@ The 13 studies included in CLOSER Discovery are listed below. Not all of the inf
 <ul>
 <li><a href="https://www.closer.ac.uk/study/alspac-children-90s/" target="_blank" rel="noopener noreferrer">Avon Longitudinal Study of Parents and Children</a></li>
 <li><a href="https://www.closer.ac.uk/study/1970-british-cohort-study/" target="_blank" rel="noopener noreferrer">1970 British Cohort Study</a></li>
-<li><a href="https://closer.ac.uk/study/generation-scotland/" rel="noopener noreferrer">Generation Scotland</a></li>
+<li><a href="https://closer.ac.uk/study/generation-scotland/" target="_blank" rel="noopener noreferrer">Generation Scotland</a></li>
 <li><a href="https://www.closer.ac.uk/study/health-and-employment-after-fifty/" target="_blank" rel="noopener noreferrer">Health and Employment After Fifty Study</a></li>
 <li><a href="https://www.closer.ac.uk/study/hertfordshire-cohort-study/" target="_blank" rel="noopener noreferrer">Hertfordshire Cohort Study</a></li>
 <li><a href="https://www.closer.ac.uk/study/millennium-cohort-study/" target="_blank" rel="noopener noreferrer">Millennium Cohort Study</a></li>
-<li><a href="https://www.closer.ac.uk/study/mrc-national-survey-health-development/" target="_blank" rel="noopener noreferrer">National Survey of Health and Development</a></li>
+<li><a href="https://closer.ac.uk/study/mrc-nshd/" target="_blank" rel="noopener noreferrer">National Survey of Health and Development</a></li>
 <li><a href="https://www.closer.ac.uk/study/1958-national-child-development-study/" target="_blank" rel="noopener noreferrer">National Child Development Study</a></li>
 <li><a href="https://www.closer.ac.uk/study/next-steps/" target="_blank" rel="noopener noreferrer">Next Steps</a></li>
 <li><a href="https://www.closer.ac.uk/study/southampton-womens-survey/" target="_blank" rel="noopener noreferrer">Southampton Women's Survey</a></li>
 <li><a href="https://www.closer.ac.uk/study/understanding-society/" target="_blank" rel="noopener noreferrer">Understanding Society: The UK Household Longitudinal Study</a></li>
-<li><a href="https://closer.ac.uk/study/whitehall-ii-study/" rel="noopener noreferrer">Whitehall II</a></li>
-<li><a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" rel="noopener noreferrer">Wirral Child Health and Development Study</a></li>
+<li><a href="https://closer.ac.uk/study/whitehall-ii-study/" target="_blank" rel="noopener noreferrer">Whitehall II</a></li>
+<li><a href="https://closer.ac.uk/study/wchads/" target="_blank" rel="noopener noreferrer">Wirral Child Health and Development Study</a></li>
 </ul>
 
 <p></p>
@@ -155,7 +155,11 @@ The 13 studies included in CLOSER Discovery are listed below. Not all of the inf
 
 <h3><b>How can I access data from the studies?</b></h3>
 
-<p>Access to data is handled differently for each of the studies. Survey data from ESRC-funded surveys are available to bona fide researchers from the UK Data Service. These are:</p>
+<p>Access to data is handled differently for each of the studies. Some datasets are available through the UK Data Service, while others are managed directly by the study teams. </p>
+
+ <b>Studies available through the UK Data Service</b>
+
+<p>Data from the following studies can be accessed by bona fide researchers through the UK Data Service:</p>
 <ul>
 <li><a href="https://www.closer.ac.uk/study/1970-british-cohort-study/" target="_blank" rel="noopener noreferrer">1970 British Cohort Study</a></li>
 <li><a href="https://www.closer.ac.uk/study/millennium-cohort-study/" target="_blank" rel="noopener noreferrer">Millennium Cohort Study</a></li>
@@ -164,17 +168,21 @@ The 13 studies included in CLOSER Discovery are listed below. Not all of the inf
 <li><a href="https://www.closer.ac.uk/study/understanding-society/" target="_blank" rel="noopener noreferrer">Understanding Society: The UK Household Longitudinal Study</a></li>
 </ul>
 
-<p>Anyone wishing to access the data will need to <a href="https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fukdataservice.ac.uk%2Fget-data%2Fhow-to-access%2Fregistration.aspx&amp;data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694022692&amp;sdata=MMTF8MpUlqccX2Le7VR2OvHpMb2UKRs%2FJNXzGhUnmCU%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer">Register</a> with the UK Data Service. Some datasets are only available via<a href="https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fukdataservice.ac.uk%2Fget-data%2Fhow-to-access%2Fconditions%2Fspecial-licence.aspx&amp;data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694022692&amp;sdata=vQiQfxUALg5WXFO7Vxe%2Fs3fTIsZkcY2zZv7NvyemIec%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer"> Special Licence</a>, or via the <a href="https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fukdataservice.ac.uk%2Fget-data%2Fhow-to-access%2Faccesssecurelab.aspx&amp;data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694032679&amp;sdata=lEeA0%2BYMhld25maK0KF7tZTZnA%2FMRmCAMFa6RBfKYQY%3D&amp;reserved=0UK" target="_blank" rel="noopener noreferrer">Data Service Secure Lab</a>.</p> 
+<p>Researchers wishing to access the data will need to <a href="https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fukdataservice.ac.uk%2Fget-data%2Fhow-to-access%2Fregistration.aspx&amp;data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694022692&amp;sdata=MMTF8MpUlqccX2Le7VR2OvHpMb2UKRs%2FJNXzGhUnmCU%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer">Register</a> with the UK Data Service. Some datasets are only available via<a href="https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fukdataservice.ac.uk%2Fget-data%2Fhow-to-access%2Fconditions%2Fspecial-licence.aspx&amp;data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694022692&amp;sdata=vQiQfxUALg5WXFO7Vxe%2Fs3fTIsZkcY2zZv7NvyemIec%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer"> Special Licence</a>, or via the <a href="https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fukdataservice.ac.uk%2Fget-data%2Fhow-to-access%2Faccesssecurelab.aspx&amp;data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694032679&amp;sdata=lEeA0%2BYMhld25maK0KF7tZTZnA%2FMRmCAMFa6RBfKYQY%3D&amp;reserved=0UK" target="_blank" rel="noopener noreferrer">Data Service Secure Lab</a>.</p> 
 
-<p>The studies funded by the MRC have governance and access arrangements that comply with its <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmrc.ukri.org%2Fresearch%2Fpolicies-and-guidance-for-researchers%2Fdata-sharing%2F&amp;data=02%7C01%7C%7C2630241f195b41dd092f08d8565372ce%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637354263694032679&amp;sdata=%2BdJmcbEbAXYr3DWSwvzNIXJaNszLR423soF2O4gHA34%3D&amp;reserved=0MRC" target="_blank" rel="noopener noreferrer"> Data sharing policy</a>. Researchers wishing to use data from these surveys need to contact the studies directly. Details of how to access data from each study is available on the individual study pages:</p>
+<b>Studies with study-managed access arrangements </b>
+
+<p>Data from the following studies is managed by the study. Details of how to access data from each study is available on the individual study pages:</p>
 
 <ul>
 <li><a href="https://www.closer.ac.uk/study/alspac-children-90s/" target="_blank" rel="noopener noreferrer">Avon Longitudinal Study of Parents and Children</a></li>
+<li><a href="https://closer.ac.uk/study/gen-scot/" target="_blank" rel="noopener noreferrer">Generation Scotland</a></li>
 <li><a href="https://www.closer.ac.uk/study/health-and-employment-after-fifty/" target="_blank" rel="noopener noreferrer">Health and Employment After Fifty Study</a></li>
 <li><a href="https://www.closer.ac.uk/study/hertfordshire-cohort-study/" target="_blank" rel="noopener noreferrer">Hertfordshire Cohort Study</a></li>
-<li><a href="https://www.closer.ac.uk/study/mrc-national-survey-health-development/" target="_blank" rel="noopener noreferrer">National Survey of Health and Development</a></li>
+<li><a href="https://closer.ac.uk/study/mrc-nshd//" target="_blank" rel="noopener noreferrer">National Survey of Health and Development</a></li>
 <li><a href="https://www.closer.ac.uk/study/southampton-womens-survey/" target="_blank" rel="noopener noreferrer">Southampton Women's Survey</a></li>
-<li><a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" rel="noopener noreferrer">Wirral Child Health and Development Study</a></li>
+<li><a href="https://closer.ac.uk/study/wchads/" target="_blank" rel="noopener noreferrer">Wirral Child Health and Development Study</a></li>
+<li><a href="https://closer.ac.uk/study/whitehall-ii/" target="_blank" rel="noopener noreferrer">Whitehall II</a></li>
 </ul>
 
 
@@ -205,7 +213,7 @@ CLOSER Discovery contains the derived variable lineage, but not the derivation m
 <h3><b>Why do researchers need metadata?</b></h3>
 <p>Using data without its metadata is like reading a long, complicated book with the index and glossary removed. You have most of the information you need, but not all of it. It's harder to navigate. You have the terminology, but without the definitions. You have the data, but not the context to make it useable.</p>
 <h3><b>Can I use the metadata available on CLOSER discovery?</b></h3>
-<p>CLOSER Discovery has its own Terms of Use. If you have further questions, please contact us at <a target="_blank" rel="noopener noreferrer">closer@ucl.ac.uk</a>. Please also see further information on our <a href="page/data-terms/3">Terms and conditions</a>.</p>
+<p>CLOSER Discovery has its own Terms of Use. If you have further questions, please contact us at <a target="_blank" rel="noopener noreferrer">closer@ucl.ac.uk</a>. Please also see further information on our <a href="/page/terms/3">Terms and conditions</a>.</p>
 <h3><b>What metadata standards are being used?</b></h3>
 <p>The metadata in CLOSER discovery are a sub-set of the DDI Lifecycle metadata standard. This is an internationally agreed standard used by data archives and other studies across the world. You can find further information about this on the <a href="https://www.ddialliance.org/" target="_blank" rel="noopener noreferrer">DDI Alliance website</a>.</p>
 <h3><b>Why use a metadata standard?</b></h3>
