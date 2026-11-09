@@ -19,12 +19,13 @@
 
 
 <h3><b>Which studies are included in CLOSER Discovery?</b></h3>
-The 13 studies included in CLOSER Discovery are listed below. Not all of the information you need may be included in Discovery yet, so for an up-to-date list of what data collection questionnaires from each study are currently included in CLOSER Discovery, please visit our <a href="/page/content/2">Study coverage page</a>.
+The 14 studies included in CLOSER Discovery are listed below. Not all of the information you need may be included in Discovery yet, so for an up-to-date list of what data collection questionnaires from each study are currently included in CLOSER Discovery, please visit our <a href="/page/content/2">Study coverage page</a>.
 <p></p>
 
 <ul>
 <li><a href="https://www.closer.ac.uk/study/alspac-children-90s/" target="_blank" rel="noopener noreferrer">Avon Longitudinal Study of Parents and Children</a></li>
 <li><a href="https://www.closer.ac.uk/study/1970-british-cohort-study/" target="_blank" rel="noopener noreferrer">1970 British Cohort Study</a></li>
+<li><a href="https://www.closer.ac.uk/study/bib/" target="_blank" rel="noopener noreferrer">Born in Bradford</a></li>
 <li><a href="https://closer.ac.uk/study/generation-scotland/" target="_blank" rel="noopener noreferrer">Generation Scotland</a></li>
 <li><a href="https://www.closer.ac.uk/study/health-and-employment-after-fifty/" target="_blank" rel="noopener noreferrer">Health and Employment After Fifty Study</a></li>
 <li><a href="https://www.closer.ac.uk/study/hertfordshire-cohort-study/" target="_blank" rel="noopener noreferrer">Hertfordshire Cohort Study</a></li>
@@ -237,6 +238,5 @@ CLOSER Discovery contains the derived variable lineage, but not the derivation m
   </ul>
 </div>
 </div>
-
 
 
