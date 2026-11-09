@@ -125,6 +125,7 @@
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
         <td rowspan="2" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">N/A</td>
+      </td>
       </tr>
         <tr>
             <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Generation Scotland (GenScot)</td>
