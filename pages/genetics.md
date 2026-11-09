@@ -118,7 +118,7 @@
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
        </tr>
         <tr>
-        <td rowspan="2" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Born in Bradford (BiB)</td>
+        <td rowspan="1" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Born in Bradford (BiB)</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother and Study member</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">9,135</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Infinium CoreExome-12 v1.0</td>
