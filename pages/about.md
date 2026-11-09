@@ -43,7 +43,7 @@
 <p>If you would like to read more about how CLOSER Discovery aligns with, and implements the FAIR principles, please refer to the <a href="/page/fair/31">FAIR infrastructure page</a>.
 
 </p><h2><b>How do we do this? </b></h2>
-<p>CLOSER Discovery is built using metadata. Simply put, metadata is data about data. By using metadata and metadata standards, CLOSER Discovery allows you to find out what is available in 13 of the UK’s longitudinal datasets, make an assessment about whether the data would be useful for you to pursue and understand the context of how the data were created.</p>
+<p>CLOSER Discovery is built using metadata. Simply put, metadata is data about data. By using metadata and metadata standards, CLOSER Discovery allows you to find out what is available in 14 of the UK’s longitudinal datasets, make an assessment about whether the data would be useful for you to pursue and understand the context of how the data were created.</p>
 
 <p><a href="https://closer.ac.uk/what-we-do/ " target="_blank" rel="noopener noreferrer">CLOSER’s organisational values</a> are the principles that drive our behaviour and guide our decision making. CLOSER Discovery is guided by these values of collaboration, respect, excellence, sustainability and trust. We work closely with studies and the wider metadata community to ensure: </p>
 
