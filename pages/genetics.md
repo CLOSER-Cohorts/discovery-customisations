@@ -118,18 +118,88 @@
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
        </tr>
         <tr>
-        <td rowspan="2" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Born in Bradford (BiB)</td>
+        <td rowspan="12" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Born in Bradford (BiB)</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother and Study member</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">9,135</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Infinium CoreExome-12 v1.0</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
-        <td rowspan="2" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">N/A</td>
+        <td rowspan="12" style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">N/A</td>
         </tr>
         <tr>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother and Study member</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">912</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Infinium CoreExome-12 v1.1</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
+        </tr>
+        <tr>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother and Study member</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">4,796</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Infinium CoreExome-24 v1.0</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
+        </tr>
+        <tr>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother, Father and Study member</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">4,398</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Infinium Global Screening Array-24 v1.0</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
+        </tr>
+        <tr>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother, Father and Study member</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">23,701</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Illumina NovaSeq</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
+        </tr>
+        <tr>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother and Study member</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">1,999</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mass Spectrometry</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
+        </tr>
+        <tr>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">2,000</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mass Spectrometry 2000m/z</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
+        </tr>
+        <tr>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother, Father and Study member</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">20,680</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Nuclear Magnetic Resonance Spectroscopy</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
+        </tr>
+        <tr>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">3,994</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">NGS - Explore 384 Cardiometabolic Olink Panel</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
+        </tr>
+        <tr>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">3,955</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">qPCR - Cardiovascular II v.5007 Olink Panel</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
+        </tr>
+        <tr>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">376</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">HILIC-UHPLC-FLR for Glycanalysis</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
+        </tr>
+        <tr>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Mother and Study member</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">1883</td>
+        <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Infinium MethylationEPIC Array v1.0</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Available</td>
         <td style="padding: 5px; border: 1px solid rgba(0, 0, 0, 1)">Blood</td>
         </tr>
