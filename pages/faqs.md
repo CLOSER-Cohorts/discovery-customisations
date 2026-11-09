@@ -177,6 +177,7 @@ The 14 studies included in CLOSER Discovery are listed below. Not all of the inf
 
 <ul>
 <li><a href="https://www.closer.ac.uk/study/alspac-children-90s/" target="_blank" rel="noopener noreferrer">Avon Longitudinal Study of Parents and Children</a></li>
+<li><a href="https://www.closer.ac.uk/study/bib/" target="_blank" rel="noopener noreferrer">Born in Bradford</a></li>
 <li><a href="https://closer.ac.uk/study/gen-scot/" target="_blank" rel="noopener noreferrer">Generation Scotland</a></li>
 <li><a href="https://www.closer.ac.uk/study/health-and-employment-after-fifty/" target="_blank" rel="noopener noreferrer">Health and Employment After Fifty Study</a></li>
 <li><a href="https://www.closer.ac.uk/study/hertfordshire-cohort-study/" target="_blank" rel="noopener noreferrer">Hertfordshire Cohort Study</a></li>
