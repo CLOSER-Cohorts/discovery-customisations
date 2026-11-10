@@ -5,7 +5,7 @@
 <h1><b>Terms and conditions</b></h1>
 
 
-<p>These terms and conditions (terms) explain the how you may use the <a href="/"> CLOSER Discovery website</a>. We may amend these terms at any time, so you should regularly check this page. Your continued use constitutes acceptance of these latest terms.</p>
+<p>These terms and conditions (terms) explain how you may use the <a href="/"> CLOSER Discovery website</a>. We may amend these terms at any time, so you should regularly check this page. Your continued use constitutes acceptance of these latest terms.</p>
 
 
 <p>When using this website it is important that you read and understand the CLOSER Discovery <a href="/page/privacy-policy/7"> Privacy policy</a>, <a href="/page/cookies/8"> Cookie policy </a> and <a href="https://www.ucl.ac.uk/accessibility/digital-accessibility-statements/closer-discovery-accessibility-statement" target="_blank" rel="noopener noreferrer">Accessibility statement</a>.</p>
