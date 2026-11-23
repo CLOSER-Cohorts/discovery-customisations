@@ -2101,10 +2101,95 @@ Note this table is sortable.
                 </p>
             </td>
         </tr>
-            <tr>
+	<tr>
             <td>
                 <p>
                     GHQ-28
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2007
+                </p>
+            </td>
+            <td>
+                <p>
+		<a href="https://discovery.closer.ac.uk/item/uk.bib/ecab5786-db1d-428d-9ae8-e61db4512aec/1">
+                Born in Bradford Mothers' Baseline Questionnaire
+                </a></p>
+            </td>
+            <td>
+                <p>
+                   <a href="https://discovery.closer.ac.uk/item/uk.bib/a65d0bfc-b5ff-479b-b080-9e9569b7116c">
+			Mother's Baseline Questionnaire Dataset
+                </a></p>
+            </td>
+        </tr>
+	<tr>
+            <td>
+                <p>
+                    GHQ-28
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2009
+                </p>
+            </td>
+            <td>
+                <p>
+                   1000 6 Month Questionnaire
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.bib/3605ec19-3b73-4215-a9ee-c002fad39e67">
+			1000 6 Month Questionnaire Dataset
+                </a></p>
+            </td>
+        </tr>
+	<tr>
+            <td>
+                <p>
+                    GHQ-28
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2010
+                </p>
+            </td>
+            <td>
+                <p>
+                  1000 18 Month Questionnaire
+                </p>
+            </td>
+            <td>
+                <p>
+                   <a href="https://discovery.closer.ac.uk/item/uk.bib/e0c1f398-3ae1-49e7-942d-3f6cd1957537">
+			1000 18 Month Questionnaire Dataset
+                </a></p>
+            </td>
+        </tr>
+            <tr>
+            <td>
+                <p>
+                   GHQ-28
                 </p>
             </td>
             <td>
@@ -2120,14 +2205,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.lha/50c9d0c8-26b7-4f10-bb04-7ee832101e5a">
-                        1999    Self-Completion Questionnaire
+                        1999 Self-Completion Questionnaire
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.lha/671578fd-59da-410e-9da5-bd725a7b634c">
-                        1999    Self completion Questionnaire Dataset
+                        1999 Self completion Questionnaire Dataset
                     </a>
                 </p>
             </td>
@@ -2151,14 +2236,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.lha/a388a851-14d3-44dd-bc4e-43104aca14c9">
-                        2006-2010    Clinic Study Self-Completion Booklet
+                        2006-2010 Clinic Study Self-Completion Booklet
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.lha/a1fec15e-7330-4d7f-bf8c-789d188a2f22">
-                        2006-10    Self completion Dataset
+                        2006-10 Self completion Dataset
                     </a>
                 </p>
             </td>
@@ -2181,7 +2266,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    2014-2016 Self-Completion    Questionnaire
+                    2014-2016 Self-Completion Questionnaire
                 </p>
             </td>
             <td>
@@ -2214,7 +2299,7 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/37a6ba82-d638-464a-896e-b32bc110379d">
-                        BCS70    Questionnaire (2000) Dataset
+                        BCS70 Questionnaire (2000) Dataset
                     </a>
                 </p>
             </td>
@@ -2243,7 +2328,7 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/acf48eef-9b9b-452c-93d7-b817bc0eb1f1">
-                        NCDS6    CAI Questionnaire (2000) Dataset
+                        NCDS6 CAI Questionnaire (2000) Dataset
                     </a>
                 </p>
             </td>
@@ -2256,7 +2341,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Next    Steps
+                    Next Steps
                 </p>
             </td>
             <td>
@@ -2266,13 +2351,13 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Next Steps Age 15 Survey    (2005)
+                    Next Steps Age 15 Survey (2005)
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/8cface2d-8e72-474f-b399-33ccb88e8e5c">
-                        Next    Steps Age 15 LSYPE Young Person (2005) Dataset
+                        Next Steps Age 15 LSYPE Young Person (2005) Dataset
                     </a>
                 </p>
             </td>
@@ -2285,7 +2370,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Next    Steps
+                    NextSteps
                 </p>
             </td>
             <td>
@@ -2295,13 +2380,13 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Next Steps Age 17 Survey    (2007)
+                    Next Steps Age 17 Survey (2007)
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/dbee3c9c-30db-4946-adad-5b1c0d2754d3">
-                        Next    Steps Age 17 LSYPE Young Person (2007) Dataset
+                        Next Steps Age 17 LSYPE Young Person (2007) Dataset
                     </a>
                 </p>
             </td>
@@ -2314,7 +2399,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Next    Steps
+                    Next Steps
                 </p>
             </td>
             <td>
@@ -2324,13 +2409,13 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Next Steps Age 25 Survey    (2015)
+                    Next Steps Age 25 Survey (2015)
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/e4844c01-b69d-4dfe-953c-8ca83724f167">
-                        Next    Steps Age 25 Self-Completion (2015) Dataset
+                        Next Steps Age 25 Self-Completion (2015) Dataset
                     </a>
                 </p>
             </td>
@@ -2343,7 +2428,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Next    Steps
+                    Next Steps
                 </p>
             </td>
             <td>
@@ -2354,14 +2439,15 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/83ab13bb-90e6-40fe-8741-16cf36400450">
-                        Next    Steps Age 30 COVID-19 Survey - Wave 1
-                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/83ab13bb-90e6-40fe-8741-16cf36400450">
-            </a></td>
+                        Next  Steps Age 30 COVID-19 Survey - Wave 1
+                </a>
+		</p>
+            </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/e5275302-bb6a-47c9-a029-eea9822c7fa9">
-                        Next    Steps COVID-19 Survey in Five National
-                        Longitudinal Cohort Studies (2020)    Wave 1 Dataset
+                        Next Steps COVID-19 Survey in Five National
+                        Longitudinal Cohort Studies (2020) Wave 1 Dataset
                     </a>
                 </p>
             </td>
@@ -2374,7 +2460,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Next    Steps
+                    Next Steps
                 </p>
             </td>
             <td>
@@ -2385,15 +2471,15 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/3032d053-47dd-471e-883e-346f09928d3f">
-                        Next    Steps Age 30 COVID-19 Survey - Wave 2
+                        Next Steps Age 30 COVID-19 Survey - Wave 2
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/11637e24-07cb-4f64-bb32-2361a05a8d96">
-                        Next    Steps COVID-19 Survey in Five National
-                        Longitudinal Cohort Studies (2020)    Wave 2 Dataset
+                        Next Steps COVID-19 Survey in Five National
+                        Longitudinal Cohort Studies (2020) Wave 2 Dataset
                     </a>
                 </p>
             </td>
@@ -2406,7 +2492,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Next    Steps
+                    Next Steps
                 </p>
             </td>
             <td>
@@ -2417,14 +2503,15 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/82b7a6c9-47ea-4ee5-98fb-4cd5958c4076">
-                        Next Steps Age 30 COVID-19    Survey - Wave 3
-                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/82b7a6c9-47ea-4ee5-98fb-4cd5958c4076">
-            </a></td>
+                        Next Steps Age 30 COVID-19 Survey - Wave 3
+                </a>
+		</p>
+	</td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/c8b37c1e-563d-4d39-9afe-1d2785f1ee75">
-                        Next    Steps COVID-19 Survey in Five National
-                        Longitudinal Cohort Studies (2020)    Wave 3 Dataset
+                        Next Steps COVID-19 Survey in Five National
+                        Longitudinal Cohort Studies (2020) Wave 3 Dataset
                     </a>
                     </p>
             </td>
@@ -2448,7 +2535,7 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.lha/25ac690e-bd20-4cc2-a8e8-d79cd9696029">
-                        2020    COVID-19 Survey - Wave 1
+                        2020 COVID-19 Survey - Wave 1
                     </a>
                 </p>
             </td>
@@ -2478,13 +2565,15 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    2020    COVID-19 Survey - Wave 2
-                </p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.lha/b6452a03-ad42-45ca-b84b-7b596ef8a5d3/1">
+			NSHD 2020 COVID-19 Survey - Wave 2
+                </a></p>
             </td>
             <td>
                 <p>
-                    -
-                </p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.lha/ef1b8294-d78b-4e15-924a-634c3bd91917">
+		2020 COVID 19 Survey Wave 2 (Age 74) Dataset
+                </a></p>
             </td>
         </tr>
         <tr>
@@ -2505,12 +2594,12 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    2020 COVID-19 Survey - Wave    3
+                    2020 COVID-19 Survey - Wave 3
                 </p>
             </td>
             <td>
                 <p>
-                    -
+                    2020 COVID-19 Survey - Wave 3 Dataset
                 </p>
             </td>
         </tr>
@@ -2534,14 +2623,16 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/c373c2b5-a6f6-4fba-9199-e243e801cc7b">
                         COVID-19 Questionnaire for women
-                </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/c373c2b5-a6f6-4fba-9199-e243e801cc7b">
-            </a></td>
+                </a>
+		</p>
+	</td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/8142add4-4377-4885-a439-d8a463b38eff">
                         COVID-19 Questionnaire for Women Dataset
-                </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/8142add4-4377-4885-a439-d8a463b38eff">
-            </a></td>
+                </a>
+		</p>
+	</td>
         </tr>
         <tr>
             <td>
@@ -2562,14 +2653,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/33c913ac-dac3-4efe-9346-2bf606acd3e3">
-                        Wave    2 Adult Self-Completion Questionnaire
+                        Wave 2 Adult Self-Completion Questionnaire
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/b8713531-45b8-443c-b818-32e34bb6ddd1">
-                        Wave    2 Data from the individual interview Dataset
+                        Wave  2 Data from the individual interview Dataset
                     </a>
                 </p>
             </td>
@@ -2600,7 +2691,7 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/20b79b40-6794-4eaa-a3a6-f4ec5f132c9e">
-                        Wave    3 Data from the individual interview Dataset
+                        Wave 3 Data from the individual interview Dataset
                     </a>
                 </p>
             </td>
@@ -2624,13 +2715,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/726c812d-87ed-467d-aa8c-668670a9713b">
-                        Wave    4 Questionnaire
-                </a></p><a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/726c812d-87ed-467d-aa8c-668670a9713b">
-            </a></td>
+                        Wave 4 Questionnaire
+                </a>
+		</p>
+           </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/dfdb0fbf-f7c8-49e3-aacb-a6f370fa9cae">
-                        Wave    4 Data from the individual interview Dataset
+                        Wave 4 Data from the individual interview Dataset
                     </a>
                 </p>
             </td>
@@ -2653,13 +2745,13 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Wave    5 Questionnaire
+                    Wave 5 Questionnaire
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/19d7b2af-4045-4525-b117-d9834c269495">
-                        Wave    5 Data from the individual interview Dataset
+                        Wave 5 Data from the individual interview Dataset
                     </a>
                 </p>
             </td>
@@ -2683,14 +2775,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/3ce3ec96-e3f4-43dc-890f-ea2bc4381324">
-                        COVID-19    Wave 1 Questionnaire
+                        COVID-19 Wave 1 Questionnaire
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/c01b5d30-035c-4daf-ae1c-dc3e709a4e9c">
-                        COVID-19    Wave 1 Data from the individual interview
+                        COVID-19 Wave 1 Data from the individual interview
                         Dataset
                     </a>
                 </p>
@@ -2715,14 +2807,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/51398932-abbd-410f-9edc-dc4ace0ef6c3">
-                        COVID    19 Wave 2 Questionnaire
+                        COVID 19 Wave 2 Questionnaire
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/406dbe04-b911-445b-9d05-7ba85259de87">
-                        COVID-19    Wave 2 Data from the individual interview
+                        COVID-19 Wave 2 Data from the individual interview
                         Dataset
                     </a>
                 </p>
@@ -2747,14 +2839,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/9916faf8-db88-42f9-b666-f4761b293179">
-                        COVID-19    Wave 3 Questionnaire
+                        COVID-19 Wave 3 Questionnaire
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/944b52e0-14ee-4cfe-8234-1aa3ea8b9384">
-                        COVID-19    Wave 3 Data from the individual interview
+                        COVID-19 Wave 3 Data from the individual interview
                         Dataset
                     </a>
                 </p>
@@ -2779,14 +2871,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/2b5c585e-e892-4f2e-b55d-387fbf232288">
-                        COVID-19    Wave 4 Questionnaire
+                        COVID-19 Wave 4 Questionnaire
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/71331968-2589-466b-b9d7-97f9b2ce7e64">
-                        COVID-19    Wave 4 Data from the individual interview
+                        COVID-19 Wave 4 Data from the individual interview
                         Dataset
                     </a>
                 </p>
@@ -2810,13 +2902,13 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Wave    6 Questionnaire
+                    Wave 6 Questionnaire
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/353a6b4a-27ce-4ef9-b249-14b427fea6d4">
-                        Wave    6 Data from the individual interview Dataset
+                        Wave 6 Data from the individual interview Dataset
                     </a>
                 </p>
             </td>
@@ -2839,13 +2931,13 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Wave    7 Questionnaire
+                    Wave 7 Questionnaire
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/69c30104-54d3-4798-9237-8a9dca4624fc">
-                        Wave    7 Data from the individual interview Dataset
+                        Wave 7 Data from the individual interview Dataset
                     </a>
                 </p>
             </td>
@@ -2869,13 +2961,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/f10d92d8-896b-45c6-92cf-a8374d1f4a40">
-                        WCHADS    Phase 01 Mother Questionnaire - 20 wk scan
-                </a></p><a href="https://discovery.closer.ac.uk/item/uk.wchads/f10d92d8-896b-45c6-92cf-a8374d1f4a40">
-            </a></td>
+                        WCHADS Phase 01 Mother Questionnaire - 20 wk scan
+                </a>
+	</p>
+	</td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/d49cf7b6-dd89-46fa-8c37-42677db80f70">
-                        Phase    01 Mother Questionnaire Part1 Dataset
+                        Phase 01 Mother Questionnaire Part1 Dataset
                     </a>
                 </p>
             </td>
@@ -2899,14 +2992,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/b175a540-b6f9-4888-9b3e-4eebf0f6bcbb">
-                        WCHADS    Phase 01 Partner Questionnaire - 20 wk scan
+                        WCHADS Phase 01 Partner Questionnaire - 20 wk scan
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/afb851b5-975d-4556-b0ad-402b254dddaf">
-                        Phase    01 Partner Questionnaire Dataset
+                        Phase 01 Partner Questionnaire Dataset
                     </a>
                 </p>
             </td>
@@ -2930,14 +3023,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/b6c501bf-409c-46d5-9230-bcbe0cd78f63">
-                        WCHADS    Phase 02 Mother Interview - 32 weeks gestation
+                        WCHADS Phase 02 Mother Interview - 32 weeks gestation
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/5f913e26-f8c3-460e-a0af-6c627cd754fa">
-                        Phase    02 Mother Questionnaire Dataset
+                        Phase 02 Mother Questionnaire Dataset
                     </a>
                 </p>
             </td>
@@ -2961,14 +3054,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/e5f2e642-f528-4fef-bae5-a37ebfd5c611">
-                        WCHADS    Phase 05 Mother Questionnaire - 9 weeks
+                        WCHADS Phase 05 Mother Questionnaire - 9 weeks
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/f78115a8-4b44-448e-8bdb-69d5d65bccb8">
-                        Phase    05 Mother Questionnaire Dataset
+                        Phase 05 Mother Questionnaire Dataset
                     </a>
                 </p>
             </td>
@@ -2992,14 +3085,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/467e0c07-0aef-4c92-9368-8936d1d7fdae">
-                        WCHADS    Phase 06 Mother Questionnaire - 6 months
+                        WCHADS Phase 06 Mother Questionnaire - 6 months
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/158e3ae8-5437-4c5f-afb2-3fdfecb59999">
-                        Phase    06 Mother Questionnaire Dataset
+                        Phase 06 Mother Questionnaire Dataset
                     </a>
                 </p>
             </td>
@@ -3023,14 +3116,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/4baaa879-deb5-4629-bb98-2f6b9e44160b">
-                        WCHADS    Phase 07 Mother Questionnaire - 12 months
+                        WCHADS Phase 07 Mother Questionnaire - 12 months
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/d1c73940-ff8c-481c-99e2-658c37a72284">
-                        Phase    07 Mother Questionnaire Dataset
+                        Phase 07 Mother Questionnaire Dataset
                     </a>
                 </p>
             </td>
@@ -3054,14 +3147,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/b5c2abd0-806e-4638-8818-c4e0638ce2a0">
-                        WCHADS    Phase 07 Partner Questionnaire - 12 months
+                        WCHADS Phase 07 Partner Questionnaire - 12 months
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/7de53a48-c382-494d-8a12-a698ccc77bd2">
-                        Phase    07 Partner Questionnaire Dataset
+                        Phase 07 Partner Questionnaire Dataset
                     </a>
                 </p>
             </td>
@@ -3085,14 +3178,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/88653faf-ec25-4722-af73-5111ad68be88">
-                        WCHADS    Phase 08 Mother Questionnaire - 12 months
+                        WCHADS Phase 08 Mother Questionnaire - 12 months
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/0c21ab7d-9494-48e7-b35d-07b47acaf0d9">
-                        Phase    08 Mother Questionnaire Dataset
+                        Phase 08 Mother Questionnaire Dataset
                     </a>
                 </p>
             </td>
@@ -3116,14 +3209,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/3933b5ad-f703-47a7-9c9f-cfefbe0a6fe3">
-                        WCHADS    Phase 09 Mother Interview - 30 months
+                        WCHADS Phase 09 Mother Interview - 30 months
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.wchads/958a7eec-e1b1-4f35-9d71-d31d6a321bb0">
-                        Phase    09 Mother Questionnaire Dataset
+                        Phase 09 Mother Questionnaire Dataset
                     </a>
                 </p>
             </td>
