@@ -312,13 +312,13 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/83542309-c728-4a1a-b4f0-b6fe302770c5">
-                        Cohort    Member COVID-19 Questionnaire 1
+                        Cohort Member COVID-19 Questionnaire 1
                 </a></p><a href="https://discovery.closer.ac.uk/item/uk.alspac/83542309-c728-4a1a-b4f0-b6fe302770c5">
             </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/a3a8958c-b99c-43d8-906f-817c73c234b8">
-                        ALSPAC    COVID Questionnaire 1 Dataset
+                        ALSPAC COVID Questionnaire 1 Dataset
                     </a>
                 </p>
             </td>
@@ -326,7 +326,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    7-item version
+                    Original 7-item version
                 </p>
             </td>
             <td>
@@ -342,14 +342,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/d3c24479-b791-4a03-9197-2ebac985b2bf">
-                        Cohort    Member COVID-19 Questionnaire 2
+                        Cohort Member COVID-19 Questionnaire 2
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/45207673-aadd-4921-b06b-f70b18f425af">
-                        ALSPAC    COVID Questionnaire 2 Dataset
+                        ALSPAC COVID Questionnaire 2 Dataset
                     </a>
                 </p>
             </td>
@@ -357,7 +357,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    7-item version
+                    Original  7-item version
                 </p>
             </td>
             <td>
@@ -373,14 +373,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/26bd890c-3ab7-4a20-b0ab-4b1d4c60a66a">
-                        Parent    COVID-19 Questionnaire 1
+                        Parent  COVID-19 Questionnaire 1
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/a3a8958c-b99c-43d8-906f-817c73c234b8">
-                        ALSPAC    COVID Questionnaire 1 Dataset
+                        ALSPAC COVID Questionnaire 1 Dataset
                     </a>
                 </p>
             </td>
@@ -388,7 +388,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    7-item version
+                    Original 7-item version
                 </p>
             </td>
             <td>
@@ -501,8 +501,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/e0d9b6a0-1205-4043-a54a-e44add34b37d">
                         ALSPAC    COVID Questionnaire 5 Long COVID Dataset Dataset
-                </a></p><a href="https://discovery.closer.ac.uk/item/uk.alspac/e0d9b6a0-1205-4043-a54a-e44add34b37d">
-            </a></td>
+                </a></p>
+	</td>
         </tr>
         <tr>
             <td>
@@ -522,13 +522,15 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Cohort    Member COVID-19 Questionnaire 6
-                </p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/f262ab1c-e7f2-491f-b0f3-6900da1dc5be/1">
+		Cohort    Member COVID-19 Questionnaire 6
+                </a></p>
             </td>
             <td>
                 <p>
-                    ALSPAC COVID-19 Questionnaire 6 Antibody Test Dataset
-                </p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/52804594-1505-48f8-8084-8dc45bbf3cef">
+		ALSPAC COVID-19 Questionnaire 6 Antibody Test Dataset
+                <\a></p>
             </td>
         </tr>
         <tr>
@@ -549,12 +551,150 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Parent    COVID-19 Questionnaire 6
+                  <a href="https://discovery.closer.ac.uk/item/uk.alspac/336a6633-e8ea-41b9-93f3-e69229b8b4e4/1">   
+		Parent    COVID-19 Questionnaire 6
+                </a></p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.alspac/52804594-1505-48f8-8084-8dc45bbf3cef">
+	ALSPAC COVID-19 Questionnaire 6 Antibody Test Dataset
+                </a></p>
+            </td>
+        </tr>
+<tr>
+            <td>
+                <p>
+                    Original    7-item version
                 </p>
             </td>
             <td>
                 <p>
-                    ALSPAC COVID-19 Questionnaire 6 Antibody Test Dataset
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2017
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.bib/a5a14a07-99aa-493a-baff-6400f02caae4/1">
+		Growing Up Adult Survey
+                </a></p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.bib/7e4a0836-cb12-4032-b5aa-02d136d12cc5">
+		Growing Up Adult Survey Dataset	
+                </a></p>
+            </td>
+        </tr>
+            <tr>
+            <td>
+                <p>
+                    Original    7-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    Breathes Air Quality Survey Phase 1
+                </p>
+            </td>
+            <td>
+                <p>
+                    Breathes Air Quality Survey Phase 1
+                </p>
+            </td>
+        </tr>
+            <tr>
+            <td>
+                <p>
+                    Original    7-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    COVID-19 Questionnaire
+                </p>
+            </td>
+            <td>
+                <p>
+                    Covid Adult Survey Phase 1
+                </p>
+            </td>
+        </tr>
+            <tr>
+            <td>
+                <p>
+                    Original    7-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    COVID-19 Adult Growing Up Phase 2
+                </p>
+            </td>
+            <td>
+                <p>
+                    Covid Adult Survey Phase 2
+                </p>
+            </td>
+        </tr><tr>
+            <td>
+                <p>
+                    Original    7-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    COVID-19 Adult Growing Up Phase 3
+                </p>
+            </td>
+            <td>
+                <p>
+                    Covid Adult Survey Phase 3
                 </p>
             </td>
         </tr>
@@ -618,7 +758,7 @@ Note this table is sortable.
                 </p>
             </td>
         </tr>
-                        <tr>
+            <tr>
             <td>
                 <p>
                     Original 7-item version
@@ -1264,8 +1404,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/04bbf473-bab3-4209-bacc-b2c431cee12c">
                         NCDS    Age 62 COVID-19 Survey -Wave 3
-                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/04bbf473-bab3-4209-bacc-b2c431cee12c">
-            </a></td>
+                </a></p>
+		</td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/8fd891ab-8fc1-4577-8224-d19236cfa5bc">
@@ -1417,13 +1557,15 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    NSHD    2020 COVID-19 Survey - Wave 2
-                </p>
+                   <a href="https://discovery.closer.ac.uk/item/uk.lha/b6452a03-ad42-45ca-b84b-7b596ef8a5d3/1">
+			NSHD 2020 COVID-19 Survey - Wave 2
+                </a></p>
             </td>
             <td>
                 <p>
-                    -
-                </p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.lha/ef1b8294-d78b-4e15-924a-634c3bd91917">
+		2020 COVID 19 Survey Wave 2 (Age 74) Dataset
+               </a></p>
             </td>
         </tr>
         <tr>
@@ -1449,7 +1591,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    -
+                    2020 COVID-19 Survey - Wave 3 Dataset
                 </p>
             </td>
         </tr>
