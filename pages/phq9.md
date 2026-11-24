@@ -50,7 +50,7 @@
             </td>
             <td title="Background colour :">
                 <p>
-                    <strong>GenScot 8-item version</strong>
+                    <strong>8-item version</strong>
                 </p>
             </td>
             <td title="Background colour :">
@@ -811,7 +811,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    GenScot 8-item version
+                    8-item version
                 </p>
             </td>
             <td>
