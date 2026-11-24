@@ -67,8 +67,8 @@
             </td>
             <td>
                 <p>
-                    Over    the last 2 weeks, how often have you been bothered
-                    by any of the following    problems? Little interest or
+                    Over the last 2 weeks, how often have you been bothered
+                    by any of the following problems? Little interest or
                     pleasure in doing things
                 </p>
             </td>
@@ -96,8 +96,8 @@
             </td>
             <td>
                 <p>
-                    Over    the last 2 weeks, how often have you been bothered
-                    by any of the following    problems? Feeling down,
+                    Over the last 2 weeks, how often have you been bothered
+                    by any of the following problems? Feeling down,
                     depressed, or hopeless
                 </p>
             </td>
@@ -125,8 +125,8 @@
             </td>
             <td>
                 <p>
-                    Over    the last 2 weeks, how often have you been bothered
-                    by any of the following    problems? Trouble falling or
+                    Over the last 2 weeks, how often have you been bothered
+                    by any of the following problems? Trouble falling or
                     staying asleep, or sleeping too much
                 </p>
             </td>
@@ -151,8 +151,8 @@
             </td>
             <td>
                 <p>
-                    Over    the last 2 weeks, how often have you been bothered
-                    by any of the following    problems? Feeling tired or having
+                    Over the last 2 weeks, how often have you been bothered
+                    by any of the following problems? Feeling tired or having
                     little energy
                 </p>
             </td>
@@ -177,8 +177,8 @@
             </td>
             <td>
                 <p>
-                    Over    the last 2 weeks, how often have you been bothered
-                    by any of the following    problems? Poor appetite or
+                    Over the last 2 weeks, how often have you been bothered
+                    by any of the following problems? Poor appetite or
                     overeating
                 </p>
             </td>
@@ -203,9 +203,9 @@
             </td>
             <td>
                 <p>
-                    Over    the last 2 weeks, how often have you been bothered
-                    by any of the following    problems? Feeling bad about
-                    yourself - or that you are a failure or have let    yourself
+                    Over the last 2 weeks, how often have you been bothered
+                    by any of the following problems? Feeling bad about
+                    yourself - or that you are a failure or have let yourself
                     or your family down
                 </p>
             </td>
@@ -230,9 +230,9 @@
             </td>
             <td>
                 <p>
-                    Over    the last 2 weeks, how often have you been bothered
-                    by any of the following    problems? Trouble concentrating
-                    on things, such as reading the newspaper or    watching
+                    Over the last 2 weeks, how often have you been bothered
+                    by any of the following problems? Trouble concentrating
+                    on things, such as reading the newspaper or watching
                     television
                 </p>
             </td>
@@ -257,11 +257,11 @@
             </td>
             <td>
                 <p>
-                    Over    the last 2 weeks, how often have you been bothered
-                    by any of the following    problems? Moving or speaking so
-                    slowly that other people could have noticed?    Or the
+                    Over the last 2 weeks, how often have you been bothered
+                    by any of the following problems? Moving or speaking so
+                    slowly that other people could have noticed? Or the
                     opposite - being so fidgety or restless that you have been
-                    moving    around a lot more than usual
+                    moving around a lot more than usual
                 </p>
             </td>
             <td>
@@ -285,9 +285,9 @@
             </td>
             <td>
                 <p>
-                    Over    the last 2 weeks, how often have you been bothered
-                    by any of the following    problems? Thoughts that you would
-                    be better off dead or of hurting yourself    in some way
+                    Over the last 2 weeks, how often have you been bothered
+                    by any of the following problems? Thoughts that you would
+                    be better off dead or of hurting yourself in some way
                 </p>
             </td>
             <td>
@@ -363,7 +363,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    9-item version
+                    Original 9-item version
                 </p>
             </td>
             <td>
@@ -394,7 +394,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    9-item version
+                    Original 9-item version
                 </p>
             </td>
             <td>
@@ -425,7 +425,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    9-item version
+                    Original 9-item version
                 </p>
             </td>
             <td>
@@ -440,7 +440,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                        Rural COVID19 Survey 1
+                    Rural COVID19 Survey 1
                 </p>
             </td>
             <td>
@@ -454,7 +454,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    9-item version
+                    Original 9-item version
                 </p>
             </td>
             <td>
@@ -485,7 +485,7 @@ Note this table is sortable.
             <tr>
             <td>
                 <p>
-                    Original    9-item version
+                    Original 9-item version
                 </p>
             </td>
             <td>
@@ -500,19 +500,19 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                         NGS Mental Health Questionnaire 16 Plus
+                    NGS Mental Health Questionnaire 16 Plus
                 </p>
             </td>
             <td>
                 <p>
-                         NGS Mental Health 16 Plus Dataset
+                    NGS Mental Health 16 Plus Dataset
                 </p>
             </td>
         </tr>
             <tr>
             <td>
                 <p>
-                    Original    9-item version
+                    Original 9-item version
                 </p>
             </td>
             <td>
@@ -527,7 +527,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    WCHADS    Phase 14 Mother Questionnaire
+                    WCHADS Phase 14 Mother Questionnaire
                 </p>
             </td>
             <td>
@@ -671,6 +671,143 @@ Note this table is sortable.
                 </p>
             </td>
         </tr>
+	<tr>
+            <td>
+                <p>
+                    8-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2017
+                </p>
+            </td>
+            <td>
+                <p>
+                      <a href="https://discovery.closer.ac.uk/item/uk.bib/a5a14a07-99aa-493a-baff-6400f02caae4/1">
+			Growing Up Adult Survey
+                </a></p>
+            </td>
+            <td>
+                <p>
+                     <a href="https://discovery.closer.ac.uk/item/uk.bib/7e4a0836-cb12-4032-b5aa-02d136d12cc5">
+			Growing Up Adult Survey Dataset
+                </a></p>
+            </td>
+        </tr>
+	<tr>
+            <td>
+                <p>
+                    8-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    Breathes Air Quality Survey Phase 2
+                </p>
+            </td>
+            <td>
+                <p>
+                     Breathes Air Quality Survey Phase 2
+                </p>
+            </td>
+        </tr>
+	<tr>
+            <td>
+                <p>
+                    8-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                     COVID-19 Questionnaire
+                </p>
+            </td>
+            <td>
+                <p>
+                     Covid Adult Survey Phase 1
+                </p>
+            </td>
+        </tr>
+	<tr>
+            <td>
+                <p>
+                    8-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    COVID-19 Adult Growing Up Phase 2
+                </p>
+            </td>
+            <td>
+                <p>
+                     Covid Adult Survey Phase 2
+                </p>
+            </td>
+        </tr>
+	<tr>
+            <td>
+                <p>
+                    8-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                     COVID-19 BiB Breathes Phase 3
+                </p>
+            </td>
+            <td>
+                <p>
+                     Covid Adult Survey Phase 3
+                </p>
+            </td>
+        </tr>
         <tr>
             <td>
                 <p>
@@ -689,12 +826,12 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                         NGS Mental Health Questionnaire 12-15
+                    NGS Mental Health Questionnaire 12-15
                 </p>
             </td>
             <td>
                 <p>
-                         NGS Mental Health 12-15 Dataset
+                    NGS Mental Health 12-15 Dataset
                 </p>
             </td>
         </tr>
@@ -717,15 +854,15 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/72c2d6d5-f0d2-4871-9e50-2b6f1740e804">
-                        BCS70    Age 50 COVID-19 Survey - Wave 1
+                        BCS70 Age 50 COVID-19 Survey - Wave 1
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/684a4cd1-248d-4f2f-8d8a-a23ddf57ebb2">
-                        BCS70    COVID-19 Survey in Five National Longitudinal
-                        Cohort Studies (2020) Wave 1    Dataset
+                        BCS70 COVID-19 Survey in Five National Longitudinal
+                        Cohort Studies (2020) Wave 1 Dataset
                     </a>
                 </p>
             </td>
@@ -749,15 +886,15 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/489e4622-5bf6-443d-8117-7e2f9a59def2">
-                        BCS70    Age 50 COVID-19 Survey - Wave 2
+                        BCS70 Age 50 COVID-19 Survey - Wave 2
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/9b64129f-6abf-4468-93bf-fd07aaa0e27d">
-                        BCS70    COVID-19 Survey in Five National Longitudinal
-                        Cohort Studies (2020) Wave 2    Dataset
+                        BCS70 COVID-19 Survey in Five National Longitudinal
+                        Cohort Studies (2020) Wave 2 Dataset
                     </a>
                 </p>
             </td>
@@ -781,14 +918,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/fac586ef-eece-45aa-97c9-7e21ac162e03">
-                        BCS70    Age 50 COVID-19 Survey - Wave 3
-                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/fac586ef-eece-45aa-97c9-7e21ac162e03">
-            </a></td>
+                        BCS70 Age 50 COVID-19 Survey - Wave 3
+                </a></p>
+		</td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.bcs70/a5c70ea7-3511-4209-9e27-ca27b29d179a">
-                        BCS70    COVID-19 Survey in Five National Longitudinal
-                        Cohort Studies (2020) Wave 3    Dataset
+                        BCS70 COVID-19 Survey in Five National Longitudinal
+                        Cohort Studies (2020) Wave 3 Dataset
                     </a>
                 </p>
             </td>
@@ -812,15 +949,15 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/fa319205-50e3-4eae-95c3-fd83eb6636c7/1">
-                        MCS    Age 20 Cohort Member COVID-19 Survey - Wave 1
+                        MCS Age 20 Cohort Member COVID-19 Survey - Wave 1
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/a8437ce4-9b4f-46da-be3a-58101cbe0d1a">
-                        MCS    Cohort Member COVID-19 Survey in Five National
-                        Longitudinal Cohort Studies    (2020) Wave 1 Dataset
+                        MCS Cohort Member COVID-19 Survey in Five National
+                        Longitudinal Cohort Studies (2020) Wave 1 Dataset
                     </a>
                 </p>
             </td>
@@ -850,8 +987,8 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/b5ac1699-e65e-4b76-be0d-49137ed7802b">
-                        MCS    Cohort Member COVID-19 Survey in Five National
-                        Longitudinal Cohort Studies    (2020) Wave 2 Dataset
+                        MCS Cohort Member COVID-19 Survey in Five National
+                        Longitudinal Cohort Studies (2020) Wave 2 Dataset
                     </a>
                 </p>
             </td>
@@ -875,7 +1012,7 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/a96e0590-84a8-4ae2-9f59-a465d4c60b7e/1">
-                        MCS    Age 20 Parent COVID-19 Survey - Wave 1
+                        MCS  Age 20 Parent COVID-19 Survey - Wave 1
                     </a>
                 </p>
             </td>
@@ -883,7 +1020,7 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/20257f23-ed24-45a7-af53-f33da7eee294">
                         MCS    Parent COVID-19 Survey in Five National
-                        Longitudinal Cohort Studies (2020)    Wave 1 Dataset
+                        Longitudinal Cohort Studies (2020) Wave 1 Dataset
                     </a>
                 </p>
             </td>
@@ -907,15 +1044,15 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/e4977cc9-ca98-4088-9348-b67db078ecf8/1">
-                        MCS    Age 20 Parent COVID-19 Survey - Wave 2
+                        MCS Age 20 Parent COVID-19 Survey - Wave 2
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/b6ccd97f-8ccc-4884-82cf-d6045a3ca708">
-                        MCS    Parent COVID-19 Survey in Five National
-                        Longitudinal Cohort Studies (2020)    Wave 2 Dataset
+                        MCS Parent COVID-19 Survey in Five National
+                        Longitudinal Cohort Studies (2020) Wave 2 Dataset
                     </a>
                 </p>
             </td>
@@ -939,14 +1076,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/ca4a42ec-ee29-4265-ac07-0d6240c7a4d7/1">
-                        MCS    Age 20 Cohort Member COVID-19 Survey - Wave 3
+                        MCS Age 20 Cohort Member COVID-19 Survey - Wave 3
                 </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/ca4a42ec-ee29-4265-ac07-0d6240c7a4d7/1">
             </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/659bcddb-c5ac-45d9-be13-bf7e126650e1">
-                        MCS    Cohort Member COVID-19 Survey in Five National
-                        Longitudinal Cohort Studies    (2020) Wave 3 Dataset
+                        MCS Cohort Member COVID-19 Survey in Five National
+                        Longitudinal Cohort Studies (2020) Wave 3 Dataset
                     </a>
                 </p>
             </td>
@@ -970,14 +1107,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/3a11a325-09b6-418c-9f58-883d47ad9e3e/1">
-                        MCS    Age 20 Parent COVID-19 Survey - Wave 3
+                        MCS Age 20 Parent COVID-19 Survey - Wave 3
                 </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/3a11a325-09b6-418c-9f58-883d47ad9e3e/1">
             </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/316dcb9c-bac9-489a-9c08-d7cf01374d22">
-                        MCS    Parent COVID-19 Survey in Five National
-                        Longitudinal Cohort Studies (2020)    Wave 3 Dataset
+                        MCS Parent COVID-19 Survey in Five National
+                        Longitudinal Cohort Studies (2020) Wave 3 Dataset
                     </a>
                 </p>
             </td>
@@ -1001,15 +1138,15 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/c2540aa2-1416-4313-a1f9-75b9b25893f4">
-                        NCDS    Age 62 COVID-19 Survey - Wave 1
+                        NCDS Age 62 COVID-19 Survey - Wave 1
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/988e2e69-392f-4df8-a411-a89b3e19dea1">
-                        NCDS    COVID-19 Survey in Five National Longitudinal
-                        Cohort Studies (2020) Wave 1    Dataset
+                        NCDS COVID-19 Survey in Five National Longitudinal
+                        Cohort Studies (2020) Wave 1 Dataset
                     </a>
                 </p>
             </td>
@@ -1033,15 +1170,15 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/10f9d443-35bd-4283-89f4-ad9514b95f12">
-                        NCDS    Age 62 COVID-19 Survey - Wave 2
+                        NCDS Age 62 COVID-19 Survey - Wave 2
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/d43d7ac5-1d07-489b-a208-38504a32cdf7">
-                        NCDS    COVID-19 Survey in Five National Longitudinal
-                        Cohort Studies (2020) Wave 2    Dataset
+                        NCDS COVID-19 Survey in Five National Longitudinal
+                        Cohort Studies (2020) Wave 2 Dataset
                     </a>
                 </p>
             </td>
@@ -1065,14 +1202,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/04bbf473-bab3-4209-bacc-b2c431cee12c">
-                        NCDS    Age 62 COVID-19 Survey - Wave 3
+                        NCDS Age 62 COVID-19 Survey - Wave 3
                 </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/04bbf473-bab3-4209-bacc-b2c431cee12c">
             </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.ncds/8fd891ab-8fc1-4577-8224-d19236cfa5bc">
                         NCDS    COVID-19 Survey in Five National Longitudinal
-                        Cohort Studies (2020) Wave 3    Dataset
+                        Cohort Studies (2020) Wave 3 Dataset
                     </a>
                 </p>
             </td>
@@ -1085,7 +1222,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Next    Steps
+                    Next Steps
                 </p>
             </td>
             <td>
@@ -1096,7 +1233,7 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/83ab13bb-90e6-40fe-8741-16cf36400450">
-                        Next    Steps Age 30 COVID-19 Survey - Wave 1
+                        Next Steps Age 30 COVID-19 Survey - Wave 1
                 </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/83ab13bb-90e6-40fe-8741-16cf36400450">
             </a></td>
             <td>
@@ -1116,7 +1253,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Next    Steps
+                    Next Steps
                 </p>
             </td>
             <td>
@@ -1127,15 +1264,15 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/3032d053-47dd-471e-883e-346f09928d3f">
-                        Next    Steps Age 30 COVID-19 Survey - Wave 2
+                        Next Steps Age 30 COVID-19 Survey - Wave 2
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/11637e24-07cb-4f64-bb32-2361a05a8d96">
-                        Next    Steps COVID-19 Survey in Five National
-                        Longitudinal Cohort Studies (2020)    Wave 2 Dataset
+                        Next Steps COVID-19 Survey in Five National
+                        Longitudinal Cohort Studies (2020) Wave 2 Dataset
                     </a>
                 </p>
             </td>
@@ -1159,14 +1296,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/82b7a6c9-47ea-4ee5-98fb-4cd5958c4076">
-                        Next    Steps Age 30 COVID-19 Survey - Wave 3
-                </a></p><a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/82b7a6c9-47ea-4ee5-98fb-4cd5958c4076">
-            </a></td>
+                        Next Steps Age 30 COVID-19 Survey - Wave 3
+                </a></p>
+		</td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.nextsteps/c8b37c1e-563d-4d39-9afe-1d2785f1ee75">
-                        Next    Steps COVID-19 Survey in Five National
-                        Longitudinal Cohort Studies (2020)    Wave 3 Dataset
+                        Next Steps COVID-19 Survey in Five National
+                        Longitudinal Cohort Studies (2020) Wave 3 Dataset
                     </a>
                 </p>
             </td>
@@ -1190,14 +1327,15 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.lha/25ac690e-bd20-4cc2-a8e8-d79cd9696029">
-                        NSHD    2020 COVID-19 Survey - Wave 1
+                        NSHD 2020 COVID-19 Survey - Wave 1
                     </a>
                 </p>
             </td>
             <td>
                 <p>
-                    2020 COVID-19 Survey - Wave 1 Dataset
-                </p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.lha/b3d0e64b-e9ae-47fd-8128-60923f35a534">
+		2020 COVID-19 Survey - Wave 1 Dataset
+                </a></p>
             </td>
         </tr>
         <tr>
@@ -1218,13 +1356,15 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    NSHD    2020 COVID-19 Survey - Wave 2
-                </p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.lha/b6452a03-ad42-45ca-b84b-7b596ef8a5d3/1">
+			NSHD 2020 COVID-19 Survey - Wave 2
+                </a></p>
             </td>
             <td>
-                <p>
-                    2020 COVID-19 Survey - Wave 2 Dataset
-                </p>
+                <p> 
+                <a href="https://discovery.closer.ac.uk/item/uk.lha/ef1b8294-d78b-4e15-924a-634c3bd91917">
+		2020 COVID 19 Survey Wave 2 (Age 74) Dataset
+                </a></p>
             </td>
         </tr>
         <tr>
@@ -1245,7 +1385,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    NSHD    2020 COVID-19 Survey - Wave 3
+                    NSHD 2020 COVID-19 Survey - Wave 3
                 </p>
             </td>
             <td>
