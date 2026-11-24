@@ -41,39 +41,25 @@
     <tbody>
         <tr>
             <td>
-                <p>
-                    <strong>Question number</strong>
-                </p>
+                <p><strong>Question number</strong></p>
             </td>
             <td>
-                <p>
-                    <strong>Question</strong>
-                </p>
+                <p><strong>Question</strong></p>
             </td>
             <td>
-                <p>
-                    <strong>Original 25-item version</strong>
-                </p>
+                <p><strong>Original 25-item version</strong></p>
             </td>
             <td>
-                <p>
-                    <strong>30-item version (1)</strong>
-                </p>
+                <p><strong>30-item version (1)</strong></p>
             </td>
             <td>
-                <p>
-                    <strong>30-item version (2)</strong>
-                </p>
+                <p><strong>30-item version (2)</strong></p>
             </td>
             <td>
-                <p>
-                    <strong>24-item version*</strong>
-                </p>
+                <p><strong>24-item version*</strong></p>
             </td>
             <td>
-                <p>
-                    <strong>WCHADS 5-item version*</strong>
-                </p>
+                <p><strong>WCHADS 5-item version*</strong></p>
             </td>
         </tr>
         <tr>
@@ -81,10 +67,8 @@
                 <p>1</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
-                    behaviour over the last six months. Considerate of other people's feelings
-                </p>
+                <p>Please give your answers on the basis of the child's
+                    behaviour over the last six months. Considerate of other people's feelings</p>
             </td>
             <td>
                 <p>✓</p>
@@ -107,10 +91,8 @@
                 <p>2</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
-                    behaviour over the last six months. Restless, overactive, cannot stay still for long
-                </p>
+                <p>Please give your answers on the basis of the child's
+                    behaviour over the last six months. Restless, overactive, cannot stay still for long</p>
             </td>
             <td>
                 <p>✓</p>
@@ -132,10 +114,8 @@
                 <p>3</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
-                    behaviour over the last six months. Often complains of headaches, stomach-aches or sickness
-                </p>
+                <p>Please give your answers on the basis of the child's
+                    behaviour over the last six months. Often complains of headaches, stomach-aches or sickness</p>
             </td>
             <td>
                 <p>✓</p>
@@ -157,10 +137,8 @@
                 <p>4</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
-                    behaviour over the last six months. Shares readily with other children (treats, toys, pencils, etc.)
-                </p>
+                <p>Please give your answers on the basis of the child's
+                    behaviour over the last six months. Shares readily with other children (treats, toys, pencils, etc.)</p>
             </td>
             <td>
                 <p>✓</p>
@@ -183,11 +161,9 @@
                 <p>5</p>
             </td>
             <td>
-                <p>
-                    Please    give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Often has temper
-                    tantrums or hot tempers
-                </p>
+                    tantrums or hot tempers</p>
             </td>
             <td>
                 <p>✓</p>
@@ -209,11 +185,9 @@
                 <p>6</p>
             </td>
             <td>
-                <p>
-                    Please    give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Rather solitary,
-                    tends to play alone
-                </p>
+                    tends to play alone</p>
             </td>
             <td>
                 <p>✓</p>
@@ -235,10 +209,8 @@
                 <p>7</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
-                    behaviour over the last six months. Generally obedient, usually does what adults request
-                </p>
+                <p>Please give your answers on the basis of the child's
+                    behaviour over the last six months. Generally obedient, usually does what adults request</p>
             </td>
             <td>
                 <p>✓</p>
@@ -260,11 +232,9 @@
                 <p>8</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Many worries, often
-                    seems worried
-                </p>
+                    seems worried</p>
             </td>
             <td>
                 <p>✓</p>
@@ -286,11 +256,9 @@
                 <p>9</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Helpful if someone is
-                    hurt, upset or feeling ill
-                </p>
+                    hurt, upset or feeling ill</p>
             </td>
             <td>
                 <p>✓</p>
@@ -313,11 +281,9 @@
                 <p>10</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Constantly fidgeting
-                    or squirming
-                </p>
+                    or squirming</p>
             </td>
             <td>
                 <p>✓</p>
@@ -339,11 +305,9 @@
                 <p>11</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Has at least one good
-                    friend
-                </p>
+                    friend</p>
             </td>
             <td>
                 <p>✓</p>
@@ -365,11 +329,9 @@
                 <p>12</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Often fights with
-                    other children or bullies them
-                </p>
+                    other children or bullies them</p>
             </td>
             <td>
                 <p>✓</p>
@@ -391,11 +353,9 @@
                 <p>13</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Often unhappy,
-                    down-hearted or tearful
-                </p>
+                    down-hearted or tearful</p>
             </td>
             <td>
                 <p>✓</p>
@@ -416,11 +376,9 @@
                 <p>14</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Generally liked by
-                    other children
-                </p>
+                    other children</p>
             </td>
             <td>
                 <p>✓</p>
@@ -442,11 +400,9 @@
                 <p>15</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Easily distracted,
-                    concentration wanders
-                </p>
+                    concentration wanders</p>
             </td>
             <td>
                 <p>✓</p>
@@ -468,11 +424,9 @@
                 <p>16</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Nervous or clingy in
-                    new situations, easily loses confidence
-                </p>
+                    new situations, easily loses confidence</p>
             </td>
             <td>
                 <p>✓</p>
@@ -494,11 +448,9 @@
                 <p>17</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Kind to younger
-                    children
-                </p>
+                    children</p>
             </td>
             <td>
                 <p>✓</p>
@@ -521,11 +473,9 @@
                 <p>18</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Often accused of
-                    lying or cheating
-                </p>
+                    lying or cheating</p>
             </td>
             <td>
                 <p>✓</p>
@@ -546,11 +496,9 @@
                 <p>19</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Picked on or bullied
-                    by other children
-                </p>
+                    by other children</p>
             </td>
             <td>
                 <p>✓</p>
@@ -572,11 +520,9 @@
                 <p>20</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Often volunteers to
-                    help others (parent, teachers, other children)
-                </p>
+                    help others (parent, teachers, other children)</p>
             </td>
             <td>
                 <p>✓</p>
@@ -599,11 +545,9 @@
                 <p>21</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Can stop and think
-                    things over before acting
-                </p>
+                    things over before acting</p>
             </td>
             <td>
                 <p>✓</p>
@@ -625,11 +569,9 @@
                 <p>22</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Steals from home,
-                    school or elsewhere
-                </p>
+                    school or elsewhere</p>
             </td>
             <td>
                 <p>✓</p>
@@ -650,11 +592,9 @@
                 <p>23</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Gets on better with
-                    adults than with other children
-                </p>
+                    adults than with other children</p>
             </td>
             <td>
                 <p>✓</p>
@@ -676,11 +616,9 @@
                 <p>24</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Many fears, easily
-                    scared
-                </p>
+                    scared</p>
             </td>
             <td>
                 <p>✓</p>
@@ -702,11 +640,9 @@
                 <p>25</p>
             </td>
             <td>
-                <p>
-                    Please ive your answers on the basis of the child's
+                <p>Please ive your answers on the basis of the child's
                     behaviour over the last six months. Sees tasks through to
-                    the end, good attention span
-                </p>
+                    the end, good attention span</p>
             </td>
             <td>
                 <p>✓</p>
@@ -726,9 +662,7 @@
         <tr>
             <td colspan="7">
                 <p>
-                    <strong>
-                        Items which are not included in the original version
-                    </strong>
+                    <strong>Items which are not included in the original version</strong>
                 </p>
             </td>
         </tr>
@@ -737,11 +671,9 @@
                 <p>26</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Can be spiteful to
-                    others
-                </p>
+                    others</p>
             </td>
             <td>
             </td>
@@ -760,11 +692,9 @@
                 <p>27</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Often argumentative
-                    with adults
-                </p>
+                    with adults</p>
             </td>
             <td>
             </td>
@@ -783,13 +713,11 @@
                 <p>28</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Overall, do you think
                     that your child has difficulties in one or more of the
                     following areas: - emotions, concentration, behaviour or
-                    being able to get on with other people?
-                </p>
+                    being able to get on with other people?</p>
             </td>
             <td>
             </td>
@@ -809,11 +737,9 @@
                 <p>29</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. How long have these
-                    difficulties been present?
-                </p>
+                    difficulties been present?</p>
             </td>
             <td>
             </td>
@@ -833,11 +759,9 @@
                 <p>30</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Do the difficulties
-                    upset or distress your child?
-                </p>
+                    upset or distress your child?</p>
             </td>
             <td>
             </td>
@@ -857,12 +781,10 @@
                 <p>31</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Do the difficulties
                     interfere with your child's everyday life in the
-                    following areas?
-                </p>
+                    following areas?</p>
             </td>
             <td>
             </td>
@@ -882,11 +804,9 @@
                 <p>32</p>
             </td>
             <td>
-                <p>
-                    Please give your answers on the basis of the child's
+                <p>Please give your answers on the basis of the child's
                     behaviour over the last six months. Do the difficulties
-                    put a burden on you or the family as a whole?
-                </p>
+                    put a burden on you or the family as a whole?</p>
             </td>
             <td>
             </td>
