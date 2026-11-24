@@ -1297,15 +1297,13 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/eeb87573-9d42-4278-a840-15b14f7d4e9b">
                         Partners New Questionnaire
-                    </a>
-                </p>
+                    </a></p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/6c7c9e37-3422-4c67-bca7-d37ba0cc10c4">
                         ALSPAC Partners New Questionnaire Dataset
-                    </a>
-                </p>
+                    </a></p>
             </td>
         </tr>
         <tr>
@@ -1328,15 +1326,13 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/8a1a5077-fe27-44be-a9f4-e7bbcd92e9dd">
                         Being a Boy/Girl
-                    </a>
-                </p>
+                    </a></p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/12bf6331-e813-44b4-9e5b-d3390609f74d">
                         ALSPAC Being a Boy/Girl Questionnaire Dataset
-                    </a>
-                </p>
+                    </a></p>
             </td>
         </tr>
         <tr>
@@ -1366,8 +1362,7 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/b6a7a69c-2a29-4fe0-8fb4-1ac15e94c358">
                         ALSPAC Mother and Family Questionnaire Dataset
-                    </a>
-                </p>
+                    </a></p>
             </td>
         </tr>
         <tr>
@@ -1390,15 +1385,13 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/fd0e02a2-e4d1-42e4-a433-eaaeb5aaf5ae">
                         Your Son at 9
-                    </a>
-                </p>
+                    </a></p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/2bcb6517-1a50-4b22-98a1-b3038984048b">
                         ALSPAC Your Son/Daughter at 9 Dataset
-                    </a>
-                </p>
+                    </a></p>
             </td>
         </tr>
         <tr>
@@ -1421,15 +1414,13 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/5f74eda3-f6b9-4263-b35c-5918b8528f77">
                         My Teenage Son
-                    </a>
-                </p>
+					</a></p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/287ebc4a-0fd2-4395-a059-eb53251d3451">
                         ALSPAC My Teenage Son/Daughter Questionnaire Dataset
-                    </a>
-                </p>
+                    </a></p>
             </td>
         </tr>
 	<tr>
@@ -1643,8 +1634,7 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/984e633f-51e6-4825-b7ba-e8537461e091">
                         MCS Age 11 Care Home Questionnaire
-                    </a>
-                </p>
+                    </a></p>
             </td>
             <td>
                 <p>
@@ -1672,8 +1662,7 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/c2b0c756-a2a6-495f-adbc-3c9b3dcc04b7/1">
                         MCS Age 11 Teacher Paper Questionnaire England
-                    </a>
-                </p>
+                    </a></p>
             </td>
             <td>
                 <p>
@@ -1756,8 +1745,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/bda8d135-0386-4a9e-931c-97737ac071ec">
                         COVID-19 Questionnaire for offspring
-                </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/bda8d135-0386-4a9e-931c-97737ac071ec">
-            </a></td>
+                </a></p>
+			</td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/9873004b-f598-4324-a6c1-46480449a1b0">
@@ -1812,16 +1801,14 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/8d789881-1d5a-4c5e-a848-ea579e954aa9">
                         Wave 1 Youth Self-Completion Questionnaire
-                    </a>
-                </p>
+                    </a></p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/907de759-b70c-4ef8-9733-b8ccfef8666a">
                         Wave 1 Youth self completion questionnaire data
                         Dataset
-                    </a>
-                </p>
+                    </a></p>
             </td>
         </tr>
         <tr>
@@ -1844,16 +1831,14 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/e087c171-da96-488d-8c8e-c0b7f7e81f4a">
                         Wave 3 Questionnaire
-                    </a>
-                </p>
+                    </a></p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/0264465b-714b-4f34-bd65-de579697cad0">
                         Wave 3 Childcare, child development, consents and
-                        school information for each    child Dataset
-                    </a>
-                </p>
+                        school information for each child Dataset
+                    </a></p>
             </td>
         </tr>
         <tr>
@@ -1876,16 +1861,14 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/bec29afe-93bd-46f0-b72f-03dfb213dfb9">
                         Wave 3 Youth Self-Completion Questionnaire
-                    </a>
-                </p>
+                    </a></p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/d0ec6065-65e5-46b9-906d-f8b4ad423a08">
                         Wave 3 Youth self completion questionnaire data
                         Dataset
-                    </a>
-                </p>
+                    </a></p>
             </td>
         </tr>
         <tr>
@@ -1914,9 +1897,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/93fd3c76-37f0-4787-a0db-1d25bb18382a">
                         Wave 4 Childcare, child development, consents and
-                        school information for each    child Dataset
-                    </a>
-                </p>
+                        school information for each child Dataset
+                    </a></p>
             </td>
         </tr>
         <tr>
@@ -1944,9 +1926,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/1308d6a8-3301-4f51-88c2-833a07a4c644">
                         Wave 5 Childcare, child development, consents and
-                        school information for each    child Dataset
-                    </a>
-                </p>
+                        school information for each child Dataset
+                    </a></p>
             </td>
         </tr>
         <tr>
@@ -1969,16 +1950,14 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/89c24349-c612-4401-9bd2-e83eb8adc6d1">
                         Wave 5 Youth Self-Completion Questionnaire
-                    </a>
-                </p>
+                    </a></p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/49b9da89-b275-4875-9d25-c81732e287ac">
                         Wave 5 Youth self completion questionnaire data
                         Dataset
-                    </a>
-                </p>
+                    </a></p>
             </td>
         </tr>
         <tr>
@@ -2006,9 +1985,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/b88a10fe-55cd-4c48-aa09-61b4436504f2">
                         Wave 6 Childcare, child development, consents and
-                        school information for each    child Dataset
-                    </a>
-                </p>
+                        school information for each child Dataset
+                    </a></p>
             </td>
         </tr>
         <tr>
@@ -2036,9 +2014,8 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/f2a8369b-ecfe-42ed-a276-73768ab34167">
                         Wave 7 Childcare, child development, consents and
-                        school information for each    child Dataset
-                    </a>
-                </p>
+                        school information for each child Dataset
+                    </a></p>
             </td>
         </tr>
         <tr>
@@ -2067,8 +2044,7 @@ Note this table is sortable.
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/bec4cf89-5ee4-4a67-9271-99f38dbf39c1">
                         Wave 7 Youth self completion questionnaire data
                         Dataset
-                    </a>
-                </p>
+                    </a></p>
             </td>
         </tr>
         <tr>
@@ -2341,8 +2317,7 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/32be880d-bc83-48a5-b6ec-ec579427ed66">
                         ALSPAC Life at 25+ Questionnaire Dataset
-                    </a>
-                </p>
+                    </a></p>
             </td>
         </tr>
         <tr>
@@ -2370,8 +2345,7 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/ff4bf097-2ec1-4baa-aa6b-e6aa936921eb">
                         ALSPAC You and Your Grandchildren Dataset
-                    </a>
-                </p>
+                    </a></p>
             </td>
         </tr>
         <tr>
@@ -2394,8 +2368,7 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/d0216bd6-6c2d-43c8-891d-4206e1df0c41">
                         MCS Age 5 Main and Partner Respondent Questionnaire
-                    </a>
-                </p>
+                    </a></p>
             </td>
             <td>
                 <p>
@@ -2423,8 +2396,7 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/8ef97ede-bc65-4149-b11f-1be7f49731f3">
                         MCS Age 7 Main and Partner Respondent Questionnaire
-                    </a>
-                </p>
+                    </a></p>
             </td>
             <td>
                 <p>
@@ -2452,8 +2424,7 @@ Note this table is sortable.
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/08711a70-fdd3-4190-9943-50b51ad624cd">
                         MCS Age 3 CAPI Questionnaire
-                    </a>
-                </p>
+                    </a></p>
             </td>
             <td>
                 <p>
@@ -2488,8 +2459,7 @@ Note this table is sortable.
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/f1f6411d-fd15-481a-a0df-f693403212be">
                         3 Year Strengths and Difficulties Questionnaire
                         Dataset
-                    </a>
-                </p>
+                    </a></p>
             </td>
         </tr>
        <tr>
