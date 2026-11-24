@@ -34,41 +34,27 @@
     <tbody>
         <tr>
             <td>
-                <p>
-                    <strong>Question number</strong> <strong></strong>
-                </p>
+                <p><strong>Question number</strong> <strong></strong></p>
             </td>
             <td>
-                <p>
-                    <strong>Question</strong>
-                </p>
+                <p><strong>Question</strong></p>
             </td>
             <td>
-                <p>
-                    <strong>Original 60-item version</strong>
-                </p>
+                <p><strong>Original 60-item version</strong></p>
             </td>
             <td>
-                <p>
-                    <strong>GHQ-30<sup>1</sup></strong> <strong></strong>
-                </p>
+                <p><strong>GHQ-30<sup>1</sup></strong> <strong></strong></p>
             </td>
             <td>
-                <p>
-                    <strong>GHQ-28<sup>2</sup></strong> <strong></strong>
-                </p>
+                <p><strong>GHQ-28<sup>2</sup></strong> <strong></strong></p>
             </td>
             <td>
-                <p>
-                    <strong>GHQ-12<sup>3</sup></strong> <strong></strong>
-                </p>
+                <p><strong>GHQ-12<sup>3</sup></strong> <strong></strong></p>
             </td>
         </tr> 
         <tr>
             <td>
-                <p>
-                    1
-                </p>
+                <p>1</p>
             </td>
             <td>
                 <p>
@@ -76,27 +62,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    2
-                </p>
+                <p>2</p>
             </td>
             <td>
                 <p>
@@ -104,27 +83,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    3
-                </p>
+                <p>3</p>
             </td>
             <td>
                 <p>
@@ -132,27 +104,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    4
-                </p>
+                <p>4</p>
             </td>
             <td>
                 <p>
@@ -160,27 +125,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    5
-                </p>
+                <p>5</p>
             </td>
             <td>
                 <p>
@@ -188,27 +146,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    6
-                </p>
+                <p>6</p>
             </td>
             <td>
                 <p>
@@ -216,27 +167,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    7
-                </p>
+                <p>7</p>
             </td>
             <td>
                 <p>
@@ -244,28 +188,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                     ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    8
-                </p>
+                <p>8</p>
             </td>
             <td>
                 <p>
@@ -273,13 +209,10 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
             </td>
@@ -288,9 +221,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    9
-                </p>
+                <p>9</p>
             </td>
             <td>
                 <p>
@@ -298,27 +229,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    10
-                </p>
+                <p>10</p>
             </td>
             <td>
                 <p>
@@ -326,13 +250,10 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
             </td>
@@ -341,23 +262,16 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    11
-                </p>
+                <p>11</p>
             </td>
             <td>
-                <p>
-                    Unable to get back to sleep
-                </p>
+                <p>Unable to get back to sleep</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
             </td>
@@ -366,9 +280,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    12
-                </p>
+                <p>12</p>
             </td>
             <td>
                 <p>
@@ -376,13 +288,10 @@
                 </p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
@@ -391,9 +300,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    13
-                </p>
+                <p>13</p>
             </td>
             <td>
                 <p>
@@ -401,13 +308,10 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
             </td>
@@ -416,9 +320,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    14
-                </p>
+                <p>14</p>
             </td>
             <td>
                 <p>
@@ -426,31 +328,21 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    15
-                </p>
+                <p>15</p>
             </td>
             <td>
                 <p>
@@ -458,13 +350,10 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
             </td>
@@ -473,9 +362,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    16
-                </p>
+                <p>16</p>
             </td>
             <td>
                 <p>
@@ -483,13 +370,10 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
             </td>
@@ -498,9 +382,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    17
-                </p>
+                <p>17</p>
             </td>
             <td>
                 <p>
@@ -508,13 +390,10 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
             </td>
@@ -523,9 +402,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    18
-                </p>
+                <p>18</p>
             </td>
             <td>
                 <p>
@@ -533,41 +410,31 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    19
-                </p>
+                <p>19</p>
             </td>
             <td>
                 <p>
-                    Frightening/unpleasant    dreams
+                    Frightening/unpleasant dreams
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
             </td>
@@ -576,9 +443,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    20
-                </p>
+                <p>20</p>
             </td>
             <td>
                 <p>
@@ -586,14 +451,10 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
@@ -602,9 +463,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    21
-                </p>
+                <p>21</p>
             </td>
             <td>
                 <p>
@@ -612,28 +471,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    22
-                </p>
+                <p>22</p>
             </td>
             <td>
                 <p>
@@ -641,27 +492,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    23
-                </p>
+                <p>23</p>
             </td>
             <td>
                 <p>
@@ -669,13 +513,10 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
             </td>
@@ -684,23 +525,18 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    24
-                </p>
+                <p>24</p>
             </td>
             <td>
                 <p>
-                    Losing interest in    appearance
+                    Losing interest in appearance
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
             </td>
@@ -709,23 +545,18 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    25
-                </p>
+                <p>25</p>
             </td>
             <td>
                 <p>
-                    Taking less trouble with    clothes
+                    Taking less trouble with clothes
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
             </td>
@@ -734,24 +565,18 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    26
-                </p>
+                <p>26</p>
             </td>
             <td>
                 <p>
-                    Getting out the house as    usual
+                    Getting out the house as usual
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
@@ -760,24 +585,18 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    27
-                </p>
+                <p>27</p>
             </td>
             <td>
                 <p>
-                    Managing as well as most    people
+                    Managing as well as most people
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
@@ -786,9 +605,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    28
-                </p>
+                <p>28</p>
             </td>
             <td>
                 <p>
@@ -796,42 +613,31 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    29
-                </p>
+                <p>29</p>
             </td>
             <td>
                 <p>
-                    Getting late to    work/housework
+                    Getting late to work/housework
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
             </td>
@@ -840,9 +646,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    30
-                </p>
+                <p>30</p>
             </td>
             <td>
                 <p>
@@ -850,43 +654,31 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    31
-                </p>
+                <p>31</p>
             </td>
             <td>
                 <p>
-                    Able to feel    warmth/affection
+                    Able to feel warmth/affection
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
@@ -895,9 +687,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    32
-                </p>
+                <p>32</p>
             </td>
             <td>
                 <p>
@@ -905,14 +695,10 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
@@ -921,9 +707,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    33
-                </p>
+                <p>33</p>
             </td>
             <td>
                 <p>
@@ -931,14 +715,10 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
@@ -947,9 +727,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    34
-                </p>
+                <p>34</p>
             </td>
             <td>
                 <p>
@@ -957,13 +735,10 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
             </td>
@@ -972,9 +747,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    35
-                </p>
+                <p>35</p>
             </td>
             <td>
                 <p>
@@ -982,31 +755,21 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    36
-                </p>
+                <p>36</p>
             </td>
             <td>
                 <p>
@@ -1014,31 +777,21 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    37
-                </p>
+                <p>37</p>
             </td>
             <td>
                 <p>
@@ -1046,13 +799,10 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
             </td>
@@ -1061,9 +811,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    38
-                </p>
+                <p>38</p>
             </td>
             <td>
                 <p>
@@ -1071,13 +819,10 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
             </td>
@@ -1086,41 +831,29 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    39
-                </p>
+                <p>39</p>
             </td>
             <td>
                 <p>
-                    Feel constantly under    strain
+                    Feel constantly under strain
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
              <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    40
-                </p>
+                <p>40</p>
             </td>
             <td>
                 <p>
@@ -1128,28 +861,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
              <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    41
-                </p>
+                <p>41</p>
             </td>
             <td>
                 <p>
@@ -1157,14 +882,10 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
              <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
@@ -1173,9 +894,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    42
-                </p>
+                <p>42</p>
             </td>
             <td>
                 <p>
@@ -1183,31 +902,21 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
              <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    43
-                </p>
+                <p>43</p>
             </td>
             <td>
                 <p>
@@ -1215,14 +924,10 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
              <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
@@ -1231,9 +936,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    44
-                </p>
+                <p>44</p>
             </td>
             <td>
                 <p>
@@ -1241,27 +944,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
              <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    45
-                </p>
+                <p>45</p>
             </td>
             <td>
                 <p>
@@ -1269,28 +965,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    46
-                </p>
+                <p>46</p>
             </td>
             <td>
                 <p>
@@ -1298,28 +986,19 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
-            <td>
-                <p>
-                    ✓
-                </p>
+            <td>✓</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    47
-                </p>
+                <p>47</p>
             </td>
             <td>
                 <p>
@@ -1327,42 +1006,31 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    48
-                </p>
+                <p>48</p>
             </td>
             <td>
                 <p>
-                    Feeling people looking at    you
+                    Feeling people looking at you
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
             </td>
@@ -1371,9 +1039,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    49
-                </p>
+                <p>49</p>
             </td>
             <td>
                 <p>
@@ -1381,28 +1047,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    50
-                </p>
+                <p>50</p>
             </td>
             <td>
                 <p>
@@ -1410,28 +1068,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    51
-                </p>
+                <p>51</p>
             </td>
             <td>
                 <p>
@@ -1439,31 +1089,21 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    52
-                </p>
+                <p>52</p>
             </td>
             <td>
                 <p>
@@ -1471,28 +1111,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    53
-                </p>
+                <p>53</p>
             </td>
             <td>
                 <p>
@@ -1500,14 +1132,10 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
@@ -1516,9 +1144,7 @@
         </tr>
         <tr>
             <td>
-                <p>
-                    54
-                </p>
+                <p>54</p>
             </td>
             <td>
                 <p>
@@ -1526,28 +1152,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    55
-                </p>
+                <p>55</p>
             </td>
             <td>
                 <p>
@@ -1555,28 +1173,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    56
-                </p>
+                <p>56</p>
             </td>
             <td>
                 <p>
@@ -1584,28 +1194,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    57
-                </p>
+                <p>57</p>
             </td>
             <td>
                 <p>
@@ -1613,27 +1215,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    58
-                </p>
+                <p>58</p>
             </td>
             <td>
                 <p>
@@ -1641,28 +1236,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    59
-                </p>
+                <p>59</p>
             </td>
             <td>
                 <p>
@@ -1670,27 +1257,20 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
         </tr>
         <tr>
             <td>
-                <p>
-                    60
-                </p>
+                <p>60</p>
             </td>
             <td>
                 <p>
@@ -1698,18 +1278,13 @@
                 </p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
-                <p>
-                </p>
+                <p></p>
             </td>
             <td>
-                <p>
-                    ✓
-                </p>
+                <p>✓</p>
             </td>
             <td>
             </td>
