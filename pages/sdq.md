@@ -1,5 +1,5 @@
 <h1><b>
-    Strengths and  Difficulties Questionnaire (SDQ)
+    Strengths and Difficulties Questionnaire (SDQ)
 </b></h1>
 <p></p>
 <p>
@@ -42,7 +42,7 @@
         <tr>
             <td>
                 <p>
-                    <strong>Question    number</strong>
+                    <strong>Question number</strong>
                 </p>
             </td>
             <td>
@@ -52,17 +52,17 @@
             </td>
             <td>
                 <p>
-                    <strong>Original    25-item version</strong>
+                    <strong>Original 25-item version</strong>
                 </p>
             </td>
             <td>
                 <p>
-                    <strong>30-item    version (1)</strong>
+                    <strong>30-item version (1)</strong>
                 </p>
             </td>
             <td>
                 <p>
-                    <strong>30-item    version (2)</strong>
+                    <strong>30-item version (2)</strong>
                 </p>
             </td>
             <td>
@@ -72,7 +72,7 @@
             </td>
             <td>
                 <p>
-                    <strong>WCHADS    5-item version*</strong>
+                    <strong>WCHADS 5-item version*</strong>
                 </p>
             </td>
         </tr>
@@ -84,9 +84,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Considerate of other
-                    people's feelings
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Considerate of other people's feelings
                 </p>
             </td>
             <td>
@@ -123,9 +122,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Restless, overactive,
-                    cannot stay still for long
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Restless, overactive, cannot stay still for long
                 </p>
             </td>
             <td>
@@ -159,9 +157,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Often complains of
-                    headaches, stomach-aches or sickness
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Often complains of headaches, stomach-aches or sickness
                 </p>
             </td>
             <td>
@@ -195,9 +192,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Shares readily with
-                    other children (treats, toys, pencils,    etc.)
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Shares readily with other children (treats, toys, pencils, etc.)
                 </p>
             </td>
             <td>
@@ -235,7 +231,7 @@
             <td>
                 <p>
                     Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Often has temper
+                    behaviour over the last six months. Often has temper
                     tantrums or hot tempers
                 </p>
             </td>
@@ -271,7 +267,7 @@
             <td>
                 <p>
                     Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Rather solitary,
+                    behaviour over the last six months. Rather solitary,
                     tends to play alone
                 </p>
             </td>
@@ -306,9 +302,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Generally obedient,
-                    usually does what adults request
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Generally obedient, usually does what adults request
                 </p>
             </td>
             <td>
@@ -342,8 +337,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Many worries, often
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Many worries, often
                     seems worried
                 </p>
             </td>
@@ -378,8 +373,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Helpful if someone is
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Helpful if someone is
                     hurt, upset or feeling ill
                 </p>
             </td>
@@ -417,8 +412,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Constantly fidgeting
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Constantly fidgeting
                     or squirming
                 </p>
             </td>
@@ -453,8 +448,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Has at least one good
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Has at least one good
                     friend
                 </p>
             </td>
@@ -489,8 +484,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Often fights with
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Often fights with
                     other children or bullies them
                 </p>
             </td>
@@ -525,8 +520,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Often unhappy,
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Often unhappy,
                     down-hearted or tearful
                 </p>
             </td>
@@ -558,8 +553,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Generally liked by
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Generally liked by
                     other children
                 </p>
             </td>
@@ -594,8 +589,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Easily distracted,
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Easily distracted,
                     concentration wanders
                 </p>
             </td>
@@ -630,8 +625,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Nervous or clingy in
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Nervous or clingy in
                     new situations, easily loses confidence
                 </p>
             </td>
@@ -666,8 +661,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Kind to younger
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Kind to younger
                     children
                 </p>
             </td>
@@ -705,8 +700,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Often accused of
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Often accused of
                     lying or cheating
                 </p>
             </td>
@@ -738,8 +733,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Picked on or bullied
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Picked on or bullied
                     by other children
                 </p>
             </td>
@@ -774,8 +769,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Often volunteers to
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Often volunteers to
                     help others (parent, teachers, other children)
                 </p>
             </td>
@@ -813,8 +808,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Can stop and think
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Can stop and think
                     things over before acting
                 </p>
             </td>
@@ -849,8 +844,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Steals from home,
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Steals from home,
                     school or elsewhere
                 </p>
             </td>
@@ -882,8 +877,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Gets on better with
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Gets on better with
                     adults than with other children
                 </p>
             </td>
@@ -918,8 +913,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Many fears, easily
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Many fears, easily
                     scared
                 </p>
             </td>
@@ -954,8 +949,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Sees tasks through to
+                    Please ive your answers on the basis of the child's
+                    behaviour over the last six months. Sees tasks through to
                     the end, good attention span
                 </p>
             </td>
@@ -986,7 +981,7 @@
             <td colspan="7">
                 <p>
                     <strong>
-                        Items    which are not included in the original version
+                        Items which are not included in the original version
                     </strong>
                 </p>
             </td>
@@ -999,8 +994,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Can be spiteful to
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Can be spiteful to
                     others
                 </p>
             </td>
@@ -1026,8 +1021,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Often argumentative
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Often argumentative
                     with adults
                 </p>
             </td>
@@ -1051,11 +1046,11 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Overall, do you think
-                    that your child has difficulties in one or more    of the
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Overall, do you think
+                    that your child has difficulties in one or more of the
                     following areas: - emotions, concentration, behaviour or
-                    being able to    get on with other people?
+                    being able to get on with other people?
                 </p>
             </td>
             <td>
@@ -1083,8 +1078,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. How long have these
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. How long have these
                     difficulties been present?
                 </p>
             </td>
@@ -1113,8 +1108,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Do the difficulties
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Do the difficulties
                     upset or distress your child?
                 </p>
             </td>
@@ -1143,8 +1138,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Do the difficulties
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Do the difficulties
                     interfere with your child's everyday life in the
                     following areas?
                 </p>
@@ -1174,8 +1169,8 @@
             </td>
             <td>
                 <p>
-                    Please    give your answers on the basis of the child's
-                    behaviour over the last six    months. Do the difficulties
+                    Please give your answers on the basis of the child's
+                    behaviour over the last six months. Do the difficulties
                     put a burden on you or the family as a whole?
                 </p>
             </td>
@@ -1254,7 +1249,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1270,14 +1265,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/3a97d86b-0b9c-4d61-babc-7b954150b3a4">
-                        Mothers    New Questionnaire
+                        Mothers New Questionnaire
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/2622a3e7-3c20-4627-883b-683506d8fff6">
-                        ALSPAC    Mothers New Questionnaire Dataset
+                        ALSPAC Mothers New Questionnaire Dataset
                     </a>
                 </p>
             </td>
@@ -1285,7 +1280,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1301,14 +1296,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/eeb87573-9d42-4278-a840-15b14f7d4e9b">
-                        Partners    New Questionnaire
+                        Partners New Questionnaire
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/6c7c9e37-3422-4c67-bca7-d37ba0cc10c4">
-                        ALSPAC    Partners New Questionnaire Dataset
+                        ALSPAC Partners New Questionnaire Dataset
                     </a>
                 </p>
             </td>
@@ -1316,7 +1311,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1332,14 +1327,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/8a1a5077-fe27-44be-a9f4-e7bbcd92e9dd">
-                        Being    a Boy/Girl
+                        Being a Boy/Girl
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/12bf6331-e813-44b4-9e5b-d3390609f74d">
-                        ALSPAC    Being a Boy/Girl Questionnaire Dataset
+                        ALSPAC Being a Boy/Girl Questionnaire Dataset
                     </a>
                 </p>
             </td>
@@ -1347,7 +1342,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1363,14 +1358,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/03431d53-f8cd-430b-8b5b-afb1511d2841">
-                        Mother    and Family
+                        Mother and Family
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/b6a7a69c-2a29-4fe0-8fb4-1ac15e94c358">
-                        ALSPAC    Mother and Family Questionnaire Dataset
+                        ALSPAC Mother and Family Questionnaire Dataset
                     </a>
                 </p>
             </td>
@@ -1378,7 +1373,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1394,14 +1389,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/fd0e02a2-e4d1-42e4-a433-eaaeb5aaf5ae">
-                        Your    Son at 9
+                        Your Son at 9
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/2bcb6517-1a50-4b22-98a1-b3038984048b">
-                        ALSPAC    Your Son/Daughter at 9 Dataset
+                        ALSPAC Your Son/Daughter at 9 Dataset
                     </a>
                 </p>
             </td>
@@ -1409,7 +1404,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1425,22 +1420,186 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/5f74eda3-f6b9-4263-b35c-5918b8528f77">
-                        My    Teenage Son
+                        My Teenage Son
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/287ebc4a-0fd2-4395-a059-eb53251d3451">
-                        ALSPAC    My Teenage Son/Daughter Questionnaire Dataset
+                        ALSPAC My Teenage Son/Daughter Questionnaire Dataset
                     </a>
+                </p>
+            </td>
+        </tr>
+	<tr>
+            <td>
+                <p>
+                    Original 25-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2012
+                </p>
+            </td>
+            <td>
+                <p>
+                    Mechanisms of the Development of Allergy 48 month Questionnaire   
+                </p>
+            </td>
+            <td>
+                <p>
+                    Mechanisms of the Development of Allergy 48 month Questionnaire       
+                </p>
+            </td>
+        </tr>
+	<tr>
+            <td>
+                <p>
+                    Original 25-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2016
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB Primary School Years Strengths and Difficulties Questionnaire - Teacher
+                </p>
+            </td>
+            <td>
+                <p>
+                    Primary School Years Strengths and Difficulties Questionnaire - Teacher
+                </p>
+            </td>
+        </tr>
+	<tr>
+            <td>
+                <p>
+                    Original 25-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2017
+                </p>
+            </td>
+            <td>
+                <p>
+                    <a href="https://discovery.closer.ac.uk/item/uk.bib/4d83ba28-a409-408e-a75d-a9af821ad400/1">
+			Growing Up Child Survey (Adult Completed)
+                </a></p>
+            </td>
+            <td>
+                <p>
+                     <a href="https://discovery.closer.ac.uk/item/uk.bib/71a4825a-27ec-4d68-b2f1-0b57f2acb6d4">
+			Growing Up Child Survey (Adult Completed)
+                </a></p>
+            </td>
+        </tr>
+	<tr>
+            <td>
+                <p>
+                    Original 25-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    Covid child phase 1
+                </p>
+            </td>
+            <td>
+                <p>
+                    Covid child phase 1
+                </p>
+            </td>
+        </tr>
+	<tr>
+            <td>
+                <p>
+                    Original 25-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    Covid child phase 2
+                </p>
+            </td>
+            <td>
+                <p>
+                    Covid child phase 2
+                </p>
+            </td>
+        </tr>
+	<tr>
+            <td>
+                <p>
+                    Original 25-item version
+                </p>
+            </td>
+            <td>
+                <p>
+                    BiB
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    Covid child phase 3
+                </p>
+            </td>
+            <td>
+                <p>
+                    Covid child phase 3
                 </p>
             </td>
         </tr>
             <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1455,21 +1614,19 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                        NGS Mental Health Questionnaire 12to15
-                    
+                    NGS Mental Health Questionnaire 12to15
                 </p>
             </td>
             <td>
                 <p>
-                        NGS Mental Health Questionnaire 12to15
-                    
+                    NGS Mental Health Questionnaire 12to15
                 </p>
             </td>
         </tr>
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1485,7 +1642,7 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/984e633f-51e6-4825-b7ba-e8537461e091">
-                        MCS    Age 11 Care Home Questionnaire
+                        MCS Age 11 Care Home Questionnaire
                     </a>
                 </p>
             </td>
@@ -1498,7 +1655,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1514,20 +1671,20 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/c2b0c756-a2a6-495f-adbc-3c9b3dcc04b7/1">
-                        MCS    Age 11 Teacher Paper Questionnaire England
+                        MCS Age 11 Teacher Paper Questionnaire England
                     </a>
                 </p>
             </td>
             <td>
                 <p>
-                        MCS5    Teacher Survey Dataset
+                    MCS5 Teacher Survey Dataset
                 </p>
             </td>
         </tr>
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1542,7 +1699,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    MCS    Age 14 Survey Strengths and Difficulties
+                    MCS Age 14 Survey Strengths and Difficulties
                     Questionnaire
                 </p>
             </td>
@@ -1555,7 +1712,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1570,7 +1727,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    MCS    Age 17 Young Person Self Completion questionnaire
+                    MCS Age 17 Young Person Self Completion questionnaire
                 </p>
             </td>
             <td>
@@ -1582,7 +1739,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1598,20 +1755,20 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/bda8d135-0386-4a9e-931c-97737ac071ec">
-                        COVID-19    Questionnaire for offspring
+                        COVID-19 Questionnaire for offspring
                 </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/bda8d135-0386-4a9e-931c-97737ac071ec">
             </a></td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/9873004b-f598-4324-a6c1-46480449a1b0">
                         COVID-19 Questionnaire for Offspring Dataset
-                </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/9873004b-f598-4324-a6c1-46480449a1b0">
-            </a></td>
+                </a></p>
+           </td>
         </tr>
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1626,7 +1783,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    17-19    Year Questionnaire
+                    17-19 Year Questionnaire
                 </p>
             </td>
             <td>
@@ -1638,7 +1795,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1654,14 +1811,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/8d789881-1d5a-4c5e-a848-ea579e954aa9">
-                        Wave    1 Youth Self-Completion Questionnaire
+                        Wave 1 Youth Self-Completion Questionnaire
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/907de759-b70c-4ef8-9733-b8ccfef8666a">
-                        Wave    1 Youth self completion questionnaire data
+                        Wave 1 Youth self completion questionnaire data
                         Dataset
                     </a>
                 </p>
@@ -1670,7 +1827,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1686,14 +1843,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/e087c171-da96-488d-8c8e-c0b7f7e81f4a">
-                        Wave    3 Questionnaire
+                        Wave 3 Questionnaire
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/0264465b-714b-4f34-bd65-de579697cad0">
-                        Wave    3 Childcare, child development, consents and
+                        Wave 3 Childcare, child development, consents and
                         school information for each    child Dataset
                     </a>
                 </p>
@@ -1702,7 +1859,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1718,14 +1875,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/bec29afe-93bd-46f0-b72f-03dfb213dfb9">
-                        Wave    3 Youth Self-Completion Questionnaire
+                        Wave 3 Youth Self-Completion Questionnaire
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/d0ec6065-65e5-46b9-906d-f8b4ad423a08">
-                        Wave    3 Youth self completion questionnaire data
+                        Wave 3 Youth self completion questionnaire data
                         Dataset
                     </a>
                 </p>
@@ -1734,7 +1891,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1750,13 +1907,13 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/726c812d-87ed-467d-aa8c-668670a9713b">
-                        Wave    4 Questionnaire
-                </a></p><a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/726c812d-87ed-467d-aa8c-668670a9713b">
-            </a></td>
+                        Wave 4 Questionnaire
+                </a></p>
+            </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/93fd3c76-37f0-4787-a0db-1d25bb18382a">
-                        Wave    4 Childcare, child development, consents and
+                        Wave 4 Childcare, child development, consents and
                         school information for each    child Dataset
                     </a>
                 </p>
@@ -1765,7 +1922,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1780,13 +1937,13 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Wave    5 Questionnaire
+                    Wave 5 Questionnaire
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/1308d6a8-3301-4f51-88c2-833a07a4c644">
-                        Wave    5 Childcare, child development, consents and
+                        Wave 5 Childcare, child development, consents and
                         school information for each    child Dataset
                     </a>
                 </p>
@@ -1795,7 +1952,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1811,14 +1968,14 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/89c24349-c612-4401-9bd2-e83eb8adc6d1">
-                        Wave    5 Youth Self-Completion Questionnaire
+                        Wave 5 Youth Self-Completion Questionnaire
                     </a>
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/49b9da89-b275-4875-9d25-c81732e287ac">
-                        Wave    5 Youth self completion questionnaire data
+                        Wave 5 Youth self completion questionnaire data
                         Dataset
                     </a>
                 </p>
@@ -1827,7 +1984,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1842,13 +1999,13 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Wave    6 Questionnaire
+                    Wave 6 Questionnaire
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/b88a10fe-55cd-4c48-aa09-61b4436504f2">
-                        Wave    6 Childcare, child development, consents and
+                        Wave 6 Childcare, child development, consents and
                         school information for each    child Dataset
                     </a>
                 </p>
@@ -1857,7 +2014,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1872,13 +2029,13 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Wave    7 Questionnaire
+                    Wave 7 Questionnaire
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/f2a8369b-ecfe-42ed-a276-73768ab34167">
-                        Wave    7 Childcare, child development, consents and
+                        Wave 7 Childcare, child development, consents and
                         school information for each    child Dataset
                     </a>
                 </p>
@@ -1887,7 +2044,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1902,13 +2059,13 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Wave    7 Youth Self-Completion Questionnaire
+                    Wave 7 Youth Self-Completion Questionnaire
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/bec4cf89-5ee4-4a67-9271-99f38dbf39c1">
-                        Wave    7 Youth self completion questionnaire data
+                        Wave 7 Youth self completion questionnaire data
                         Dataset
                     </a>
                 </p>
@@ -1917,7 +2074,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1932,20 +2089,20 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Wave    8 Questionnaire
+                    Wave 8 Questionnaire
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/b7fafd1a-4626-48eb-ad9f-e817d26fbe48">
                         COVID-19 Wave 8 Information about respondents' school age children Dataset
-                </a></p><a href="https://discovery.closer.ac.uk/item/uk.iser.ukhls/b7fafd1a-4626-48eb-ad9f-e817d26fbe48">
-            </a></td>
+                </a></p>
+		</td>
         </tr>
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1960,7 +2117,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Wave    9 Questionnaire
+                    Wave 9 Questionnaire
                 </p>
             </td>
             <td>
@@ -1972,7 +2129,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -1987,7 +2144,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Wave    9 Youth Self-Completion Questionnaire
+                    Wave 9 Youth Self-Completion Questionnaire
                 </p>
             </td>
             <td>
@@ -1999,7 +2156,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -2014,7 +2171,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Wave    10 Questionnaire
+                    Wave 10 Questionnaire
                 </p>
             </td>
             <td>
@@ -2026,7 +2183,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -2041,7 +2198,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Wave    11 Questionnaire
+                    Wave 11 Questionnaire
                 </p>
             </td>
             <td>
@@ -2053,7 +2210,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -2068,7 +2225,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Wave    11 Youth Self-Completion Questionnaire
+                    Wave 11 Youth Self-Completion Questionnaire
                 </p>
             </td>
             <td>
@@ -2080,7 +2237,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -2095,7 +2252,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Wave    12 Questionnaire
+                    Wave 12 Questionnaire
                 </p>
             </td>
             <td>
@@ -2107,7 +2264,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -2122,7 +2279,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    WCHADS    Phase 13 Mother Extensive Questionnaire
+                    WCHADS Phase 13 Mother Extensive Questionnaire
                 </p>
             </td>
             <td>
@@ -2135,7 +2292,7 @@ Note this table is sortable.
          <tr>
             <td>
                 <p>
-                    Original    25-item version
+                    Original 25-item version
                 </p>
             </td>
             <td>
@@ -2150,7 +2307,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    WCHADS    Phase 14 Partner Questionnaire
+                    WCHADS Phase 14 Partner Questionnaire
                 </p>
             </td>
             <td>
@@ -2162,7 +2319,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    30-item    version (1)
+                    30-item version (1)
                 </p>
             </td>
             <td>
@@ -2177,13 +2334,13 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    Life    at 25+
+                    Life at 25+
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/32be880d-bc83-48a5-b6ec-ec579427ed66">
-                        ALSPAC    Life at 25+ Questionnaire Dataset
+                        ALSPAC Life at 25+ Questionnaire Dataset
                     </a>
                 </p>
             </td>
@@ -2191,7 +2348,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    30-item    version (1)
+                    30-item version (1)
                 </p>
             </td>
             <td>
@@ -2206,13 +2363,13 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    You    and Your Grandchildren
+                    You and Your Grandchildren
                 </p>
             </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.alspac/ff4bf097-2ec1-4baa-aa6b-e6aa936921eb">
-                        ALSPAC    You and Your Grandchildren Dataset
+                        ALSPAC You and Your Grandchildren Dataset
                     </a>
                 </p>
             </td>
@@ -2220,7 +2377,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    30-item    version (1)
+                    30-item version (1)
                 </p>
             </td>
             <td>
@@ -2249,7 +2406,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    30-item    version (1)
+                    30-item version (1)
                 </p>
             </td>
             <td>
@@ -2265,7 +2422,7 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/8ef97ede-bc65-4149-b11f-1be7f49731f3">
-                        MCS    Age 7 Main and Partner Respondent Questionnaire
+                        MCS Age 7 Main and Partner Respondent Questionnaire
                     </a>
                 </p>
             </td>
@@ -2278,7 +2435,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    30-item    version (2)
+                    30-item version (2)
                 </p>
             </td>
             <td>
@@ -2294,7 +2451,7 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.cls.mcs/08711a70-fdd3-4190-9943-50b51ad624cd">
-                        MCS    Age 3 CAPI Questionnaire
+                        MCS Age 3 CAPI Questionnaire
                     </a>
                 </p>
             </td>
@@ -2307,7 +2464,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    30-item    version (2)
+                    30-item version (2)
                 </p>
             </td>
             <td>
@@ -2323,13 +2480,13 @@ Note this table is sortable.
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/470b335b-dd6f-4a4a-99c5-e5b4e9dc653c">
-                        3    Year Child Questionnaire
-                </a></p><a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/470b335b-dd6f-4a4a-99c5-e5b4e9dc653c">
-            </a></td>
+                        3 Year Child Questionnaire
+                </a></p>
+            </td>
             <td>
                 <p>
                     <a href="https://discovery.closer.ac.uk/item/uk.mrcleu-uos.sws/f1f6411d-fd15-481a-a0df-f693403212be">
-                        3    Year Strengths and Difficulties Questionnaire
+                        3 Year Strengths and Difficulties Questionnaire
                         Dataset
                     </a>
                 </p>
@@ -2338,7 +2495,7 @@ Note this table is sortable.
        <tr>
             <td>
                 <p>
-                    24-item    version
+                    24-item version
                 </p>
             </td>
             <td>
@@ -2353,7 +2510,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                        17-19 Year Quesionnaire
+                    17-19 Year Quesionnaire
                 </p>
             </td>
             <td>
@@ -2362,7 +2519,7 @@ Note this table is sortable.
         <tr>
             <td>
                 <p>
-                    WCHADS    5-item version
+                    WCHADS 5-item version
                 </p>
             </td>
             <td>
@@ -2377,7 +2534,7 @@ Note this table is sortable.
             </td>
             <td>
                 <p>
-                    WCHADS    Phase 14 Teacher Questionnaire
+                    WCHADS Phase 14 Teacher Questionnaire
                 </p>
             </td>
             <td>
